@@ -27,9 +27,9 @@ string Creator (person responsible)
 
 string Contact email
 
-list Stimulus Types <- Creator may not provide all dependencies, we should be able to reconstruct
+list StimulusTypes <- Creator may not provide all dependencies, we should be able to reconstruct
 
-list ItemVersions - If each item in a set has multiple versions (e.g. sad, happy, angry of actor 1, actor 2, and so on), list them here
+list UniqueFields <- Does this stimulus set have some more properties that its types don't define? List them here.
 
 ####Linguistic
 
@@ -88,4 +88,4 @@ Intentional/Unintentional?
 
 Typical/Novel?
 
-Completed/Incompleted?
+Completed/uncompleted?
