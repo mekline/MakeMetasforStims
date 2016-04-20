@@ -17,7 +17,7 @@ Sentence
 
 ##Set level properties
 
-###() [All Sets]
+####() [All Sets]
 
 string Filetype
 
@@ -31,7 +31,7 @@ list Stimulus Types <- Creator may not provide all dependencies, we should be ab
 
 list ItemVersions - If each item in a set has multiple versions (e.g. sad, happy, angry of actor 1, actor 2, and so on), list them here
 
-###Linguistic
+####Linguistic
 
 string Language 
 
@@ -39,7 +39,7 @@ string Kind (sentence, word, passage)
 
 string Modality (spoken, written)
 
-##EventMovie
+####EventMovie
 
 list Participants - unique names for everything you define as a participant (Actor1, Actor2, beanbag, box, chair1, chair2)
 
@@ -47,28 +47,28 @@ list Roles - Thematic role list that you use {Agent, Patient, Recipient}
 
 ##Item level properties
 
-###()
+####()
 
 int ItemNo - Item number
 
 string ItemVersion - if your set has multiple versions of the same item, which one is this?
 
-###Movie
+####Movie
 
 float Length
 
 pair Size (h,w)
 
-###Audio
+####Audio
 float Length
 
-###Picture
+####Picture
 
 string Color (bw or color?)
 
 pair Size (h,w)
 
-###EventMovie
+####EventMovie
 
 string PrimaryVerbDescription - the label the experimenter gave to the scene
 
