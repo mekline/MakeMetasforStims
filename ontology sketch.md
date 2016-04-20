@@ -45,6 +45,8 @@ list Participants - unique names for everything you define as a participant (Act
 
 list Roles - Thematic role list that you use {Agent, Patient, Recipient}
 
+(these might be redundant with the item level ones below? I'm not sure....)
+
 ##Item level properties
 
 ####()
@@ -89,3 +91,9 @@ Intentional/Unintentional?
 Typical/Novel?
 
 Completed/uncompleted?
+
+####Sentence
+
+string Sentence - text of the sentence!
+
+???
