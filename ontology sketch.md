@@ -78,7 +78,9 @@ list VerboseDescription - Require 3 or more sentences with different verbs about
 
 int NParticipants - how many participants are there?
 
-list ParticipantIDs - Unique id for each (should have length = NParticipants)
+list ParticipantIDs - Unique id for each (should have length = NParticipants) e.g. {Actor1, chair}
+
+list ParticipantRoles - Role of each of the participants e.g. {Agent, Patient}
 
 list ParticipantIsAnimate - Boolean list NParticipants long
 
