@@ -1,0 +1,14 @@
+Filename: BadPassive_Spin.yml
+ItemCondition: BadPassive
+ItemNo: 11
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+Sentence: The chair that is there was spun by the boy
+Verb: Spin

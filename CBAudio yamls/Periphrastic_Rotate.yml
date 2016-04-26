@@ -1,0 +1,14 @@
+Filename: Periphrastic_Rotate.yml
+ItemCondition: Periphrastic
+ItemNo: 9
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+Sentence: The boy made the bottle rotate
+Verb: Rotate

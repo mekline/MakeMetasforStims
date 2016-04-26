@@ -1,0 +1,14 @@
+Filename: BadPassive_PlayMusicBox.yml
+ItemCondition: BadPassive
+ItemNo: 25
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+Sentence: The music box that is there was played by the girl
+Verb: Play

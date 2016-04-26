@@ -1,0 +1,14 @@
+Filename: Noncausal_Roll2.yml
+ItemCondition: Noncausal
+ItemNo: 13
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+Sentence: There is a boy and a ball
+Verb: Roll

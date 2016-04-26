@@ -1,0 +1,14 @@
+Filename: Passive_Rattle.yml
+ItemCondition: Passive
+ItemNo: 6
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+Sentence: The toy was rattled by the girl
+Verb: Rattle

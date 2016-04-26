@@ -16,8 +16,8 @@ string Filetype
 string Citation (doi)
 string Creator (person responsible)
 string Contact email
-list Stimulus Types <- Creator may not provide all dependencies, we should be able to reconstruct
-list Variants - If each item in a set has multiple versions (e.g. sad, happy, angry of actor 1, actor 2, and so on), list them here
+list SetTypes <- Creator may not provide all dependencies, we should be able to reconstruct them
+list ItemConditions - If each item in a set has multiple versions (e.g. sad, happy, angry of actor 1, actor 2, and so on), list them here (with variable name)
 
 ###Linguistic
 string Language 
@@ -34,7 +34,7 @@ list Roles - Thematic role list that you use {Agent, Patient, Recipient}
 
 ###()
 int ItemNo - Item number
-string ItemVersion - if your set has multiple versions of the same item, which one is this?
+list ItemCondition - if your set has multiple versions of the same item, which one is this? (Should check against ItemConditions)
 
 ###Movie
 float Length
@@ -56,8 +56,17 @@ list PrimarySentenceDescription - the sentences the experimenter used to describ
 list VerboseDescription - Require 3 or more sentences with different verbs about what is happening (e.g. The girl throws the ball, the ball flies, the girl moves her arm)
 
 int NParticipants - how many participants are there?
-list ParticipantIDs - Unique id for each (should have length = NParticipants)
+list ParticipantIDs - Unique id for each (should have length = NParticipants, and IDs in the Participants set)
+list Participant Roles
 list ParticipantIsAnimate - Boolean list NParticipants long
 Intentional/Unintentional?
 Typical/Novel?
 Completed/Incompleted?
+
+###Sentence
+string Verb
+string Sentence
+int NParticipants
+list ParticipantIDs
+list ParticipantRoles
+list ParticipantIsAnimate
