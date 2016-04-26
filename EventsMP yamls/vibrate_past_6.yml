@@ -1,0 +1,19 @@
+Color: full color
+Filename: vibrate_past_6.yml
+ItemCondition:
+- X
+- vibrate
+- past
+ItemNo: 98
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: '6'
+  Role: Agent
+  isAnimate: 1
+PrimarySentenceDescription: To add - a single sentence.
+PrimaryVerbDescription: vibrate
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

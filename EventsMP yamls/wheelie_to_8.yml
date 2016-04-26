@@ -1,0 +1,19 @@
+Color: full color
+Filename: wheelie_to_8.yml
+ItemCondition:
+- W
+- wheelie
+- to
+ItemNo: 51
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: '8'
+  Role: Agent
+  isAnimate: 1
+PrimarySentenceDescription: To add - a single sentence.
+PrimaryVerbDescription: wheelie
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

@@ -1,0 +1,19 @@
+Color: full color
+Filename: bounce_behind_5.yml
+ItemCondition:
+- X
+- bounce
+- behind
+ItemNo: 89
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: '5'
+  Role: Agent
+  isAnimate: 1
+PrimarySentenceDescription: To add - a single sentence.
+PrimaryVerbDescription: bounce
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

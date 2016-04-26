@@ -1,0 +1,19 @@
+Color: full color
+Filename: none_control5_7.yml
+ItemCondition:
+- Z
+- none
+- control5
+ItemNo: 147
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: '7'
+  Role: Agent
+  isAnimate: 1
+PrimarySentenceDescription: To add - a single sentence.
+PrimaryVerbDescription: none
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

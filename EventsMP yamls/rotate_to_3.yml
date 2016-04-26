@@ -1,0 +1,19 @@
+Color: full color
+Filename: rotate_to_3.yml
+ItemCondition:
+- W
+- rotate
+- to
+ItemNo: 2
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: '3'
+  Role: Agent
+  isAnimate: 1
+PrimarySentenceDescription: To add - a single sentence.
+PrimaryVerbDescription: rotate
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

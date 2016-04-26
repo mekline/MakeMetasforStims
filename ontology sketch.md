@@ -28,11 +28,12 @@ string Creator (person responsible)
 string Contact email
 
 list SetTypes <- Creator may not provide all dependencies, we should be able to reconstruct them
+
 list ItemConditions - If each item in a set has multiple versions (e.g. sad, happy, angry of actor 1, actor 2, and so on), list them here (with variable name)
 
 list StimulusTypes <- Creator may not provide all dependencies, we should be able to reconstruct
 
-list UniqueFields <- Does this stimulus set have some more properties that its types don't define? List them here.
+list UniqueFields <- Does this stimulus set have some more properties that its types don't define? List them here (maybe). Examples: All stimuli are normed for familiarity, complexity, surprisal, etc.; gender of actors is encoded but we don't require that in the schema, and so on.  Here and elsewhere, researchers should be responsible for explaining anything that we don't explicitly define. 
 
 ####Linguistic
 
@@ -44,7 +45,7 @@ string Modality (spoken, written)
 
 ####EventMovie
 
-list Participants - unique names for everything you define as a participant (Actor1, Actor2, beanbag, box, chair1, chair2)
+list Participants - unique names for everything you define as a participant (Actor1, Actor2, beanbag, box, chair1, chair2). Right now I don't have these coded, just using dummy values.
 
 list Roles - Thematic role list that you use {Agent, Patient, Recipient}
 
@@ -62,11 +63,13 @@ list ItemCondition - if your set has multiple versions of the same item, which o
 ####Movie
 
 float Length
+
 string Color (bw or color?)
 
 pair Size (h,w)
 
 ####Audio
+
 float Length
 
 ####Picture
@@ -85,11 +88,11 @@ list VerboseDescription - Require 3 or more sentences with different verbs about
 
 int NParticipants - how many participants are there?
 
-list ParticipantIDs - Unique id for each (should have length = NParticipants) e.g. {Actor1, chair}
+- list ParticipantIDs - Unique id for each (should have length = NParticipants) e.g. {Actor1, chair}
 
-list ParticipantRoles - Role of each of the participants e.g. {Agent, Patient}
+- list ParticipantRoles - Role of each of the participants e.g. {Agent, Patient}
 
-list ParticipantIsAnimate - Boolean list NParticipants long
+- list ParticipantIsAnimate - Boolean list NParticipants long
 
 Intentional/Unintentional?
 

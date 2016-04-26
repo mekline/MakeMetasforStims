@@ -1,0 +1,19 @@
+Color: full color
+Filename: vibrate_under_4.yml
+ItemCondition:
+- X
+- vibrate
+- under
+ItemNo: 100
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: '4'
+  Role: Agent
+  isAnimate: 1
+PrimarySentenceDescription: To add - a single sentence.
+PrimaryVerbDescription: vibrate
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

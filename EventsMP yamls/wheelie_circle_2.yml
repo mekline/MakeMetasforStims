@@ -1,0 +1,19 @@
+Color: full color
+Filename: wheelie_circle_2.yml
+ItemCondition:
+- W
+- wheelie
+- circle
+ItemNo: 57
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: '2'
+  Role: Agent
+  isAnimate: 1
+PrimarySentenceDescription: To add - a single sentence.
+PrimaryVerbDescription: wheelie
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

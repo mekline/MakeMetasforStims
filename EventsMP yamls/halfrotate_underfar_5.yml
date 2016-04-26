@@ -1,0 +1,19 @@
+Color: full color
+Filename: halfrotate_underfar_5.yml
+ItemCondition:
+- X
+- halfrotate
+- underfar
+ItemNo: 77
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: '5'
+  Role: Agent
+  isAnimate: 1
+PrimarySentenceDescription: To add - a single sentence.
+PrimaryVerbDescription: halfrotate
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items
