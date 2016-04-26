@@ -2,52 +2,79 @@
 
 ##Stimulus types
 () - top level
+
 Movie
+
 Audio
+
 Picture
+
 Linguistic - “this was made for ling purposes”
+
 EventMovie
+
 Sentence
 
 ##Set level properties
 
-###() [All Sets]
+####() [All Sets]
+
 string Filetype
+
 string Citation (doi)
+
 string Creator (person responsible)
+
 string Contact email
+
 list SetTypes <- Creator may not provide all dependencies, we should be able to reconstruct them
 list ItemConditions - If each item in a set has multiple versions (e.g. sad, happy, angry of actor 1, actor 2, and so on), list them here (with variable name)
 
-###Linguistic
+list StimulusTypes <- Creator may not provide all dependencies, we should be able to reconstruct
+
+list UniqueFields <- Does this stimulus set have some more properties that its types don't define? List them here.
+
+####Linguistic
+
 string Language 
+
 string Kind (sentence, word, passage)
+
 string Modality (spoken, written)
 
-##EventMovie
+####EventMovie
 
 list Participants - unique names for everything you define as a participant (Actor1, Actor2, beanbag, box, chair1, chair2)
 
 list Roles - Thematic role list that you use {Agent, Patient, Recipient}
 
+(these might be redundant with the item level ones below? I'm not sure....)
+
 ##Item level properties
 
-###()
+####()
+
 int ItemNo - Item number
+
 list ItemCondition - if your set has multiple versions of the same item, which one is this? (Should check against ItemConditions)
 
-###Movie
+
+####Movie
+
 float Length
+
 pair Size (h,w)
 
-###Audio
+####Audio
 float Length
 
-###Picture
+####Picture
+
 string Color (bw or color?)
+
 pair Size (h,w)
 
-###EventMovie
+####EventMovie
 
 string PrimaryVerbDescription - the label the experimenter gave to the scene
 
@@ -56,11 +83,17 @@ list PrimarySentenceDescription - the sentences the experimenter used to describ
 list VerboseDescription - Require 3 or more sentences with different verbs about what is happening (e.g. The girl throws the ball, the ball flies, the girl moves her arm)
 
 int NParticipants - how many participants are there?
-list ParticipantIDs - Unique id for each (should have length = NParticipants, and IDs in the Participants set)
-list Participant Roles
+
+list ParticipantIDs - Unique id for each (should have length = NParticipants) e.g. {Actor1, chair}
+
+list ParticipantRoles - Role of each of the participants e.g. {Agent, Patient}
+
 list ParticipantIsAnimate - Boolean list NParticipants long
+
 Intentional/Unintentional?
+
 Typical/Novel?
+
 Completed/Incompleted?
 
 ###Sentence
