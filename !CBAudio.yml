@@ -1,0 +1,30 @@
+- Citation: DOI12345
+  Creator: Melissa Kline
+  Email: mekline@mit.edu
+  Filetype: mp3
+  ItemConditions:
+    SentenceVersion:
+    - Transitive
+    - Periphrastic
+    - Noncausal
+    - Passive
+    - BadPassive
+  Kind: Sentence
+  Language: English
+  Modality: Spoken
+  Name: CBAudio
+  Participants:
+  - Actor1
+  - Actor2
+  - Actor3
+  - Actor4
+  - Bell
+  - Car
+  - Desk
+  - Chair
+  Roles:
+  - Agent
+  - Patient
+  SetTypes:
+  - Sentence
+  - Linguistic

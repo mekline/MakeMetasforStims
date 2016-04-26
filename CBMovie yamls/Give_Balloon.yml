@@ -1,0 +1,21 @@
+Color: full color
+Filename: GiveBalloon_Balloon.yml
+ItemCondition:
+- Base
+- NoInstrument
+ItemNo: 38
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 1
+PrimarySentenceDescription: ''
+PrimaryVerbDescription: Give
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

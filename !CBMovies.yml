@@ -1,0 +1,36 @@
+- Citation: DOI12345
+  Creator: Melissa Kline
+  Email: mekline@mit.edu
+  Filetype: mov
+  ItemConditions:
+    EventVersion:
+    - Base
+    - Unintentional
+    - BackgroundChange
+    - BigAgentChange
+    - SmallAgentChange
+    - MannerChange
+    - ResultChange
+    - ObjectChange
+    - InstrumentChange
+    - CounterbalanceMR
+    Instrument:
+    - Instrument
+    - NoInstrument
+  Name: CBMovies
+  Participants:
+  - Actor1
+  - Actor2
+  - Actor3
+  - Actor4
+  - Bell
+  - Car
+  - Desk
+  - Chair
+  - And many more
+  Roles:
+  - Agent
+  - Patient
+  - Instrument
+  SetTypes:
+  - EventMovies

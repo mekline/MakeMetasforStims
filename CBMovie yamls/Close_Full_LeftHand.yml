@@ -1,0 +1,21 @@
+Color: full color
+Filename: Close_Full_LeftHand.yml
+ItemCondition:
+- CounterbalanceMR
+- NoInstrument
+ItemNo: 3
+Length: 5.0
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The boy made the blinds close
+PrimaryVerbDescription: Close
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

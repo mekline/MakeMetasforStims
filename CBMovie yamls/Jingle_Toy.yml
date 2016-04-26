@@ -1,11 +1,11 @@
 Color: full color
-Filename: ChangeChannel_Base_Instrument.yml
+Filename: Jingle_Toy.yml
 ItemCondition:
 - Base
-- Instrument
-ItemNo: 32
+- NoInstrument
+ItemNo: 40
 Length: not specified
-NParticipants: 3
+NParticipants: 2
 Participants:
 - ID: addUniqueID
   Role: Agent
@@ -13,11 +13,8 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
-- ID: addUniqueID
-  Role: Instrument
-  isAnimate: 0
-PrimarySentenceDescription: The girl made the channel change
-PrimaryVerbDescription: Change
+PrimarySentenceDescription: The girl jingled the toy
+PrimaryVerbDescription: Jingle
 Size: TO ADD
 VerboseDescription:
 - TO ADD

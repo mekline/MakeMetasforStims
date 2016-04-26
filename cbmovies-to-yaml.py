@@ -134,7 +134,7 @@ try:
         out_file.close()
 
 
-    #NOTE: Manually remove these ones because the audio files aren't available!
+    #NOTE: Audio: Manually remove these ones because the audio files aren't available!
     # Passive_TurnOff
     # Passive_Start
     # Passive_SlideChair
@@ -143,6 +143,11 @@ try:
     # BadPassive_Start
     # BadPassive_SlideChair
     # BadPassive_KnockOver
+
+    #Note: video. Following videos don't seem to actually exist:
+    #ChangeChannel, TightenScrew, TurnOnFan  Instrument versions
+    #All Original set videos have the 4th Manner x Result combo!
+    #Scary missing videos: SlideChair_Base_Noinstrument
 
 
 finally:

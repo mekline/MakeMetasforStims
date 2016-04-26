@@ -1,0 +1,19 @@
+- Citation: DOI56789
+  Creator: Melissa Kline
+  Email: mekline@mit.edu
+  Filetype: mp4
+  ItemConditions: {}
+  Name: EventsMP
+  Participants:
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  Roles:
+  - Agent
+  SetTypes:
+  - EventMovies

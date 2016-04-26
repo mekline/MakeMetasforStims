@@ -12,12 +12,11 @@
     - MannerChange
     - ResultChange
     - ObjectChange
+    - InstrumentChange
+    - ExtraCounterBalance
     Instrument:
     - Instrument
     - NoInstrument
-  Kind: ''
-  Language: ''
-  Modality: ''
   Name: CBMovies
   Participants:
   - Actor1
@@ -28,13 +27,13 @@
   - Car
   - Desk
   - Chair
+  - And many more
   Roles:
   - Agent
   - Patient
   - Instrument
   SetTypes:
   - EventMovies
-  - Linguistic
 - Citation: DOI12345
   Creator: Melissa Kline
   Email: mekline@mit.edu
@@ -70,9 +69,6 @@
   Email: mekline@mit.edu
   Filetype: mp4
   ItemConditions: {}
-  Kind: ''
-  Language: ''
-  Modality: ''
   Name: EventsMP
   Participants:
   - '1'
@@ -87,4 +83,3 @@
   - Agent
   SetTypes:
   - EventMovies
-  - Linguistic
