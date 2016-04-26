@@ -62,6 +62,7 @@ list ItemCondition - if your set has multiple versions of the same item, which o
 ####Movie
 
 float Length
+string Color (bw or color?)
 
 pair Size (h,w)
 

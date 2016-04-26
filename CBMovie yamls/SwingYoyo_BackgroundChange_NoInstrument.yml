@@ -1,0 +1,21 @@
+Color: full color
+Filename: SwingYoyo_BackgroundChange_NoInstrument.yml
+ItemCondition:
+- BackgroundChange
+- NoInstrument
+ItemNo: 33
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The girl made the stopwatch swing
+PrimaryVerbDescription: Swing
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

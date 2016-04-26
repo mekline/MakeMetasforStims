@@ -1,0 +1,21 @@
+Color: full color
+Filename: Roll2_Ball.yml
+ItemCondition:
+- Base
+- NoInstrument
+ItemNo: 13
+Length: 5.5
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The boy made the ball roll
+PrimaryVerbDescription: Roll
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

@@ -1,0 +1,21 @@
+Color: full color
+Filename: Break_Blocks.yml
+ItemCondition:
+- Base
+- NoInstrument
+ItemNo: 14
+Length: 6.5
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The girl made the block tower break
+PrimaryVerbDescription: Break
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items
