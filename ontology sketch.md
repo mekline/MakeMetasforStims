@@ -94,11 +94,17 @@ int NParticipants - how many participants are there?
 
 - list ParticipantIsAnimate - Boolean list NParticipants long
 
+Animated/Live?
+
+Indoor/Outdoor/Environment Type?
+
 Intentional/Unintentional?
 
 Typical/Novel?
 
 Completed/Incompleted?
+
+
 
 ###Sentence
 
