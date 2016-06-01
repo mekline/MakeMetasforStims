@@ -1,0 +1,24 @@
+Color: full color
+Filename: TightenScrew_SmallAgentChange_Instrument.yml
+ItemCondition:
+- SmallAgentChange
+- Instrument
+ItemNo: 21
+Length: not specified
+NParticipants: 3
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+- ID: addUniqueID
+  Role: Instrument
+  isAnimate: 0
+PrimarySentenceDescription: The boy made the screw tighten
+PrimaryVerbDescription: Tighten
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

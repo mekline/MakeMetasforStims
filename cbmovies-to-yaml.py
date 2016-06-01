@@ -1,8 +1,9 @@
 import csv
 import yaml
 
-#This is gonna be a routine that turns rows of the complicatedly formatted CBMovies.csv into
-#a set of metadata files (one per movie that actually exists, with the same name)
+# This is gonna be a routine that turns rows of the complicatedly formatted
+# CBMovies.csv into a set of metadata files (one per movie that actually
+# exists, with the same name)
 
 in_file  = open('CBMovies.csv', "rU")
 movie_items = []
@@ -12,7 +13,7 @@ def convert_to_yaml(line, counter):
     itemNo = int(line[2])
     primaryVerbDescription = line[13]
     primarySentenceDescription = line[16]
-    verboseDescription = ['TO ADD', 'Multiple items']
+    verboseDescription = ['TO NOT ADD OR MAYBE ADDD ADD', 'Multiple items']
 
     try:
         movielength = float(line[12])
@@ -21,7 +22,7 @@ def convert_to_yaml(line, counter):
     size = [0,0] #The sizes for the movies are undefined...
     filePrefix = line[3] + line[14] 
 
-    #Audio items are easy (though check KnockOver, it's named wrong...)
+    # Audio items are easy (though check KnockOver, it's named wrong...)
     # sentConditions = ["Transitive","Periphrastic","NonCausal","BadPassive","Passive"]
     # for i in range(5):
     #     audio_item = {
@@ -115,6 +116,9 @@ def convert_to_yaml(line, counter):
                 movie_item.update({'Filename': fi})
                 movie_items.append(movie_item)
 
+#end of function definition
+
+
 try:
     reader = csv.reader(in_file)
     next(reader) # skip headers
@@ -129,7 +133,7 @@ try:
 
     #Read out movie files
     for mi in movie_items:
-        out_file = open('CBMovie yamls/' + mi['Filename'], "w")
+        out_file = open('CBMovie yamls_Claire/' + mi['Filename'], "w")
         out_file.write( yaml.dump(mi, default_flow_style=False, allow_unicode=True) )
         out_file.close()
 

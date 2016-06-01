@@ -1,11 +1,11 @@
 Color: full color
-Filename: Give_Balloon.yml
+Filename: TurnOnFan_Base_Instrument.yml
 ItemCondition:
 - Base
-- NoInstrument
-ItemNo: 38
+- Instrument
+ItemNo: 36
 Length: not specified
-NParticipants: 2
+NParticipants: 3
 Participants:
 - ID: addUniqueID
   Role: Agent
@@ -13,8 +13,11 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: ''
-PrimaryVerbDescription: Give
+- ID: addUniqueID
+  Role: Instrument
+  isAnimate: 0
+PrimarySentenceDescription: The girl made the fan turn on
+PrimaryVerbDescription: TurnOn
 Size: TO ADD
 VerboseDescription:
 - TO ADD
