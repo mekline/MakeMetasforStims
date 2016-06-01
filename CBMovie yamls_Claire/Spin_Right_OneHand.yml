@@ -1,0 +1,21 @@
+Color: full color
+Filename: Spin_Right_OneHand.yml
+ItemCondition:
+- MannerChange
+- NoInstrument
+ItemNo: 11
+Length: 6.0
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The boy made the chair spin
+PrimaryVerbDescription: Spin
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

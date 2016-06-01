@@ -1,0 +1,24 @@
+Color: full color
+Filename: TiltLamp_Base_Instrument.yml
+ItemCondition:
+- Base
+- Instrument
+ItemNo: 28
+Length: not specified
+NParticipants: 3
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+- ID: addUniqueID
+  Role: Instrument
+  isAnimate: 0
+PrimarySentenceDescription: The boy made the lamp tilt
+PrimaryVerbDescription: Tilt
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

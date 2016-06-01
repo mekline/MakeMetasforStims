@@ -1,0 +1,21 @@
+Color: full color
+Filename: KnockOver_Base_NoInstrument.yml
+ItemCondition:
+- Base
+- NoInstrument
+ItemNo: 19
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The boy made the block tower tip over
+PrimaryVerbDescription: TipOver
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

@@ -1,0 +1,21 @@
+Color: full color
+Filename: TurnOff_TV.yml
+ItemCondition:
+- Base
+- NoInstrument
+ItemNo: 18
+Length: 5.5
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The boy made the television turn off
+PrimaryVerbDescription: TurnOff
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items
