@@ -29,7 +29,7 @@ def convert_to_csvlines(line, counter):
 
     if Stimset == 'Original': #Only noInstrument versions
         if hasConditions == "MannerResult":
-            MovieConditions = ["Base","MannerChange","ResultChange"]
+            MovieConditions = ["Base","MannerChange","ResultChange", "CounterbalanceMR"]
             InstConditions = ["NoInstrument"]
 
         elif hasConditions == "Unintentional":
@@ -39,6 +39,11 @@ def convert_to_csvlines(line, counter):
             MovieConditions = ["Base"]
             InstConditions = ["NoInstrument"]
     else: #All changes, and both instrument and noinstrument exist!!
+        if hasConditions == "NoInstOnly": #(except this weirdo)
+            MovieConditions = ["Base","BackgroundChange",
+            "BigAgentChange","SmallAgentChange","MannerChange","ResultChange","ObjectChange","InstrumentChange"]
+            InstConditions = ["NoInstrument"]
+        else:
             MovieConditions = ["Base","BackgroundChange",
             "BigAgentChange","SmallAgentChange","MannerChange","ResultChange","ObjectChange","InstrumentChange"]
             InstConditions = ["NoInstrument", "Instrument"]
@@ -60,15 +65,27 @@ def convert_to_csvlines(line, counter):
                     fi = filePrefix + '_' + line[9]+'.mp4'
                 elif mc == 'ResultChange':
                     fi = filePrefix + '_' + line[10]+'.mp4'
+                elif mc == 'CounterbalanceMR':
+                    fi = filePrefix + '_' + line[20]+'.mp4'
+                    print('get here!')
             elif hasConditions == 'Unintentional':
-                if mc == 'Base':
+                 if mc == 'Base':
                     fi = filePrefix + '_' + line[4]+'.mp4'
-                elif mc == 'Unintentional':
+                 elif mc == 'Unintentional':
                     fi = filePrefix + '_' + line[5]+'.mp4'
             elif hasConditions == 'None':
                 fi = filePrefix + '_' + line[4]+'.mp4'
             elif hasConditions == 'All':
                 fi = filePrefix + '_' + mc + '_' + inst + '.mp4'
+            elif hasConditions == 'NoInstOnly':
+                fi = filePrefix + '_' + mc + '_' + inst + '.mp4'
+            elif hasConditions == 'Cup': #special cases
+                fi = 'Cup.mp4'
+            elif hasConditions == "Give":
+                fi = "GiveBalloon.mp4"
+            elif hasConditions == "Jingle":
+                fi = "Jingle.mp4"
+
 
             #Funny exception: There is no such thing as NoInstrument + InstrumentChange
             if not((inst == "NoInstrument") & (mc == "InstrumentChange")):
@@ -83,7 +100,6 @@ next(reader) # skip headers
 for counter, line in enumerate(reader):
      convert_to_csvlines(line, counter)
 
-print(movie_items)
 
 #And save that all to a csv
 
