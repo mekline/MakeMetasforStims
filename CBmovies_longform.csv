@@ -47,120 +47,120 @@ fileNo,ItemNo,ChangeCondition,InstrumentCondition,filename,Agent,Instrument,Pati
 83,20,ResultChange,Instrument,SlideChair_ResultChange_Instrument.mp4,Agent24,Purple broom,Five wheel black chair,,,0.166826452,184,The man pushes the chair with a broom.,The man is standing.,The chair rolls forward.,The chair never leaves the broom's reach.,
 238,31,MannerChange,Instrument,TwistMobile_MannerChange_Instrument.mp4,Agent9,Flat yellow square,Brown mobile with yellow crossed grey stars,,,0.170005457,313,Repeat,,,,
 78,20,SmallAgentChange,NoInstrument,SlideChair_SmallAgentChange_NoInstrument.mp4,Agent24,NA,Five wheel black chair,,,0.173080523,187,Repeat,,,,
-107,22,ObjectChange,Instrument,RollTruck_ObjectChange_Instrument.mp4,Agent21,Orange plank,Blue car,,,0.173805043,148,,,,,
-124,24,Base,NoInstrument,SpinChair_Base_NoInstrument.mp4,Agent19,NA,Five wheel black chair,,,0.176622251,199,,,,,
-164,26,ResultChange,NoInstrument,OpenBox_ResultChange_NoInstrument.mp4,Agent17,NA,Black box,,,0.177662528,87,,,,,
-227,30,ObjectChange,Instrument,PourMarbles_ObjectChange_Instrument.mp4,Agent2,Green and white pen,Green marbles,,,0.179093797,115,,,,,
-269,34,BackgroundChange,Instrument,RustleLeaves_BackgroundChange_Instrument.mp4,Agent17,Green rake,Pile of brown leaves,,,0.180456178,158,,,,,
-132,24,MannerChange,NoInstrument,SpinChair_MannerChange_NoInstrument.mp4,Agent19,NA,Five wheel black chair,,,0.187237025,204,,,,,
-298,36,BigAgentChange,NoInstrument,TurnOnFan_BigAgentChange_NoInstrument.mp4,Agent23,NA,Orange fan with paper strips,,,0.187251332,301,,,,,
-293,35,ObjectChange,NoInstrument,TurnOffLight_ObjectChange_NoInstrument.mp4,Agent23,NA,Purple lamp,,,0.188847542,294,,,,,
-207,29,MannerChange,NoInstrument,BeepToy_MannerChange_NoInstrument.mp4,Agent1,NA,Yellow star toy,,,0.18916808,9,,,,,
-14,4,MannerChange,NoInstrument,Drop_Armrest_BothHands.mp4,Agent13,NA,Red bag,,,0.193438606,54,,,,,
-250,32,ObjectChange,NoInstrument,ChangeChannel_ObjectChange_NoInstrument.mp4,Agent8,NA,White computer,,,0.195884039,46,,,,,
-222,30,MannerChange,NoInstrument,PourMarbles_MannerChange_NoInstrument.mp4,Agent2,NA,Yellow marbles,,,0.198977043,114,,,,,
-21,6,Base,NoInstrument,Rattle_UpandDown_Rattle2.mp4,Agent6,NA,Blue rattle,,,0.203755056,128,,,,,
-110,23,Base,Instrument,StandUpGiraffe_Base_Instrument.mp4,Agent22,Silver tongs,Stuffed giraffe with brown blanket,,,0.207986824,213,,,,,
-77,20,BigAgentChange,Instrument,SlideChair_BigAgentChange_Instrument.mp4,Agent16,Purple broom,Five wheel black chair,,,0.209161747,177,,,,,
-105,22,ResultChange,Instrument,RollTruck_ResultChange_Instrument.mp4,Agent21,Orange plank,Green car,,,0.21577654,150,,,,,
-191,28,SmallAgentChange,Instrument,TiltLamp_SmallAgentChange_Instrument.mp4,Agent5,White and black striped pole,Lamp with upward facing lightbulb,,,0.218507984,281,,,,,
-50,13,Unintentional,NoInstrument,Roll2_Ball_Unintentional.mp4,Agent5,NA,Mini beach ball,,,0.222164726,137,,,,,
-117,23,MannerChange,NoInstrument,StandUpGiraffe_MannerChange_NoInstrument.mp4,Agent22,NA,Stuffed giraffe with brown blanket,,,0.224434666,219,,,,,
-223,30,MannerChange,Instrument,PourMarbles_MannerChange_Instrument.mp4,Agent2,Green and white pen,Yellow marbles,,,0.230159627,113,,,,,
-118,23,MannerChange,Instrument,StandUpGiraffe_MannerChange_Instrument.mp4,Agent22,Silver tongs,Stuffed giraffe with brown blanket,,,0.23031541,218,,,,,
-241,31,ObjectChange,NoInstrument,TwistMobile_ObjectChange_NoInstrument.mp4,Agent9,NA,Brown mobile with grey stars,,,0.230398782,316,,,,,
-263,33,ObjectChange,NoInstrument,SwingYoyo_ObjectChange_NoInstrument.mp4,Agent18,NA,Orange stopwatch,,,0.234472688,256,,,,,
-205,29,SmallAgentChange,NoInstrument,BeepToy_SmallAgentChange_NoInstrument.mp4,Agent1,NA,Yellow star toy,,,0.236844409,15,,,,,
-276,34,ResultChange,NoInstrument,RustleLeaves_ResultChange_NoInstrument.mp4,Agent17,NA,Pile of brown leaves,,,0.241833906,170,,,,,
-199,29,Base,NoInstrument,BeepToy_Base_NoInstrument.mp4,Agent1,NA,Yellow star toy,,,0.248318698,4,,,,,
-89,21,BigAgentChange,NoInstrument,TightenScrew_BigAgentChange_NoInstrument.mp4,Agent24,NA,Blue screw,,,0.25014163,263,,,,,
-54,16,Base,Instrument,Pop_Balloon.mp4,Agent10,White pen,Pink balloon,,,0.251903465,105,,,,,
-281,35,Base,NoInstrument,TurnOffLight_Base_NoInstrument.mp4,Agent23,NA,Red lamp,,,0.254421117,287,,,,,
-167,26,ObjectChange,Instrument,OpenBox_ObjectChange_Instrument.mp4,Agent17,Green rake,Whte box,,,0.255581706,84,,,,,
-215,30,Base,Instrument,PourMarbles_Base_Instrument.mp4,Agent2,Green and white pen,Yellow marbles,,,0.25685312,108,,,,,
-130,24,SmallAgentChange,NoInstrument,SpinChair_SmallAgentChange_NoInstrument.mp4,Agent19,NA,Five wheel black chair,,,0.26726629,210,,,,,
-30,8,MannerChange,NoInstrument,Roll_WheelsUp_OneHand.mp4,Agent6,NA,Yellow wheeled truck,,,0.26735536,135,,,,,
-287,35,SmallAgentChange,NoInstrument,TurnOffLight_SmallAgentChange_NoInstrument.mp4,Agent23,NA,Red lamp,,,0.269055059,298,,,,,
-55,17,Base,NoInstrument,Start_StateChangeBox.mp4,Agent7,NA,Yellow box with train and lights,,,0.275489132,226,,,,,
-289,35,MannerChange,NoInstrument,TurnOffLight_MannerChange_NoInstrument.mp4,Agent23,NA,Red lamp,,,0.27835392,292,,,,,
-70,19,ObjectChange,Instrument,KnockOver_ObjectChange_Instrument.mp4,Agent16,Yellow block,Pink and blue block,,,0.282377272,69,,,,,
-259,33,MannerChange,NoInstrument,SwingYoyo_MannerChange_NoInstrument.mp4,Agent18,NA,Green yoyo,,,0.288714236,254,,,,,
-180,27,ResultChange,Instrument,BounceBall_ResultChange_Instrument.mp4,Agent4,Striped frisbee,Clear ball,,,0.291635205,35,,,,,
-175,27,SmallAgentChange,NoInstrument,BounceBall_SmallAgentChange_NoInstrument.mp4,Agent4,NA,Clear ball,,,0.295623003,38,,,,,
-43,11,ResultChange,NoInstrument,Spin_Left_BothHands.mp4,Agent3,NA,Five wheel black chair,,,0.303011947,192,,,,,
-74,20,BackgroundChange,NoInstrument,SlideChair_BackgroundChange_NoInstrument.mp4,Agent24,NA,Five wheel black chair,,,0.304774524,174,,,,,
-134,24,ResultChange,NoInstrument,SpinChair_ResultChange_NoInstrument.mp4,Agent19,NA,Five wheel black chair,,,0.306360544,208,,,,,
-237,31,MannerChange,NoInstrument,TwistMobile_MannerChange_NoInstrument.mp4,Agent9,NA,Brown mobile with yellow crossed grey stars,,,0.307735815,314,,,,,
-15,4,ResultChange,NoInstrument,Drop_Sofa_OneHand.mp4,Agent13,NA,Red bag,,,0.312423233,56,,,,,
-256,33,BigAgentChange,Instrument,SwingYoyo_BigAgentChange_Instrument.mp4,Agent17,Wood pole,Green yoyo,,,0.313309968,250,,,,,
-38,10,MannerChange,NoInstrument,Spill_Left_TwoHands.mp4,Agent2,NA,White marbles,,,0.313501772,189,,,,,
-126,24,BackgroundChange,NoInstrument,SpinChair_BackgroundChange_NoInstrument.mp4,Agent19,NA,Five wheel black chair,,,0.319330458,197,,,,,
-138,24,InstrumentChange,Instrument,SpinChair_InstrumentChange_Instrument.mp4,Agent19,SIlver tongs,Five wheel black chair,,,0.319754136,202,,,,,
-85,20,ObjectChange,Instrument,SlideChair_ObjectChange_Instrument.mp4,Agent24,Purple broom,Four wheel black chair,,,0.322375736,182,,,,,
-66,19,MannerChange,Instrument,KnockOver_MannerChange_Instrument.mp4,Agent16,Green block,Pink block,,,0.322831434,67,,,,,
-178,27,MannerChange,Instrument,BounceBall_MannerChange_Instrument.mp4,Agent4,Striped frisbee,Clear ball,,,0.322963561,31,,,,,
-56,18,Base,NoInstrument,TurnOff_TV.mp4,Agent28,NA,Black box TV,,,0.32375582,283,,,,,
-129,24,BigAgentChange,Instrument,SpinChair_BigAgentChange_Instrument.mp4,Agent2,Grabber,Five wheel black chair,,,0.328167927,200,,,,,
-17,5,Base,NoInstrument,Push_Left_LeftHand.mp4,Agent2,NA,Glass bottle,,,0.331348439,121,,,,,
-128,24,BigAgentChange,NoInstrument,SpinChair_BigAgentChange_NoInstrument.mp4,Agent2,NA,Five wheel black chair,,,0.336313998,201,,,,,
-120,23,ResultChange,Instrument,StandUpGiraffe_ResultChange_Instrument.mp4,Agent22,Silver tongs,Stuffed giraffe with brown blanket,,,0.336873556,222,,,,,
-41,11,Base,NoInstrument,Spin_Right_BothHands.mp4,Agent3,NA,Five wheel black chair,,,0.337640298,194,,,,,
-282,35,Base,Instrument,TurnOffLight_Base_Instrument.mp4,Agent23,Stack of books,Red lamp,,,0.338235975,286,,,,,
-23,6,ResultChange,NoInstrument,Rattle_UpandDown_Rattle1.mp4,Agent6,NA,Blue rattle,,,0.339390484,127,,,,,
-234,31,BigAgentChange,Instrument,TwistMobile_BigAgentChange_Instrument.mp4,Agent19,Flat yellow square,Brown mobile with yellow crossed grey stars,,,0.343234624,310,,,,,
-61,19,BigAgentChange,NoInstrument,KnockOver_BigAgentChange_NoInstrument.mp4,Agent5,NA,Pink block,,,0.343470304,65,,,,,
-71,19,InstrumentChange,Instrument,KnockOver_InstrumentChange_Instrument.mp4,Agent16,Green block,Pink block,,,0.347200847,66,,,,,
-135,24,ResultChange,Instrument,SpinChair_ResultChange_Instrument.mp4,Agent19,Grabber,Five wheel black chair,,,0.347281597,207,,,,,
-231,31,BackgroundChange,NoInstrument,TwistMobile_BackgroundChange_NoInstrument.mp4,Agent9,NA,Brown mobile with yellow crossed grey stars,,,0.34798212,307,,,,,
-310,37,SmallAgentChange,Instrument,StretchCloth_SmallAgentChange_Instrument.mp4,Agent23,Black hanger,White cloth,,,0.350966933,244,,,,,
-261,33,ResultChange,NoInstrument,SwingYoyo_ResultChange_NoInstrument.mp4,Agent18,NA,Green yoyo,,,0.354426877,258,,,,,
-99,22,BigAgentChange,Instrument,RollTruck_BigAgentChange_Instrument.mp4,Agent5,Orange plank,Green car,,,0.356937887,143,,,,,
-216,30,BackgroundChange,NoInstrument,PourMarbles_BackgroundChange_NoInstrument.mp4,Agent2,NA,Yellow marbles,,,0.357404206,107,,,,,
-159,26,BigAgentChange,Instrument,OpenBox_BigAgentChange_Instrument.mp4,Agent18,Yellow rake,Black box,,,0.36121571,79,,,,,
-39,10,ResultChange,NoInstrument,Spill_Right_OneHand.mp4,Agent2,NA,White marbles,,,0.363192357,190,,,,,
-224,30,ResultChange,NoInstrument,PourMarbles_ResultChange_NoInstrument.mp4,Agent2,NA,Yellow marbles,,,0.365960357,118,,,,,
-152,25,ObjectChange,Instrument,PlayMusicBox_ObjectChange_Instrument.mp4,Agent2,Silver crank,Orange and white box,,,0.368980736,99,,,,,
-3,1,ResultChange,NoInstrument,Bend_Half_RightHand.mp4,Agent3,NA,Yellow bendy tube,,,0.371749915,19,,,,,
-165,26,ResultChange,Instrument,OpenBox_ResultChange_Instrument.mp4,Agent17,Green rake,Black box,,,0.372518676,86,,,,,
-140,25,Base,Instrument,PlayMusicBox_Base_Instrument.mp4,Agent2,Silver crank,Orange and yellow box,,,0.37390266,92,,,,,
-29,8,Base,NoInstrument,Roll_WheelsUp_TwoHands.mp4,Agent6,NA,Yellow wheeled truck,,,0.381736914,136,,,,,
-122,23,ObjectChange,Instrument,StandUpGiraffe_ObjectChange_Instrument.mp4,Agent22,Silver tongs,Stuffed giraffe,,,0.382290158,220,,,,,
-68,19,ResultChange,Instrument,KnockOver_ResultChange_Instrument.mp4,Agent16,Green block,Pink block,,,0.384609211,71,,,,,
-108,22,InstrumentChange,Instrument,RollTruck_InstrumentChange_Instrument.mp4,Agent21,Red plank,Green car,,,0.393027466,145,,,,,
-76,20,BigAgentChange,NoInstrument,SlideChair_BigAgentChange_NoInstrument.mp4,Agent16,NA,Five wheel black chair,,,0.395159503,178,,,,,
-248,32,MannerChange,NoInstrument,ChangeChannel_MannerChange_NoInstrument.mp4,Agent8,NA,Black computer,,,0.397768857,45,,,,,
-63,19,SmallAgentChange,NoInstrument,KnockOver_SmallAgentChange_NoInstrument.mp4,Agent16,NA,Pink block,,,0.400641154,74,,,,,
-202,29,BackgroundChange,Instrument,BeepToy_BackgroundChange_Instrument.mp4,Agent1,Green pen,Yellow star toy,,,0.401410826,1,,,,,
-35,9,ResultChange,NoInstrument,Rotate_Top_toWhite.mp4,Agent3,NA,Half white half blue bottle,,,0.401440874,157,,,,,
-114,23,BigAgentChange,Instrument,StandUpGiraffe_BigAgentChange_Instrument.mp4,Agent22,Silver tongs,Stuffed giraffe with brown blanket,,,0.405221335,215,,,,,
-225,30,ResultChange,Instrument,PourMarbles_ResultChange_Instrument.mp4,Agent2,Green and white pen,Yellow marbles,,,0.411798565,117,,,,,
-64,19,SmallAgentChange,Instrument,KnockOver_SmallAgentChange_Instrument.mp4,Agent16,Green block,Pink block,,,0.434275239,73,,,,,
-8,2,CounterbalanceMR,NoInstrument,Bounce_Diagonal_LeftHand.mp4,Agent6,NA,Clear ball,,,0.434301779,20,,,,,
-252,33,Base,Instrument,SwingYoyo_Base_Instrument.mp4,Agent18,Wood pole,Green yoyo,,,0.435394355,248,,,,,
-313,37,ResultChange,NoInstrument,StretchCloth_ResultChange_NoInstrument.mp4,Agent23,NA,White cloth,,,0.435491886,243,,,,,
-48,12,CounterbalanceMR,NoInstrument,Stretch_HandsUp_Long.mp4,Agent11,NA,Blue bendy tube,,,0.437655821,229,,,,,
-277,34,ResultChange,Instrument,RustleLeaves_ResultChange_Instrument.mp4,Agent7,Green rake,Pile of brown leaves,,,0.445611169,169,,,,,
-297,36,BackgroundChange,NoInstrument,TurnOnFan_BackgroundChange_NoInstrument.mp4,Agent25,NA,Orange fan with paper strips,,,0.451218098,299,,,,,
-88,21,BackgroundChange,NoInstrument,TightenScrew_BackgroundChange_NoInstrument.mp4,Agent5,NA,Blue screw,,,0.453482693,261,,,,,
-119,23,ResultChange,NoInstrument,StandUpGiraffe_ResultChange_NoInstrument.mp4,Agent22,NA,Stuffed giraffe with brown blanket,,,0.461396806,223,,,,,
-112,23,BackgroundChange,Instrument,StandUpGiraffe_BackgroundChange_Instrument.mp4,Agent22,Silver tongs,Stuffed giraffe with brown blanket,,,0.462977867,211,,,,,
-304,37,Base,Instrument,StretchCloth_Base_Instrument.mp4,Agent23,Black hanger,White cloth,,,0.463960303,233,,,,,
-22,6,MannerChange,NoInstrument,Rattle_LeftandRight_Rattle2.mp4,Agent6,NA,Blue rattle,,,0.470185349,126,,,,,
-247,32,SmallAgentChange,NoInstrument,ChangeChannel_SmallAgentChange_NoInstrument.mp4,Agent8,NA,Black computer,,,0.478446689,48,,,,,
-174,27,BigAgentChange,Instrument,BounceBall_BigAgentChange_Instrument.mp4,Agent5,Striped frisbee,Clear ball,,,0.481237963,28,,,,,
-11,3,ResultChange,NoInstrument,Close_Full_RightHand.mp4,Agent5,NA,Blinds,,,0.481441678,50,,,,,
-100,22,SmallAgentChange,NoInstrument,RollTruck_SmallAgentChange_NoInstrument.mp4,Agent21,NA,Green car,,,0.485794818,153,,,,,
-155,26,Base,Instrument,OpenBox_Base_Instrument.mp4,Agent17,Yellow rake,Black box,,,0.487316604,77,,,,,
-283,35,BackgroundChange,NoInstrument,TurnOffLight_BackgroundChange_NoInstrument.mp4,Agent23,NA,Red lamp,,,0.489755239,285,,,,,
-190,28,SmallAgentChange,NoInstrument,TiltLamp_SmallAgentChange_NoInstrument.mp4,Agent5,NA,Lamp with upward facing lightbulb,,,0.490341085,282,,,,,
-144,25,BigAgentChange,Instrument,PlayMusicBox_BigAgentChange_Instrument.mp4,Agent19,Silver crank,Orange and yellow box,,,0.49495714,94,,,,,
-186,28,BackgroundChange,NoInstrument,TiltLamp_BackgroundChange_NoInstrument.mp4,Agent5,NA,Lamp with upward facing lightbulb,,,0.496186664,269,,,,,
-146,25,SmallAgentChange,Instrument,PlayMusicBox_SmallAgentChange_Instrument.mp4,Agent2,Silver crank,Orange and yellow box,,,0.497115248,103,,,,,
-157,26,BackgroundChange,Instrument,OpenBox_BackgroundChange_Instrument.mp4,Agent17,Yellow rake,Black box,,,0.498137381,75,,,,,
-291,35,ResultChange,NoInstrument,TurnOffLight_ResultChange_NoInstrument.mp4,Agent23,NA,Red lamp,,,0.501712465,296,,,,,
-123,23,InstrumentChange,Instrument,StandUpGiraffe_InstrumentChange_Instrument.mp4,Agent22,Grabber,Stuffed giraffe with brown blanket,,,0.509475822,217,,,,,
-266,34,Base,NoInstrument,RustleLeaves_Base_NoInstrument.mp4,Agent17,NA,Pile of brown leaves,,,0.509650278,161,,,,,
-268,34,BackgroundChange,NoInstrument,RustleLeaves_BackgroundChange_NoInstrument.mp4,Agent17,NA,Pile of brown leaves,,,0.514229689,159,,,,,
+107,22,ObjectChange,Instrument,RollTruck_ObjectChange_Instrument.mp4,Agent21,Orange plank,Blue car,,,0.173805043,148,The man pushes the chair forward.,The chair rolls away from the man.,He is standing.,The man uses one arm to push the chair.,
+124,24,Base,NoInstrument,SpinChair_Base_NoInstrument.mp4,Agent19,NA,Five wheel black chair,,,0.176622251,199,The chair rotates.,The woman uses one arm to turn the chair.,The woman is standing.,The chair has armrests.,
+164,26,ResultChange,NoInstrument,OpenBox_ResultChange_NoInstrument.mp4,Agent17,NA,Black box,,,0.177662528,87,The box is black.,The woman is sitting.,She uses both hands to lift the top of the box.,There are bright flowers in the room.,
+227,30,ObjectChange,Instrument,PourMarbles_ObjectChange_Instrument.mp4,Agent2,Green and white pen,Green marbles,,,0.179093797,115,The woman is wearing a red shirt.,There are two clear jars on the table.,The woman is holding a cup with green marbles.,The woman uses a pen to pour the green marbles.,The green marbles fall into the empty jar.
+269,34,BackgroundChange,Instrument,RustleLeaves_BackgroundChange_Instrument.mp4,Agent17,Green rake,Pile of brown leaves,,,0.180456178,158,There is a pile of leaves on the table.,The leaves are dead and brown.,The woman rustles the leaves with a green rake.,The woman is sitting.,The woman holds the rake in her right arm.
+132,24,MannerChange,NoInstrument,SpinChair_MannerChange_NoInstrument.mp4,Agent19,NA,Five wheel black chair,,,0.187237025,204,Repeat,,,,
+298,36,BigAgentChange,NoInstrument,TurnOnFan_BigAgentChange_NoInstrument.mp4,Agent23,NA,Orange fan with paper strips,,,0.187251332,301,The fan is black and orange.,The strips of paper are tied to the fan.,The woman turns the fan on.,The paper blows in the fan's wind.,The woman touches the fan.
+293,35,ObjectChange,NoInstrument,TurnOffLight_ObjectChange_NoInstrument.mp4,Agent23,NA,Purple lamp,,,0.188847542,294,The lamp shade is purple.,The woman is holding a pile of white books.,The woman is standing to the left of the lamp.,The woman uses her elbow to turn the light off.,The lamp is on a shoulder-height table.
+207,29,MannerChange,NoInstrument,BeepToy_MannerChange_NoInstrument.mp4,Agent1,NA,Yellow star toy,,,0.18916808,9,The woman lowers her hand onto the toy.,The toy is multi-colored.,The woman touches the toy with all her fingers.,The toy is on the woman's lap.,The woman is sitting.
+14,4,MannerChange,NoInstrument,Drop_Armrest_BothHands.mp4,Agent13,NA,Red bag,,,0.193438606,54,The woman has a red bag.,She holds the bag up with both hands.,She releases the bag onto the couch.,The couch seat has a computer and purse on it.,The bag falls onto the armrest.
+250,32,ObjectChange,NoInstrument,ChangeChannel_ObjectChange_NoInstrument.mp4,Agent8,NA,White computer,,,0.195884039,46,The woman is watching videos.,The computer screen is playing videos.,The woman presses a button on the screen.,The video changes.,The computer screen's edges are white.
+222,30,MannerChange,NoInstrument,PourMarbles_MannerChange_NoInstrument.mp4,Agent2,NA,Yellow marbles,,,0.198977043,114,The woman pours yellow marbles into a bucket.,There is a clear bucket with green and yellow marbles on the table.,The woman tips the cup with yellow marbles.,The empty bucket is filled with marbles.,
+21,6,Base,NoInstrument,Rattle_UpandDown_Rattle2.mp4,Agent6,NA,Blue rattle,,,0.203755056,128,The woman is holding a blue ring-shaped rattle.,She flexes her writst upward and downward.,The rattle shakes up and down.,The woman is standing.,The rattle jingles.
+110,23,Base,Instrument,StandUpGiraffe_Base_Instrument.mp4,Agent22,Silver tongs,Stuffed giraffe with brown blanket,,,0.207986824,213,The woman is kneeling on the floor.,She lifts a plush giraffe from the ground.,The giraffe is placed upright.,The giraffe is covered with a blanket.,The woman uses both hands to upright the giraffe.
+77,20,BigAgentChange,Instrument,SlideChair_BigAgentChange_Instrument.mp4,Agent16,Purple broom,Five wheel black chair,,,0.209161747,177,The man pushes the back of the chair with a broom.,The broom is purple.,The man extends his arm forward.,The chair rolls forward.,The chair is black.
+105,22,ResultChange,Instrument,RollTruck_ResultChange_Instrument.mp4,Agent21,Orange plank,Green car,,,0.21577654,150,The man lifts an orange mat.,The car rests on the mat.,The car is green.,The car rolls off the mat.,
+191,28,SmallAgentChange,Instrument,TiltLamp_SmallAgentChange_Instrument.mp4,Agent5,White and black striped pole,Lamp with upward facing lightbulb,,,0.218507984,281,The man is holding a black and white stiped pole.,The man extends the pole outwards.,The pole tips the lamp.,The lamp leans forward.,The man pushes the lamp away from himself.
+50,13,Unintentional,NoInstrument,Roll2_Ball_Unintentional.mp4,Agent5,NA,Mini beach ball,,,0.222164726,137,The beach ball is resting on a towel. ,The man grabs the towel.,The ball rolls off the towel.,The towel is behind the man.,He uses the towel to wipe his brow.
+117,23,MannerChange,NoInstrument,StandUpGiraffe_MannerChange_NoInstrument.mp4,Agent22,NA,Stuffed giraffe with brown blanket,,,0.224434666,219,The woman holds the giraffe's leg with one hand.,The woman steadies the giraffe with her hands.,The woman uses one hand to hold the giraffe's neck.,The giraffe is placed upright.,The giraffe is wearing a blanket.
+223,30,MannerChange,Instrument,PourMarbles_MannerChange_Instrument.mp4,Agent2,Green and white pen,Yellow marbles,,,0.230159627,113,Repeat.,,,,
+118,23,MannerChange,Instrument,StandUpGiraffe_MannerChange_Instrument.mp4,Agent22,Silver tongs,Stuffed giraffe with brown blanket,,,0.23031541,218,Repeat.,,,,
+241,31,ObjectChange,NoInstrument,TwistMobile_ObjectChange_NoInstrument.mp4,Agent9,NA,Brown mobile with grey stars,,,0.230398782,316,The woman pushes the mobile with her finger.,The mobile rotates.,The stars are grey.,There are three stars hanging from the mobile.,
+263,33,ObjectChange,NoInstrument,SwingYoyo_ObjectChange_NoInstrument.mp4,Agent18,NA,Orange stopwatch,,,0.234472688,256,The stopwatch is orange.,The stopwatch hangs from a black string.,The woman holds the black string.,The woman is standing.,The stopwatch swimgs from side to side.
+205,29,SmallAgentChange,NoInstrument,BeepToy_SmallAgentChange_NoInstrument.mp4,Agent1,NA,Yellow star toy,,,0.236844409,15,The woman drops one finger onto the toy.,She presses the toy.,The toy is a star shape.,The toy buzzes.,The woman is sttting.
+276,34,ResultChange,NoInstrument,RustleLeaves_ResultChange_NoInstrument.mp4,Agent17,NA,Pile of brown leaves,,,0.241833906,170,The woman moves her hand over the leaves.,The leaves are piled on a table.,There is a basket on the table.,The leaves rustle.,The leaves are dry and dead.
+199,29,Base,NoInstrument,BeepToy_Base_NoInstrument.mp4,Agent1,NA,Yellow star toy,,,0.248318698,4,Repeat,,,,
+89,21,BigAgentChange,NoInstrument,TightenScrew_BigAgentChange_NoInstrument.mp4,Agent24,NA,Blue screw,,,0.25014163,263,The man is sitting in front of a blue starry wall.,There is a blue plastic toolbox.,There is an orange object in the blue box.,An untightened screw protrudes from the box.,The man tightens the screw into the box.
+54,16,Base,Instrument,Pop_Balloon.mp4,Agent10,White pen,Pink balloon,,,0.251903465,105,The woman is writing with a pen.,There is a pink balloon on the bench.,The woman is stting on a bench.,The woman stops writing.,The woman pops the balloon with the pen.
+281,35,Base,NoInstrument,TurnOffLight_Base_NoInstrument.mp4,Agent23,NA,Red lamp,,,0.254421117,287,The woman is holding a pile of books.,The woman uses her elbow to turn the light off.,The light shade is red.,The woman lifts her elbow.,The lamp is on a tabletop.
+167,26,ObjectChange,Instrument,OpenBox_ObjectChange_Instrument.mp4,Agent17,Green rake,Whte box,,,0.255581706,84,The woman is holding a yellow rake.,The box is white.,The woman uses the rake the open the top of the box.,The box hinges open.,The woman is sitting in front of the box.
+215,30,Base,Instrument,PourMarbles_Base_Instrument.mp4,Agent2,Green and white pen,Yellow marbles,,,0.25685312,108,The woman scoops the marbles out with a green pen.,The yellow marbles fall into the empty jar.,There are two jars on the table.,The woman is holding a cup with yellow marbles.,The woman empties the cup.
+130,24,SmallAgentChange,NoInstrument,SpinChair_SmallAgentChange_NoInstrument.mp4,Agent19,NA,Five wheel black chair,,,0.26726629,210,The woman twirs the chair in a circle.,The woman holds the chair with one hand.,The woman rotates her arm.,The chair is black.,The woman stands behing the chair.
+30,8,MannerChange,NoInstrument,Roll_WheelsUp_OneHand.mp4,Agent6,NA,Yellow wheeled truck,,,0.26735536,135,The truck rolls on its back wheels.,The woman pushes the truck forward.,The woman is sitting at a table.,She pushes the truck away from herself.,She extends her arm.
+287,35,SmallAgentChange,NoInstrument,TurnOffLight_SmallAgentChange_NoInstrument.mp4,Agent23,NA,Red lamp,,,0.269055059,298,Repeat.,,,,
+55,17,Base,NoInstrument,Start_StateChangeBox.mp4,Agent7,NA,Yellow box with train and lights,,,0.275489132,226,The woman sits down.,The box is covered with yellow cloth.,The train moves in a circle.,The woman presses down on a pedal.,The box lights up.
+289,35,MannerChange,NoInstrument,TurnOffLight_MannerChange_NoInstrument.mp4,Agent23,NA,Red lamp,,,0.27835392,292,The woman is holding a stack of books.,The lamp shade is red.,The lamp is ontop of a high tabletop.,The woman lifts her arm.,She turns the light off with her wrist.
+70,19,ObjectChange,Instrument,KnockOver_ObjectChange_Instrument.mp4,Agent16,Yellow block,Pink and blue block,,,0.282377272,69,The blue cylander is ontop the pink triangle.,The man is holding a green block.,The green block tips the block tower.,The blue and pink blocks fall together.,The man is standing.
+259,33,MannerChange,NoInstrument,SwingYoyo_MannerChange_NoInstrument.mp4,Agent18,NA,Green yoyo,,,0.288714236,254,Repeat.,,,,
+180,27,ResultChange,Instrument,BounceBall_ResultChange_Instrument.mp4,Agent4,Striped frisbee,Clear ball,,,0.291635205,35,The man is holding a red striped frisbee.,The man is holding a clear ball.,There is a book on the table.,He hits the ball with the frisbee.,The ball bounces off the book.
+175,27,SmallAgentChange,NoInstrument,BounceBall_SmallAgentChange_NoInstrument.mp4,Agent4,NA,Clear ball,,,0.295623003,38,Repeat.,,,,
+43,11,ResultChange,NoInstrument,Spin_Left_BothHands.mp4,Agent3,NA,Five wheel black chair,,,0.303011947,192,The man approaches the chair.,He turns the chair with both hands.,He holds the back of the chair.,The chair begins facing the window.,The chair spins to face the man.
+74,20,BackgroundChange,NoInstrument,SlideChair_BackgroundChange_NoInstrument.mp4,Agent24,NA,Five wheel black chair,,,0.304774524,174,The man pushes the chair forward.,The chair rolls away from the man.,The man is standing in front of the chair.,He grabs the back of the chair.,He releases the chair.
+134,24,ResultChange,NoInstrument,SpinChair_ResultChange_NoInstrument.mp4,Agent19,NA,Five wheel black chair,,,0.306360544,208,Repeat.,,,,
+237,31,MannerChange,NoInstrument,TwistMobile_MannerChange_NoInstrument.mp4,Agent9,NA,Brown mobile with yellow crossed grey stars,,,0.307735815,314,Repeat.,,,,
+15,4,ResultChange,NoInstrument,Drop_Sofa_OneHand.mp4,Agent13,NA,Red bag,,,0.312423233,56,The bag lands next to the items on the couch.,The woman drops a red bag.,The woman holds the bag with one hand.,The sofa has a computer and purse on its seat.,
+256,33,BigAgentChange,Instrument,SwingYoyo_BigAgentChange_Instrument.mp4,Agent17,Wood pole,Green yoyo,,,0.313309968,250,Repeat.,,,,
+38,10,MannerChange,NoInstrument,Spill_Left_TwoHands.mp4,Agent2,NA,White marbles,,,0.313501772,189,The cup has white marbles.,The marbles roll onto the table.,The woman is holding a clear cup in her hands.,The woman tips the cup.,The woman is sitting at a table.
+126,24,BackgroundChange,NoInstrument,SpinChair_BackgroundChange_NoInstrument.mp4,Agent19,NA,Five wheel black chair,,,0.319330458,197,Repeat.,,,,
+138,24,InstrumentChange,Instrument,SpinChair_InstrumentChange_Instrument.mp4,Agent19,SIlver tongs,Five wheel black chair,,,0.319754136,202,Repeat,,,,
+85,20,ObjectChange,Instrument,SlideChair_ObjectChange_Instrument.mp4,Agent24,Purple broom,Four wheel black chair,,,0.322375736,182,Repeat.,,,,
+66,19,MannerChange,Instrument,KnockOver_MannerChange_Instrument.mp4,Agent16,Green block,Pink block,,,0.322831434,67,The man is holding a green block.,There are two stacked pink blocks on the table.,The man knocks the tower over with the ,The two pink blocks are connected.,The block tower falls to the side.
+178,27,MannerChange,Instrument,BounceBall_MannerChange_Instrument.mp4,Agent4,Striped frisbee,Clear ball,,,0.322963561,31,The man holds a red frisbee in his right hand.,He has a clear ball in his left hand.,There is a book on the table.,The man hits the ball with the frisbee.,The ball bounces off the book.
+56,18,Base,NoInstrument,TurnOff_TV.mp4,Agent28,NA,Black box TV,,,0.32375582,283,The man walks into the room and sits in a chair.,The TV is playing a video.,The man picks up a remote.,The man turns the TV off with the remote.,
+129,24,BigAgentChange,Instrument,SpinChair_BigAgentChange_Instrument.mp4,Agent2,Grabber,Five wheel black chair,,,0.328167927,200,The woman is holding a grabber.,The grabber attaches to the chair's armrest.,The woman rotates the grabber.,The grabber turns the chair in a circle.,The woman is standing behind the chair.
+17,5,Base,NoInstrument,Push_Left_LeftHand.mp4,Agent2,NA,Glass bottle,,,0.331348439,121,There is a glass bottle on the table.,The woman is sitting at the table.,The woman pushes the bottle.,The bottle tips over.,
+128,24,BigAgentChange,NoInstrument,SpinChair_BigAgentChange_NoInstrument.mp4,Agent2,NA,Five wheel black chair,,,0.336313998,201,Repeat,,,,
+120,23,ResultChange,Instrument,StandUpGiraffe_ResultChange_Instrument.mp4,Agent22,Silver tongs,Stuffed giraffe with brown blanket,,,0.336873556,222,The woman grabs the giraffe's head with silver tongs.,She grabs the back leg of the giraffe with her hand.,She picks up the giraffe.,She tips the giraffe to the other side.,
+41,11,Base,NoInstrument,Spin_Right_BothHands.mp4,Agent3,NA,Five wheel black chair,,,0.337640298,194,The man approaches the chair.,He grabs the back of the chair with both hands.,The chair is facing the window.,The man rotates the chair towards himself.,The chair rotates clockwise.
+282,35,Base,Instrument,TurnOffLight_Base_Instrument.mp4,Agent23,Stack of books,Red lamp,,,0.338235975,286,The lamp shade is red.,The woman uses the books to turn the light off.,The woman is holding a stack of books.,The woman lifts the books.,
+23,6,ResultChange,NoInstrument,Rattle_UpandDown_Rattle1.mp4,Agent6,NA,Blue rattle,,,0.339390484,127,The woman is holding a blue ring-shaped rattle.,She moves her wrist up and down.,The rattle shakes up and down.,,
+234,31,BigAgentChange,Instrument,TwistMobile_BigAgentChange_Instrument.mp4,Agent19,Flat yellow square,Brown mobile with yellow crossed grey stars,,,0.343234624,310,The mobile has three stars hanging on it.,The stars are yellow and grey.,The woman is holding a yellow object.,She pushes the arm of the mobile with the object.,The mobile with the stars spins.
+61,19,BigAgentChange,NoInstrument,KnockOver_BigAgentChange_NoInstrument.mp4,Agent5,NA,Pink block,,,0.343470304,65,The man is standing in front of a table.,The pink cylander block on top of the pink triangle block.,The man pushes the bricks over with his finger.,The bricks fall together.,The cylander and traingle blocks are connected.
+71,19,InstrumentChange,Instrument,KnockOver_InstrumentChange_Instrument.mp4,Agent16,Green block,Pink block,,,0.347200847,66,Repeat,,,,
+135,24,ResultChange,Instrument,SpinChair_ResultChange_Instrument.mp4,Agent19,Grabber,Five wheel black chair,,,0.347281597,207,Repeat,,,,
+231,31,BackgroundChange,NoInstrument,TwistMobile_BackgroundChange_NoInstrument.mp4,Agent9,NA,Brown mobile with yellow crossed grey stars,,,0.34798212,307,Repeat,,,,
+310,37,SmallAgentChange,Instrument,StretchCloth_SmallAgentChange_Instrument.mp4,Agent23,Black hanger,White cloth,,,0.350966933,244,The woma is holding a black hanger.,The cloth is hanging from the hanger.,The woman holds the end of the cloth.,She lifts the hanger from her left hip to her right shoulder.,The cloth stretches diagonally.
+261,33,ResultChange,NoInstrument,SwingYoyo_ResultChange_NoInstrument.mp4,Agent18,NA,Green yoyo,,,0.354426877,258,The yoyo is attched to a string.,The woman is holding the string.,The woman raises and lowers her hand.,The yoyo bounces up and down.,The yoyo is green.
+99,22,BigAgentChange,Instrument,RollTruck_BigAgentChange_Instrument.mp4,Agent5,Orange plank,Green car,,,0.356937887,143,Repeat,,,,
+216,30,BackgroundChange,NoInstrument,PourMarbles_BackgroundChange_NoInstrument.mp4,Agent2,NA,Yellow marbles,,,0.357404206,107,Repeat,,,,
+159,26,BigAgentChange,Instrument,OpenBox_BigAgentChange_Instrument.mp4,Agent18,Yellow rake,Black box,,,0.36121571,79,Repeat,,,,
+39,10,ResultChange,NoInstrument,Spill_Right_OneHand.mp4,Agent2,NA,White marbles,,,0.363192357,190,The man approaches the chair.,The chair is facing the window.,The man grabs the back of the chair with one hand.,He turns the chair towards himself.,The chair rotates clockwise.
+224,30,ResultChange,NoInstrument,PourMarbles_ResultChange_NoInstrument.mp4,Agent2,NA,Yellow marbles,,,0.365960357,118,The woman is holding a cup with yellow marbles.,There is an empty jar on the table and a jar with yellow and green marbles.,The woman tips the cup with yellow marbles.,The marbles fall into the jar with marbles.,
+152,25,ObjectChange,Instrument,PlayMusicBox_ObjectChange_Instrument.mp4,Agent2,Silver crank,Orange and white box,,,0.368980736,99,The box has silver crank on the top.,The front of the box is is white.,The woman turns the crank with her hand.,The box rings.,The woman is wearing a blue shirt.
+3,1,ResultChange,NoInstrument,Bend_Half_RightHand.mp4,Agent3,NA,Yellow bendy tube,,,0.371749915,19,The bendy tube is yellow.,The man holds both ends of the bendy tube.,The man holds the tube vertically.,He bends the tube in half with his upper hand.,The tube points to the left.
+165,26,ResultChange,Instrument,OpenBox_ResultChange_Instrument.mp4,Agent17,Green rake,Black box,,,0.372518676,86,Repeat,,,,
+140,25,Base,Instrument,PlayMusicBox_Base_Instrument.mp4,Agent2,Silver crank,Orange and yellow box,,,0.37390266,92,The box is yellow and orange.,The box rings.,There is a silver crank on the top of the box.,The woman turns the crank.,The woman is sitting.
+29,8,Base,NoInstrument,Roll_WheelsUp_TwoHands.mp4,Agent6,NA,Yellow wheeled truck,,,0.381736914,136,The truck is blue.,The truck rolls on its two back wheels.,The woman holds the truck with two hands.,She extends her arms.,The truck rolls forward.
+122,23,ObjectChange,Instrument,StandUpGiraffe_ObjectChange_Instrument.mp4,Agent22,Silver tongs,Stuffed giraffe,,,0.382290158,220,The chair is blue.,The woman is holding a grabber.,The grabber grabs the metal armrest.,The woman turns the chair in a circle.,
+68,19,ResultChange,Instrument,KnockOver_ResultChange_Instrument.mp4,Agent16,Green block,Pink block,,,0.384609211,71,There are two connected pink blocks on the table.,The man is holding a green block.,The man pushes the blocks over with the green block.,The pink blocks fall down to the left.,
+108,22,InstrumentChange,Instrument,RollTruck_InstrumentChange_Instrument.mp4,Agent21,Red plank,Green car,,,0.393027466,145,The man is holding a red mat on the table.,The green car rolls off the mat.,The man lifts the mat.,The car rolls forward towards the end of the table.,The man is standing behind the table.
+76,20,BigAgentChange,NoInstrument,SlideChair_BigAgentChange_NoInstrument.mp4,Agent16,NA,Five wheel black chair,,,0.395159503,178,The chair is black.,The man is standing behind the chair.,The man pushes the back of the chair with one hand.,The chair rolls away from the man.,
+248,32,MannerChange,NoInstrument,ChangeChannel_MannerChange_NoInstrument.mp4,Agent8,NA,Black computer,,,0.397768857,45,The woman is sitting in front of the computer.,The woman is wearing a red shirt.,The computer is playing a video.,The woman touches the bottom left corner of the computer.,The video changes.
+63,19,SmallAgentChange,NoInstrument,KnockOver_SmallAgentChange_NoInstrument.mp4,Agent16,NA,Pink block,,,0.400641154,74,Repeat.,,,,
+202,29,BackgroundChange,Instrument,BeepToy_BackgroundChange_Instrument.mp4,Agent1,Green pen,Yellow star toy,,,0.401410826,1,Repeat.,,,,
+35,9,ResultChange,NoInstrument,Rotate_Top_toWhite.mp4,Agent3,NA,Half white half blue bottle,,,0.401440874,157,The bottle is half white and half blue.,The turns the blue half towards himself.,The man rotates the bottle from the top.,The bottle is standing on a table.,The man is sitting at the table.
+114,23,BigAgentChange,Instrument,StandUpGiraffe_BigAgentChange_Instrument.mp4,Agent22,Silver tongs,Stuffed giraffe with brown blanket,,,0.405221335,215,The woman is holding silver tongs.,She uprights the stuffed giraffe.,She grabs the head of the giraffe with the tongs.,She holds the back leg of the giraffe.,The woman is kneeling on the ground.
+225,30,ResultChange,Instrument,PourMarbles_ResultChange_Instrument.mp4,Agent2,Green and white pen,Yellow marbles,,,0.411798565,117,The woman is holding a cup of yellow marbles.,She scoops out the marbles with a green pen.,There is a jar with yellow and green marbles on the table.,The yellow marbles fall into the filled jar.,There is an emtpy jar on the table next to the jar of marbles.
+64,19,SmallAgentChange,Instrument,KnockOver_SmallAgentChange_Instrument.mp4,Agent16,Green block,Pink block,,,0.434275239,73,Repeat.,,,,
+8,2,CounterbalanceMR,NoInstrument,Bounce_Diagonal_LeftHand.mp4,Agent6,NA,Clear ball,,,0.434301779,20,The woman drops the ball.,The ball bounces forward on the table.,The ball is clear.,The woman is standing in front of the table.,
+252,33,Base,Instrument,SwingYoyo_Base_Instrument.mp4,Agent18,Wood pole,Green yoyo,,,0.435394355,248,Repeat.,,,,
+313,37,ResultChange,NoInstrument,StretchCloth_ResultChange_NoInstrument.mp4,Agent23,NA,White cloth,,,0.435491886,243,Repeat.,,,,
+48,12,CounterbalanceMR,NoInstrument,Stretch_HandsUp_Long.mp4,Agent11,NA,Blue bendy tube,,,0.437655821,229,The man is holding a blue bendy tube on both ends.,The man separates his hands outward.,The tube fully elongates.,The man is sitting at a table.,
+277,34,ResultChange,Instrument,RustleLeaves_ResultChange_Instrument.mp4,Agent7,Green rake,Pile of brown leaves,,,0.445611169,169,Repeat.,,,,
+297,36,BackgroundChange,NoInstrument,TurnOnFan_BackgroundChange_NoInstrument.mp4,Agent25,NA,Orange fan with paper strips,,,0.451218098,299,The fan is black and orange.,The strips of paper are tied to the fan.,The woman touches the fan to turn it on.,The fan turns on.,The strips of paper blow in the fan's wind.
+88,21,BackgroundChange,NoInstrument,TightenScrew_BackgroundChange_NoInstrument.mp4,Agent5,NA,Blue screw,,,0.453482693,261,The man is sitting in front of a light blue wall.,The man twists a screw.,The blue screw tightens into the toolbox.,There is a blue toolbox on the table.,The toolbox has an orange object in it.
+119,23,ResultChange,NoInstrument,StandUpGiraffe_ResultChange_NoInstrument.mp4,Agent22,NA,Stuffed giraffe with brown blanket,,,0.461396806,223,Repeat.,,,,
+112,23,BackgroundChange,Instrument,StandUpGiraffe_BackgroundChange_Instrument.mp4,Agent22,Silver tongs,Stuffed giraffe with brown blanket,,,0.462977867,211,Repeat.,,,,
+304,37,Base,Instrument,StretchCloth_Base_Instrument.mp4,Agent23,Black hanger,White cloth,,,0.463960303,233,The woman is standing.,She is holding a black hanger.,She holds the end of a white cloth.,The woman lifts the hanger up and across her body.,The cloth stretches diagonally.
+22,6,MannerChange,NoInstrument,Rattle_LeftandRight_Rattle2.mp4,Agent6,NA,Blue rattle,,,0.470185349,126,The woman is holding a blue ring-shaped rattle.,She shakes the rattle from side to side.,She holds the rattle vertically..,The woman is standing.,
+247,32,SmallAgentChange,NoInstrument,ChangeChannel_SmallAgentChange_NoInstrument.mp4,Agent8,NA,Black computer,,,0.478446689,48,Repeat.,,,,
+174,27,BigAgentChange,Instrument,BounceBall_BigAgentChange_Instrument.mp4,Agent5,Striped frisbee,Clear ball,,,0.481237963,28,The man is holding a red striped frisbee in his left hand.,There is a red book on the table.,The man holds a clear ball in his right hand.,He hits the ball with the frisbee.,The ball bounces on the book.
+11,3,ResultChange,NoInstrument,Close_Full_RightHand.mp4,Agent5,NA,Blinds,,,0.481441678,50,The blinds are perpendicular to the window.,The man pulls down on a string with his right hand.,The blinds close across the length of the window.,The blinds are white.,The man is facing the window.
+100,22,SmallAgentChange,NoInstrument,RollTruck_SmallAgentChange_NoInstrument.mp4,Agent21,NA,Green car,,,0.485794818,153,The man gives the car a push.,The car is green.,The car rolls across the table.,The man is wearing a blue shirt.,
+155,26,Base,Instrument,OpenBox_Base_Instrument.mp4,Agent17,Yellow rake,Black box,,,0.487316604,77,Repeat.,,,,
+283,35,BackgroundChange,NoInstrument,TurnOffLight_BackgroundChange_NoInstrument.mp4,Agent23,NA,Red lamp,,,0.489755239,285,The lamp shade is red.,The lamp rests on a towel.,The lamp is ontop of a high tabletop.,The womam is holding a stack of books.,She turns the light off with her elbow.
+190,28,SmallAgentChange,NoInstrument,TiltLamp_SmallAgentChange_NoInstrument.mp4,Agent5,NA,Lamp with upward facing lightbulb,,,0.490341085,282,The man is holding the lamp with one hand.,He pushes the lamp away from himself.,The lamp is facing upward.,The man is standing in a kitchen.,
+144,25,BigAgentChange,Instrument,PlayMusicBox_BigAgentChange_Instrument.mp4,Agent19,Silver crank,Orange and yellow box,,,0.49495714,94,Repeat.,,,,
+186,28,BackgroundChange,NoInstrument,TiltLamp_BackgroundChange_NoInstrument.mp4,Agent5,NA,Lamp with upward facing lightbulb,,,0.496186664,269,Repeat.,,,,
+146,25,SmallAgentChange,Instrument,PlayMusicBox_SmallAgentChange_Instrument.mp4,Agent2,Silver crank,Orange and yellow box,,,0.497115248,103,Repeat.,,,,
+157,26,BackgroundChange,Instrument,OpenBox_BackgroundChange_Instrument.mp4,Agent17,Yellow rake,Black box,,,0.498137381,75,Repeat.,,,,
+291,35,ResultChange,NoInstrument,TurnOffLight_ResultChange_NoInstrument.mp4,Agent23,NA,Red lamp,,,0.501712465,296,Repeat.,,,,
+123,23,InstrumentChange,Instrument,StandUpGiraffe_InstrumentChange_Instrument.mp4,Agent22,Grabber,Stuffed giraffe with brown blanket,,,0.509475822,217,Repeat,,,,
+266,34,Base,NoInstrument,RustleLeaves_Base_NoInstrument.mp4,Agent17,NA,Pile of brown leaves,,,0.509650278,161,Repeat.,,,,
+268,34,BackgroundChange,NoInstrument,RustleLeaves_BackgroundChange_NoInstrument.mp4,Agent17,NA,Pile of brown leaves,,,0.514229689,159,Repeat.,,,,
 189,28,BigAgentChange,Instrument,TiltLamp_BigAgentChange_Instrument.mp4,Agent4,White and black striped pole,Lamp with upward facing lightbulb,,,0.518912605,272,,,,,
 219,30,BigAgentChange,Instrument,PourMarbles_BigAgentChange_Instrument.mp4,Agent1,Green and white pen,Yellow marbles,,,0.519481001,110,,,,,
 40,10,CounterbalanceMR,NoInstrument,Spill_Right_TwoHands.mp4,Agent2,NA,White marbles,,,0.519619236,191,,,,,
