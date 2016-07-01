@@ -14,6 +14,7 @@ def convert_to_yaml(line, counter):
     primaryVerbDescription = line[13]
     primarySentenceDescription = line[16]
     verboseDescription = ['TO ADD', 'Multiple items']
+    agent = line[5]
 
     try:
         movielength = float(line[12])
