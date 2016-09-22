@@ -5,13 +5,16 @@ import yaml
 # CBMovies.csv into a set of metadata files (one per movie that actually
 # exists, with the same name)
 
-in_file  = open('CBMovies.csv', "rU")
+in_file  = open('CBMovies_longform.csv', "rU")
 movie_items = []
 audio_items = []
 
 def convert_to_yaml(line, counter):
-    itemNo = int(line[2])
+    itemNo = int(line[1])
+    #print(itemNo)
     primaryVerbDescription = line[13]
+    print('get there')
+    #inside the row, column 13 gives whatever is labeled there
     primarySentenceDescription = line[16]
     verboseDescription = ['TO ADD', 'Multiple items']
     agent = line[5]
@@ -22,7 +25,7 @@ def convert_to_yaml(line, counter):
         movielength = 'not specified'
     size = [0,0] #The sizes for the movies are undefined...
     filePrefix = line[3] + line[14] 
-
+    print('get down here')
     # Audio items are easy (though check KnockOver, it's named wrong...)
     # sentConditions = ["Transitive","Periphrastic","NonCausal","BadPassive","Passive"]
     # for i in range(5):
@@ -113,7 +116,7 @@ def convert_to_yaml(line, counter):
 
             #Funny exception: There is no such thing as NoInstrument + InstrumentChange
             if not((inst == "NoInstrument") & (mc == "InstrumentChange")):
-                print(fi)
+                #print(fi)
                 movie_item.update({'Filename': fi})
                 movie_items.append(movie_item)
 
