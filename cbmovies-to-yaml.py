@@ -136,7 +136,9 @@ try:
     for counter, line in enumerate(reader):
         convert_to_yaml(line, counter)
 
-mkdir(CBMovies yamls Claire)
+#mkdir(CBMovies yamls Claire)
+#this doesn't work because it is not a python code
+
     # #Read out audio files
     # for ai in audio_items:
     #     out_file = open('CBAudio yamls/' + ai['Filename'], "w")
