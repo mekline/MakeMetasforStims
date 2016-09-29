@@ -12,20 +12,22 @@ audio_items = []
 def convert_to_yaml(line, counter):
     itemNo = int(line[1])
     #print(itemNo)
-    primaryVerbDescription = line[13]
-    print('get there')
+    primaryVerbDescription = line[2]
     #inside the row, column 13 gives whatever is labeled there
-    primarySentenceDescription = line[16]
+    #assuming this is the base/object change/ unintentional stuff
+    primarySentenceDescription = line[12]
+    secondarySentenceDescription = line[13]
     verboseDescription = ['TO ADD', 'Multiple items']
     agent = line[5]
+    patient = line [7]
 
     try:
         movielength = float(line[12])
+        #is there a movie lenght?? its not on line 12 tho
     except ValueError:
         movielength = 'not specified'
     size = [0,0] #The sizes for the movies are undefined...
     filePrefix = line[3] + line[14] 
-    print('get down here')
     # Audio items are easy (though check KnockOver, it's named wrong...)
     # sentConditions = ["Transitive","Periphrastic","NonCausal","BadPassive","Passive"]
     # for i in range(5):
@@ -73,8 +75,13 @@ def convert_to_yaml(line, counter):
             inst = InstConditions[i]
             movie_item = {}
             movie_item = {
-                
                 'ItemNo': itemNo,
+                #'Agent':agent
+                #got super sassy with syntax when I added agent and patient
+                #adding agent to yaml
+                #'Patient':patient
+                #adding patient to yaml
+                #woah why is patient invalid? line 83
                 'ItemCondition': [mc, inst],
                 'Length':movielength,
                 'Size': 'TO ADD',
@@ -129,6 +136,7 @@ try:
     for counter, line in enumerate(reader):
         convert_to_yaml(line, counter)
 
+
     # #Read out audio files
     # for ai in audio_items:
     #     out_file = open('CBAudio yamls/' + ai['Filename'], "w")
@@ -137,7 +145,10 @@ try:
 
     #Read out movie files
     for mi in movie_items:
-        out_file = open('CBMovie yamls_Claire/' + mi['Filename'], "w")
+        mkdir('CBMovies yamls Claire/')
+        #I figured that if it didn't like the directory, maybe I could write the directory into the code
+        #What is wrong with my syntax oh my gosh what
+        out_file = open('CBMovies yamls Claire/' + mi['Filename'], "w")
         out_file.write( yaml.dump(mi, default_flow_style=False, allow_unicode=True) )
         out_file.close()
 
