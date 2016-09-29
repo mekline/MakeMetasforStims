@@ -136,7 +136,7 @@ try:
     for counter, line in enumerate(reader):
         convert_to_yaml(line, counter)
 
-
+mkdir(CBMovies yamls Claire)
     # #Read out audio files
     # for ai in audio_items:
     #     out_file = open('CBAudio yamls/' + ai['Filename'], "w")
@@ -145,9 +145,6 @@ try:
 
     #Read out movie files
     for mi in movie_items:
-        mkdir('CBMovies yamls Claire/')
-        #I figured that if it didn't like the directory, maybe I could write the directory into the code
-        #What is wrong with my syntax oh my gosh what
         out_file = open('CBMovies yamls Claire/' + mi['Filename'], "w")
         out_file.write( yaml.dump(mi, default_flow_style=False, allow_unicode=True) )
         out_file.close()
