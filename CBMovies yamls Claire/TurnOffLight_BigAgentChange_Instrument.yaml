@@ -1,3 +1,4 @@
+Agent: Agent25
 Color: full color
 Filename: TurnOffLight_BigAgentChange_Instrument.yaml
 ItemCondition:
@@ -13,6 +14,7 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
+Patient: Red lamp
 PrimarySentenceDescription: ''
 PrimaryVerbDescription: BigAgentChange
 Size: TO ADD

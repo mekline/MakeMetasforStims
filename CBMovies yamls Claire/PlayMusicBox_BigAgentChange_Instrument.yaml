@@ -1,3 +1,4 @@
+Agent: Agent19
 Color: full color
 Filename: PlayMusicBox_BigAgentChange_Instrument.yaml
 ItemCondition:
@@ -13,6 +14,7 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
+Patient: Orange and yellow box
 PrimarySentenceDescription: Repeat.
 PrimaryVerbDescription: BigAgentChange
 Size: TO ADD

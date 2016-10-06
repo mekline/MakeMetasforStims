@@ -1,3 +1,4 @@
+Agent: Agent2
 Color: full color
 Filename: PlayMusicBox_BackgroundChange_NoInstrument.yaml
 ItemCondition:
@@ -13,6 +14,7 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
+Patient: Orange and yellow box
 PrimarySentenceDescription: ''
 PrimaryVerbDescription: BackgroundChange
 Size: TO ADD

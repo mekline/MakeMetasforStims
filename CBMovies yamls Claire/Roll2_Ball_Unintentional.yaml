@@ -1,3 +1,4 @@
+Agent: Agent5
 Color: full color
 Filename: Roll2_Ball_Unintentional.yaml
 ItemCondition:
@@ -13,6 +14,7 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
+Patient: Mini beach ball
 PrimarySentenceDescription: 'The beach ball is resting on a towel. '
 PrimaryVerbDescription: Unintentional
 Size: TO ADD

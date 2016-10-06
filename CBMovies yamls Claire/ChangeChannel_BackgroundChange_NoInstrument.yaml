@@ -1,3 +1,4 @@
+Agent: Agent8
 Color: full color
 Filename: ChangeChannel_BackgroundChange_NoInstrument.yaml
 ItemCondition:
@@ -13,6 +14,7 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
+Patient: Black computer
 PrimarySentenceDescription: ''
 PrimaryVerbDescription: BackgroundChange
 Size: TO ADD

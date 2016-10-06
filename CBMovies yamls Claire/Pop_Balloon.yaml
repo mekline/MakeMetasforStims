@@ -1,3 +1,4 @@
+Agent: Agent10
 Color: full color
 Filename: Pop_Balloon.yaml
 ItemCondition:
@@ -13,6 +14,7 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
+Patient: Pink balloon
 PrimarySentenceDescription: The woman is writing with a pen.
 PrimaryVerbDescription: Base
 Size: TO ADD

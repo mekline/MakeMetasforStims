@@ -1,3 +1,4 @@
+Agent: Agent2
 Color: full color
 Filename: PourMarbles_ObjectChange_NoInstrument.yaml
 ItemCondition:
@@ -13,6 +14,7 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
+Patient: Green marbles
 PrimarySentenceDescription: ''
 PrimaryVerbDescription: ObjectChange
 Size: TO ADD

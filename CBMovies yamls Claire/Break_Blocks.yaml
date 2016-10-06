@@ -1,3 +1,4 @@
+Agent: Agent7
 Color: full color
 Filename: Break_Blocks.yaml
 ItemCondition:
@@ -13,6 +14,7 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
+Patient: Block tower
 PrimarySentenceDescription: The woman approaches the table.
 PrimaryVerbDescription: Base
 Size: TO ADD

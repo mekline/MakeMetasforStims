@@ -1,3 +1,4 @@
+Agent: Agent16
 Color: full color
 Filename: KnockOver_MannerChange_Instrument.yaml
 ItemCondition:
@@ -13,6 +14,7 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
+Patient: Pink block
 PrimarySentenceDescription: The man is holding a green block.
 PrimaryVerbDescription: MannerChange
 Size: TO ADD

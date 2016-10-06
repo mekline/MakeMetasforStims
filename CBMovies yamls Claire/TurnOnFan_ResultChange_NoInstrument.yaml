@@ -1,3 +1,4 @@
+Agent: Agent25
 Color: full color
 Filename: TurnOnFan_ResultChange_NoInstrument.yaml
 ItemCondition:
@@ -13,6 +14,7 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
+Patient: Orange fan with paper strips
 PrimarySentenceDescription: ''
 PrimaryVerbDescription: ResultChange
 Size: TO ADD

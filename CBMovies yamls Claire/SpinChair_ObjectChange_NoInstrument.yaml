@@ -1,3 +1,4 @@
+Agent: Agent19
 Color: full color
 Filename: SpinChair_ObjectChange_NoInstrument.yaml
 ItemCondition:
@@ -13,6 +14,7 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
+Patient: Blue chair
 PrimarySentenceDescription: ''
 PrimaryVerbDescription: ObjectChange
 Size: TO ADD

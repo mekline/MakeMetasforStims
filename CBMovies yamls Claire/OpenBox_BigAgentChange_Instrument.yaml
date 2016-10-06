@@ -1,3 +1,4 @@
+Agent: Agent18
 Color: full color
 Filename: OpenBox_BigAgentChange_Instrument.yaml
 ItemCondition:
@@ -13,6 +14,7 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
+Patient: Black box
 PrimarySentenceDescription: Repeat
 PrimaryVerbDescription: BigAgentChange
 Size: TO ADD

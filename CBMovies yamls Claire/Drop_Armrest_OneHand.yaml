@@ -1,3 +1,4 @@
+Agent: Agent13
 Color: full color
 Filename: Drop_Armrest_OneHand.yaml
 ItemCondition:
@@ -13,6 +14,7 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
+Patient: Red bag
 PrimarySentenceDescription: ''
 PrimaryVerbDescription: Base
 Size: TO ADD

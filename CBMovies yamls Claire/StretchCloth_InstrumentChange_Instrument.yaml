@@ -1,3 +1,4 @@
+Agent: Agent23
 Color: full color
 Filename: StretchCloth_InstrumentChange_Instrument.yaml
 ItemCondition:
@@ -13,6 +14,7 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
+Patient: White cloth
 PrimarySentenceDescription: The cloth is on a hanger.
 PrimaryVerbDescription: InstrumentChange
 Size: TO ADD

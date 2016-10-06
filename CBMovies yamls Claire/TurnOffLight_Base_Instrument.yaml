@@ -1,3 +1,4 @@
+Agent: Agent23
 Color: full color
 Filename: TurnOffLight_Base_Instrument.yaml
 ItemCondition:
@@ -13,6 +14,7 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
+Patient: Red lamp
 PrimarySentenceDescription: The lamp shade is red.
 PrimaryVerbDescription: Base
 Size: TO ADD

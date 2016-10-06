@@ -1,3 +1,4 @@
+Agent: Agent21
 Color: full color
 Filename: RollTruck_ObjectChange_NoInstrument.yaml
 ItemCondition:
@@ -13,6 +14,7 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
+Patient: Blue car
 PrimarySentenceDescription: ''
 PrimaryVerbDescription: ObjectChange
 Size: TO ADD

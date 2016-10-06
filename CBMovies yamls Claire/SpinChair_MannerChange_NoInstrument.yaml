@@ -1,3 +1,4 @@
+Agent: Agent19
 Color: full color
 Filename: SpinChair_MannerChange_NoInstrument.yaml
 ItemCondition:
@@ -13,6 +14,7 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
+Patient: Five wheel black chair
 PrimarySentenceDescription: Repeat
 PrimaryVerbDescription: MannerChange
 Size: TO ADD

@@ -1,3 +1,4 @@
+Agent: Agent22
 Color: full color
 Filename: StandUpGiraffe_ObjectChange_Instrument.yaml
 ItemCondition:
@@ -13,6 +14,7 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
+Patient: Stuffed giraffe
 PrimarySentenceDescription: The chair is blue.
 PrimaryVerbDescription: ObjectChange
 Size: TO ADD

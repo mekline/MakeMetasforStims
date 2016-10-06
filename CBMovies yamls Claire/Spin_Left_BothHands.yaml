@@ -1,3 +1,4 @@
+Agent: Agent3
 Color: full color
 Filename: Spin_Left_BothHands.yaml
 ItemCondition:
@@ -13,6 +14,7 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
+Patient: Five wheel black chair
 PrimarySentenceDescription: The man approaches the chair.
 PrimaryVerbDescription: ResultChange
 Size: TO ADD

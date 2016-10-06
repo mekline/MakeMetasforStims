@@ -1,3 +1,4 @@
+Agent: Agent2
 Color: full color
 Filename: Ring_RightHand_Ring1.yaml
 ItemCondition:
@@ -13,6 +14,7 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
+Patient: Gold bell
 PrimarySentenceDescription: ''
 PrimaryVerbDescription: CounterbalanceMR
 Size: TO ADD

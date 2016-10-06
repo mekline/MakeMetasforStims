@@ -1,3 +1,4 @@
+Agent: Agent3
 Color: full color
 Filename: Rotate_Top_toWhite.yaml
 ItemCondition:
@@ -13,6 +14,7 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
+Patient: Half white half blue bottle
 PrimarySentenceDescription: The bottle is half white and half blue.
 PrimaryVerbDescription: ResultChange
 Size: TO ADD

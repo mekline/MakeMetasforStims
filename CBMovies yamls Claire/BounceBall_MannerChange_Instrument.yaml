@@ -1,3 +1,4 @@
+Agent: Agent4
 Color: full color
 Filename: BounceBall_MannerChange_Instrument.yaml
 ItemCondition:
@@ -13,6 +14,7 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
+Patient: Clear ball
 PrimarySentenceDescription: The man holds a red frisbee in his right hand.
 PrimaryVerbDescription: MannerChange
 Size: TO ADD

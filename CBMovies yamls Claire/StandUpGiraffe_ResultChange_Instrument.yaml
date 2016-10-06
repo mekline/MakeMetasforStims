@@ -1,3 +1,4 @@
+Agent: Agent22
 Color: full color
 Filename: StandUpGiraffe_ResultChange_Instrument.yaml
 ItemCondition:
@@ -13,6 +14,7 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
+Patient: Stuffed giraffe with brown blanket
 PrimarySentenceDescription: The woman grabs the giraffe's head with silver tongs.
 PrimaryVerbDescription: ResultChange
 Size: TO ADD

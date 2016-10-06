@@ -1,3 +1,4 @@
+Agent: Agent2
 Color: full color
 Filename: Spill_Right_TwoHands.yaml
 ItemCondition:
@@ -13,6 +14,7 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
+Patient: White marbles
 PrimarySentenceDescription: ''
 PrimaryVerbDescription: CounterbalanceMR
 Size: TO ADD

@@ -1,3 +1,4 @@
+Agent: Agent23
 Color: full color
 Filename: StretchCloth_SmallAgentChange_Instrument.yaml
 ItemCondition:
@@ -13,6 +14,7 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
+Patient: White cloth
 PrimarySentenceDescription: The woma is holding a black hanger.
 PrimaryVerbDescription: SmallAgentChange
 Size: TO ADD

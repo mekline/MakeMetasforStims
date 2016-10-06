@@ -1,3 +1,4 @@
+Agent: Agent9
 Color: full color
 Filename: TwistMobile_SmallAgentChange_Instrument.yaml
 ItemCondition:
@@ -13,6 +14,7 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
+Patient: Brown mobile with yellow crossed grey stars
 PrimarySentenceDescription: ''
 PrimaryVerbDescription: SmallAgentChange
 Size: TO ADD

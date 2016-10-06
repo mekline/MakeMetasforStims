@@ -1,3 +1,4 @@
+Agent: Agent16
 Color: full color
 Filename: SlideChair_BigAgentChange_NoInstrument.yaml
 ItemCondition:
@@ -13,6 +14,7 @@ Participants:
 - ID: addUniqueID
   Role: Patient
   isAnimate: 0
+Patient: Five wheel black chair
 PrimarySentenceDescription: The chair is black.
 PrimaryVerbDescription: BigAgentChange
 Size: TO ADD

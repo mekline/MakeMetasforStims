@@ -18,8 +18,11 @@ def convert_to_yaml(line, counter):
     secondarySentenceDescription = line[13]
     verboseDescription = ['TO ADD', 'Multiple items']
     agent = line[5]
-    patient = line [7]
+    patient = line[7]
     filename = line[4].split('.')[0] + '.yaml'
+    mc ='placeholder'
+    inst = 'placeholder'
+
     print(filename)
 
     try:
@@ -29,15 +32,14 @@ def convert_to_yaml(line, counter):
         movielength = 'not specified'
     size = [0,0] #The sizes for the movies are undefined right now...
    
-    mc ='placeholder'
-    inst = 'placeholder'
+
     movie_item = {}
     movie_item = {
-        'ItemNo': itemNo,
-        #'Agent':agent
+        'ItemNo':itemNo,
+        'Agent':agent,
         #got super sassy with syntax when I added agent and patient
         #adding agent to yaml
-        #'Patient':patient
+        'Patient':patient,
         #adding patient to yaml
         #woah why is patient invalid? line 83
         'ItemCondition': [mc, inst],
