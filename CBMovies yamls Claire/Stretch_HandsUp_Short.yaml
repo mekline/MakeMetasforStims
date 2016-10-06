@@ -1,0 +1,21 @@
+Color: full color
+Filename: Stretch_HandsUp_Short.yaml
+ItemCondition:
+- placeholder
+- placeholder
+ItemNo: 12
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: ''
+PrimaryVerbDescription: MannerChange
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

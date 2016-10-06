@@ -1,0 +1,21 @@
+Color: full color
+Filename: TwistMobile_ObjectChange_NoInstrument.yaml
+ItemCondition:
+- placeholder
+- placeholder
+ItemNo: 31
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The woman pushes the mobile with her finger.
+PrimaryVerbDescription: ObjectChange
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

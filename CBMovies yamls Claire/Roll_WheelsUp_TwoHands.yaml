@@ -1,0 +1,21 @@
+Color: full color
+Filename: Roll_WheelsUp_TwoHands.yaml
+ItemCondition:
+- placeholder
+- placeholder
+ItemNo: 8
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The truck is blue.
+PrimaryVerbDescription: Base
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

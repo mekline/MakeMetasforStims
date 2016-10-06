@@ -1,0 +1,21 @@
+Color: full color
+Filename: TurnOffLight_MannerChange_NoInstrument.yaml
+ItemCondition:
+- placeholder
+- placeholder
+ItemNo: 35
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The woman is holding a stack of books.
+PrimaryVerbDescription: MannerChange
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

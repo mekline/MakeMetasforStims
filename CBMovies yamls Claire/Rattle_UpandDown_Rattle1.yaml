@@ -1,0 +1,21 @@
+Color: full color
+Filename: Rattle_UpandDown_Rattle1.yaml
+ItemCondition:
+- placeholder
+- placeholder
+ItemNo: 6
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The woman is holding a blue ring-shaped rattle.
+PrimaryVerbDescription: ResultChange
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

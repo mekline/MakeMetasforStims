@@ -1,0 +1,21 @@
+Color: full color
+Filename: Push_Left_LeftHand.yaml
+ItemCondition:
+- placeholder
+- placeholder
+ItemNo: 5
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: There is a glass bottle on the table.
+PrimaryVerbDescription: Base
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

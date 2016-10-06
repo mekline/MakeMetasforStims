@@ -1,0 +1,21 @@
+Color: full color
+Filename: StretchCloth_SmallAgentChange_NoInstrument.yaml
+ItemCondition:
+- placeholder
+- placeholder
+ItemNo: 37
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The woman is stetching the cloth diagonally.
+PrimaryVerbDescription: SmallAgentChange
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

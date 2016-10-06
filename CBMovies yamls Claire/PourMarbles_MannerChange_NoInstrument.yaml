@@ -1,0 +1,21 @@
+Color: full color
+Filename: PourMarbles_MannerChange_NoInstrument.yaml
+ItemCondition:
+- placeholder
+- placeholder
+ItemNo: 30
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The woman pours yellow marbles into a bucket.
+PrimaryVerbDescription: MannerChange
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

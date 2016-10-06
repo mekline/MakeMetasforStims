@@ -1,0 +1,21 @@
+Color: full color
+Filename: Rotate_Below_toBlue.yaml
+ItemCondition:
+- placeholder
+- placeholder
+ItemNo: 9
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The bottle is white and blue.
+PrimaryVerbDescription: CounterbalanceMR
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

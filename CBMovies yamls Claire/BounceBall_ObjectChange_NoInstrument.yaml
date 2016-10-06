@@ -1,0 +1,21 @@
+Color: full color
+Filename: BounceBall_ObjectChange_NoInstrument.yaml
+ItemCondition:
+- placeholder
+- placeholder
+ItemNo: 27
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The man is holding a red striped frisbee in his left hand.
+PrimaryVerbDescription: ObjectChange
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

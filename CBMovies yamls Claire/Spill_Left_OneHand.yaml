@@ -1,0 +1,21 @@
+Color: full color
+Filename: Spill_Left_OneHand.yaml
+ItemCondition:
+- placeholder
+- placeholder
+ItemNo: 10
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The woman is holding a clear plasitc cup.
+PrimaryVerbDescription: Base
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

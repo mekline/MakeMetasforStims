@@ -1,0 +1,21 @@
+Color: full color
+Filename: KnockOver_BackgroundChange_NoInstrument.yaml
+ItemCondition:
+- placeholder
+- placeholder
+ItemNo: 19
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: ''
+PrimaryVerbDescription: BackgroundChange
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

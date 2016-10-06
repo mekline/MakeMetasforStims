@@ -1,0 +1,21 @@
+Color: full color
+Filename: BeepToy_MannerChange_NoInstrument.yaml
+ItemCondition:
+- placeholder
+- placeholder
+ItemNo: 29
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The woman lowers her hand onto the toy.
+PrimaryVerbDescription: MannerChange
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

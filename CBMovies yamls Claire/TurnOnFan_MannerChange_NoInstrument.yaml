@@ -1,0 +1,21 @@
+Color: full color
+Filename: TurnOnFan_MannerChange_NoInstrument.yaml
+ItemCondition:
+- placeholder
+- placeholder
+ItemNo: 36
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The fan is orange and black.
+PrimaryVerbDescription: MannerChange
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items
