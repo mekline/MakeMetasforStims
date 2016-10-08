@@ -1,23 +1,29 @@
-Agent: Agent15
+Agent: Jingle.mp4
 Color: full color
+FifthSentenceDescription: The box jingles.
 Filename: Jingle.yaml
+FourthSentenceDescription: The objects inside the  clear sphere roll around.
 ItemCondition:
-- placeholder
-- placeholder
+- Base
+- NA
 ItemNo: 40
-Length: not specified
+Length: 59.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- Agent: Jingle.mp4
+  ID: addUniqueID
   Role: Agent
   isAnimate: 1
 - ID: addUniqueID
+  Patient: NA
   Role: Patient
   isAnimate: 0
-Patient: Orange and yellow box
-PrimarySentenceDescription: The woman is sitting next to the box.
-PrimaryVerbDescription: Base
+Patient: NA
+PrimarySentenceDescription: '59'
+PrimaryVerbDescription: Jingle
+SecondarySentenceDescription: The woman is sitting next to the box.
 Size: TO ADD
+ThirdSentenceDescription: The box has a clear spinning sphere on its front side.
 VerboseDescription:
 - TO ADD
 - Multiple items

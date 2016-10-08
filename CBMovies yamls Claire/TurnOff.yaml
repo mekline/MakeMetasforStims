@@ -1,0 +1,29 @@
+Agent: TurnOffLight_ObjectChange_NoInstrument.mp4
+Color: full color
+FifthSentenceDescription: The woman uses her elbow to turn the light off.
+Filename: TurnOff.yaml
+FourthSentenceDescription: The woman is standing to the left of the lamp.
+ItemCondition:
+- ObjectChange
+- NA
+ItemNo: 35
+Length: 294.0
+NParticipants: 2
+Participants:
+- Agent: TurnOffLight_ObjectChange_NoInstrument.mp4
+  ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Patient: NA
+  Role: Patient
+  isAnimate: 0
+Patient: NA
+PrimarySentenceDescription: '294'
+PrimaryVerbDescription: TurnOff
+SecondarySentenceDescription: The lamp shade is purple.
+Size: TO ADD
+ThirdSentenceDescription: The woman is holding a pile of white books.
+VerboseDescription:
+- TO ADD
+- Multiple items

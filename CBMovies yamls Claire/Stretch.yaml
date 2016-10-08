@@ -1,0 +1,29 @@
+Agent: StretchCloth_ObjectChange_NoInstrument.mp4
+Color: full color
+FifthSentenceDescription: ''
+Filename: Stretch.yaml
+FourthSentenceDescription: ''
+ItemCondition:
+- ObjectChange
+- NA
+ItemNo: 37
+Length: 241.0
+NParticipants: 2
+Participants:
+- Agent: StretchCloth_ObjectChange_NoInstrument.mp4
+  ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Patient: NA
+  Role: Patient
+  isAnimate: 0
+Patient: NA
+PrimarySentenceDescription: '241'
+PrimaryVerbDescription: Stretch
+SecondarySentenceDescription: ''
+Size: TO ADD
+ThirdSentenceDescription: ''
+VerboseDescription:
+- TO ADD
+- Multiple items

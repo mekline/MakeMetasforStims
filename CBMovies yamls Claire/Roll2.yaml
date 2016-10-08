@@ -1,0 +1,29 @@
+Agent: Roll2_Ball.mp4
+Color: full color
+FifthSentenceDescription: The towel is pulled out from under the beach ball.
+Filename: Roll2.yaml
+FourthSentenceDescription: He lifts the edges of the towel with his hands.
+ItemCondition:
+- Base
+- NA
+ItemNo: 13
+Length: 138.0
+NParticipants: 2
+Participants:
+- Agent: Roll2_Ball.mp4
+  ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Patient: NA
+  Role: Patient
+  isAnimate: 0
+Patient: NA
+PrimarySentenceDescription: '138'
+PrimaryVerbDescription: Roll2
+SecondarySentenceDescription: 'The beach ball is resting on a towel. '
+Size: TO ADD
+ThirdSentenceDescription: The man is kneeling in front of the towel.
+VerboseDescription:
+- TO ADD
+- Multiple items

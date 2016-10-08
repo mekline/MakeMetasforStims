@@ -1,0 +1,29 @@
+Agent: Rotate_Below_toBlue.mp4
+Color: full color
+FifthSentenceDescription: The man is wearing a baby blue shirt.
+Filename: Rotate.yaml
+FourthSentenceDescription: The bottle color changes.
+ItemCondition:
+- CounterbalanceMR
+- NA
+ItemNo: 9
+Length: 154.0
+NParticipants: 2
+Participants:
+- Agent: Rotate_Below_toBlue.mp4
+  ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Patient: NA
+  Role: Patient
+  isAnimate: 0
+Patient: NA
+PrimarySentenceDescription: '154'
+PrimaryVerbDescription: Rotate
+SecondarySentenceDescription: The bottle is white and blue.
+Size: TO ADD
+ThirdSentenceDescription: The man is rotating the bottle.
+VerboseDescription:
+- TO ADD
+- Multiple items

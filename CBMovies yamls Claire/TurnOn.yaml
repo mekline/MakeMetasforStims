@@ -1,0 +1,29 @@
+Agent: TurnOnFan_ObjectChange_NoInstrument.mp4
+Color: full color
+FifthSentenceDescription: The fan turns on.
+Filename: TurnOn.yaml
+FourthSentenceDescription: The woman presses the fan.
+ItemCondition:
+- ObjectChange
+- NA
+ItemNo: 36
+Length: 303.0
+NParticipants: 2
+Participants:
+- Agent: TurnOnFan_ObjectChange_NoInstrument.mp4
+  ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Patient: NA
+  Role: Patient
+  isAnimate: 0
+Patient: NA
+PrimarySentenceDescription: '303'
+PrimaryVerbDescription: TurnOn
+SecondarySentenceDescription: The fan is black.
+Size: TO ADD
+ThirdSentenceDescription: There are strips of paper tied to the fan.
+VerboseDescription:
+- TO ADD
+- Multiple items
