@@ -1,0 +1,27 @@
+Color: full color
+FifthSentenceDescription: ''
+Filename: BounceBall_MannerChange_NoInstrument.mp4
+FourthSentenceDescription: The ball bounces on the book.
+ItemCondition:
+- MannerChange
+- NoInstrument
+ItemNo: 27
+Length: 32.0
+NParticipants: 2
+Participants:
+- ID: Agent4
+  Role: Agent
+  isAnimate: 1
+- ID: Clear ball
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The man drops a clear ball.
+PrimaryVerbDescription: Bounce
+SecondarySentenceDescription: He is standing in front of a table.
+ThirdSentenceDescription: There is a book on the table.
+VerboseDescription:
+- The man drops a clear ball.
+- He is standing in front of a table.
+- There is a book on the table.
+- The ball bounces on the book.
+- ''

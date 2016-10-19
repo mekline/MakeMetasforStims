@@ -1,23 +1,27 @@
-Agent: Agent17
 Color: full color
+FifthSentenceDescription: The leaves are dead and brown.
 Filename: RustleLeaves_MannerChange_NoInstrument.yaml
+FourthSentenceDescription: The woman brushes her hand over the leaves.
 ItemCondition:
-- placeholder
-- placeholder
+- MannerChange
+- NoInstrument
 ItemNo: 34
-Length: not specified
+Length: 166.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent17
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Pile of brown leaves
   Role: Patient
   isAnimate: 0
-Patient: Pile of brown leaves
 PrimarySentenceDescription: The woman is stitting.
-PrimaryVerbDescription: MannerChange
-Size: TO ADD
+PrimaryVerbDescription: Rustle
+SecondarySentenceDescription: There is a pile of leaves on the table.
+ThirdSentenceDescription: There is a basket next to the woman.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The woman is stitting.
+- There is a pile of leaves on the table.
+- There is a basket next to the woman.
+- The woman brushes her hand over the leaves.
+- The leaves are dead and brown.

@@ -1,23 +1,27 @@
-Agent: Agent21
 Color: full color
+FifthSentenceDescription: ''
 Filename: RollTruck_ObjectChange_NoInstrument.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- ObjectChange
+- NoInstrument
 ItemNo: 22
-Length: not specified
+Length: 149.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent21
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Blue car
   Role: Patient
   isAnimate: 0
-Patient: Blue car
 PrimarySentenceDescription: ''
-PrimaryVerbDescription: ObjectChange
-Size: TO ADD
+PrimaryVerbDescription: Roll
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- ''
+- ''
+- ''
+- ''
+- ''

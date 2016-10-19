@@ -1,23 +1,27 @@
-Agent: Agent5
 Color: full color
+FifthSentenceDescription: ''
 Filename: TiltLamp_BackgroundChange_NoInstrument.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- BackgroundChange
+- NoInstrument
 ItemNo: 28
-Length: not specified
+Length: 269.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent5
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Lamp with upward facing lightbulb
   Role: Patient
   isAnimate: 0
-Patient: Lamp with upward facing lightbulb
 PrimarySentenceDescription: Repeat.
-PrimaryVerbDescription: BackgroundChange
-Size: TO ADD
+PrimaryVerbDescription: Tilt
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- Repeat.
+- ''
+- ''
+- ''
+- ''

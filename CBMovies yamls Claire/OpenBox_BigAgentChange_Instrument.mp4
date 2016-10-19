@@ -1,0 +1,30 @@
+Color: full color
+FifthSentenceDescription: ''
+Filename: OpenBox_BigAgentChange_Instrument.mp4
+FourthSentenceDescription: ''
+ItemCondition:
+- BigAgentChange
+- Instrument
+ItemNo: 26
+Length: 79.0
+NParticipants: 3
+Participants:
+- ID: Agent18
+  Role: Agent
+  isAnimate: 1
+- ID: Black box
+  Role: Patient
+  isAnimate: 0
+- ID: Yellow rake
+  Role: Instrument
+  isAnimate: 0
+PrimarySentenceDescription: Repeat
+PrimaryVerbDescription: Open
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
+VerboseDescription:
+- Repeat
+- ''
+- ''
+- ''
+- ''

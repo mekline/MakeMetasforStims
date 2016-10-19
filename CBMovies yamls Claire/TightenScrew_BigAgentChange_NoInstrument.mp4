@@ -1,0 +1,27 @@
+Color: full color
+FifthSentenceDescription: The man tightens the screw into the box.
+Filename: TightenScrew_BigAgentChange_NoInstrument.mp4
+FourthSentenceDescription: An untightened screw protrudes from the box.
+ItemCondition:
+- BigAgentChange
+- NoInstrument
+ItemNo: 21
+Length: 263.0
+NParticipants: 2
+Participants:
+- ID: Agent24
+  Role: Agent
+  isAnimate: 1
+- ID: Blue screw
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The man is sitting in front of a blue starry wall.
+PrimaryVerbDescription: Tighten
+SecondarySentenceDescription: There is a blue plastic toolbox.
+ThirdSentenceDescription: There is an orange object in the blue box.
+VerboseDescription:
+- The man is sitting in front of a blue starry wall.
+- There is a blue plastic toolbox.
+- There is an orange object in the blue box.
+- An untightened screw protrudes from the box.
+- The man tightens the screw into the box.

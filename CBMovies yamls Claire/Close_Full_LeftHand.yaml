@@ -1,23 +1,27 @@
-Agent: Agent5
 Color: full color
+FifthSentenceDescription: ''
 Filename: Close_Full_LeftHand.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- CounterbalanceMR
+- NoInstrument
 ItemNo: 3
-Length: not specified
+Length: 49.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent5
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Blinds
   Role: Patient
   isAnimate: 0
-Patient: Blinds
 PrimarySentenceDescription: ''
-PrimaryVerbDescription: CounterbalanceMR
-Size: TO ADD
+PrimaryVerbDescription: Close
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- ''
+- ''
+- ''
+- ''
+- ''

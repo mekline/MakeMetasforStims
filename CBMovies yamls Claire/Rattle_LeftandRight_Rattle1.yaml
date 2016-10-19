@@ -1,23 +1,27 @@
-Agent: Agent6
 Color: full color
+FifthSentenceDescription: ''
 Filename: Rattle_LeftandRight_Rattle1.yaml
+FourthSentenceDescription: The woman is standing.
 ItemCondition:
-- placeholder
-- placeholder
+- CounterbalanceMR
+- NoInstrument
 ItemNo: 6
-Length: not specified
+Length: 125.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent6
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Blue rattle
   Role: Patient
   isAnimate: 0
-Patient: Blue rattle
 PrimarySentenceDescription: The woman is holding a blue ring.
-PrimaryVerbDescription: CounterbalanceMR
-Size: TO ADD
+PrimaryVerbDescription: Rattle
+SecondarySentenceDescription: She moves the ring from side to side.
+ThirdSentenceDescription: The ring ratttles.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The woman is holding a blue ring.
+- She moves the ring from side to side.
+- The ring ratttles.
+- The woman is standing.
+- ''

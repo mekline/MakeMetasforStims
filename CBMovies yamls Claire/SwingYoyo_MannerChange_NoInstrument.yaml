@@ -1,23 +1,27 @@
-Agent: Agent18
 Color: full color
+FifthSentenceDescription: ''
 Filename: SwingYoyo_MannerChange_NoInstrument.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- MannerChange
+- NoInstrument
 ItemNo: 33
-Length: not specified
+Length: 254.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent18
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Green yoyo
   Role: Patient
   isAnimate: 0
-Patient: Green yoyo
 PrimarySentenceDescription: Repeat.
-PrimaryVerbDescription: MannerChange
-Size: TO ADD
+PrimaryVerbDescription: Swing
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- Repeat.
+- ''
+- ''
+- ''
+- ''

@@ -1,23 +1,27 @@
-Agent: Agent19
 Color: full color
+FifthSentenceDescription: ''
 Filename: PlayMusicBox_BigAgentChange_NoInstrument.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- BigAgentChange
+- NoInstrument
 ItemNo: 25
-Length: not specified
+Length: 95.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent19
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Orange and yellow box
   Role: Patient
   isAnimate: 0
-Patient: Orange and yellow box
 PrimarySentenceDescription: ''
-PrimaryVerbDescription: BigAgentChange
-Size: TO ADD
+PrimaryVerbDescription: Play
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- ''
+- ''
+- ''
+- ''
+- ''

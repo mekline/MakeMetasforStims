@@ -1,0 +1,27 @@
+Color: full color
+FifthSentenceDescription: ''
+Filename: BeepToy_BackgroundChange_NoInstrument.mp4
+FourthSentenceDescription: The woman is sitting.
+ItemCondition:
+- BackgroundChange
+- NoInstrument
+ItemNo: 29
+Length: 2.0
+NParticipants: 2
+Participants:
+- ID: Agent1
+  Role: Agent
+  isAnimate: 1
+- ID: Yellow star toy
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The woman presses the toy with her pointer finger.
+PrimaryVerbDescription: Beep
+SecondarySentenceDescription: The toy buzzes.
+ThirdSentenceDescription: The toy is multicolored.
+VerboseDescription:
+- The woman presses the toy with her pointer finger.
+- The toy buzzes.
+- The toy is multicolored.
+- The woman is sitting.
+- ''

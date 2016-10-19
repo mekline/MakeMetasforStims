@@ -1,23 +1,27 @@
-Agent: Agent18
 Color: full color
+FifthSentenceDescription: The yoyo hangs from the string.
 Filename: SwingYoyo_Base_NoInstrument.yaml
+FourthSentenceDescription: The yoyo moves side to side.
 ItemCondition:
-- placeholder
-- placeholder
+- Base
+- NoInstrument
 ItemNo: 33
-Length: not specified
+Length: 249.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent18
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Green yoyo
   Role: Patient
   isAnimate: 0
-Patient: Green yoyo
 PrimarySentenceDescription: The woman is wearing a white shirt.
-PrimaryVerbDescription: Base
-Size: TO ADD
+PrimaryVerbDescription: Swing
+SecondarySentenceDescription: She holds a yoyo by its string.
+ThirdSentenceDescription: She moves her hand back and forth.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The woman is wearing a white shirt.
+- She holds a yoyo by its string.
+- She moves her hand back and forth.
+- The yoyo moves side to side.
+- The yoyo hangs from the string.

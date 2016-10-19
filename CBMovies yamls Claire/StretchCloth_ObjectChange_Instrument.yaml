@@ -1,23 +1,30 @@
-Agent: Agent23
 Color: full color
+FifthSentenceDescription: ''
 Filename: StretchCloth_ObjectChange_Instrument.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- ObjectChange
+- Instrument
 ItemNo: 37
-Length: not specified
-NParticipants: 2
+Length: 240.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent23
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: White cloth with black speckles
   Role: Patient
   isAnimate: 0
-Patient: White cloth with black speckles
+- ID: Black hanger
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: ''
-PrimaryVerbDescription: ObjectChange
-Size: TO ADD
+PrimaryVerbDescription: Stretch
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- ''
+- ''
+- ''
+- ''
+- ''

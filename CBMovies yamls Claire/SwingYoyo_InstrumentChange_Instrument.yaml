@@ -1,23 +1,30 @@
-Agent: Agent18
 Color: full color
+FifthSentenceDescription: ''
 Filename: SwingYoyo_InstrumentChange_Instrument.yaml
+FourthSentenceDescription: The woman is moving the broom.
 ItemCondition:
-- placeholder
-- placeholder
+- InstrumentChange
+- Instrument
 ItemNo: 33
-Length: not specified
-NParticipants: 2
+Length: 252.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent18
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Green yoyo
   Role: Patient
   isAnimate: 0
-Patient: Green yoyo
+- ID: Broom
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: The woman is holding a broom.
-PrimaryVerbDescription: InstrumentChange
-Size: TO ADD
+PrimaryVerbDescription: Swing
+SecondarySentenceDescription: The yoyo is hanging from a broom.
+ThirdSentenceDescription: The yoyo is swinging.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The woman is holding a broom.
+- The yoyo is hanging from a broom.
+- The yoyo is swinging.
+- The woman is moving the broom.
+- ''

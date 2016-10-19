@@ -1,23 +1,27 @@
-Agent: Agent23
 Color: full color
+FifthSentenceDescription: She turns the light off with her wrist.
 Filename: TurnOffLight_MannerChange_NoInstrument.yaml
+FourthSentenceDescription: The woman lifts her arm.
 ItemCondition:
-- placeholder
-- placeholder
+- MannerChange
+- NoInstrument
 ItemNo: 35
-Length: not specified
+Length: 292.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent23
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Red lamp
   Role: Patient
   isAnimate: 0
-Patient: Red lamp
 PrimarySentenceDescription: The woman is holding a stack of books.
-PrimaryVerbDescription: MannerChange
-Size: TO ADD
+PrimaryVerbDescription: TurnOff
+SecondarySentenceDescription: The lamp shade is red.
+ThirdSentenceDescription: The lamp is ontop of a high tabletop.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The woman is holding a stack of books.
+- The lamp shade is red.
+- The lamp is ontop of a high tabletop.
+- The woman lifts her arm.
+- She turns the light off with her wrist.

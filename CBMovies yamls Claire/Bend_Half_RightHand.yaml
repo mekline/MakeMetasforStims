@@ -1,23 +1,27 @@
-Agent: Agent3
 Color: full color
+FifthSentenceDescription: The tube points to the left.
 Filename: Bend_Half_RightHand.yaml
+FourthSentenceDescription: He bends the tube in half with his upper hand.
 ItemCondition:
-- placeholder
-- placeholder
+- ResultChange
+- NoInstrument
 ItemNo: 1
-Length: not specified
+Length: 19.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent3
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Yellow bendy tube
   Role: Patient
   isAnimate: 0
-Patient: Yellow bendy tube
 PrimarySentenceDescription: The bendy tube is yellow.
-PrimaryVerbDescription: ResultChange
-Size: TO ADD
+PrimaryVerbDescription: Bend
+SecondarySentenceDescription: The man holds both ends of the bendy tube.
+ThirdSentenceDescription: The man holds the tube vertically.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The bendy tube is yellow.
+- The man holds both ends of the bendy tube.
+- The man holds the tube vertically.
+- He bends the tube in half with his upper hand.
+- The tube points to the left.

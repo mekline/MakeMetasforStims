@@ -1,0 +1,30 @@
+Color: full color
+FifthSentenceDescription: She stretches the cloth diagonally
+Filename: StretchCloth_InstrumentChange_Instrument.mp4
+FourthSentenceDescription: The woman is holding the hanger.
+ItemCondition:
+- InstrumentChange
+- Instrument
+ItemNo: 37
+Length: 237.0
+NParticipants: 3
+Participants:
+- ID: Agent23
+  Role: Agent
+  isAnimate: 1
+- ID: White cloth
+  Role: Patient
+  isAnimate: 0
+- ID: White hanger
+  Role: Instrument
+  isAnimate: 0
+PrimarySentenceDescription: The cloth is on a hanger.
+PrimaryVerbDescription: Stretch
+SecondarySentenceDescription: The hanger is clear.
+ThirdSentenceDescription: The woman stretches the cloth.
+VerboseDescription:
+- The cloth is on a hanger.
+- The hanger is clear.
+- The woman stretches the cloth.
+- The woman is holding the hanger.
+- She stretches the cloth diagonally

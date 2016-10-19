@@ -1,23 +1,27 @@
-Agent: Agent6
 Color: full color
+FifthSentenceDescription: She extends her arm.
 Filename: Roll_WheelsUp_OneHand.yaml
+FourthSentenceDescription: She pushes the truck away from herself.
 ItemCondition:
-- placeholder
-- placeholder
+- MannerChange
+- NoInstrument
 ItemNo: 8
-Length: not specified
+Length: 135.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent6
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Yellow wheeled truck
   Role: Patient
   isAnimate: 0
-Patient: Yellow wheeled truck
 PrimarySentenceDescription: The truck rolls on its back wheels.
-PrimaryVerbDescription: MannerChange
-Size: TO ADD
+PrimaryVerbDescription: Roll
+SecondarySentenceDescription: The woman pushes the truck forward.
+ThirdSentenceDescription: The woman is sitting at a table.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The truck rolls on its back wheels.
+- The woman pushes the truck forward.
+- The woman is sitting at a table.
+- She pushes the truck away from herself.
+- She extends her arm.

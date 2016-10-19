@@ -1,23 +1,30 @@
-Agent: Agent2
 Color: full color
+FifthSentenceDescription: There is an emtpy jar on the table next to the jar of marbles.
 Filename: PourMarbles_ResultChange_Instrument.yaml
+FourthSentenceDescription: The yellow marbles fall into the filled jar.
 ItemCondition:
-- placeholder
-- placeholder
+- ResultChange
+- Instrument
 ItemNo: 30
-Length: not specified
-NParticipants: 2
+Length: 117.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent2
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Yellow marbles
   Role: Patient
   isAnimate: 0
-Patient: Yellow marbles
+- ID: Green and white pen
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: The woman is holding a cup of yellow marbles.
-PrimaryVerbDescription: ResultChange
-Size: TO ADD
+PrimaryVerbDescription: Pour
+SecondarySentenceDescription: She scoops out the marbles with a green pen.
+ThirdSentenceDescription: There is a jar with yellow and green marbles on the table.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The woman is holding a cup of yellow marbles.
+- She scoops out the marbles with a green pen.
+- There is a jar with yellow and green marbles on the table.
+- The yellow marbles fall into the filled jar.
+- There is an emtpy jar on the table next to the jar of marbles.

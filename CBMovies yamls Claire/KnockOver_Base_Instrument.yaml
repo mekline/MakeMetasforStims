@@ -1,23 +1,30 @@
-Agent: Agent16
 Color: full color
+FifthSentenceDescription: ''
 Filename: KnockOver_Base_Instrument.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- Base
+- Instrument
 ItemNo: 19
-Length: not specified
-NParticipants: 2
+Length: 62.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent16
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Pink block
   Role: Patient
   isAnimate: 0
-Patient: Pink block
+- ID: Green block
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: ''
-PrimaryVerbDescription: Base
-Size: TO ADD
+PrimaryVerbDescription: Knock
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- ''
+- ''
+- ''
+- ''
+- ''

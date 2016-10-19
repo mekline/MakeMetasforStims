@@ -1,23 +1,27 @@
-Agent: Agent22
 Color: full color
+FifthSentenceDescription: ''
 Filename: StandUpGiraffe_BigAgentChange_NoInstrument.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- BigAgentChange
+- NoInstrument
 ItemNo: 23
-Length: not specified
+Length: 216.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent22
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Stuffed giraffe with brown blanket
   Role: Patient
   isAnimate: 0
-Patient: Stuffed giraffe with brown blanket
 PrimarySentenceDescription: ''
-PrimaryVerbDescription: BigAgentChange
-Size: TO ADD
+PrimaryVerbDescription: Stand
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- ''
+- ''
+- ''
+- ''
+- ''

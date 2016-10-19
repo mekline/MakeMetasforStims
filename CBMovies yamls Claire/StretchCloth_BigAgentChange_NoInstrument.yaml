@@ -1,23 +1,27 @@
-Agent: Agent2
 Color: full color
+FifthSentenceDescription: ''
 Filename: StretchCloth_BigAgentChange_NoInstrument.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- BigAgentChange
+- NoInstrument
 ItemNo: 37
-Length: not specified
+Length: 236.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent2
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: White cloth
   Role: Patient
   isAnimate: 0
-Patient: White cloth
 PrimarySentenceDescription: ''
-PrimaryVerbDescription: BigAgentChange
-Size: TO ADD
+PrimaryVerbDescription: Stretch
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- ''
+- ''
+- ''
+- ''
+- ''

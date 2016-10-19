@@ -1,23 +1,30 @@
-Agent: Agent22
 Color: full color
+FifthSentenceDescription: ''
 Filename: StandUpGiraffe_ObjectChange_Instrument.yaml
+FourthSentenceDescription: The woman turns the chair in a circle.
 ItemCondition:
-- placeholder
-- placeholder
+- ObjectChange
+- Instrument
 ItemNo: 23
-Length: not specified
-NParticipants: 2
+Length: 220.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent22
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Stuffed giraffe
   Role: Patient
   isAnimate: 0
-Patient: Stuffed giraffe
+- ID: Silver tongs
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: The chair is blue.
-PrimaryVerbDescription: ObjectChange
-Size: TO ADD
+PrimaryVerbDescription: Stand
+SecondarySentenceDescription: The woman is holding a grabber.
+ThirdSentenceDescription: The grabber grabs the metal armrest.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The chair is blue.
+- The woman is holding a grabber.
+- The grabber grabs the metal armrest.
+- The woman turns the chair in a circle.
+- ''

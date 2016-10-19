@@ -1,23 +1,27 @@
-Agent: Agent16
 Color: full color
+FifthSentenceDescription: ''
 Filename: SlideChair_BigAgentChange_NoInstrument.yaml
+FourthSentenceDescription: The chair rolls away from the man.
 ItemCondition:
-- placeholder
-- placeholder
+- BigAgentChange
+- NoInstrument
 ItemNo: 20
-Length: not specified
+Length: 178.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent16
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Five wheel black chair
   Role: Patient
   isAnimate: 0
-Patient: Five wheel black chair
 PrimarySentenceDescription: The chair is black.
-PrimaryVerbDescription: BigAgentChange
-Size: TO ADD
+PrimaryVerbDescription: Slide
+SecondarySentenceDescription: The man is standing behind the chair.
+ThirdSentenceDescription: The man pushes the back of the chair with one hand.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The chair is black.
+- The man is standing behind the chair.
+- The man pushes the back of the chair with one hand.
+- The chair rolls away from the man.
+- ''

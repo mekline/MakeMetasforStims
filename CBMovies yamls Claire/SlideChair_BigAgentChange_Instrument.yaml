@@ -1,23 +1,30 @@
-Agent: Agent16
 Color: full color
+FifthSentenceDescription: The chair is black.
 Filename: SlideChair_BigAgentChange_Instrument.yaml
+FourthSentenceDescription: The chair rolls forward.
 ItemCondition:
-- placeholder
-- placeholder
+- BigAgentChange
+- Instrument
 ItemNo: 20
-Length: not specified
-NParticipants: 2
+Length: 177.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent16
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Five wheel black chair
   Role: Patient
   isAnimate: 0
-Patient: Five wheel black chair
+- ID: Purple broom
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: The man pushes the back of the chair with a broom.
-PrimaryVerbDescription: BigAgentChange
-Size: TO ADD
+PrimaryVerbDescription: Slide
+SecondarySentenceDescription: The broom is purple.
+ThirdSentenceDescription: The man extends his arm forward.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The man pushes the back of the chair with a broom.
+- The broom is purple.
+- The man extends his arm forward.
+- The chair rolls forward.
+- The chair is black.

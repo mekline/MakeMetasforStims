@@ -1,23 +1,30 @@
-Agent: Agent9
 Color: full color
+FifthSentenceDescription: ''
 Filename: TwistMobile_ObjectChange_Instrument.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- ObjectChange
+- Instrument
 ItemNo: 31
-Length: not specified
-NParticipants: 2
+Length: 315.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent9
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Brown mobile with grey stars
   Role: Patient
   isAnimate: 0
-Patient: Brown mobile with grey stars
+- ID: Flat yellow square
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: ''
-PrimaryVerbDescription: ObjectChange
-Size: TO ADD
+PrimaryVerbDescription: Twist
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- ''
+- ''
+- ''
+- ''
+- ''

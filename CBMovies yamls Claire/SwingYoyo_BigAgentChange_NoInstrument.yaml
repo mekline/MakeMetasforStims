@@ -1,23 +1,27 @@
-Agent: Agent17
 Color: full color
+FifthSentenceDescription: ''
 Filename: SwingYoyo_BigAgentChange_NoInstrument.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- BigAgentChange
+- NoInstrument
 ItemNo: 33
-Length: not specified
+Length: 251.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent17
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Green yoyo
   Role: Patient
   isAnimate: 0
-Patient: Green yoyo
 PrimarySentenceDescription: ''
-PrimaryVerbDescription: BigAgentChange
-Size: TO ADD
+PrimaryVerbDescription: Swing
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- ''
+- ''
+- ''
+- ''
+- ''

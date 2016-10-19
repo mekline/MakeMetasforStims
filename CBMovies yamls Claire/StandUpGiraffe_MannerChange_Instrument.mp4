@@ -1,0 +1,30 @@
+Color: full color
+FifthSentenceDescription: ''
+Filename: StandUpGiraffe_MannerChange_Instrument.mp4
+FourthSentenceDescription: ''
+ItemCondition:
+- MannerChange
+- Instrument
+ItemNo: 23
+Length: 218.0
+NParticipants: 3
+Participants:
+- ID: Agent22
+  Role: Agent
+  isAnimate: 1
+- ID: Stuffed giraffe with brown blanket
+  Role: Patient
+  isAnimate: 0
+- ID: Silver tongs
+  Role: Instrument
+  isAnimate: 0
+PrimarySentenceDescription: Repeat.
+PrimaryVerbDescription: Stand
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
+VerboseDescription:
+- Repeat.
+- ''
+- ''
+- ''
+- ''

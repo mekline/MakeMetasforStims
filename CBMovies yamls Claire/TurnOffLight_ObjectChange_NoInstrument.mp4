@@ -1,0 +1,27 @@
+Color: full color
+FifthSentenceDescription: The lamp is on a shoulder-height table.
+Filename: TurnOffLight_ObjectChange_NoInstrument.mp4
+FourthSentenceDescription: The woman uses her elbow to turn the light off.
+ItemCondition:
+- ObjectChange
+- NoInstrument
+ItemNo: 35
+Length: 294.0
+NParticipants: 2
+Participants:
+- ID: Agent23
+  Role: Agent
+  isAnimate: 1
+- ID: Purple lamp
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The lamp shade is purple.
+PrimaryVerbDescription: TurnOff
+SecondarySentenceDescription: The woman is holding a pile of white books.
+ThirdSentenceDescription: The woman is standing to the left of the lamp.
+VerboseDescription:
+- The lamp shade is purple.
+- The woman is holding a pile of white books.
+- The woman is standing to the left of the lamp.
+- The woman uses her elbow to turn the light off.
+- The lamp is on a shoulder-height table.

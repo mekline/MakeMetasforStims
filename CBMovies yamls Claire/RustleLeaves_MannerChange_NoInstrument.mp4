@@ -1,0 +1,27 @@
+Color: full color
+FifthSentenceDescription: The leaves are dead and brown.
+Filename: RustleLeaves_MannerChange_NoInstrument.mp4
+FourthSentenceDescription: The woman brushes her hand over the leaves.
+ItemCondition:
+- MannerChange
+- NoInstrument
+ItemNo: 34
+Length: 166.0
+NParticipants: 2
+Participants:
+- ID: Agent17
+  Role: Agent
+  isAnimate: 1
+- ID: Pile of brown leaves
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The woman is stitting.
+PrimaryVerbDescription: Rustle
+SecondarySentenceDescription: There is a pile of leaves on the table.
+ThirdSentenceDescription: There is a basket next to the woman.
+VerboseDescription:
+- The woman is stitting.
+- There is a pile of leaves on the table.
+- There is a basket next to the woman.
+- The woman brushes her hand over the leaves.
+- The leaves are dead and brown.

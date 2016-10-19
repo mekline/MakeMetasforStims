@@ -1,23 +1,27 @@
-Agent: Agent2
 Color: full color
+FifthSentenceDescription: ''
 Filename: Ring_RightHand_Ring1.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- CounterbalanceMR
+- NoInstrument
 ItemNo: 7
-Length: not specified
+Length: 131.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent2
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Gold bell
   Role: Patient
   isAnimate: 0
-Patient: Gold bell
 PrimarySentenceDescription: ''
-PrimaryVerbDescription: CounterbalanceMR
-Size: TO ADD
+PrimaryVerbDescription: Ring
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- ''
+- ''
+- ''
+- ''
+- ''

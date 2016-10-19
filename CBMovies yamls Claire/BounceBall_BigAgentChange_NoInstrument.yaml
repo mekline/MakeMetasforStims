@@ -1,23 +1,27 @@
-Agent: Agent5
 Color: full color
+FifthSentenceDescription: ''
 Filename: BounceBall_BigAgentChange_NoInstrument.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- BigAgentChange
+- NoInstrument
 ItemNo: 27
-Length: not specified
+Length: 29.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent5
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Clear ball
   Role: Patient
   isAnimate: 0
-Patient: Clear ball
 PrimarySentenceDescription: ''
-PrimaryVerbDescription: BigAgentChange
-Size: TO ADD
+PrimaryVerbDescription: Bounce
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- ''
+- ''
+- ''
+- ''
+- ''

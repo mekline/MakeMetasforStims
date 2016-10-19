@@ -1,23 +1,30 @@
-Agent: Agent2
 Color: full color
+FifthSentenceDescription: ''
 Filename: PlayMusicBox_SmallAgentChange_Instrument.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- SmallAgentChange
+- Instrument
 ItemNo: 25
-Length: not specified
-NParticipants: 2
+Length: 103.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent2
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Orange and yellow box
   Role: Patient
   isAnimate: 0
-Patient: Orange and yellow box
+- ID: Silver crank
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: Repeat.
-PrimaryVerbDescription: SmallAgentChange
-Size: TO ADD
+PrimaryVerbDescription: Play
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- Repeat.
+- ''
+- ''
+- ''
+- ''

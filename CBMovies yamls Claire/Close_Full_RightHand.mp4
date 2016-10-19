@@ -1,0 +1,27 @@
+Color: full color
+FifthSentenceDescription: The man is facing the window.
+Filename: Close_Full_RightHand.mp4
+FourthSentenceDescription: The blinds are white.
+ItemCondition:
+- ResultChange
+- NoInstrument
+ItemNo: 3
+Length: 50.0
+NParticipants: 2
+Participants:
+- ID: Agent5
+  Role: Agent
+  isAnimate: 1
+- ID: Blinds
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The blinds are perpendicular to the window.
+PrimaryVerbDescription: Close
+SecondarySentenceDescription: The man pulls down on a string with his right hand.
+ThirdSentenceDescription: The blinds close across the length of the window.
+VerboseDescription:
+- The blinds are perpendicular to the window.
+- The man pulls down on a string with his right hand.
+- The blinds close across the length of the window.
+- The blinds are white.
+- The man is facing the window.

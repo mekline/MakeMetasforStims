@@ -1,0 +1,30 @@
+Color: full color
+FifthSentenceDescription: The woman is kneeling on the ground.
+Filename: StandUpGiraffe_BigAgentChange_Instrument.mp4
+FourthSentenceDescription: She holds the back leg of the giraffe.
+ItemCondition:
+- BigAgentChange
+- Instrument
+ItemNo: 23
+Length: 215.0
+NParticipants: 3
+Participants:
+- ID: Agent22
+  Role: Agent
+  isAnimate: 1
+- ID: Stuffed giraffe with brown blanket
+  Role: Patient
+  isAnimate: 0
+- ID: Silver tongs
+  Role: Instrument
+  isAnimate: 0
+PrimarySentenceDescription: The woman is holding silver tongs.
+PrimaryVerbDescription: Stand
+SecondarySentenceDescription: She uprights the stuffed giraffe.
+ThirdSentenceDescription: She grabs the head of the giraffe with the tongs.
+VerboseDescription:
+- The woman is holding silver tongs.
+- She uprights the stuffed giraffe.
+- She grabs the head of the giraffe with the tongs.
+- She holds the back leg of the giraffe.
+- The woman is kneeling on the ground.

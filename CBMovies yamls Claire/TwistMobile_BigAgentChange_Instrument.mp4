@@ -1,0 +1,30 @@
+Color: full color
+FifthSentenceDescription: The mobile with the stars spins.
+Filename: TwistMobile_BigAgentChange_Instrument.mp4
+FourthSentenceDescription: She pushes the arm of the mobile with the object.
+ItemCondition:
+- BigAgentChange
+- Instrument
+ItemNo: 31
+Length: 310.0
+NParticipants: 3
+Participants:
+- ID: Agent19
+  Role: Agent
+  isAnimate: 1
+- ID: Brown mobile with yellow crossed grey stars
+  Role: Patient
+  isAnimate: 0
+- ID: Flat yellow square
+  Role: Instrument
+  isAnimate: 0
+PrimarySentenceDescription: The mobile has three stars hanging on it.
+PrimaryVerbDescription: Twist
+SecondarySentenceDescription: The stars are yellow and grey.
+ThirdSentenceDescription: The woman is holding a yellow object.
+VerboseDescription:
+- The mobile has three stars hanging on it.
+- The stars are yellow and grey.
+- The woman is holding a yellow object.
+- She pushes the arm of the mobile with the object.
+- The mobile with the stars spins.

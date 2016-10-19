@@ -1,29 +1,27 @@
-Agent: Jingle.mp4
 Color: full color
-FifthSentenceDescription: The box jingles.
+FifthSentenceDescription: The woman claps.
 Filename: Jingle.yaml
-FourthSentenceDescription: The objects inside the  clear sphere roll around.
+FourthSentenceDescription: The box jingles.
 ItemCondition:
 - Base
-- NA
+- NoInstrument
 ItemNo: 40
 Length: 59.0
 NParticipants: 2
 Participants:
-- Agent: Jingle.mp4
-  ID: addUniqueID
+- ID: Agent15
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
-  Patient: NA
+- ID: Orange and yellow box
   Role: Patient
   isAnimate: 0
-Patient: NA
-PrimarySentenceDescription: '59'
+PrimarySentenceDescription: The woman is sitting next to the box.
 PrimaryVerbDescription: Jingle
-SecondarySentenceDescription: The woman is sitting next to the box.
-Size: TO ADD
-ThirdSentenceDescription: The box has a clear spinning sphere on its front side.
+SecondarySentenceDescription: The box has a clear spinning sphere on its front side.
+ThirdSentenceDescription: The objects inside the  clear sphere roll around.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The woman is sitting next to the box.
+- The box has a clear spinning sphere on its front side.
+- The objects inside the  clear sphere roll around.
+- The box jingles.
+- The woman claps.

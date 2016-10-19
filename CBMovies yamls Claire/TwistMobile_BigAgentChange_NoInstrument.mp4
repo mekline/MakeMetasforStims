@@ -1,0 +1,27 @@
+Color: full color
+FifthSentenceDescription: ''
+Filename: TwistMobile_BigAgentChange_NoInstrument.mp4
+FourthSentenceDescription: ''
+ItemCondition:
+- BigAgentChange
+- NoInstrument
+ItemNo: 31
+Length: 311.0
+NParticipants: 2
+Participants:
+- ID: Agent19
+  Role: Agent
+  isAnimate: 1
+- ID: Brown mobile with yellow crossed grey stars
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: ''
+PrimaryVerbDescription: Twist
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
+VerboseDescription:
+- ''
+- ''
+- ''
+- ''
+- ''

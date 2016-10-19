@@ -1,23 +1,30 @@
-Agent: Agent2
 Color: full color
+FifthSentenceDescription: The woman is sitting.
 Filename: PlayMusicBox_Base_Instrument.yaml
+FourthSentenceDescription: The woman turns the crank.
 ItemCondition:
-- placeholder
-- placeholder
+- Base
+- Instrument
 ItemNo: 25
-Length: not specified
-NParticipants: 2
+Length: 92.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent2
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Orange and yellow box
   Role: Patient
   isAnimate: 0
-Patient: Orange and yellow box
+- ID: Silver crank
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: The box is yellow and orange.
-PrimaryVerbDescription: Base
-Size: TO ADD
+PrimaryVerbDescription: Play
+SecondarySentenceDescription: The box rings.
+ThirdSentenceDescription: There is a silver crank on the top of the box.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The box is yellow and orange.
+- The box rings.
+- There is a silver crank on the top of the box.
+- The woman turns the crank.
+- The woman is sitting.

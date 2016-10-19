@@ -1,0 +1,27 @@
+Color: full color
+FifthSentenceDescription: The woman's shirt is orange.
+Filename: TurnOnFan_MannerChange_NoInstrument.mp4
+FourthSentenceDescription: The woman turns the fan on.
+ItemCondition:
+- MannerChange
+- NoInstrument
+ItemNo: 36
+Length: 302.0
+NParticipants: 2
+Participants:
+- ID: Agent25
+  Role: Agent
+  isAnimate: 1
+- ID: Orange fan with paper strips
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The fan is orange and black.
+PrimaryVerbDescription: TurnOn
+SecondarySentenceDescription: There are strips of paper tied to the fan.
+ThirdSentenceDescription: The paper strips blow in the fan's wind.
+VerboseDescription:
+- The fan is orange and black.
+- There are strips of paper tied to the fan.
+- The paper strips blow in the fan's wind.
+- The woman turns the fan on.
+- The woman's shirt is orange.

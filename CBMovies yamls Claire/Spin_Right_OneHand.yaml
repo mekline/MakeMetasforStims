@@ -1,23 +1,27 @@
-Agent: Agent3
 Color: full color
+FifthSentenceDescription: ''
 Filename: Spin_Right_OneHand.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- MannerChange
+- NoInstrument
 ItemNo: 11
-Length: not specified
+Length: 195.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent3
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Five wheel black chair
   Role: Patient
   isAnimate: 0
-Patient: Five wheel black chair
 PrimarySentenceDescription: ''
-PrimaryVerbDescription: MannerChange
-Size: TO ADD
+PrimaryVerbDescription: Spin
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- ''
+- ''
+- ''
+- ''
+- ''

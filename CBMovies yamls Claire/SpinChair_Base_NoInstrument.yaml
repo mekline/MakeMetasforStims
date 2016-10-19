@@ -1,23 +1,27 @@
-Agent: Agent19
 Color: full color
+FifthSentenceDescription: ''
 Filename: SpinChair_Base_NoInstrument.yaml
+FourthSentenceDescription: The chair has armrests.
 ItemCondition:
-- placeholder
-- placeholder
+- Base
+- NoInstrument
 ItemNo: 24
-Length: not specified
+Length: 199.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent19
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Five wheel black chair
   Role: Patient
   isAnimate: 0
-Patient: Five wheel black chair
 PrimarySentenceDescription: The chair rotates.
-PrimaryVerbDescription: Base
-Size: TO ADD
+PrimaryVerbDescription: Spin
+SecondarySentenceDescription: The woman uses one arm to turn the chair.
+ThirdSentenceDescription: The woman is standing.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The chair rotates.
+- The woman uses one arm to turn the chair.
+- The woman is standing.
+- The chair has armrests.
+- ''

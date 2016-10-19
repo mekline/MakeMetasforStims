@@ -1,23 +1,30 @@
-Agent: Agent21
 Color: full color
+FifthSentenceDescription: ''
 Filename: RollTruck_MannerChange_Instrument.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- MannerChange
+- Instrument
 ItemNo: 22
-Length: not specified
-NParticipants: 2
+Length: 146.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent21
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Green car
   Role: Patient
   isAnimate: 0
-Patient: Green car
+- ID: Orange plank
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: ''
-PrimaryVerbDescription: MannerChange
-Size: TO ADD
+PrimaryVerbDescription: Roll
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- ''
+- ''
+- ''
+- ''
+- ''

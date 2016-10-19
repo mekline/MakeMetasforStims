@@ -1,23 +1,27 @@
-Agent: Agent13
 Color: full color
+FifthSentenceDescription: ''
 Filename: Drop_Armrest_OneHand.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- Base
+- NoInstrument
 ItemNo: 4
-Length: not specified
+Length: 55.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent13
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Red bag
   Role: Patient
   isAnimate: 0
-Patient: Red bag
 PrimarySentenceDescription: ''
-PrimaryVerbDescription: Base
-Size: TO ADD
+PrimaryVerbDescription: Drop
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- ''
+- ''
+- ''
+- ''
+- ''

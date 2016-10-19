@@ -1,23 +1,27 @@
-Agent: Agent19
 Color: full color
+FifthSentenceDescription: ''
 Filename: SpinChair_ObjectChange_NoInstrument.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- ObjectChange
+- NoInstrument
 ItemNo: 24
-Length: not specified
+Length: 206.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent19
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Blue chair
   Role: Patient
   isAnimate: 0
-Patient: Blue chair
 PrimarySentenceDescription: ''
-PrimaryVerbDescription: ObjectChange
-Size: TO ADD
+PrimaryVerbDescription: Spin
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- ''
+- ''
+- ''
+- ''
+- ''

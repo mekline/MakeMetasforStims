@@ -1,23 +1,30 @@
-Agent: Agent23
 Color: full color
+FifthSentenceDescription: ''
 Filename: TurnOffLight_Base_Instrument.yaml
+FourthSentenceDescription: The woman lifts the books.
 ItemCondition:
-- placeholder
-- placeholder
+- Base
+- Instrument
 ItemNo: 35
-Length: not specified
-NParticipants: 2
+Length: 286.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent23
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Red lamp
   Role: Patient
   isAnimate: 0
-Patient: Red lamp
+- ID: Stack of books
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: The lamp shade is red.
-PrimaryVerbDescription: Base
-Size: TO ADD
+PrimaryVerbDescription: TurnOff
+SecondarySentenceDescription: The woman uses the books to turn the light off.
+ThirdSentenceDescription: The woman is holding a stack of books.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The lamp shade is red.
+- The woman uses the books to turn the light off.
+- The woman is holding a stack of books.
+- The woman lifts the books.
+- ''

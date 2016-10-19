@@ -1,0 +1,27 @@
+Color: full color
+FifthSentenceDescription: The woman moves the string with her left hand.
+Filename: Ring_LeftHand_Ring2.mp4
+FourthSentenceDescription: The bell wiggles at the end of the string.
+ItemCondition:
+- Base
+- NoInstrument
+ItemNo: 7
+Length: 130.0
+NParticipants: 2
+Participants:
+- ID: Agent2
+  Role: Agent
+  isAnimate: 1
+- ID: Gold bell
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The woman's shirt is blue.
+PrimaryVerbDescription: Ring
+SecondarySentenceDescription: The bell is gold.
+ThirdSentenceDescription: The bell hangs from a string.
+VerboseDescription:
+- The woman's shirt is blue.
+- The bell is gold.
+- The bell hangs from a string.
+- The bell wiggles at the end of the string.
+- The woman moves the string with her left hand.

@@ -1,23 +1,30 @@
-Agent: Agent21
 Color: full color
+FifthSentenceDescription: ''
 Filename: RollTruck_ResultChange_Instrument.yaml
+FourthSentenceDescription: The car rolls off the mat.
 ItemCondition:
-- placeholder
-- placeholder
+- ResultChange
+- Instrument
 ItemNo: 22
-Length: not specified
-NParticipants: 2
+Length: 150.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent21
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Green car
   Role: Patient
   isAnimate: 0
-Patient: Green car
+- ID: Orange plank
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: The man lifts an orange mat.
-PrimaryVerbDescription: ResultChange
-Size: TO ADD
+PrimaryVerbDescription: Roll
+SecondarySentenceDescription: The car rests on the mat.
+ThirdSentenceDescription: The car is green.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The man lifts an orange mat.
+- The car rests on the mat.
+- The car is green.
+- The car rolls off the mat.
+- ''

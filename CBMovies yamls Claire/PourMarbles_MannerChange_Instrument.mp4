@@ -1,0 +1,30 @@
+Color: full color
+FifthSentenceDescription: ''
+Filename: PourMarbles_MannerChange_Instrument.mp4
+FourthSentenceDescription: ''
+ItemCondition:
+- MannerChange
+- Instrument
+ItemNo: 30
+Length: 113.0
+NParticipants: 3
+Participants:
+- ID: Agent2
+  Role: Agent
+  isAnimate: 1
+- ID: Yellow marbles
+  Role: Patient
+  isAnimate: 0
+- ID: Green and white pen
+  Role: Instrument
+  isAnimate: 0
+PrimarySentenceDescription: Repeat.
+PrimaryVerbDescription: Pour
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
+VerboseDescription:
+- Repeat.
+- ''
+- ''
+- ''
+- ''

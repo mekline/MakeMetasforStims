@@ -1,0 +1,27 @@
+Color: full color
+FifthSentenceDescription: ''
+Filename: TiltLamp_SmallAgentChange_NoInstrument.mp4
+FourthSentenceDescription: The man is standing in a kitchen.
+ItemCondition:
+- SmallAgentChange
+- NoInstrument
+ItemNo: 28
+Length: 282.0
+NParticipants: 2
+Participants:
+- ID: Agent5
+  Role: Agent
+  isAnimate: 1
+- ID: Lamp with upward facing lightbulb
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The man is holding the lamp with one hand.
+PrimaryVerbDescription: Tilt
+SecondarySentenceDescription: He pushes the lamp away from himself.
+ThirdSentenceDescription: The lamp is facing upward.
+VerboseDescription:
+- The man is holding the lamp with one hand.
+- He pushes the lamp away from himself.
+- The lamp is facing upward.
+- The man is standing in a kitchen.
+- ''

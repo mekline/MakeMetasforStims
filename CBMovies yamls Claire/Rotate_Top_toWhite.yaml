@@ -1,23 +1,27 @@
-Agent: Agent3
 Color: full color
+FifthSentenceDescription: The man is sitting at the table.
 Filename: Rotate_Top_toWhite.yaml
+FourthSentenceDescription: The bottle is standing on a table.
 ItemCondition:
-- placeholder
-- placeholder
+- ResultChange
+- NoInstrument
 ItemNo: 9
-Length: not specified
+Length: 157.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent3
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Half white half blue bottle
   Role: Patient
   isAnimate: 0
-Patient: Half white half blue bottle
 PrimarySentenceDescription: The bottle is half white and half blue.
-PrimaryVerbDescription: ResultChange
-Size: TO ADD
+PrimaryVerbDescription: Rotate
+SecondarySentenceDescription: The turns the blue half towards himself.
+ThirdSentenceDescription: The man rotates the bottle from the top.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The bottle is half white and half blue.
+- The turns the blue half towards himself.
+- The man rotates the bottle from the top.
+- The bottle is standing on a table.
+- The man is sitting at the table.

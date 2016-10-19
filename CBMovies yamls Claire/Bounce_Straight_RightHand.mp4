@@ -1,0 +1,27 @@
+Color: full color
+FifthSentenceDescription: The room and table are white.
+Filename: Bounce_Straight_RightHand.mp4
+FourthSentenceDescription: The ball bounces on the table.
+ItemCondition:
+- Base
+- NoInstrument
+ItemNo: 2
+Length: 23.0
+NParticipants: 2
+Participants:
+- ID: Agent6
+  Role: Agent
+  isAnimate: 1
+- ID: Clear ball
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The woman is standing in front of a table.
+PrimaryVerbDescription: Bounce
+SecondarySentenceDescription: She is holding a clear ball above the table.
+ThirdSentenceDescription: She releases the ball.
+VerboseDescription:
+- The woman is standing in front of a table.
+- She is holding a clear ball above the table.
+- She releases the ball.
+- The ball bounces on the table.
+- The room and table are white.

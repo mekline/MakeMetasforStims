@@ -1,23 +1,27 @@
-Agent: Agent19
 Color: full color
+FifthSentenceDescription: ''
 Filename: SpinChair_BackgroundChange_NoInstrument.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- BackgroundChange
+- NoInstrument
 ItemNo: 24
-Length: not specified
+Length: 197.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent19
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Five wheel black chair
   Role: Patient
   isAnimate: 0
-Patient: Five wheel black chair
 PrimarySentenceDescription: Repeat.
-PrimaryVerbDescription: BackgroundChange
-Size: TO ADD
+PrimaryVerbDescription: Spin
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- Repeat.
+- ''
+- ''
+- ''
+- ''

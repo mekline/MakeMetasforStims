@@ -1,0 +1,30 @@
+Color: full color
+FifthSentenceDescription: ''
+Filename: SwingYoyo_SmallAgentChange_Instrument.mp4
+FourthSentenceDescription: ''
+ItemCondition:
+- SmallAgentChange
+- Instrument
+ItemNo: 33
+Length: 259.0
+NParticipants: 3
+Participants:
+- ID: Agent18
+  Role: Agent
+  isAnimate: 1
+- ID: Green yoyo
+  Role: Patient
+  isAnimate: 0
+- ID: Wood pole
+  Role: Instrument
+  isAnimate: 0
+PrimarySentenceDescription: ''
+PrimaryVerbDescription: Swing
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
+VerboseDescription:
+- ''
+- ''
+- ''
+- ''
+- ''

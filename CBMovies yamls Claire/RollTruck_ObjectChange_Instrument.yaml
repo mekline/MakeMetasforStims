@@ -1,23 +1,30 @@
-Agent: Agent21
 Color: full color
+FifthSentenceDescription: ''
 Filename: RollTruck_ObjectChange_Instrument.yaml
+FourthSentenceDescription: The man uses one arm to push the chair.
 ItemCondition:
-- placeholder
-- placeholder
+- ObjectChange
+- Instrument
 ItemNo: 22
-Length: not specified
-NParticipants: 2
+Length: 148.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent21
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Blue car
   Role: Patient
   isAnimate: 0
-Patient: Blue car
+- ID: Orange plank
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: The man pushes the chair forward.
-PrimaryVerbDescription: ObjectChange
-Size: TO ADD
+PrimaryVerbDescription: Roll
+SecondarySentenceDescription: The chair rolls away from the man.
+ThirdSentenceDescription: He is standing.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The man pushes the chair forward.
+- The chair rolls away from the man.
+- He is standing.
+- The man uses one arm to push the chair.
+- ''

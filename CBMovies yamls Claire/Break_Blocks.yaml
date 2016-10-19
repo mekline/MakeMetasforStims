@@ -1,23 +1,30 @@
-Agent: Agent7
 Color: full color
+FifthSentenceDescription: The blue block knocks over the block tower.
 Filename: Break_Blocks.yaml
+FourthSentenceDescription: The woman throws the blue block at the tower.
 ItemCondition:
-- placeholder
-- placeholder
+- Base
+- Instrument
 ItemNo: 14
-Length: not specified
-NParticipants: 2
+Length: 40.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent7
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Block tower
   Role: Patient
   isAnimate: 0
-Patient: Block tower
+- ID: Blue block
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: The woman approaches the table.
-PrimaryVerbDescription: Base
-Size: TO ADD
+PrimaryVerbDescription: Break
+SecondarySentenceDescription: There is a block tower on the table.
+ThirdSentenceDescription: The woman is holding a blue block.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The woman approaches the table.
+- There is a block tower on the table.
+- The woman is holding a blue block.
+- The woman throws the blue block at the tower.
+- The blue block knocks over the block tower.

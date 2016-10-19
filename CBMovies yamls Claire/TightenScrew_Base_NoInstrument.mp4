@@ -1,0 +1,27 @@
+Color: full color
+FifthSentenceDescription: ''
+Filename: TightenScrew_Base_NoInstrument.mp4
+FourthSentenceDescription: ''
+ItemCondition:
+- Base
+- NoInstrument
+ItemNo: 21
+Length: 262.0
+NParticipants: 2
+Participants:
+- ID: Agent5
+  Role: Agent
+  isAnimate: 1
+- ID: Blue screw
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: ''
+PrimaryVerbDescription: Tighten
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
+VerboseDescription:
+- ''
+- ''
+- ''
+- ''
+- ''

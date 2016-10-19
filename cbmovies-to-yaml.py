@@ -12,17 +12,23 @@ audio_items = []
 def convert_to_yaml(line, counter):
     itemNo = int(line[1])
     primaryVerbDescription = line[4]
-    primarySentenceDescription = line[12]
-    secondarySentenceDescription = line[13]
-    thirdSentenceDescription = line[14]
-    fourthSentenceDescription = line[15]
-    fifthSentenceDescription = line[16]
-    verboseDescription = ['TO ADD', 'Multiple items']
-    agent = line[5]
-    patient = line[7]
-    filename = line[4].split('.')[0] + '.yaml'
-    mc = line[2]
-    inst = line[7]
+    primarySentenceDescription = line[13]
+    secondarySentenceDescription = line[14]
+    thirdSentenceDescription = line[15]
+    fourthSentenceDescription = line[16]
+    fifthSentenceDescription = line[17]
+    verboseDescription = [line[13], line[14], line[15], line[16], line[17]]
+    
+    agent = line[6]
+    patient = line[8]
+    instrument = line[7]
+    yamlfilename = line[5].split('.')[0] + '.yaml'
+    #make consistant
+    filename = line[5]
+    #add regular filename
+    changecondition = line[2]
+    instrumentcondition = line[3]
+    
 
     print(filename)
 
@@ -36,11 +42,9 @@ def convert_to_yaml(line, counter):
     movie_item = {}
     movie_item = {
         'ItemNo':itemNo,
-        'Agent':agent,
-        'Patient':patient,
-        'ItemCondition': [mc, inst],
+        'ItemCondition': [changecondition, instrumentcondition],
         'Length':movielength,
-        'Size': 'TO ADD',
+        #'Size': 'TO ADD',
         'Color':'full color',
         'PrimaryVerbDescription':primaryVerbDescription,
         'PrimarySentenceDescription':primarySentenceDescription,
@@ -51,19 +55,20 @@ def convert_to_yaml(line, counter):
         'VerboseDescription': verboseDescription
     }
 
-    if inst == 'Instrument':
+    if instrumentcondition == 'Instrument':
         movie_item['NParticipants'] = 3
-        movie_item['Participants'] = [{'ID':'addUniqueID','Role':'Agent','Agent':agent,'isAnimate':1},
-        {'ID':'addUniqueID','Role':'Patient','Patient':patient,'isAnimate':0},
-        {'ID':'addUniqueID','Role':'Instrument','isAnimate':0,'Instrument':inst}]
+        movie_item['Participants'] = [{'ID':agent,'Role':'Agent','isAnimate':1},
+        {'ID':patient,'Role':'Patient','isAnimate':0},
+        {'ID':instrument,'Role':'Instrument','isAnimate':0}]
 
     else:
         movie_item['NParticipants'] = 2
-        movie_item['Participants'] = [{'ID':'addUniqueID','Role':'Agent','isAnimate':1,'Agent':agent},
-        {'ID':'addUniqueID','Role':'Patient','isAnimate':0,'Patient':patient}]
+        movie_item['Participants'] = [{'ID':agent,'Role':'Agent','isAnimate':1},
+        {'ID':patient,'Role':'Patient','isAnimate':0}]
 
 
-    movie_item.update({'Filename': filename})
+    movie_item.update({'Filename': yamlfilename})
+    #changed to yamlfilename
     movie_items.append(movie_item)
 
 #end of function definition

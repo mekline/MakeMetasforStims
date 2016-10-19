@@ -1,23 +1,27 @@
-Agent: Agent6
 Color: full color
+FifthSentenceDescription: ''
 Filename: Rattle_UpandDown_Rattle1.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- ResultChange
+- NoInstrument
 ItemNo: 6
-Length: not specified
+Length: 127.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent6
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Blue rattle
   Role: Patient
   isAnimate: 0
-Patient: Blue rattle
 PrimarySentenceDescription: The woman is holding a blue ring-shaped rattle.
-PrimaryVerbDescription: ResultChange
-Size: TO ADD
+PrimaryVerbDescription: Rattle
+SecondarySentenceDescription: She moves her wrist up and down.
+ThirdSentenceDescription: The rattle shakes up and down.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The woman is holding a blue ring-shaped rattle.
+- She moves her wrist up and down.
+- The rattle shakes up and down.
+- ''
+- ''

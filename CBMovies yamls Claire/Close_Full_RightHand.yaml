@@ -1,23 +1,27 @@
-Agent: Agent5
 Color: full color
+FifthSentenceDescription: The man is facing the window.
 Filename: Close_Full_RightHand.yaml
+FourthSentenceDescription: The blinds are white.
 ItemCondition:
-- placeholder
-- placeholder
+- ResultChange
+- NoInstrument
 ItemNo: 3
-Length: not specified
+Length: 50.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent5
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Blinds
   Role: Patient
   isAnimate: 0
-Patient: Blinds
 PrimarySentenceDescription: The blinds are perpendicular to the window.
-PrimaryVerbDescription: ResultChange
-Size: TO ADD
+PrimaryVerbDescription: Close
+SecondarySentenceDescription: The man pulls down on a string with his right hand.
+ThirdSentenceDescription: The blinds close across the length of the window.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The blinds are perpendicular to the window.
+- The man pulls down on a string with his right hand.
+- The blinds close across the length of the window.
+- The blinds are white.
+- The man is facing the window.

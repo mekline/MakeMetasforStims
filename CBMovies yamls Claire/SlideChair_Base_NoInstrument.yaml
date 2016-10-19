@@ -1,23 +1,27 @@
-Agent: CORRUPTED - FILE DOES NOT EXIST
 Color: full color
+FifthSentenceDescription: ''
 Filename: SlideChair_Base_NoInstrument.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- Base
+- NoInstrument
 ItemNo: 20
-Length: not specified
+Length: 176.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: CORRUPTED - FILE DOES NOT EXIST
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: NA
   Role: Patient
   isAnimate: 0
-Patient: NA
 PrimarySentenceDescription: Repeat
-PrimaryVerbDescription: Base
-Size: TO ADD
+PrimaryVerbDescription: Slide
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- Repeat
+- ''
+- ''
+- ''
+- ''

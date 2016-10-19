@@ -1,23 +1,27 @@
-Agent: Agent6
 Color: full color
+FifthSentenceDescription: ''
 Filename: Roll_WheelsDown_TwoHands.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- ResultChange
+- NoInstrument
 ItemNo: 8
-Length: not specified
+Length: 134.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent6
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Yellow wheeled truck
   Role: Patient
   isAnimate: 0
-Patient: Yellow wheeled truck
 PrimarySentenceDescription: ''
-PrimaryVerbDescription: ResultChange
-Size: TO ADD
+PrimaryVerbDescription: Roll
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- ''
+- ''
+- ''
+- ''
+- ''

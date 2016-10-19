@@ -1,23 +1,30 @@
-Agent: Agent5
 Color: full color
+FifthSentenceDescription: ''
 Filename: TiltLamp_InstrumentChange_Instrument.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- InstrumentChange
+- Instrument
 ItemNo: 28
-Length: not specified
-NParticipants: 2
+Length: 274.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent5
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Lamp with upward facing lightbulb
   Role: Patient
   isAnimate: 0
-Patient: Lamp with upward facing lightbulb
+- ID: Broom handle
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: ''
-PrimaryVerbDescription: InstrumentChange
-Size: TO ADD
+PrimaryVerbDescription: Tilt
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- ''
+- ''
+- ''
+- ''
+- ''

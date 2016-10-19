@@ -1,23 +1,27 @@
-Agent: Agent24
 Color: full color
+FifthSentenceDescription: ''
 Filename: SlideChair_SmallAgentChange_NoInstrument.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- SmallAgentChange
+- NoInstrument
 ItemNo: 20
-Length: not specified
+Length: 187.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent24
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Five wheel black chair
   Role: Patient
   isAnimate: 0
-Patient: Five wheel black chair
 PrimarySentenceDescription: Repeat
-PrimaryVerbDescription: SmallAgentChange
-Size: TO ADD
+PrimaryVerbDescription: Slide
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- Repeat
+- ''
+- ''
+- ''
+- ''

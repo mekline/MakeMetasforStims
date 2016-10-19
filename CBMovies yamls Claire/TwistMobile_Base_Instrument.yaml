@@ -1,23 +1,30 @@
-Agent: Agent9
 Color: full color
+FifthSentenceDescription: The stars have yellow accents.
 Filename: TwistMobile_Base_Instrument.yaml
+FourthSentenceDescription: The mobile rotates.
 ItemCondition:
-- placeholder
-- placeholder
+- Base
+- Instrument
 ItemNo: 31
-Length: not specified
-NParticipants: 2
+Length: 308.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent9
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Brown mobile with yellow crossed grey stars
   Role: Patient
   isAnimate: 0
-Patient: Brown mobile with yellow crossed grey stars
+- ID: Flat yellow square
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: The woman is wearing glasses.
-PrimaryVerbDescription: Base
-Size: TO ADD
+PrimaryVerbDescription: Twist
+SecondarySentenceDescription: The mobile has three stars.
+ThirdSentenceDescription: The woman pushes the mobile's arm with a yellow object.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The woman is wearing glasses.
+- The mobile has three stars.
+- The woman pushes the mobile's arm with a yellow object.
+- The mobile rotates.
+- The stars have yellow accents.

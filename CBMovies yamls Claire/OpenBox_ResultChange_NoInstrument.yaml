@@ -1,23 +1,27 @@
-Agent: Agent17
 Color: full color
+FifthSentenceDescription: ''
 Filename: OpenBox_ResultChange_NoInstrument.yaml
+FourthSentenceDescription: There are bright flowers in the room.
 ItemCondition:
-- placeholder
-- placeholder
+- ResultChange
+- NoInstrument
 ItemNo: 26
-Length: not specified
+Length: 87.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent17
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Black box
   Role: Patient
   isAnimate: 0
-Patient: Black box
 PrimarySentenceDescription: The box is black.
-PrimaryVerbDescription: ResultChange
-Size: TO ADD
+PrimaryVerbDescription: Open
+SecondarySentenceDescription: The woman is sitting.
+ThirdSentenceDescription: She uses both hands to lift the top of the box.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The box is black.
+- The woman is sitting.
+- She uses both hands to lift the top of the box.
+- There are bright flowers in the room.
+- ''

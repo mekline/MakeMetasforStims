@@ -1,0 +1,27 @@
+Color: full color
+FifthSentenceDescription: He releases the chair.
+Filename: SlideChair_BackgroundChange_NoInstrument.mp4
+FourthSentenceDescription: He grabs the back of the chair.
+ItemCondition:
+- BackgroundChange
+- NoInstrument
+ItemNo: 20
+Length: 174.0
+NParticipants: 2
+Participants:
+- ID: Agent24
+  Role: Agent
+  isAnimate: 1
+- ID: Five wheel black chair
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The man pushes the chair forward.
+PrimaryVerbDescription: Slide
+SecondarySentenceDescription: The chair rolls away from the man.
+ThirdSentenceDescription: The man is standing in front of the chair.
+VerboseDescription:
+- The man pushes the chair forward.
+- The chair rolls away from the man.
+- The man is standing in front of the chair.
+- He grabs the back of the chair.
+- He releases the chair.

@@ -1,23 +1,27 @@
-Agent: Agent1
 Color: full color
+FifthSentenceDescription: ''
 Filename: BeepToy_Base_NoInstrument.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- Base
+- NoInstrument
 ItemNo: 29
-Length: not specified
+Length: 4.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent1
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Yellow star toy
   Role: Patient
   isAnimate: 0
-Patient: Yellow star toy
 PrimarySentenceDescription: Repeat
-PrimaryVerbDescription: Base
-Size: TO ADD
+PrimaryVerbDescription: Beep
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- Repeat
+- ''
+- ''
+- ''
+- ''

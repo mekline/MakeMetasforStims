@@ -1,23 +1,30 @@
-Agent: Agent23
 Color: full color
+FifthSentenceDescription: ''
 Filename: StretchCloth_ResultChange_Instrument.yaml
+FourthSentenceDescription: Repeat.
 ItemCondition:
-- placeholder
-- placeholder
+- ResultChange
+- Instrument
 ItemNo: 37
-Length: not specified
-NParticipants: 2
+Length: 242.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent23
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: White cloth
   Role: Patient
   isAnimate: 0
-Patient: White cloth
+- ID: Black hanger
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: The woman is holding a black hanger.
-PrimaryVerbDescription: ResultChange
-Size: TO ADD
+PrimaryVerbDescription: Stretch
+SecondarySentenceDescription: The cloth is lenghtening.
+ThirdSentenceDescription: The cloth fans out.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The woman is holding a black hanger.
+- The cloth is lenghtening.
+- The cloth fans out.
+- Repeat.
+- ''

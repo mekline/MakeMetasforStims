@@ -1,0 +1,30 @@
+Color: full color
+FifthSentenceDescription: ''
+Filename: TurnOffLight_InstrumentChange_Instrument.mp4
+FourthSentenceDescription: ''
+ItemCondition:
+- InstrumentChange
+- Instrument
+ItemNo: 35
+Length: 290.0
+NParticipants: 3
+Participants:
+- ID: Agent23
+  Role: Agent
+  isAnimate: 1
+- ID: Red lamp
+  Role: Patient
+  isAnimate: 0
+- ID: Stack of books with binding facing outward
+  Role: Instrument
+  isAnimate: 0
+PrimarySentenceDescription: ''
+PrimaryVerbDescription: TurnOff
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
+VerboseDescription:
+- ''
+- ''
+- ''
+- ''
+- ''

@@ -1,0 +1,27 @@
+Color: full color
+FifthSentenceDescription: The man is sitting at the table.
+Filename: Rotate_Top_toWhite.mp4
+FourthSentenceDescription: The bottle is standing on a table.
+ItemCondition:
+- ResultChange
+- NoInstrument
+ItemNo: 9
+Length: 157.0
+NParticipants: 2
+Participants:
+- ID: Agent3
+  Role: Agent
+  isAnimate: 1
+- ID: Half white half blue bottle
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The bottle is half white and half blue.
+PrimaryVerbDescription: Rotate
+SecondarySentenceDescription: The turns the blue half towards himself.
+ThirdSentenceDescription: The man rotates the bottle from the top.
+VerboseDescription:
+- The bottle is half white and half blue.
+- The turns the blue half towards himself.
+- The man rotates the bottle from the top.
+- The bottle is standing on a table.
+- The man is sitting at the table.

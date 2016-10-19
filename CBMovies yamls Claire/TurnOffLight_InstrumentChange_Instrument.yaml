@@ -1,23 +1,30 @@
-Agent: Agent23
 Color: full color
+FifthSentenceDescription: ''
 Filename: TurnOffLight_InstrumentChange_Instrument.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- InstrumentChange
+- Instrument
 ItemNo: 35
-Length: not specified
-NParticipants: 2
+Length: 290.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent23
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Red lamp
   Role: Patient
   isAnimate: 0
-Patient: Red lamp
+- ID: Stack of books with binding facing outward
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: ''
-PrimaryVerbDescription: InstrumentChange
-Size: TO ADD
+PrimaryVerbDescription: TurnOff
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- ''
+- ''
+- ''
+- ''
+- ''

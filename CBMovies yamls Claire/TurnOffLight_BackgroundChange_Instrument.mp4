@@ -1,0 +1,30 @@
+Color: full color
+FifthSentenceDescription: ''
+Filename: TurnOffLight_BackgroundChange_Instrument.mp4
+FourthSentenceDescription: ''
+ItemCondition:
+- BackgroundChange
+- Instrument
+ItemNo: 35
+Length: 284.0
+NParticipants: 3
+Participants:
+- ID: Agent23
+  Role: Agent
+  isAnimate: 1
+- ID: Red lamp
+  Role: Patient
+  isAnimate: 0
+- ID: Stack of books
+  Role: Instrument
+  isAnimate: 0
+PrimarySentenceDescription: ''
+PrimaryVerbDescription: TurnOff
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
+VerboseDescription:
+- ''
+- ''
+- ''
+- ''
+- ''

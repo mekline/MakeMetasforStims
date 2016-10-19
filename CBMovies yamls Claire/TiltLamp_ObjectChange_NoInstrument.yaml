@@ -1,23 +1,27 @@
-Agent: Agent5
 Color: full color
+FifthSentenceDescription: ''
 Filename: TiltLamp_ObjectChange_NoInstrument.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- ObjectChange
+- NoInstrument
 ItemNo: 28
-Length: not specified
+Length: 278.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent5
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Lamp with sideways facing lightbulb
   Role: Patient
   isAnimate: 0
-Patient: Lamp with sideways facing lightbulb
 PrimarySentenceDescription: ''
-PrimaryVerbDescription: ObjectChange
-Size: TO ADD
+PrimaryVerbDescription: Tilt
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- ''
+- ''
+- ''
+- ''
+- ''

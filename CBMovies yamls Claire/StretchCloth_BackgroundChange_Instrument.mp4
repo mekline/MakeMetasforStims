@@ -1,0 +1,30 @@
+Color: full color
+FifthSentenceDescription: ''
+Filename: StretchCloth_BackgroundChange_Instrument.mp4
+FourthSentenceDescription: ''
+ItemCondition:
+- BackgroundChange
+- Instrument
+ItemNo: 37
+Length: 231.0
+NParticipants: 3
+Participants:
+- ID: Agent23
+  Role: Agent
+  isAnimate: 1
+- ID: White cloth
+  Role: Patient
+  isAnimate: 0
+- ID: Black hanger
+  Role: Instrument
+  isAnimate: 0
+PrimarySentenceDescription: ''
+PrimaryVerbDescription: Stretch
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
+VerboseDescription:
+- ''
+- ''
+- ''
+- ''
+- ''

@@ -1,0 +1,27 @@
+Color: full color
+FifthSentenceDescription: The box lights up.
+Filename: Start_StateChangeBox.mp4
+FourthSentenceDescription: The woman presses down on a pedal.
+ItemCondition:
+- Base
+- NoInstrument
+ItemNo: 17
+Length: 226.0
+NParticipants: 2
+Participants:
+- ID: Agent7
+  Role: Agent
+  isAnimate: 1
+- ID: Yellow box with train and lights
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The woman sits down.
+PrimaryVerbDescription: Start
+SecondarySentenceDescription: The box is covered with yellow cloth.
+ThirdSentenceDescription: The train moves in a circle.
+VerboseDescription:
+- The woman sits down.
+- The box is covered with yellow cloth.
+- The train moves in a circle.
+- The woman presses down on a pedal.
+- The box lights up.

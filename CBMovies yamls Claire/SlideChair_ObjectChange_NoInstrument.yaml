@@ -1,23 +1,27 @@
-Agent: Agent24
 Color: full color
+FifthSentenceDescription: ''
 Filename: SlideChair_ObjectChange_NoInstrument.yaml
+FourthSentenceDescription: The chair rolls away from him.
 ItemCondition:
-- placeholder
-- placeholder
+- ObjectChange
+- NoInstrument
 ItemNo: 20
-Length: not specified
+Length: 183.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent24
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Four wheel black chair
   Role: Patient
   isAnimate: 0
-Patient: Four wheel black chair
 PrimarySentenceDescription: The man is standing.
-PrimaryVerbDescription: ObjectChange
-Size: TO ADD
+PrimaryVerbDescription: Slide
+SecondarySentenceDescription: The chair has four legs.
+ThirdSentenceDescription: The man pushes the chair with one hand.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The man is standing.
+- The chair has four legs.
+- The man pushes the chair with one hand.
+- The chair rolls away from him.
+- ''

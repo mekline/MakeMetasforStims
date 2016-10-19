@@ -1,23 +1,27 @@
-Agent: Agent18
 Color: full color
+FifthSentenceDescription: The yoyo is green.
 Filename: SwingYoyo_ResultChange_NoInstrument.yaml
+FourthSentenceDescription: The yoyo bounces up and down.
 ItemCondition:
-- placeholder
-- placeholder
+- ResultChange
+- NoInstrument
 ItemNo: 33
-Length: not specified
+Length: 258.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent18
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Green yoyo
   Role: Patient
   isAnimate: 0
-Patient: Green yoyo
 PrimarySentenceDescription: The yoyo is attched to a string.
-PrimaryVerbDescription: ResultChange
-Size: TO ADD
+PrimaryVerbDescription: Swing
+SecondarySentenceDescription: The woman is holding the string.
+ThirdSentenceDescription: The woman raises and lowers her hand.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The yoyo is attched to a string.
+- The woman is holding the string.
+- The woman raises and lowers her hand.
+- The yoyo bounces up and down.
+- The yoyo is green.

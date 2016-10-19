@@ -1,23 +1,27 @@
-Agent: Agent5
 Color: full color
+FifthSentenceDescription: The ball rolls forward.
 Filename: Roll2_Ball.yaml
+FourthSentenceDescription: The towel is pulled out from under the beach ball.
 ItemCondition:
-- placeholder
-- placeholder
+- Base
+- NoInstrument
 ItemNo: 13
-Length: not specified
+Length: 138.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent5
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Mini beach ball
   Role: Patient
   isAnimate: 0
-Patient: Mini beach ball
 PrimarySentenceDescription: 'The beach ball is resting on a towel. '
-PrimaryVerbDescription: Base
-Size: TO ADD
+PrimaryVerbDescription: Roll2
+SecondarySentenceDescription: The man is kneeling in front of the towel.
+ThirdSentenceDescription: He lifts the edges of the towel with his hands.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- 'The beach ball is resting on a towel. '
+- The man is kneeling in front of the towel.
+- He lifts the edges of the towel with his hands.
+- The towel is pulled out from under the beach ball.
+- The ball rolls forward.

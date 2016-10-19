@@ -1,0 +1,27 @@
+Color: full color
+FifthSentenceDescription: ''
+Filename: TurnOffLight_ResultChange_NoInstrument.mp4
+FourthSentenceDescription: ''
+ItemCondition:
+- ResultChange
+- NoInstrument
+ItemNo: 35
+Length: 296.0
+NParticipants: 2
+Participants:
+- ID: Agent23
+  Role: Agent
+  isAnimate: 1
+- ID: Red lamp
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: Repeat.
+PrimaryVerbDescription: TurnOff
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
+VerboseDescription:
+- Repeat.
+- ''
+- ''
+- ''
+- ''

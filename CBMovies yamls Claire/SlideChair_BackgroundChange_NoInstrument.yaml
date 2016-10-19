@@ -1,23 +1,27 @@
-Agent: Agent24
 Color: full color
+FifthSentenceDescription: He releases the chair.
 Filename: SlideChair_BackgroundChange_NoInstrument.yaml
+FourthSentenceDescription: He grabs the back of the chair.
 ItemCondition:
-- placeholder
-- placeholder
+- BackgroundChange
+- NoInstrument
 ItemNo: 20
-Length: not specified
+Length: 174.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent24
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Five wheel black chair
   Role: Patient
   isAnimate: 0
-Patient: Five wheel black chair
 PrimarySentenceDescription: The man pushes the chair forward.
-PrimaryVerbDescription: BackgroundChange
-Size: TO ADD
+PrimaryVerbDescription: Slide
+SecondarySentenceDescription: The chair rolls away from the man.
+ThirdSentenceDescription: The man is standing in front of the chair.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The man pushes the chair forward.
+- The chair rolls away from the man.
+- The man is standing in front of the chair.
+- He grabs the back of the chair.
+- He releases the chair.

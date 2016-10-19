@@ -1,23 +1,27 @@
-Agent: Agent5
 Color: full color
+FifthSentenceDescription: ''
 Filename: TightenScrew_SmallAgentChange_NoInstrument.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- SmallAgentChange
+- NoInstrument
 ItemNo: 21
-Length: not specified
+Length: 267.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent5
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Blue screw
   Role: Patient
   isAnimate: 0
-Patient: Blue screw
 PrimarySentenceDescription: ''
-PrimaryVerbDescription: SmallAgentChange
-Size: TO ADD
+PrimaryVerbDescription: Tighten
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- ''
+- ''
+- ''
+- ''
+- ''

@@ -1,0 +1,30 @@
+Color: full color
+FifthSentenceDescription: ''
+Filename: TwistMobile_SmallAgentChange_Instrument.mp4
+FourthSentenceDescription: ''
+ItemCondition:
+- SmallAgentChange
+- Instrument
+ItemNo: 31
+Length: 319.0
+NParticipants: 3
+Participants:
+- ID: Agent9
+  Role: Agent
+  isAnimate: 1
+- ID: Brown mobile with yellow crossed grey stars
+  Role: Patient
+  isAnimate: 0
+- ID: Flat yellow square
+  Role: Instrument
+  isAnimate: 0
+PrimarySentenceDescription: ''
+PrimaryVerbDescription: Twist
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
+VerboseDescription:
+- ''
+- ''
+- ''
+- ''
+- ''

@@ -1,23 +1,30 @@
-Agent: Agent17
 Color: full color
+FifthSentenceDescription: The woman holds the rake in her right arm.
 Filename: RustleLeaves_BackgroundChange_Instrument.yaml
+FourthSentenceDescription: The woman is sitting.
 ItemCondition:
-- placeholder
-- placeholder
+- BackgroundChange
+- Instrument
 ItemNo: 34
-Length: not specified
-NParticipants: 2
+Length: 158.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent17
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Pile of brown leaves
   Role: Patient
   isAnimate: 0
-Patient: Pile of brown leaves
+- ID: Green rake
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: There is a pile of leaves on the table.
-PrimaryVerbDescription: BackgroundChange
-Size: TO ADD
+PrimaryVerbDescription: Rustle
+SecondarySentenceDescription: The leaves are dead and brown.
+ThirdSentenceDescription: The woman rustles the leaves with a green rake.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- There is a pile of leaves on the table.
+- The leaves are dead and brown.
+- The woman rustles the leaves with a green rake.
+- The woman is sitting.
+- The woman holds the rake in her right arm.

@@ -1,23 +1,30 @@
-Agent: Agent22
 Color: full color
+FifthSentenceDescription: The woman uses both hands to upright the giraffe.
 Filename: StandUpGiraffe_Base_Instrument.yaml
+FourthSentenceDescription: The giraffe is covered with a blanket.
 ItemCondition:
-- placeholder
-- placeholder
+- Base
+- Instrument
 ItemNo: 23
-Length: not specified
-NParticipants: 2
+Length: 213.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent22
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Stuffed giraffe with brown blanket
   Role: Patient
   isAnimate: 0
-Patient: Stuffed giraffe with brown blanket
+- ID: Silver tongs
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: The woman is kneeling on the floor.
-PrimaryVerbDescription: Base
-Size: TO ADD
+PrimaryVerbDescription: Stand
+SecondarySentenceDescription: She lifts a plush giraffe from the ground.
+ThirdSentenceDescription: The giraffe is placed upright.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The woman is kneeling on the floor.
+- She lifts a plush giraffe from the ground.
+- The giraffe is placed upright.
+- The giraffe is covered with a blanket.
+- The woman uses both hands to upright the giraffe.

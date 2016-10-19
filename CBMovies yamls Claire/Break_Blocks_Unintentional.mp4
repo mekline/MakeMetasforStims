@@ -1,0 +1,30 @@
+Color: full color
+FifthSentenceDescription: The blue block knocks over the block tower.
+Filename: Break_Blocks_Unintentional.mp4
+FourthSentenceDescription: The woman drops the blue bock.
+ItemCondition:
+- Unintentional
+- Instrument
+ItemNo: 14
+Length: 39.0
+NParticipants: 3
+Participants:
+- ID: Agent7
+  Role: Agent
+  isAnimate: 1
+- ID: Block tower
+  Role: Patient
+  isAnimate: 0
+- ID: Blue block
+  Role: Instrument
+  isAnimate: 0
+PrimarySentenceDescription: The woman walks past the table.
+PrimaryVerbDescription: Break
+SecondarySentenceDescription: There is a block tower on the table.
+ThirdSentenceDescription: The woman is holding a blue block.
+VerboseDescription:
+- The woman walks past the table.
+- There is a block tower on the table.
+- The woman is holding a blue block.
+- The woman drops the blue bock.
+- The blue block knocks over the block tower.

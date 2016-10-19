@@ -1,23 +1,27 @@
-Agent: Agent22
 Color: full color
+FifthSentenceDescription: The giraffe is wearing a blanket.
 Filename: StandUpGiraffe_MannerChange_NoInstrument.yaml
+FourthSentenceDescription: The giraffe is placed upright.
 ItemCondition:
-- placeholder
-- placeholder
+- MannerChange
+- NoInstrument
 ItemNo: 23
-Length: not specified
+Length: 219.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent22
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Stuffed giraffe with brown blanket
   Role: Patient
   isAnimate: 0
-Patient: Stuffed giraffe with brown blanket
 PrimarySentenceDescription: The woman holds the giraffe's leg with one hand.
-PrimaryVerbDescription: MannerChange
-Size: TO ADD
+PrimaryVerbDescription: Stand
+SecondarySentenceDescription: The woman steadies the giraffe with her hands.
+ThirdSentenceDescription: The woman uses one hand to hold the giraffe's neck.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The woman holds the giraffe's leg with one hand.
+- The woman steadies the giraffe with her hands.
+- The woman uses one hand to hold the giraffe's neck.
+- The giraffe is placed upright.
+- The giraffe is wearing a blanket.

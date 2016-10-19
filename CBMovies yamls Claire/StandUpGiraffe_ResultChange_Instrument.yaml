@@ -1,23 +1,30 @@
-Agent: Agent22
 Color: full color
+FifthSentenceDescription: ''
 Filename: StandUpGiraffe_ResultChange_Instrument.yaml
+FourthSentenceDescription: She tips the giraffe to the other side.
 ItemCondition:
-- placeholder
-- placeholder
+- ResultChange
+- Instrument
 ItemNo: 23
-Length: not specified
-NParticipants: 2
+Length: 222.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent22
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Stuffed giraffe with brown blanket
   Role: Patient
   isAnimate: 0
-Patient: Stuffed giraffe with brown blanket
+- ID: Silver tongs
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: The woman grabs the giraffe's head with silver tongs.
-PrimaryVerbDescription: ResultChange
-Size: TO ADD
+PrimaryVerbDescription: Stand
+SecondarySentenceDescription: She grabs the back leg of the giraffe with her hand.
+ThirdSentenceDescription: She picks up the giraffe.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The woman grabs the giraffe's head with silver tongs.
+- She grabs the back leg of the giraffe with her hand.
+- She picks up the giraffe.
+- She tips the giraffe to the other side.
+- ''

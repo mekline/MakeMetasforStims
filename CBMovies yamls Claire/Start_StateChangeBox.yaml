@@ -1,23 +1,27 @@
-Agent: Agent7
 Color: full color
+FifthSentenceDescription: The box lights up.
 Filename: Start_StateChangeBox.yaml
+FourthSentenceDescription: The woman presses down on a pedal.
 ItemCondition:
-- placeholder
-- placeholder
+- Base
+- NoInstrument
 ItemNo: 17
-Length: not specified
+Length: 226.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent7
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Yellow box with train and lights
   Role: Patient
   isAnimate: 0
-Patient: Yellow box with train and lights
 PrimarySentenceDescription: The woman sits down.
-PrimaryVerbDescription: Base
-Size: TO ADD
+PrimaryVerbDescription: Start
+SecondarySentenceDescription: The box is covered with yellow cloth.
+ThirdSentenceDescription: The train moves in a circle.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The woman sits down.
+- The box is covered with yellow cloth.
+- The train moves in a circle.
+- The woman presses down on a pedal.
+- The box lights up.

@@ -1,23 +1,27 @@
-Agent: Agent6
 Color: full color
+FifthSentenceDescription: The truck rolls forward.
 Filename: Roll_WheelsUp_TwoHands.yaml
+FourthSentenceDescription: She extends her arms.
 ItemCondition:
-- placeholder
-- placeholder
+- Base
+- NoInstrument
 ItemNo: 8
-Length: not specified
+Length: 136.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent6
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Yellow wheeled truck
   Role: Patient
   isAnimate: 0
-Patient: Yellow wheeled truck
 PrimarySentenceDescription: The truck is blue.
-PrimaryVerbDescription: Base
-Size: TO ADD
+PrimaryVerbDescription: Roll
+SecondarySentenceDescription: The truck rolls on its two back wheels.
+ThirdSentenceDescription: The woman holds the truck with two hands.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The truck is blue.
+- The truck rolls on its two back wheels.
+- The woman holds the truck with two hands.
+- She extends her arms.
+- The truck rolls forward.

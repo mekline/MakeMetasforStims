@@ -1,23 +1,30 @@
-Agent: Agent5
 Color: full color
+FifthSentenceDescription: The man pushes the lamp away from himself.
 Filename: TiltLamp_SmallAgentChange_Instrument.yaml
+FourthSentenceDescription: The lamp leans forward.
 ItemCondition:
-- placeholder
-- placeholder
+- SmallAgentChange
+- Instrument
 ItemNo: 28
-Length: not specified
-NParticipants: 2
+Length: 281.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent5
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Lamp with upward facing lightbulb
   Role: Patient
   isAnimate: 0
-Patient: Lamp with upward facing lightbulb
+- ID: White and black striped pole
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: The man is holding a black and white stiped pole.
-PrimaryVerbDescription: SmallAgentChange
-Size: TO ADD
+PrimaryVerbDescription: Tilt
+SecondarySentenceDescription: The man extends the pole outwards.
+ThirdSentenceDescription: The pole tips the lamp.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The man is holding a black and white stiped pole.
+- The man extends the pole outwards.
+- The pole tips the lamp.
+- The lamp leans forward.
+- The man pushes the lamp away from himself.

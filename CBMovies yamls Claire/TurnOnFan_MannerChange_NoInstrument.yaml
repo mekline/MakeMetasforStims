@@ -1,23 +1,27 @@
-Agent: Agent25
 Color: full color
+FifthSentenceDescription: The woman's shirt is orange.
 Filename: TurnOnFan_MannerChange_NoInstrument.yaml
+FourthSentenceDescription: The woman turns the fan on.
 ItemCondition:
-- placeholder
-- placeholder
+- MannerChange
+- NoInstrument
 ItemNo: 36
-Length: not specified
+Length: 302.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent25
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Orange fan with paper strips
   Role: Patient
   isAnimate: 0
-Patient: Orange fan with paper strips
 PrimarySentenceDescription: The fan is orange and black.
-PrimaryVerbDescription: MannerChange
-Size: TO ADD
+PrimaryVerbDescription: TurnOn
+SecondarySentenceDescription: There are strips of paper tied to the fan.
+ThirdSentenceDescription: The paper strips blow in the fan's wind.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The fan is orange and black.
+- There are strips of paper tied to the fan.
+- The paper strips blow in the fan's wind.
+- The woman turns the fan on.
+- The woman's shirt is orange.

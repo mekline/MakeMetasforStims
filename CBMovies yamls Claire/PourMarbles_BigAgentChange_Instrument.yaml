@@ -1,23 +1,30 @@
-Agent: Agent1
 Color: full color
+FifthSentenceDescription: ''
 Filename: PourMarbles_BigAgentChange_Instrument.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- BigAgentChange
+- Instrument
 ItemNo: 30
-Length: not specified
-NParticipants: 2
+Length: 110.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent1
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Yellow marbles
   Role: Patient
   isAnimate: 0
-Patient: Yellow marbles
+- ID: Green and white pen
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: ''
-PrimaryVerbDescription: BigAgentChange
-Size: TO ADD
+PrimaryVerbDescription: Pour
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- ''
+- ''
+- ''
+- ''
+- ''

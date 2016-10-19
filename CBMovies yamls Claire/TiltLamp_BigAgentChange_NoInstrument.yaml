@@ -1,23 +1,27 @@
-Agent: Agent4
 Color: full color
+FifthSentenceDescription: ''
 Filename: TiltLamp_BigAgentChange_NoInstrument.yaml
+FourthSentenceDescription: The man is inside a kitchen area.
 ItemCondition:
-- placeholder
-- placeholder
+- BigAgentChange
+- NoInstrument
 ItemNo: 28
-Length: not specified
+Length: 273.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent4
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Lamp with upward facing lightbulb
   Role: Patient
   isAnimate: 0
-Patient: Lamp with upward facing lightbulb
 PrimarySentenceDescription: The man's shirt is blue.
-PrimaryVerbDescription: BigAgentChange
-Size: TO ADD
+PrimaryVerbDescription: Tilt
+SecondarySentenceDescription: He is holding onto a lamp.
+ThirdSentenceDescription: He tilts the lamp away from himself.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The man's shirt is blue.
+- He is holding onto a lamp.
+- He tilts the lamp away from himself.
+- The man is inside a kitchen area.
+- ''

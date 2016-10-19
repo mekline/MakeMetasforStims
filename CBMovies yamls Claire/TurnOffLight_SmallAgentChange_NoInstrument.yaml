@@ -1,23 +1,27 @@
-Agent: Agent23
 Color: full color
+FifthSentenceDescription: ''
 Filename: TurnOffLight_SmallAgentChange_NoInstrument.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- SmallAgentChange
+- NoInstrument
 ItemNo: 35
-Length: not specified
+Length: 298.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent23
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Red lamp
   Role: Patient
   isAnimate: 0
-Patient: Red lamp
 PrimarySentenceDescription: Repeat.
-PrimaryVerbDescription: SmallAgentChange
-Size: TO ADD
+PrimaryVerbDescription: TurnOff
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- Repeat.
+- ''
+- ''
+- ''
+- ''

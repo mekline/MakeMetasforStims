@@ -1,23 +1,30 @@
-Agent: Agent19
 Color: full color
+FifthSentenceDescription: ''
 Filename: SpinChair_InstrumentChange_Instrument.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- InstrumentChange
+- Instrument
 ItemNo: 24
-Length: not specified
-NParticipants: 2
+Length: 202.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent19
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Five wheel black chair
   Role: Patient
   isAnimate: 0
-Patient: Five wheel black chair
+- ID: SIlver tongs
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: Repeat
-PrimaryVerbDescription: InstrumentChange
-Size: TO ADD
+PrimaryVerbDescription: Spin
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- Repeat
+- ''
+- ''
+- ''
+- ''

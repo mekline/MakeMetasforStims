@@ -1,23 +1,27 @@
-Agent: Agent6
 Color: full color
+FifthSentenceDescription: ''
 Filename: Bounce_Diagonal_RightHand.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- ResultChange
+- NoInstrument
 ItemNo: 2
-Length: not specified
+Length: 21.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent6
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Clear ball
   Role: Patient
   isAnimate: 0
-Patient: Clear ball
 PrimarySentenceDescription: ''
-PrimaryVerbDescription: ResultChange
-Size: TO ADD
+PrimaryVerbDescription: Bounce
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- ''
+- ''
+- ''
+- ''
+- ''

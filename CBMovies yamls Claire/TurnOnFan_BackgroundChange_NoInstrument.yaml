@@ -1,23 +1,27 @@
-Agent: Agent25
 Color: full color
+FifthSentenceDescription: The strips of paper blow in the fan's wind.
 Filename: TurnOnFan_BackgroundChange_NoInstrument.yaml
+FourthSentenceDescription: The fan turns on.
 ItemCondition:
-- placeholder
-- placeholder
+- BackgroundChange
+- NoInstrument
 ItemNo: 36
-Length: not specified
+Length: 299.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent25
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Orange fan with paper strips
   Role: Patient
   isAnimate: 0
-Patient: Orange fan with paper strips
 PrimarySentenceDescription: The fan is black and orange.
-PrimaryVerbDescription: BackgroundChange
-Size: TO ADD
+PrimaryVerbDescription: TurnOn
+SecondarySentenceDescription: The strips of paper are tied to the fan.
+ThirdSentenceDescription: The woman touches the fan to turn it on.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The fan is black and orange.
+- The strips of paper are tied to the fan.
+- The woman touches the fan to turn it on.
+- The fan turns on.
+- The strips of paper blow in the fan's wind.

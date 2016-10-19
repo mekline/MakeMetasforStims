@@ -1,0 +1,30 @@
+Color: full color
+FifthSentenceDescription: ''
+Filename: SlideChair_SmallAgentChange_Instrument.mp4
+FourthSentenceDescription: ''
+ItemCondition:
+- SmallAgentChange
+- Instrument
+ItemNo: 20
+Length: 186.0
+NParticipants: 3
+Participants:
+- ID: Agent24
+  Role: Agent
+  isAnimate: 1
+- ID: Five wheel black chair
+  Role: Patient
+  isAnimate: 0
+- ID: Purple broom
+  Role: Instrument
+  isAnimate: 0
+PrimarySentenceDescription: ''
+PrimaryVerbDescription: Slide
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
+VerboseDescription:
+- ''
+- ''
+- ''
+- ''
+- ''

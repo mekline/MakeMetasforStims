@@ -1,0 +1,30 @@
+Color: full color
+FifthSentenceDescription: The block tower falls to the side.
+Filename: KnockOver_MannerChange_Instrument.mp4
+FourthSentenceDescription: The two pink blocks are connected.
+ItemCondition:
+- MannerChange
+- Instrument
+ItemNo: 19
+Length: 67.0
+NParticipants: 3
+Participants:
+- ID: Agent16
+  Role: Agent
+  isAnimate: 1
+- ID: Pink block
+  Role: Patient
+  isAnimate: 0
+- ID: Green block
+  Role: Instrument
+  isAnimate: 0
+PrimarySentenceDescription: The man is holding a green block.
+PrimaryVerbDescription: Knock
+SecondarySentenceDescription: There are two stacked pink blocks on the table.
+ThirdSentenceDescription: 'The man knocks the tower over with the '
+VerboseDescription:
+- The man is holding a green block.
+- There are two stacked pink blocks on the table.
+- 'The man knocks the tower over with the '
+- The two pink blocks are connected.
+- The block tower falls to the side.

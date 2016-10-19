@@ -1,23 +1,30 @@
-Agent: Agent23
 Color: full color
+FifthSentenceDescription: The cloth stretches diagonally.
 Filename: StretchCloth_Base_Instrument.yaml
+FourthSentenceDescription: The woman lifts the hanger up and across her body.
 ItemCondition:
-- placeholder
-- placeholder
+- Base
+- Instrument
 ItemNo: 37
-Length: not specified
-NParticipants: 2
+Length: 233.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent23
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: White cloth
   Role: Patient
   isAnimate: 0
-Patient: White cloth
+- ID: Black hanger
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: The woman is standing.
-PrimaryVerbDescription: Base
-Size: TO ADD
+PrimaryVerbDescription: Stretch
+SecondarySentenceDescription: She is holding a black hanger.
+ThirdSentenceDescription: She holds the end of a white cloth.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The woman is standing.
+- She is holding a black hanger.
+- She holds the end of a white cloth.
+- The woman lifts the hanger up and across her body.
+- The cloth stretches diagonally.

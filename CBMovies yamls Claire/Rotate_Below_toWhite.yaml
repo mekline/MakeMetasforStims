@@ -1,23 +1,27 @@
-Agent: Agent3
 Color: full color
+FifthSentenceDescription: ''
 Filename: Rotate_Below_toWhite.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- MannerChange
+- NoInstrument
 ItemNo: 9
-Length: not specified
+Length: 155.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent3
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Half white half blue bottle
   Role: Patient
   isAnimate: 0
-Patient: Half white half blue bottle
 PrimarySentenceDescription: ''
-PrimaryVerbDescription: MannerChange
-Size: TO ADD
+PrimaryVerbDescription: Rotate
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- ''
+- ''
+- ''
+- ''
+- ''

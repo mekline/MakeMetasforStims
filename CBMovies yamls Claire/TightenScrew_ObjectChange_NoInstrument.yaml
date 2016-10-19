@@ -1,23 +1,27 @@
-Agent: Agent5
 Color: full color
+FifthSentenceDescription: The screw tightens.
 Filename: TightenScrew_ObjectChange_NoInstrument.yaml
+FourthSentenceDescription: The man twists the orange screw.
 ItemCondition:
-- placeholder
-- placeholder
+- ObjectChange
+- NoInstrument
 ItemNo: 21
-Length: not specified
+Length: 265.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent5
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Orange screw
   Role: Patient
   isAnimate: 0
-Patient: Orange screw
 PrimarySentenceDescription: The man is sitting in front of a blue starry wall.
-PrimaryVerbDescription: ObjectChange
-Size: TO ADD
+PrimaryVerbDescription: Tighten
+SecondarySentenceDescription: There is a blue plastic box on the table.
+ThirdSentenceDescription: The box has two orange things sticking up.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The man is sitting in front of a blue starry wall.
+- There is a blue plastic box on the table.
+- The box has two orange things sticking up.
+- The man twists the orange screw.
+- The screw tightens.

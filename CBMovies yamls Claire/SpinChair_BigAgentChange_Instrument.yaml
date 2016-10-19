@@ -1,23 +1,30 @@
-Agent: Agent2
 Color: full color
+FifthSentenceDescription: The woman is standing behind the chair.
 Filename: SpinChair_BigAgentChange_Instrument.yaml
+FourthSentenceDescription: The grabber turns the chair in a circle.
 ItemCondition:
-- placeholder
-- placeholder
+- BigAgentChange
+- Instrument
 ItemNo: 24
-Length: not specified
-NParticipants: 2
+Length: 200.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent2
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Five wheel black chair
   Role: Patient
   isAnimate: 0
-Patient: Five wheel black chair
+- ID: Grabber
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: The woman is holding a grabber.
-PrimaryVerbDescription: BigAgentChange
-Size: TO ADD
+PrimaryVerbDescription: Spin
+SecondarySentenceDescription: The grabber attaches to the chair's armrest.
+ThirdSentenceDescription: The woman rotates the grabber.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The woman is holding a grabber.
+- The grabber attaches to the chair's armrest.
+- The woman rotates the grabber.
+- The grabber turns the chair in a circle.
+- The woman is standing behind the chair.

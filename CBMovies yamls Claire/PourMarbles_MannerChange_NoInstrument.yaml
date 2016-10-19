@@ -1,23 +1,28 @@
-Agent: Agent2
 Color: full color
+FifthSentenceDescription: ''
 Filename: PourMarbles_MannerChange_NoInstrument.yaml
+FourthSentenceDescription: The empty bucket is filled with marbles.
 ItemCondition:
-- placeholder
-- placeholder
+- MannerChange
+- NoInstrument
 ItemNo: 30
-Length: not specified
+Length: 114.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent2
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Yellow marbles
   Role: Patient
   isAnimate: 0
-Patient: Yellow marbles
 PrimarySentenceDescription: The woman pours yellow marbles into a bucket.
-PrimaryVerbDescription: MannerChange
-Size: TO ADD
+PrimaryVerbDescription: Pour
+SecondarySentenceDescription: There is a clear bucket with green and yellow marbles
+  on the table.
+ThirdSentenceDescription: The woman tips the cup with yellow marbles.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The woman pours yellow marbles into a bucket.
+- There is a clear bucket with green and yellow marbles on the table.
+- The woman tips the cup with yellow marbles.
+- The empty bucket is filled with marbles.
+- ''

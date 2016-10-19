@@ -1,23 +1,27 @@
-Agent: Agent23
 Color: full color
+FifthSentenceDescription: The lamp is on a shoulder-height table.
 Filename: TurnOffLight_ObjectChange_NoInstrument.yaml
+FourthSentenceDescription: The woman uses her elbow to turn the light off.
 ItemCondition:
-- placeholder
-- placeholder
+- ObjectChange
+- NoInstrument
 ItemNo: 35
-Length: not specified
+Length: 294.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent23
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Purple lamp
   Role: Patient
   isAnimate: 0
-Patient: Purple lamp
 PrimarySentenceDescription: The lamp shade is purple.
-PrimaryVerbDescription: ObjectChange
-Size: TO ADD
+PrimaryVerbDescription: TurnOff
+SecondarySentenceDescription: The woman is holding a pile of white books.
+ThirdSentenceDescription: The woman is standing to the left of the lamp.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The lamp shade is purple.
+- The woman is holding a pile of white books.
+- The woman is standing to the left of the lamp.
+- The woman uses her elbow to turn the light off.
+- The lamp is on a shoulder-height table.

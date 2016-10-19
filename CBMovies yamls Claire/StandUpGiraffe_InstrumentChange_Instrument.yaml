@@ -1,23 +1,30 @@
-Agent: Agent22
 Color: full color
+FifthSentenceDescription: ''
 Filename: StandUpGiraffe_InstrumentChange_Instrument.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- InstrumentChange
+- Instrument
 ItemNo: 23
-Length: not specified
-NParticipants: 2
+Length: 217.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent22
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Stuffed giraffe with brown blanket
   Role: Patient
   isAnimate: 0
-Patient: Stuffed giraffe with brown blanket
+- ID: Grabber
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: Repeat
-PrimaryVerbDescription: InstrumentChange
-Size: TO ADD
+PrimaryVerbDescription: Stand
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- Repeat
+- ''
+- ''
+- ''
+- ''

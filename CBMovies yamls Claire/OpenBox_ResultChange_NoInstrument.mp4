@@ -1,0 +1,27 @@
+Color: full color
+FifthSentenceDescription: ''
+Filename: OpenBox_ResultChange_NoInstrument.mp4
+FourthSentenceDescription: There are bright flowers in the room.
+ItemCondition:
+- ResultChange
+- NoInstrument
+ItemNo: 26
+Length: 87.0
+NParticipants: 2
+Participants:
+- ID: Agent17
+  Role: Agent
+  isAnimate: 1
+- ID: Black box
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The box is black.
+PrimaryVerbDescription: Open
+SecondarySentenceDescription: The woman is sitting.
+ThirdSentenceDescription: She uses both hands to lift the top of the box.
+VerboseDescription:
+- The box is black.
+- The woman is sitting.
+- She uses both hands to lift the top of the box.
+- There are bright flowers in the room.
+- ''

@@ -1,23 +1,30 @@
-Agent: Agent2
 Color: full color
+FifthSentenceDescription: The woman is wearing a blue shirt.
 Filename: PlayMusicBox_ObjectChange_Instrument.yaml
+FourthSentenceDescription: The box rings.
 ItemCondition:
-- placeholder
-- placeholder
+- ObjectChange
+- Instrument
 ItemNo: 25
-Length: not specified
-NParticipants: 2
+Length: 99.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent2
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Orange and white box
   Role: Patient
   isAnimate: 0
-Patient: Orange and white box
+- ID: Silver crank
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: The box has silver crank on the top.
-PrimaryVerbDescription: ObjectChange
-Size: TO ADD
+PrimaryVerbDescription: Play
+SecondarySentenceDescription: The front of the box is is white.
+ThirdSentenceDescription: The woman turns the crank with her hand.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The box has silver crank on the top.
+- The front of the box is is white.
+- The woman turns the crank with her hand.
+- The box rings.
+- The woman is wearing a blue shirt.

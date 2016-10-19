@@ -1,23 +1,27 @@
-Agent: Agent8
 Color: full color
+FifthSentenceDescription: The video changes.
 Filename: ChangeChannel_MannerChange_NoInstrument.yaml
+FourthSentenceDescription: The woman touches the bottom left corner of the computer.
 ItemCondition:
-- placeholder
-- placeholder
+- MannerChange
+- NoInstrument
 ItemNo: 32
-Length: not specified
+Length: 45.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent8
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Black computer
   Role: Patient
   isAnimate: 0
-Patient: Black computer
 PrimarySentenceDescription: The woman is sitting in front of the computer.
-PrimaryVerbDescription: MannerChange
-Size: TO ADD
+PrimaryVerbDescription: Change
+SecondarySentenceDescription: The woman is wearing a red shirt.
+ThirdSentenceDescription: The computer is playing a video.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The woman is sitting in front of the computer.
+- The woman is wearing a red shirt.
+- The computer is playing a video.
+- The woman touches the bottom left corner of the computer.
+- The video changes.

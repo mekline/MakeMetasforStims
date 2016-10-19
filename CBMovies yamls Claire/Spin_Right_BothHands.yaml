@@ -1,23 +1,27 @@
-Agent: Agent3
 Color: full color
+FifthSentenceDescription: The chair rotates clockwise.
 Filename: Spin_Right_BothHands.yaml
+FourthSentenceDescription: The man rotates the chair towards himself.
 ItemCondition:
-- placeholder
-- placeholder
+- Base
+- NoInstrument
 ItemNo: 11
-Length: not specified
+Length: 194.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent3
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Five wheel black chair
   Role: Patient
   isAnimate: 0
-Patient: Five wheel black chair
 PrimarySentenceDescription: The man approaches the chair.
-PrimaryVerbDescription: Base
-Size: TO ADD
+PrimaryVerbDescription: Spin
+SecondarySentenceDescription: He grabs the back of the chair with both hands.
+ThirdSentenceDescription: The chair is facing the window.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The man approaches the chair.
+- He grabs the back of the chair with both hands.
+- The chair is facing the window.
+- The man rotates the chair towards himself.
+- The chair rotates clockwise.

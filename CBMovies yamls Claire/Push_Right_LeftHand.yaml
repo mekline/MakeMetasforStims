@@ -1,23 +1,27 @@
-Agent: Agent2
 Color: full color
+FifthSentenceDescription: ''
 Filename: Push_Right_LeftHand.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- ResultChange
+- NoInstrument
 ItemNo: 5
-Length: not specified
+Length: 123.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent2
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Glass bottle
   Role: Patient
   isAnimate: 0
-Patient: Glass bottle
 PrimarySentenceDescription: ''
-PrimaryVerbDescription: ResultChange
-Size: TO ADD
+PrimaryVerbDescription: Push
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- ''
+- ''
+- ''
+- ''
+- ''

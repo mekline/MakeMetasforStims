@@ -1,23 +1,30 @@
-Agent: Agent16
 Color: full color
+FifthSentenceDescription: The man is standing.
 Filename: KnockOver_ObjectChange_Instrument.yaml
+FourthSentenceDescription: The blue and pink blocks fall together.
 ItemCondition:
-- placeholder
-- placeholder
+- ObjectChange
+- Instrument
 ItemNo: 19
-Length: not specified
-NParticipants: 2
+Length: 69.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent16
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Pink and blue block
   Role: Patient
   isAnimate: 0
-Patient: Pink and blue block
+- ID: Yellow block
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: The blue cylander is ontop the pink triangle.
-PrimaryVerbDescription: ObjectChange
-Size: TO ADD
+PrimaryVerbDescription: Knock
+SecondarySentenceDescription: The man is holding a green block.
+ThirdSentenceDescription: The green block tips the block tower.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The blue cylander is ontop the pink triangle.
+- The man is holding a green block.
+- The green block tips the block tower.
+- The blue and pink blocks fall together.
+- The man is standing.

@@ -1,0 +1,27 @@
+Color: full color
+FifthSentenceDescription: ''
+Filename: PourMarbles_ObjectChange_NoInstrument.mp4
+FourthSentenceDescription: ''
+ItemCondition:
+- ObjectChange
+- NoInstrument
+ItemNo: 30
+Length: 116.0
+NParticipants: 2
+Participants:
+- ID: Agent2
+  Role: Agent
+  isAnimate: 1
+- ID: Green marbles
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: ''
+PrimaryVerbDescription: Pour
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
+VerboseDescription:
+- ''
+- ''
+- ''
+- ''
+- ''

@@ -1,0 +1,27 @@
+Color: full color
+FifthSentenceDescription: ''
+Filename: Roll_WheelsDown_TwoHands.mp4
+FourthSentenceDescription: ''
+ItemCondition:
+- ResultChange
+- NoInstrument
+ItemNo: 8
+Length: 134.0
+NParticipants: 2
+Participants:
+- ID: Agent6
+  Role: Agent
+  isAnimate: 1
+- ID: Yellow wheeled truck
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: ''
+PrimaryVerbDescription: Roll
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
+VerboseDescription:
+- ''
+- ''
+- ''
+- ''
+- ''

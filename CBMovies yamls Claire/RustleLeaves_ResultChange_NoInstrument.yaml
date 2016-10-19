@@ -1,23 +1,27 @@
-Agent: Agent17
 Color: full color
+FifthSentenceDescription: The leaves are dry and dead.
 Filename: RustleLeaves_ResultChange_NoInstrument.yaml
+FourthSentenceDescription: The leaves rustle.
 ItemCondition:
-- placeholder
-- placeholder
+- ResultChange
+- NoInstrument
 ItemNo: 34
-Length: not specified
+Length: 170.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent17
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Pile of brown leaves
   Role: Patient
   isAnimate: 0
-Patient: Pile of brown leaves
 PrimarySentenceDescription: The woman moves her hand over the leaves.
-PrimaryVerbDescription: ResultChange
-Size: TO ADD
+PrimaryVerbDescription: Rustle
+SecondarySentenceDescription: The leaves are piled on a table.
+ThirdSentenceDescription: There is a basket on the table.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The woman moves her hand over the leaves.
+- The leaves are piled on a table.
+- There is a basket on the table.
+- The leaves rustle.
+- The leaves are dry and dead.

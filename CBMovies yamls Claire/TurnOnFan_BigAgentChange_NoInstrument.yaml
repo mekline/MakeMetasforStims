@@ -1,23 +1,27 @@
-Agent: Agent23
 Color: full color
+FifthSentenceDescription: The woman touches the fan.
 Filename: TurnOnFan_BigAgentChange_NoInstrument.yaml
+FourthSentenceDescription: The paper blows in the fan's wind.
 ItemCondition:
-- placeholder
-- placeholder
+- BigAgentChange
+- NoInstrument
 ItemNo: 36
-Length: not specified
+Length: 301.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent23
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Orange fan with paper strips
   Role: Patient
   isAnimate: 0
-Patient: Orange fan with paper strips
 PrimarySentenceDescription: The fan is black and orange.
-PrimaryVerbDescription: BigAgentChange
-Size: TO ADD
+PrimaryVerbDescription: TurnOn
+SecondarySentenceDescription: The strips of paper are tied to the fan.
+ThirdSentenceDescription: The woman turns the fan on.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The fan is black and orange.
+- The strips of paper are tied to the fan.
+- The woman turns the fan on.
+- The paper blows in the fan's wind.
+- The woman touches the fan.

@@ -1,0 +1,27 @@
+Color: full color
+FifthSentenceDescription: ''
+Filename: TiltLamp_MannerChange_NoInstrument.mp4
+FourthSentenceDescription: ''
+ItemCondition:
+- MannerChange
+- NoInstrument
+ItemNo: 28
+Length: 276.0
+NParticipants: 2
+Participants:
+- ID: Agent5
+  Role: Agent
+  isAnimate: 1
+- ID: Lamp with upward facing lightbulb
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: ''
+PrimaryVerbDescription: Tilt
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
+VerboseDescription:
+- ''
+- ''
+- ''
+- ''
+- ''

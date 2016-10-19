@@ -1,0 +1,27 @@
+Color: full color
+FifthSentenceDescription: ''
+Filename: Bounce_Diagonal_LeftHand.mp4
+FourthSentenceDescription: The woman is standing in front of the table.
+ItemCondition:
+- CounterbalanceMR
+- NoInstrument
+ItemNo: 2
+Length: 20.0
+NParticipants: 2
+Participants:
+- ID: Agent6
+  Role: Agent
+  isAnimate: 1
+- ID: Clear ball
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The woman drops the ball.
+PrimaryVerbDescription: Bounce
+SecondarySentenceDescription: The ball bounces forward on the table.
+ThirdSentenceDescription: The ball is clear.
+VerboseDescription:
+- The woman drops the ball.
+- The ball bounces forward on the table.
+- The ball is clear.
+- The woman is standing in front of the table.
+- ''

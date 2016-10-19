@@ -1,23 +1,27 @@
-Agent: Agent8
 Color: full color
+FifthSentenceDescription: The computer screen's edges are white.
 Filename: ChangeChannel_ObjectChange_NoInstrument.yaml
+FourthSentenceDescription: The video changes.
 ItemCondition:
-- placeholder
-- placeholder
+- ObjectChange
+- NoInstrument
 ItemNo: 32
-Length: not specified
+Length: 46.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent8
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: White computer
   Role: Patient
   isAnimate: 0
-Patient: White computer
 PrimarySentenceDescription: The woman is watching videos.
-PrimaryVerbDescription: ObjectChange
-Size: TO ADD
+PrimaryVerbDescription: Change
+SecondarySentenceDescription: The computer screen is playing videos.
+ThirdSentenceDescription: The woman presses a button on the screen.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The woman is watching videos.
+- The computer screen is playing videos.
+- The woman presses a button on the screen.
+- The video changes.
+- The computer screen's edges are white.

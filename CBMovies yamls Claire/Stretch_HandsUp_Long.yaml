@@ -1,23 +1,27 @@
-Agent: Agent11
 Color: full color
+FifthSentenceDescription: ''
 Filename: Stretch_HandsUp_Long.yaml
+FourthSentenceDescription: The man is sitting at a table.
 ItemCondition:
-- placeholder
-- placeholder
+- CounterbalanceMR
+- NoInstrument
 ItemNo: 12
-Length: not specified
+Length: 229.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent11
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Blue bendy tube
   Role: Patient
   isAnimate: 0
-Patient: Blue bendy tube
 PrimarySentenceDescription: The man is holding a blue bendy tube on both ends.
-PrimaryVerbDescription: CounterbalanceMR
-Size: TO ADD
+PrimaryVerbDescription: Stretch
+SecondarySentenceDescription: The man separates his hands outward.
+ThirdSentenceDescription: The tube fully elongates.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The man is holding a blue bendy tube on both ends.
+- The man separates his hands outward.
+- The tube fully elongates.
+- The man is sitting at a table.
+- ''

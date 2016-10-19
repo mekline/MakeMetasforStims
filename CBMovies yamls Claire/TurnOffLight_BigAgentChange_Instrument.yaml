@@ -1,23 +1,30 @@
-Agent: Agent25
 Color: full color
+FifthSentenceDescription: ''
 Filename: TurnOffLight_BigAgentChange_Instrument.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- BigAgentChange
+- Instrument
 ItemNo: 35
-Length: not specified
-NParticipants: 2
+Length: 288.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent25
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Red lamp
   Role: Patient
   isAnimate: 0
-Patient: Red lamp
+- ID: Stack of books
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: ''
-PrimaryVerbDescription: BigAgentChange
-Size: TO ADD
+PrimaryVerbDescription: TurnOff
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- ''
+- ''
+- ''
+- ''
+- ''

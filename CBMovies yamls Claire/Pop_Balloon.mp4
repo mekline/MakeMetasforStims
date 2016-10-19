@@ -1,0 +1,30 @@
+Color: full color
+FifthSentenceDescription: The woman pops the balloon with the pen.
+Filename: Pop_Balloon.mp4
+FourthSentenceDescription: The woman stops writing.
+ItemCondition:
+- Base
+- Instrument
+ItemNo: 16
+Length: 105.0
+NParticipants: 3
+Participants:
+- ID: Agent10
+  Role: Agent
+  isAnimate: 1
+- ID: Pink balloon
+  Role: Patient
+  isAnimate: 0
+- ID: White pen
+  Role: Instrument
+  isAnimate: 0
+PrimarySentenceDescription: The woman is writing with a pen.
+PrimaryVerbDescription: Pop
+SecondarySentenceDescription: There is a pink balloon on the bench.
+ThirdSentenceDescription: The woman is stting on a bench.
+VerboseDescription:
+- The woman is writing with a pen.
+- There is a pink balloon on the bench.
+- The woman is stting on a bench.
+- The woman stops writing.
+- The woman pops the balloon with the pen.

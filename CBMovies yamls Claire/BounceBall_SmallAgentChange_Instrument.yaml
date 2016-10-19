@@ -1,23 +1,30 @@
-Agent: Agent4
 Color: full color
+FifthSentenceDescription: ''
 Filename: BounceBall_SmallAgentChange_Instrument.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- SmallAgentChange
+- Instrument
 ItemNo: 27
-Length: not specified
-NParticipants: 2
+Length: 37.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent4
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Clear ball
   Role: Patient
   isAnimate: 0
-Patient: Clear ball
+- ID: Striped frisbee
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: ''
-PrimaryVerbDescription: SmallAgentChange
-Size: TO ADD
+PrimaryVerbDescription: Bounce
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- ''
+- ''
+- ''
+- ''
+- ''

@@ -1,23 +1,27 @@
-Agent: Agent3
 Color: full color
+FifthSentenceDescription: ''
 Filename: Bend_Half_LeftHand.yaml
+FourthSentenceDescription: ''
 ItemCondition:
-- placeholder
-- placeholder
+- CounterbalanceMR
+- NoInstrument
 ItemNo: 1
-Length: not specified
+Length: 18.0
 NParticipants: 2
 Participants:
-- ID: addUniqueID
+- ID: Agent3
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Yellow bendy tube
   Role: Patient
   isAnimate: 0
-Patient: Yellow bendy tube
 PrimarySentenceDescription: ''
-PrimaryVerbDescription: CounterbalanceMR
-Size: TO ADD
+PrimaryVerbDescription: Bend
+SecondarySentenceDescription: ''
+ThirdSentenceDescription: ''
 VerboseDescription:
-- TO ADD
-- Multiple items
+- ''
+- ''
+- ''
+- ''
+- ''

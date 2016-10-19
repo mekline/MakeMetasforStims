@@ -1,23 +1,30 @@
-Agent: Agent4
 Color: full color
+FifthSentenceDescription: The ball bounces off the book.
 Filename: BounceBall_MannerChange_Instrument.yaml
+FourthSentenceDescription: The man hits the ball with the frisbee.
 ItemCondition:
-- placeholder
-- placeholder
+- MannerChange
+- Instrument
 ItemNo: 27
-Length: not specified
-NParticipants: 2
+Length: 31.0
+NParticipants: 3
 Participants:
-- ID: addUniqueID
+- ID: Agent4
   Role: Agent
   isAnimate: 1
-- ID: addUniqueID
+- ID: Clear ball
   Role: Patient
   isAnimate: 0
-Patient: Clear ball
+- ID: Striped frisbee
+  Role: Instrument
+  isAnimate: 0
 PrimarySentenceDescription: The man holds a red frisbee in his right hand.
-PrimaryVerbDescription: MannerChange
-Size: TO ADD
+PrimaryVerbDescription: Bounce
+SecondarySentenceDescription: He has a clear ball in his left hand.
+ThirdSentenceDescription: There is a book on the table.
 VerboseDescription:
-- TO ADD
-- Multiple items
+- The man holds a red frisbee in his right hand.
+- He has a clear ball in his left hand.
+- There is a book on the table.
+- The man hits the ball with the frisbee.
+- The ball bounces off the book.
