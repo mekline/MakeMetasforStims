@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: ChangeChannel_Base_NoInstrument.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - Base
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Black computer
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: ''
 PrimaryVerbDescription: Change
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - ''
 - ''

@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: PlayMusicBox_SmallAgentChange_Instrument.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - SmallAgentChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Silver crank
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: Repeat.
 PrimaryVerbDescription: Play
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - Repeat.
 - ''

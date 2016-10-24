@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The yoyo is green.
 Filename: SwingYoyo_ResultChange_NoInstrument.yaml
-FourthSentenceDescription: The yoyo bounces up and down.
 ItemCondition:
 - ResultChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Green yoyo
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The yoyo is attched to a string.
 PrimaryVerbDescription: Swing
-SecondarySentenceDescription: The woman is holding the string.
-ThirdSentenceDescription: The woman raises and lowers her hand.
 VerboseDescription:
 - The yoyo is attched to a string.
 - The woman is holding the string.

@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: SlideChair_ObjectChange_NoInstrument.yaml
-FourthSentenceDescription: The chair rolls away from him.
 ItemCondition:
 - ObjectChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Four wheel black chair
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The man is standing.
 PrimaryVerbDescription: Slide
-SecondarySentenceDescription: The chair has four legs.
-ThirdSentenceDescription: The man pushes the chair with one hand.
 VerboseDescription:
 - The man is standing.
 - The chair has four legs.

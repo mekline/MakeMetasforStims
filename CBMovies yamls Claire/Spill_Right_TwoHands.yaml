@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: Spill_Right_TwoHands.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - CounterbalanceMR
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: White marbles
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: ''
 PrimaryVerbDescription: Spill
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - ''
 - ''

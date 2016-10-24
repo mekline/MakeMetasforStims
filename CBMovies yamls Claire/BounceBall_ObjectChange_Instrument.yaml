@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: BounceBall_ObjectChange_Instrument.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - ObjectChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Striped frisbee
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: ''
 PrimaryVerbDescription: Bounce
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - ''
 - ''

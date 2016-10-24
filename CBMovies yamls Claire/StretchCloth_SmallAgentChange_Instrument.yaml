@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The cloth stretches diagonally.
 Filename: StretchCloth_SmallAgentChange_Instrument.yaml
-FourthSentenceDescription: She lifts the hanger from her left hip to her right shoulder.
 ItemCondition:
 - SmallAgentChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Black hanger
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: The woma is holding a black hanger.
 PrimaryVerbDescription: Stretch
-SecondarySentenceDescription: The cloth is hanging from the hanger.
-ThirdSentenceDescription: The woman holds the end of the cloth.
 VerboseDescription:
 - The woma is holding a black hanger.
 - The cloth is hanging from the hanger.

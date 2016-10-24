@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The tube points to the left.
 Filename: Bend_Half_RightHand.yaml
-FourthSentenceDescription: He bends the tube in half with his upper hand.
 ItemCondition:
 - ResultChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Yellow bendy tube
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The bendy tube is yellow.
 PrimaryVerbDescription: Bend
-SecondarySentenceDescription: The man holds both ends of the bendy tube.
-ThirdSentenceDescription: The man holds the tube vertically.
 VerboseDescription:
 - The bendy tube is yellow.
 - The man holds both ends of the bendy tube.

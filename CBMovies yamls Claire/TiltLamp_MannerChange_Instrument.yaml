@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The pole tilts the lamp.
 Filename: TiltLamp_MannerChange_Instrument.yaml
-FourthSentenceDescription: He extends th pole outwards
 ItemCondition:
 - MannerChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: White and black striped pole
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: The man is holding a striped pole.
 PrimaryVerbDescription: Tilt
-SecondarySentenceDescription: His palm is facing away from his body.
-ThirdSentenceDescription: His elbow is bent.
 VerboseDescription:
 - The man is holding a striped pole.
 - His palm is facing away from his body.

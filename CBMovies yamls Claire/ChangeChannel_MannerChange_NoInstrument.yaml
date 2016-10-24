@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The video changes.
 Filename: ChangeChannel_MannerChange_NoInstrument.yaml
-FourthSentenceDescription: The woman touches the bottom left corner of the computer.
 ItemCondition:
 - MannerChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Black computer
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The woman is sitting in front of the computer.
 PrimaryVerbDescription: Change
-SecondarySentenceDescription: The woman is wearing a red shirt.
-ThirdSentenceDescription: The computer is playing a video.
 VerboseDescription:
 - The woman is sitting in front of the computer.
 - The woman is wearing a red shirt.

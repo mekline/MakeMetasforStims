@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The green marbles fall into the empty jar.
 Filename: PourMarbles_ObjectChange_Instrument.yaml
-FourthSentenceDescription: The woman uses a pen to pour the green marbles.
 ItemCondition:
 - ObjectChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Green and white pen
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: The woman is wearing a red shirt.
 PrimaryVerbDescription: Pour
-SecondarySentenceDescription: There are two clear jars on the table.
-ThirdSentenceDescription: The woman is holding a cup with green marbles.
 VerboseDescription:
 - The woman is wearing a red shirt.
 - There are two clear jars on the table.

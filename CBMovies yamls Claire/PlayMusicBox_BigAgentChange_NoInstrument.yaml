@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: PlayMusicBox_BigAgentChange_NoInstrument.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - BigAgentChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Orange and yellow box
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: ''
 PrimaryVerbDescription: Play
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - ''
 - ''

@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: SlideChair_ResultChange_Instrument.yaml
-FourthSentenceDescription: The chair never leaves the broom's reach.
 ItemCondition:
 - ResultChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Purple broom
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: The man pushes the chair with a broom.
 PrimaryVerbDescription: Slide
-SecondarySentenceDescription: The man is standing.
-ThirdSentenceDescription: The chair rolls forward.
 VerboseDescription:
 - The man pushes the chair with a broom.
 - The man is standing.

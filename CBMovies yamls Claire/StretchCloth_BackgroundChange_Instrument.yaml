@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: StretchCloth_BackgroundChange_Instrument.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - BackgroundChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Black hanger
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: ''
 PrimaryVerbDescription: Stretch
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - ''
 - ''

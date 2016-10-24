@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The stopwatch swimgs from side to side.
 Filename: SwingYoyo_ObjectChange_NoInstrument.yaml
-FourthSentenceDescription: The woman is standing.
 ItemCondition:
 - ObjectChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Orange stopwatch
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The stopwatch is orange.
 PrimaryVerbDescription: Swing
-SecondarySentenceDescription: The stopwatch hangs from a black string.
-ThirdSentenceDescription: The woman holds the black string.
 VerboseDescription:
 - The stopwatch is orange.
 - The stopwatch hangs from a black string.

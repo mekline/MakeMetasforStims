@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: Stretch_HandsDown_Short.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - Base
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Blue bendy tube
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: ''
 PrimaryVerbDescription: Stretch
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - ''
 - ''

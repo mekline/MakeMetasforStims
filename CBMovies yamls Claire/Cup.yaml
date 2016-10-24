@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: Cup.yaml
-FourthSentenceDescription: The woman smacks a cup off the table.
 ItemCondition:
 - Base
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Green paper cup
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The woman is eating cereal at the table.
 PrimaryVerbDescription: Smack
-SecondarySentenceDescription: She is reading papers.
-ThirdSentenceDescription: She slams the papers down on the table.
 VerboseDescription:
 - The woman is eating cereal at the table.
 - She is reading papers.

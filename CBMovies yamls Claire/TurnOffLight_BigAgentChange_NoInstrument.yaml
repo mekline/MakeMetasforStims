@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: TurnOffLight_BigAgentChange_NoInstrument.yaml
-FourthSentenceDescription: The woman raises her elbow.
 ItemCondition:
 - BigAgentChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Red lamp
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The lamp shade is red.
 PrimaryVerbDescription: TurnOff
-SecondarySentenceDescription: The light is turned off.
-ThirdSentenceDescription: The woman is holding books.
 VerboseDescription:
 - The lamp shade is red.
 - The light is turned off.

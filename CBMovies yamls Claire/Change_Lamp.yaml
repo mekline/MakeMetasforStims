@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The lamp is on a table.
 Filename: Change_Lamp.yaml
-FourthSentenceDescription: The room darkens.
 ItemCondition:
 - Base
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Light switch
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The woman enters the yellow room.
 PrimaryVerbDescription: Change
-SecondarySentenceDescription: The lamp turns off.
-ThirdSentenceDescription: The woman flips a switch.
 VerboseDescription:
 - The woman enters the yellow room.
 - The lamp turns off.

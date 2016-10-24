@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: Close_Half_LeftHand.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - MannerChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Blinds
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: ''
 PrimaryVerbDescription: Close
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - ''
 - ''

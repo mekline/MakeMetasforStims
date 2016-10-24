@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The ball rolls forward.
 Filename: Roll2_Ball.yaml
-FourthSentenceDescription: The towel is pulled out from under the beach ball.
 ItemCondition:
 - Base
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Mini beach ball
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: 'The beach ball is resting on a towel. '
 PrimaryVerbDescription: Roll2
-SecondarySentenceDescription: The man is kneeling in front of the towel.
-ThirdSentenceDescription: He lifts the edges of the towel with his hands.
 VerboseDescription:
 - 'The beach ball is resting on a towel. '
 - The man is kneeling in front of the towel.

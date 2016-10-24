@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: SpinChair_ObjectChange_Instrument.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - ObjectChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Grabber
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: ''
 PrimaryVerbDescription: Spin
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - ''
 - ''

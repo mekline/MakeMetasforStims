@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: SlideChair_SmallAgentChange_Instrument.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - SmallAgentChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Purple broom
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: ''
 PrimaryVerbDescription: Slide
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - ''
 - ''

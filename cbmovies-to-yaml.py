@@ -12,11 +12,11 @@ audio_items = []
 def convert_to_yaml(line, counter):
     itemNo = int(line[1])
     primaryVerbDescription = line[4]
-    primarySentenceDescription = line[13]
-    secondarySentenceDescription = line[14]
-    thirdSentenceDescription = line[15]
-    fourthSentenceDescription = line[16]
-    fifthSentenceDescription = line[17]
+    #primarySentenceDescription = line[13]
+    #secondarySentenceDescription = line[14]
+    #thirdSentenceDescription = line[15]
+    #fourthSentenceDescription = line[16]
+    #fifthSentenceDescription = line[17]
     verboseDescription = [line[13], line[14], line[15], line[16], line[17]]
     
     agent = line[6]
@@ -47,11 +47,11 @@ def convert_to_yaml(line, counter):
         #'Size': 'TO ADD',
         'Color':'full color',
         'PrimaryVerbDescription':primaryVerbDescription,
-        'PrimarySentenceDescription':primarySentenceDescription,
-        'SecondarySentenceDescription':secondarySentenceDescription,
-        'ThirdSentenceDescription':thirdSentenceDescription,
-        'FourthSentenceDescription':fourthSentenceDescription,
-        'FifthSentenceDescription':fifthSentenceDescription,
+        #'PrimarySentenceDescription':primarySentenceDescription,
+        #'SecondarySentenceDescription':secondarySentenceDescription,
+        #'ThirdSentenceDescription':thirdSentenceDescription,
+        #'FourthSentenceDescription':fourthSentenceDescription,
+        #'FifthSentenceDescription':fifthSentenceDescription,
         'VerboseDescription': verboseDescription
     }
 

@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The woman pops the balloon with the pen.
 Filename: Pop_Balloon.yaml
-FourthSentenceDescription: The woman stops writing.
 ItemCondition:
 - Base
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: White pen
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: The woman is writing with a pen.
 PrimaryVerbDescription: Pop
-SecondarySentenceDescription: There is a pink balloon on the bench.
-ThirdSentenceDescription: The woman is stting on a bench.
 VerboseDescription:
 - The woman is writing with a pen.
 - There is a pink balloon on the bench.

@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: StandUpGiraffe_ResultChange_Instrument.yaml
-FourthSentenceDescription: She tips the giraffe to the other side.
 ItemCondition:
 - ResultChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Silver tongs
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: The woman grabs the giraffe's head with silver tongs.
 PrimaryVerbDescription: Stand
-SecondarySentenceDescription: She grabs the back leg of the giraffe with her hand.
-ThirdSentenceDescription: She picks up the giraffe.
 VerboseDescription:
 - The woman grabs the giraffe's head with silver tongs.
 - She grabs the back leg of the giraffe with her hand.

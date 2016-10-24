@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: OpenBox_Base_NoInstrument.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - Base
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Black box
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: ''
 PrimaryVerbDescription: Open
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - ''
 - ''

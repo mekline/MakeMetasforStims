@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: OpenBox_BackgroundChange_Instrument.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - BackgroundChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Yellow rake
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: Repeat.
 PrimaryVerbDescription: Open
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - Repeat.
 - ''

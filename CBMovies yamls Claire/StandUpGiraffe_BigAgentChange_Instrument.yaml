@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The woman is kneeling on the ground.
 Filename: StandUpGiraffe_BigAgentChange_Instrument.yaml
-FourthSentenceDescription: She holds the back leg of the giraffe.
 ItemCondition:
 - BigAgentChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Silver tongs
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: The woman is holding silver tongs.
 PrimaryVerbDescription: Stand
-SecondarySentenceDescription: She uprights the stuffed giraffe.
-ThirdSentenceDescription: She grabs the head of the giraffe with the tongs.
 VerboseDescription:
 - The woman is holding silver tongs.
 - She uprights the stuffed giraffe.

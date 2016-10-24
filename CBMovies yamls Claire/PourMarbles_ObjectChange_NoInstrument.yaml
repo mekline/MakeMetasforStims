@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: PourMarbles_ObjectChange_NoInstrument.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - ObjectChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Green marbles
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: ''
 PrimaryVerbDescription: Pour
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - ''
 - ''

@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: TwistMobile_InstrumentChange_Instrument.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - InstrumentChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: White binder
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: ''
 PrimaryVerbDescription: Twist
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - ''
 - ''

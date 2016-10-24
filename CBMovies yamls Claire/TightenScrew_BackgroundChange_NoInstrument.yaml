@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The toolbox has an orange object in it.
 Filename: TightenScrew_BackgroundChange_NoInstrument.yaml
-FourthSentenceDescription: There is a blue toolbox on the table.
 ItemCondition:
 - BackgroundChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Blue screw
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The man is sitting in front of a light blue wall.
 PrimaryVerbDescription: Tighten
-SecondarySentenceDescription: The man twists a screw.
-ThirdSentenceDescription: The blue screw tightens into the toolbox.
 VerboseDescription:
 - The man is sitting in front of a light blue wall.
 - The man twists a screw.

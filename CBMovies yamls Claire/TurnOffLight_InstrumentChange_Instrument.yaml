@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: TurnOffLight_InstrumentChange_Instrument.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - InstrumentChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Stack of books with binding facing outward
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: ''
 PrimaryVerbDescription: TurnOff
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - ''
 - ''

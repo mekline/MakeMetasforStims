@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: StandUpGiraffe_ResultChange_NoInstrument.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - ResultChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Stuffed giraffe with brown blanket
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: Repeat.
 PrimaryVerbDescription: Stand
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - Repeat.
 - ''

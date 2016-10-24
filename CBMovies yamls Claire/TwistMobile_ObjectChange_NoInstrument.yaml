@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: TwistMobile_ObjectChange_NoInstrument.yaml
-FourthSentenceDescription: There are three stars hanging from the mobile.
 ItemCondition:
 - ObjectChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Brown mobile with grey stars
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The woman pushes the mobile with her finger.
 PrimaryVerbDescription: Twist
-SecondarySentenceDescription: The mobile rotates.
-ThirdSentenceDescription: The stars are grey.
 VerboseDescription:
 - The woman pushes the mobile with her finger.
 - The mobile rotates.

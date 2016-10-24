@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The rattle jingles.
 Filename: Rattle_UpandDown_Rattle2.yaml
-FourthSentenceDescription: The woman is standing.
 ItemCondition:
 - Base
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Blue rattle
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The woman is holding a blue ring-shaped rattle.
 PrimaryVerbDescription: Rattle
-SecondarySentenceDescription: She flexes her writst upward and downward.
-ThirdSentenceDescription: The rattle shakes up and down.
 VerboseDescription:
 - The woman is holding a blue ring-shaped rattle.
 - She flexes her writst upward and downward.

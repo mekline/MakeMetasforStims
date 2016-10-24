@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: Roll_WheelsDown_OneHand.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - CounterbalanceMR
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Yellow wheeled truck
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: ''
 PrimaryVerbDescription: Roll
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - ''
 - ''

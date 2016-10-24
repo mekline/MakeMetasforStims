@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The bricks tip over.
 Filename: KnockOver_ObjectChange_NoInstrument.yaml
-FourthSentenceDescription: The blue and pink bricks are attached.
 ItemCondition:
 - ObjectChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Pink and blue block
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The bricks have a pink triangular base.
 PrimaryVerbDescription: Knock
-SecondarySentenceDescription: A blue cylander sticks up from the base.
-ThirdSentenceDescription: The man pushes the bricks over.
 VerboseDescription:
 - The bricks have a pink triangular base.
 - A blue cylander sticks up from the base.

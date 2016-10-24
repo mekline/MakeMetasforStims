@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: Push_Left_LeftHand.yaml
-FourthSentenceDescription: The bottle tips over.
 ItemCondition:
 - Base
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Glass bottle
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: There is a glass bottle on the table.
 PrimaryVerbDescription: Push
-SecondarySentenceDescription: The woman is sitting at the table.
-ThirdSentenceDescription: The woman pushes the bottle.
 VerboseDescription:
 - There is a glass bottle on the table.
 - The woman is sitting at the table.

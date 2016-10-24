@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: TurnOffLight_BigAgentChange_Instrument.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - BigAgentChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Stack of books
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: ''
 PrimaryVerbDescription: TurnOff
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - ''
 - ''

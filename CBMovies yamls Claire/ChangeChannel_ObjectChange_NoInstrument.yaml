@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The computer screen's edges are white.
 Filename: ChangeChannel_ObjectChange_NoInstrument.yaml
-FourthSentenceDescription: The video changes.
 ItemCondition:
 - ObjectChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: White computer
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The woman is watching videos.
 PrimaryVerbDescription: Change
-SecondarySentenceDescription: The computer screen is playing videos.
-ThirdSentenceDescription: The woman presses a button on the screen.
 VerboseDescription:
 - The woman is watching videos.
 - The computer screen is playing videos.

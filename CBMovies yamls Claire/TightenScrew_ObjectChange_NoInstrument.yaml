@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The screw tightens.
 Filename: TightenScrew_ObjectChange_NoInstrument.yaml
-FourthSentenceDescription: The man twists the orange screw.
 ItemCondition:
 - ObjectChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Orange screw
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The man is sitting in front of a blue starry wall.
 PrimaryVerbDescription: Tighten
-SecondarySentenceDescription: There is a blue plastic box on the table.
-ThirdSentenceDescription: The box has two orange things sticking up.
 VerboseDescription:
 - The man is sitting in front of a blue starry wall.
 - There is a blue plastic box on the table.

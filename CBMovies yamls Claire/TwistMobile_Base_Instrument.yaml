@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The stars have yellow accents.
 Filename: TwistMobile_Base_Instrument.yaml
-FourthSentenceDescription: The mobile rotates.
 ItemCondition:
 - Base
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Flat yellow square
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: The woman is wearing glasses.
 PrimaryVerbDescription: Twist
-SecondarySentenceDescription: The mobile has three stars.
-ThirdSentenceDescription: The woman pushes the mobile's arm with a yellow object.
 VerboseDescription:
 - The woman is wearing glasses.
 - The mobile has three stars.

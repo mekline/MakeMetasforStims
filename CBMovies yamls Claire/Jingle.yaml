@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The woman claps.
 Filename: Jingle.yaml
-FourthSentenceDescription: The box jingles.
 ItemCondition:
 - Base
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Orange and yellow box
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The woman is sitting next to the box.
 PrimaryVerbDescription: Jingle
-SecondarySentenceDescription: The box has a clear spinning sphere on its front side.
-ThirdSentenceDescription: The objects inside the  clear sphere roll around.
 VerboseDescription:
 - The woman is sitting next to the box.
 - The box has a clear spinning sphere on its front side.

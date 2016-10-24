@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The lamp is on a tabletop.
 Filename: TurnOffLight_Base_NoInstrument.yaml
-FourthSentenceDescription: The woman lifts her elbow.
 ItemCondition:
 - Base
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Red lamp
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The woman is holding a pile of books.
 PrimaryVerbDescription: TurnOff
-SecondarySentenceDescription: The woman uses her elbow to turn the light off.
-ThirdSentenceDescription: The light shade is red.
 VerboseDescription:
 - The woman is holding a pile of books.
 - The woman uses her elbow to turn the light off.

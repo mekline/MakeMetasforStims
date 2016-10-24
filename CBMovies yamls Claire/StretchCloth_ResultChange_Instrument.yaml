@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: StretchCloth_ResultChange_Instrument.yaml
-FourthSentenceDescription: Repeat.
 ItemCondition:
 - ResultChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Black hanger
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: The woman is holding a black hanger.
 PrimaryVerbDescription: Stretch
-SecondarySentenceDescription: The cloth is lenghtening.
-ThirdSentenceDescription: The cloth fans out.
 VerboseDescription:
 - The woman is holding a black hanger.
 - The cloth is lenghtening.

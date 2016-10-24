@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The box lights up.
 Filename: Start_StateChangeBox.yaml
-FourthSentenceDescription: The woman presses down on a pedal.
 ItemCondition:
 - Base
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Yellow box with train and lights
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The woman sits down.
 PrimaryVerbDescription: Start
-SecondarySentenceDescription: The box is covered with yellow cloth.
-ThirdSentenceDescription: The train moves in a circle.
 VerboseDescription:
 - The woman sits down.
 - The box is covered with yellow cloth.

@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: Rattle_UpandDown_Rattle1.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - ResultChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Blue rattle
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The woman is holding a blue ring-shaped rattle.
 PrimaryVerbDescription: Rattle
-SecondarySentenceDescription: She moves her wrist up and down.
-ThirdSentenceDescription: The rattle shakes up and down.
 VerboseDescription:
 - The woman is holding a blue ring-shaped rattle.
 - She moves her wrist up and down.

@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: Rattle_LeftandRight_Rattle1.yaml
-FourthSentenceDescription: The woman is standing.
 ItemCondition:
 - CounterbalanceMR
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Blue rattle
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The woman is holding a blue ring.
 PrimaryVerbDescription: Rattle
-SecondarySentenceDescription: She moves the ring from side to side.
-ThirdSentenceDescription: The ring ratttles.
 VerboseDescription:
 - The woman is holding a blue ring.
 - She moves the ring from side to side.

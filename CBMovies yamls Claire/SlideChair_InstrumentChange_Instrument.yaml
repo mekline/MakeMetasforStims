@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: SlideChair_InstrumentChange_Instrument.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - InstrumentChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Blue broom
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: The chair rolls forward.
 PrimaryVerbDescription: Slide
-SecondarySentenceDescription: The man is holding a broom.
-ThirdSentenceDescription: He pushes the chair with a broom.
 VerboseDescription:
 - The chair rolls forward.
 - The man is holding a broom.

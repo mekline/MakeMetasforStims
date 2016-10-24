@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: TiltLamp_BigAgentChange_NoInstrument.yaml
-FourthSentenceDescription: The man is inside a kitchen area.
 ItemCondition:
 - BigAgentChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Lamp with upward facing lightbulb
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The man's shirt is blue.
 PrimaryVerbDescription: Tilt
-SecondarySentenceDescription: He is holding onto a lamp.
-ThirdSentenceDescription: He tilts the lamp away from himself.
 VerboseDescription:
 - The man's shirt is blue.
 - He is holding onto a lamp.

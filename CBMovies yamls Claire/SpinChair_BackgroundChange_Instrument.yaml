@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: SpinChair_BackgroundChange_Instrument.yaml
-FourthSentenceDescription: The woman rotates her arm.
 ItemCondition:
 - BackgroundChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Grabber
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: The chair rotates.
 PrimaryVerbDescription: Spin
-SecondarySentenceDescription: The woman is holding a grabber.
-ThirdSentenceDescription: The grabber is grabbing the armrest of the chair.
 VerboseDescription:
 - The chair rotates.
 - The woman is holding a grabber.

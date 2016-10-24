@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: OpenBox_MannerChange_Instrument.yaml
-FourthSentenceDescription: The rake prongs open the box.
 ItemCondition:
 - MannerChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Green rake
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: The woman lifts the top of the box.
 PrimaryVerbDescription: Open
-SecondarySentenceDescription: The box is all black.
-ThirdSentenceDescription: The woman is holding a plastic yellow rake.
 VerboseDescription:
 - The woman lifts the top of the box.
 - The box is all black.

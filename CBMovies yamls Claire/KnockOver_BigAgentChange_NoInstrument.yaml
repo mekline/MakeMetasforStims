@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The cylander and traingle blocks are connected.
 Filename: KnockOver_BigAgentChange_NoInstrument.yaml
-FourthSentenceDescription: The bricks fall together.
 ItemCondition:
 - BigAgentChange
 - NoInstrument
@@ -15,11 +13,7 @@ Participants:
 - ID: Pink block
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The man is standing in front of a table.
 PrimaryVerbDescription: Knock
-SecondarySentenceDescription: The pink cylander block on top of the pink triangle
-  block.
-ThirdSentenceDescription: The man pushes the bricks over with his finger.
 VerboseDescription:
 - The man is standing in front of a table.
 - The pink cylander block on top of the pink triangle block.

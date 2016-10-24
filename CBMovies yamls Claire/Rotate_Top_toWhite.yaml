@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The man is sitting at the table.
 Filename: Rotate_Top_toWhite.yaml
-FourthSentenceDescription: The bottle is standing on a table.
 ItemCondition:
 - ResultChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Half white half blue bottle
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The bottle is half white and half blue.
 PrimaryVerbDescription: Rotate
-SecondarySentenceDescription: The turns the blue half towards himself.
-ThirdSentenceDescription: The man rotates the bottle from the top.
 VerboseDescription:
 - The bottle is half white and half blue.
 - The turns the blue half towards himself.

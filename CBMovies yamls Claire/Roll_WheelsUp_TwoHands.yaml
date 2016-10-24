@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The truck rolls forward.
 Filename: Roll_WheelsUp_TwoHands.yaml
-FourthSentenceDescription: She extends her arms.
 ItemCondition:
 - Base
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Yellow wheeled truck
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The truck is blue.
 PrimaryVerbDescription: Roll
-SecondarySentenceDescription: The truck rolls on its two back wheels.
-ThirdSentenceDescription: The woman holds the truck with two hands.
 VerboseDescription:
 - The truck is blue.
 - The truck rolls on its two back wheels.

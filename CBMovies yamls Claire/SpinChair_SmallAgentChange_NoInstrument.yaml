@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The woman stands behing the chair.
 Filename: SpinChair_SmallAgentChange_NoInstrument.yaml
-FourthSentenceDescription: The chair is black.
 ItemCondition:
 - SmallAgentChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Five wheel black chair
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The woman twirs the chair in a circle.
 PrimaryVerbDescription: Spin
-SecondarySentenceDescription: The woman holds the chair with one hand.
-ThirdSentenceDescription: The woman rotates her arm.
 VerboseDescription:
 - The woman twirs the chair in a circle.
 - The woman holds the chair with one hand.

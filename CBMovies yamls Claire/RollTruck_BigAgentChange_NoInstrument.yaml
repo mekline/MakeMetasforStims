@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The man releases the car.
 Filename: RollTruck_BigAgentChange_NoInstrument.yaml
-FourthSentenceDescription: The man uses one hand to push the car.
 ItemCondition:
 - BigAgentChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Green car
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The man is standing.
 PrimaryVerbDescription: Roll
-SecondarySentenceDescription: He rolls a small green car across the table.
-ThirdSentenceDescription: He gives the car a push.
 VerboseDescription:
 - The man is standing.
 - He rolls a small green car across the table.

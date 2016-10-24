@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: RollTruck_ResultChange_Instrument.yaml
-FourthSentenceDescription: The car rolls off the mat.
 ItemCondition:
 - ResultChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Orange plank
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: The man lifts an orange mat.
 PrimaryVerbDescription: Roll
-SecondarySentenceDescription: The car rests on the mat.
-ThirdSentenceDescription: The car is green.
 VerboseDescription:
 - The man lifts an orange mat.
 - The car rests on the mat.

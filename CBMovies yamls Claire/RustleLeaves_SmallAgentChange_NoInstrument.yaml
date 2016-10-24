@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: RustleLeaves_SmallAgentChange_NoInstrument.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - SmallAgentChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Pile of brown leaves
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: ''
 PrimaryVerbDescription: Rustle
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - ''
 - ''

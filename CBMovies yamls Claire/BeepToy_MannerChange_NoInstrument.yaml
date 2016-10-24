@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The woman is sitting.
 Filename: BeepToy_MannerChange_NoInstrument.yaml
-FourthSentenceDescription: The toy is on the woman's lap.
 ItemCondition:
 - MannerChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Yellow star toy
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The woman lowers her hand onto the toy.
 PrimaryVerbDescription: Beep
-SecondarySentenceDescription: The toy is multi-colored.
-ThirdSentenceDescription: The woman touches the toy with all her fingers.
 VerboseDescription:
 - The woman lowers her hand onto the toy.
 - The toy is multi-colored.

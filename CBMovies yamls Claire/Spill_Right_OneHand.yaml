@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The chair rotates clockwise.
 Filename: Spill_Right_OneHand.yaml
-FourthSentenceDescription: He turns the chair towards himself.
 ItemCondition:
 - ResultChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: White marbles
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The man approaches the chair.
 PrimaryVerbDescription: Spill
-SecondarySentenceDescription: The chair is facing the window.
-ThirdSentenceDescription: The man grabs the back of the chair with one hand.
 VerboseDescription:
 - The man approaches the chair.
 - The chair is facing the window.

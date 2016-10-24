@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: StretchCloth_SmallAgentChange_NoInstrument.yaml
-FourthSentenceDescription: The woman is stretching with her right hand.
 ItemCondition:
 - SmallAgentChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: White cloth
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The woman is stetching the cloth diagonally.
 PrimaryVerbDescription: Stretch
-SecondarySentenceDescription: The cloth is lenghtening.
-ThirdSentenceDescription: The woman is wearing an orange shirt.
 VerboseDescription:
 - The woman is stetching the cloth diagonally.
 - The cloth is lenghtening.

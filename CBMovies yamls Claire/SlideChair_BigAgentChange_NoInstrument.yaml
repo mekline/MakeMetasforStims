@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: SlideChair_BigAgentChange_NoInstrument.yaml
-FourthSentenceDescription: The chair rolls away from the man.
 ItemCondition:
 - BigAgentChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Five wheel black chair
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The chair is black.
 PrimaryVerbDescription: Slide
-SecondarySentenceDescription: The man is standing behind the chair.
-ThirdSentenceDescription: The man pushes the back of the chair with one hand.
 VerboseDescription:
 - The chair is black.
 - The man is standing behind the chair.

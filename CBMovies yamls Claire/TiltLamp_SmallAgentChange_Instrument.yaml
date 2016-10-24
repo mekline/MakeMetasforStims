@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The man pushes the lamp away from himself.
 Filename: TiltLamp_SmallAgentChange_Instrument.yaml
-FourthSentenceDescription: The lamp leans forward.
 ItemCondition:
 - SmallAgentChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: White and black striped pole
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: The man is holding a black and white stiped pole.
 PrimaryVerbDescription: Tilt
-SecondarySentenceDescription: The man extends the pole outwards.
-ThirdSentenceDescription: The pole tips the lamp.
 VerboseDescription:
 - The man is holding a black and white stiped pole.
 - The man extends the pole outwards.

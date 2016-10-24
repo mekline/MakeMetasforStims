@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The man is standing.
 Filename: KnockOver_ObjectChange_Instrument.yaml
-FourthSentenceDescription: The blue and pink blocks fall together.
 ItemCondition:
 - ObjectChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Yellow block
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: The blue cylander is ontop the pink triangle.
 PrimaryVerbDescription: Knock
-SecondarySentenceDescription: The man is holding a green block.
-ThirdSentenceDescription: The green block tips the block tower.
 VerboseDescription:
 - The blue cylander is ontop the pink triangle.
 - The man is holding a green block.

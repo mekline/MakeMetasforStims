@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The yoyo hangs from the string.
 Filename: SwingYoyo_Base_NoInstrument.yaml
-FourthSentenceDescription: The yoyo moves side to side.
 ItemCondition:
 - Base
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Green yoyo
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The woman is wearing a white shirt.
 PrimaryVerbDescription: Swing
-SecondarySentenceDescription: She holds a yoyo by its string.
-ThirdSentenceDescription: She moves her hand back and forth.
 VerboseDescription:
 - The woman is wearing a white shirt.
 - She holds a yoyo by its string.

@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The chair spins to face the man.
 Filename: Spin_Left_BothHands.yaml
-FourthSentenceDescription: The chair begins facing the window.
 ItemCondition:
 - ResultChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Five wheel black chair
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The man approaches the chair.
 PrimaryVerbDescription: Spin
-SecondarySentenceDescription: He turns the chair with both hands.
-ThirdSentenceDescription: He holds the back of the chair.
 VerboseDescription:
 - The man approaches the chair.
 - He turns the chair with both hands.

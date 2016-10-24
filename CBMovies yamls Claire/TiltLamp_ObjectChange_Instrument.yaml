@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: TiltLamp_ObjectChange_Instrument.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - ObjectChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: White and black striped pole
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: ''
 PrimaryVerbDescription: Tilt
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - ''
 - ''

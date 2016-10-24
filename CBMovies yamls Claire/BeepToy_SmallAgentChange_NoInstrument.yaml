@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The woman is sttting.
 Filename: BeepToy_SmallAgentChange_NoInstrument.yaml
-FourthSentenceDescription: The toy buzzes.
 ItemCondition:
 - SmallAgentChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Yellow star toy
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The woman drops one finger onto the toy.
 PrimaryVerbDescription: Beep
-SecondarySentenceDescription: She presses the toy.
-ThirdSentenceDescription: The toy is a star shape.
 VerboseDescription:
 - The woman drops one finger onto the toy.
 - She presses the toy.

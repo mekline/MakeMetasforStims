@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: Spin_Right_OneHand.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - MannerChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Five wheel black chair
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: ''
 PrimaryVerbDescription: Spin
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - ''
 - ''

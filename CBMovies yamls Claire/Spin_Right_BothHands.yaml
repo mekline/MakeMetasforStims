@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The chair rotates clockwise.
 Filename: Spin_Right_BothHands.yaml
-FourthSentenceDescription: The man rotates the chair towards himself.
 ItemCondition:
 - Base
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Five wheel black chair
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The man approaches the chair.
 PrimaryVerbDescription: Spin
-SecondarySentenceDescription: He grabs the back of the chair with both hands.
-ThirdSentenceDescription: The chair is facing the window.
 VerboseDescription:
 - The man approaches the chair.
 - He grabs the back of the chair with both hands.

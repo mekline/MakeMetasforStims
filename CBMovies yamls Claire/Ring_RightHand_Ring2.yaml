@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: Ring_RightHand_Ring2.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - MannerChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Gold bell
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: Repeat
 PrimaryVerbDescription: Ring
-SecondarySentenceDescription: The woman moves the string with her right hand.
-ThirdSentenceDescription: ''
 VerboseDescription:
 - Repeat
 - The woman moves the string with her right hand.

@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The woman is sitting.
 Filename: PlayMusicBox_Base_Instrument.yaml
-FourthSentenceDescription: The woman turns the crank.
 ItemCondition:
 - Base
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Silver crank
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: The box is yellow and orange.
 PrimaryVerbDescription: Play
-SecondarySentenceDescription: The box rings.
-ThirdSentenceDescription: There is a silver crank on the top of the box.
 VerboseDescription:
 - The box is yellow and orange.
 - The box rings.

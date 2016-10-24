@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: He uses the towel to wipe his brow.
 Filename: Roll2_Ball_Unintentional.yaml
-FourthSentenceDescription: The towel is behind the man.
 ItemCondition:
 - Unintentional
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Mini beach ball
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: 'The beach ball is resting on a towel. '
 PrimaryVerbDescription: Roll3
-SecondarySentenceDescription: The man grabs the towel.
-ThirdSentenceDescription: The ball rolls off the towel.
 VerboseDescription:
 - 'The beach ball is resting on a towel. '
 - The man grabs the towel.

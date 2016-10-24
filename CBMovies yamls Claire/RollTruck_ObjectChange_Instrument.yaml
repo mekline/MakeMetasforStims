@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: RollTruck_ObjectChange_Instrument.yaml
-FourthSentenceDescription: The man uses one arm to push the chair.
 ItemCondition:
 - ObjectChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Orange plank
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: The man pushes the chair forward.
 PrimaryVerbDescription: Roll
-SecondarySentenceDescription: The chair rolls away from the man.
-ThirdSentenceDescription: He is standing.
 VerboseDescription:
 - The man pushes the chair forward.
 - The chair rolls away from the man.

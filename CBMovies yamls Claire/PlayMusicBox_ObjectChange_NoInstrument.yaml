@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: PlayMusicBox_ObjectChange_NoInstrument.yaml
-FourthSentenceDescription: The woman is sitting.
 ItemCondition:
 - ObjectChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Orange and white box
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The woman places both hands on the box.
 PrimaryVerbDescription: Play
-SecondarySentenceDescription: The front of the box is is white.
-ThirdSentenceDescription: The box makes a ringing noise.
 VerboseDescription:
 - The woman places both hands on the box.
 - The front of the box is is white.

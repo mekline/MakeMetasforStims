@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The man is standing behind the table.
 Filename: RollTruck_InstrumentChange_Instrument.yaml
-FourthSentenceDescription: The car rolls forward towards the end of the table.
 ItemCondition:
 - InstrumentChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Red plank
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: The man is holding a red mat on the table.
 PrimaryVerbDescription: Roll
-SecondarySentenceDescription: The green car rolls off the mat.
-ThirdSentenceDescription: The man lifts the mat.
 VerboseDescription:
 - The man is holding a red mat on the table.
 - The green car rolls off the mat.

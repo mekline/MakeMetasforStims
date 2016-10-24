@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: TurnOnFan_SmallAgentChange_NoInstrument.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - SmallAgentChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Orange fan with paper strips
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: Repeat
 PrimaryVerbDescription: TurnOn
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - Repeat
 - ''

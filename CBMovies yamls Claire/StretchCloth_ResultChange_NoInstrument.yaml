@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: StretchCloth_ResultChange_NoInstrument.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - ResultChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: White cloth
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: Repeat.
 PrimaryVerbDescription: Stretch
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - Repeat.
 - ''

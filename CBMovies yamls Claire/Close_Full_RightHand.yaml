@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The man is facing the window.
 Filename: Close_Full_RightHand.yaml
-FourthSentenceDescription: The blinds are white.
 ItemCondition:
 - ResultChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Blinds
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The blinds are perpendicular to the window.
 PrimaryVerbDescription: Close
-SecondarySentenceDescription: The man pulls down on a string with his right hand.
-ThirdSentenceDescription: The blinds close across the length of the window.
 VerboseDescription:
 - The blinds are perpendicular to the window.
 - The man pulls down on a string with his right hand.

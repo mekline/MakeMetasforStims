@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The room and table are white.
 Filename: Bounce_Straight_RightHand.yaml
-FourthSentenceDescription: The ball bounces on the table.
 ItemCondition:
 - Base
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Clear ball
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The woman is standing in front of a table.
 PrimaryVerbDescription: Bounce
-SecondarySentenceDescription: She is holding a clear ball above the table.
-ThirdSentenceDescription: She releases the ball.
 VerboseDescription:
 - The woman is standing in front of a table.
 - She is holding a clear ball above the table.

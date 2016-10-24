@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: BounceBall_MannerChange_NoInstrument.yaml
-FourthSentenceDescription: The ball bounces on the book.
 ItemCondition:
 - MannerChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Clear ball
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The man drops a clear ball.
 PrimaryVerbDescription: Bounce
-SecondarySentenceDescription: He is standing in front of a table.
-ThirdSentenceDescription: There is a book on the table.
 VerboseDescription:
 - The man drops a clear ball.
 - He is standing in front of a table.

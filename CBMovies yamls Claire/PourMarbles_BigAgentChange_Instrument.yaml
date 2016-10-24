@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: PourMarbles_BigAgentChange_Instrument.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - BigAgentChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Green and white pen
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: ''
 PrimaryVerbDescription: Pour
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - ''
 - ''

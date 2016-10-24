@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The cloth stretches diagonally.
 Filename: StretchCloth_Base_Instrument.yaml
-FourthSentenceDescription: The woman lifts the hanger up and across her body.
 ItemCondition:
 - Base
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Black hanger
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: The woman is standing.
 PrimaryVerbDescription: Stretch
-SecondarySentenceDescription: She is holding a black hanger.
-ThirdSentenceDescription: She holds the end of a white cloth.
 VerboseDescription:
 - The woman is standing.
 - She is holding a black hanger.

@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: PourMarbles_MannerChange_NoInstrument.yaml
-FourthSentenceDescription: The empty bucket is filled with marbles.
 ItemCondition:
 - MannerChange
 - NoInstrument
@@ -15,11 +13,7 @@ Participants:
 - ID: Yellow marbles
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The woman pours yellow marbles into a bucket.
 PrimaryVerbDescription: Pour
-SecondarySentenceDescription: There is a clear bucket with green and yellow marbles
-  on the table.
-ThirdSentenceDescription: The woman tips the cup with yellow marbles.
 VerboseDescription:
 - The woman pours yellow marbles into a bucket.
 - There is a clear bucket with green and yellow marbles on the table.

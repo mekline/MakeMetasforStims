@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: StretchCloth_MannerChange_Instrument.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - MannerChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Black hanger
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: Repeat
 PrimaryVerbDescription: Stretch
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - Repeat
 - ''

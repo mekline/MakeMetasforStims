@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: TwistMobile_ResultChange_Instrument.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - ResultChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Flat yellow square
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: The mobile has three stars hanging on it.
 PrimaryVerbDescription: Twist
-SecondarySentenceDescription: The woman pushes the mobile arm with a yellow object.
-ThirdSentenceDescription: The mobile spins.
 VerboseDescription:
 - The mobile has three stars hanging on it.
 - The woman pushes the mobile arm with a yellow object.

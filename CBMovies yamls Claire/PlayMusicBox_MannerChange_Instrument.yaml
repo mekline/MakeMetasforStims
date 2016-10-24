@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: PlayMusicBox_MannerChange_Instrument.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - MannerChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Silver crank
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: ''
 PrimaryVerbDescription: Play
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - ''
 - ''

@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The bag falls onto the armrest.
 Filename: Drop_Armrest_BothHands.yaml
-FourthSentenceDescription: The couch seat has a computer and purse on it.
 ItemCondition:
 - MannerChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Red bag
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The woman has a red bag.
 PrimaryVerbDescription: Drop
-SecondarySentenceDescription: She holds the bag up with both hands.
-ThirdSentenceDescription: She releases the bag onto the couch.
 VerboseDescription:
 - The woman has a red bag.
 - She holds the bag up with both hands.

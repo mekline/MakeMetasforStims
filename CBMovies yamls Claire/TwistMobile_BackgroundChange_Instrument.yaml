@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: TwistMobile_BackgroundChange_Instrument.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - BackgroundChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Flat yellow square
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: ''
 PrimaryVerbDescription: Twist
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - ''
 - ''

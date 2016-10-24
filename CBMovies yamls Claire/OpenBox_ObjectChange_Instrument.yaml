@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The woman is sitting in front of the box.
 Filename: OpenBox_ObjectChange_Instrument.yaml
-FourthSentenceDescription: The box hinges open.
 ItemCondition:
 - ObjectChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Green rake
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: The woman is holding a yellow rake.
 PrimaryVerbDescription: Open
-SecondarySentenceDescription: The box is white.
-ThirdSentenceDescription: The woman uses the rake the open the top of the box.
 VerboseDescription:
 - The woman is holding a yellow rake.
 - The box is white.

@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: She turns the light off with her wrist.
 Filename: TurnOffLight_MannerChange_NoInstrument.yaml
-FourthSentenceDescription: The woman lifts her arm.
 ItemCondition:
 - MannerChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Red lamp
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The woman is holding a stack of books.
 PrimaryVerbDescription: TurnOff
-SecondarySentenceDescription: The lamp shade is red.
-ThirdSentenceDescription: The lamp is ontop of a high tabletop.
 VerboseDescription:
 - The woman is holding a stack of books.
 - The lamp shade is red.

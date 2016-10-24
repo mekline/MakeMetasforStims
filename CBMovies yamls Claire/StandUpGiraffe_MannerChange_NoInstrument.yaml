@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The giraffe is wearing a blanket.
 Filename: StandUpGiraffe_MannerChange_NoInstrument.yaml
-FourthSentenceDescription: The giraffe is placed upright.
 ItemCondition:
 - MannerChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Stuffed giraffe with brown blanket
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The woman holds the giraffe's leg with one hand.
 PrimaryVerbDescription: Stand
-SecondarySentenceDescription: The woman steadies the giraffe with her hands.
-ThirdSentenceDescription: The woman uses one hand to hold the giraffe's neck.
 VerboseDescription:
 - The woman holds the giraffe's leg with one hand.
 - The woman steadies the giraffe with her hands.

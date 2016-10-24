@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The woman is sitting at a table.
 Filename: Spill_Left_TwoHands.yaml
-FourthSentenceDescription: The woman tips the cup.
 ItemCondition:
 - MannerChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: White marbles
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The cup has white marbles.
 PrimaryVerbDescription: Spill
-SecondarySentenceDescription: The marbles roll onto the table.
-ThirdSentenceDescription: The woman is holding a clear cup in her hands.
 VerboseDescription:
 - The cup has white marbles.
 - The marbles roll onto the table.

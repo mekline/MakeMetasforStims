@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: TurnOff_TV.yaml
-FourthSentenceDescription: The man turns the TV off with the remote.
 ItemCondition:
 - Base
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Black box TV
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The man walks into the room and sits in a chair.
 PrimaryVerbDescription: TurnOff
-SecondarySentenceDescription: The TV is playing a video.
-ThirdSentenceDescription: The man picks up a remote.
 VerboseDescription:
 - The man walks into the room and sits in a chair.
 - The TV is playing a video.

@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: A gong sounds.
 Filename: GiveBalloon.yaml
-FourthSentenceDescription: The girl on the right receives the balloons from her.
 ItemCondition:
 - Base
 - NoInstrument
@@ -15,11 +13,7 @@ Participants:
 - ID: NA
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The two girls are standing in the grass outside.
 PrimaryVerbDescription: Give
-SecondarySentenceDescription: The girl on the left is holding two balloons by their
-  strings.
-ThirdSentenceDescription: She passes the balloons to the other girl.
 VerboseDescription:
 - The two girls are standing in the grass outside.
 - The girl on the left is holding two balloons by their strings.

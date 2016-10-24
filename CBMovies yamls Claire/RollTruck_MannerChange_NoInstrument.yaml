@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: RollTruck_MannerChange_NoInstrument.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - MannerChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Green car
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: ''
 PrimaryVerbDescription: Roll
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - ''
 - ''

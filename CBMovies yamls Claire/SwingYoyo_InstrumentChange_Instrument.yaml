@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: SwingYoyo_InstrumentChange_Instrument.yaml
-FourthSentenceDescription: The woman is moving the broom.
 ItemCondition:
 - InstrumentChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Broom
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: The woman is holding a broom.
 PrimaryVerbDescription: Swing
-SecondarySentenceDescription: The yoyo is hanging from a broom.
-ThirdSentenceDescription: The yoyo is swinging.
 VerboseDescription:
 - The woman is holding a broom.
 - The yoyo is hanging from a broom.

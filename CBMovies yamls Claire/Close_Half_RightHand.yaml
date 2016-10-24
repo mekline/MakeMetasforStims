@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The blinds are white slats.
 Filename: Close_Half_RightHand.yaml
-FourthSentenceDescription: The blinds stay perpendicular to the window.
 ItemCondition:
 - Base
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Blinds
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The man is facing the window.
 PrimaryVerbDescription: Close
-SecondarySentenceDescription: The man pulls down on a string.
-ThirdSentenceDescription: The blinds close halfway.
 VerboseDescription:
 - The man is facing the window.
 - The man pulls down on a string.

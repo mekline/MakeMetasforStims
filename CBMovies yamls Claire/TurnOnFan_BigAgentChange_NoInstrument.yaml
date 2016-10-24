@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The woman touches the fan.
 Filename: TurnOnFan_BigAgentChange_NoInstrument.yaml
-FourthSentenceDescription: The paper blows in the fan's wind.
 ItemCondition:
 - BigAgentChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Orange fan with paper strips
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The fan is black and orange.
 PrimaryVerbDescription: TurnOn
-SecondarySentenceDescription: The strips of paper are tied to the fan.
-ThirdSentenceDescription: The woman turns the fan on.
 VerboseDescription:
 - The fan is black and orange.
 - The strips of paper are tied to the fan.

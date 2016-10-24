@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: RollTruck_ObjectChange_NoInstrument.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - ObjectChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Blue car
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: ''
 PrimaryVerbDescription: Roll
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - ''
 - ''

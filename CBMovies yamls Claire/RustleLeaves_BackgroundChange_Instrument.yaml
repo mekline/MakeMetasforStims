@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The woman holds the rake in her right arm.
 Filename: RustleLeaves_BackgroundChange_Instrument.yaml
-FourthSentenceDescription: The woman is sitting.
 ItemCondition:
 - BackgroundChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Green rake
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: There is a pile of leaves on the table.
 PrimaryVerbDescription: Rustle
-SecondarySentenceDescription: The leaves are dead and brown.
-ThirdSentenceDescription: The woman rustles the leaves with a green rake.
 VerboseDescription:
 - There is a pile of leaves on the table.
 - The leaves are dead and brown.

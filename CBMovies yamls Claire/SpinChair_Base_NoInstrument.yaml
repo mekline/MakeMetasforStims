@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: SpinChair_Base_NoInstrument.yaml
-FourthSentenceDescription: The chair has armrests.
 ItemCondition:
 - Base
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Five wheel black chair
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The chair rotates.
 PrimaryVerbDescription: Spin
-SecondarySentenceDescription: The woman uses one arm to turn the chair.
-ThirdSentenceDescription: The woman is standing.
 VerboseDescription:
 - The chair rotates.
 - The woman uses one arm to turn the chair.

@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: Stretch_HandsUp_Long.yaml
-FourthSentenceDescription: The man is sitting at a table.
 ItemCondition:
 - CounterbalanceMR
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Blue bendy tube
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The man is holding a blue bendy tube on both ends.
 PrimaryVerbDescription: Stretch
-SecondarySentenceDescription: The man separates his hands outward.
-ThirdSentenceDescription: The tube fully elongates.
 VerboseDescription:
 - The man is holding a blue bendy tube on both ends.
 - The man separates his hands outward.

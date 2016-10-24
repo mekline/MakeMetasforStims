@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: TurnOffLight_SmallAgentChange_NoInstrument.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - SmallAgentChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Red lamp
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: Repeat.
 PrimaryVerbDescription: TurnOff
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - Repeat.
 - ''

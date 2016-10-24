@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: KnockOver_ResultChange_Instrument.yaml
-FourthSentenceDescription: The pink blocks fall down to the left.
 ItemCondition:
 - ResultChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Green block
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: There are two connected pink blocks on the table.
 PrimaryVerbDescription: Knock
-SecondarySentenceDescription: The man is holding a green block.
-ThirdSentenceDescription: The man pushes the blocks over with the green block.
 VerboseDescription:
 - There are two connected pink blocks on the table.
 - The man is holding a green block.

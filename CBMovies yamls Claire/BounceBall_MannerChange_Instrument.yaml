@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The ball bounces off the book.
 Filename: BounceBall_MannerChange_Instrument.yaml
-FourthSentenceDescription: The man hits the ball with the frisbee.
 ItemCondition:
 - MannerChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Striped frisbee
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: The man holds a red frisbee in his right hand.
 PrimaryVerbDescription: Bounce
-SecondarySentenceDescription: He has a clear ball in his left hand.
-ThirdSentenceDescription: There is a book on the table.
 VerboseDescription:
 - The man holds a red frisbee in his right hand.
 - He has a clear ball in his left hand.

@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: TiltLamp_Base_NoInstrument.yaml
-FourthSentenceDescription: ''
 ItemCondition:
 - Base
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Lamp with upward facing lightbulb
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: Repeat
 PrimaryVerbDescription: Tilt
-SecondarySentenceDescription: ''
-ThirdSentenceDescription: ''
 VerboseDescription:
 - Repeat
 - ''

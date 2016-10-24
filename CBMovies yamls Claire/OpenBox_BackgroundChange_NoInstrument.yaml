@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The lid opens on a hinge.
 Filename: OpenBox_BackgroundChange_NoInstrument.yaml
-FourthSentenceDescription: She lifts the top of the box.
 ItemCondition:
 - BackgroundChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Black box
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The box is black.
 PrimaryVerbDescription: Open
-SecondarySentenceDescription: The woman is sitting.
-ThirdSentenceDescription: She holds the top of the box with both hands.
 VerboseDescription:
 - The box is black.
 - The woman is sitting.

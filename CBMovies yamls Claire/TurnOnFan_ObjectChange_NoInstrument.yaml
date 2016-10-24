@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: There is a green clipboard next to the fan.
 Filename: TurnOnFan_ObjectChange_NoInstrument.yaml
-FourthSentenceDescription: The fan turns on.
 ItemCondition:
 - ObjectChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Black fan with paper strips
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The fan is black.
 PrimaryVerbDescription: TurnOn
-SecondarySentenceDescription: There are strips of paper tied to the fan.
-ThirdSentenceDescription: The woman presses the fan.
 VerboseDescription:
 - The fan is black.
 - There are strips of paper tied to the fan.

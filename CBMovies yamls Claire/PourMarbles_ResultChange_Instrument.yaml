@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: There is an emtpy jar on the table next to the jar of marbles.
 Filename: PourMarbles_ResultChange_Instrument.yaml
-FourthSentenceDescription: The yellow marbles fall into the filled jar.
 ItemCondition:
 - ResultChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Green and white pen
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: The woman is holding a cup of yellow marbles.
 PrimaryVerbDescription: Pour
-SecondarySentenceDescription: She scoops out the marbles with a green pen.
-ThirdSentenceDescription: There is a jar with yellow and green marbles on the table.
 VerboseDescription:
 - The woman is holding a cup of yellow marbles.
 - She scoops out the marbles with a green pen.

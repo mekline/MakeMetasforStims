@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: ''
 Filename: TurnOffLight_Base_Instrument.yaml
-FourthSentenceDescription: The woman lifts the books.
 ItemCondition:
 - Base
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Stack of books
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: The lamp shade is red.
 PrimaryVerbDescription: TurnOff
-SecondarySentenceDescription: The woman uses the books to turn the light off.
-ThirdSentenceDescription: The woman is holding a stack of books.
 VerboseDescription:
 - The lamp shade is red.
 - The woman uses the books to turn the light off.

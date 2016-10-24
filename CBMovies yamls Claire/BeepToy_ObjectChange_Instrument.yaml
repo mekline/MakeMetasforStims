@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The toy makes a noise when pressed.
 Filename: BeepToy_ObjectChange_Instrument.yaml
-FourthSentenceDescription: She presses the top of the toy with a green pen.
 ItemCondition:
 - ObjectChange
 - Instrument
@@ -18,10 +16,7 @@ Participants:
 - ID: Green pen
   Role: Instrument
   isAnimate: 0
-PrimarySentenceDescription: The woman is stiitng.
 PrimaryVerbDescription: Beep
-SecondarySentenceDescription: She has a yellow toy in her lap.
-ThirdSentenceDescription: The toy looks like a bear.
 VerboseDescription:
 - The woman is stiitng.
 - She has a yellow toy in her lap.

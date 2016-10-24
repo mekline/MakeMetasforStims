@@ -1,7 +1,5 @@
 Color: full color
-FifthSentenceDescription: The ball bounces on the book.
 Filename: BounceBall_ObjectChange_NoInstrument.yaml
-FourthSentenceDescription: There is a book on the table.
 ItemCondition:
 - ObjectChange
 - NoInstrument
@@ -15,10 +13,7 @@ Participants:
 - ID: Blue Ball
   Role: Patient
   isAnimate: 0
-PrimarySentenceDescription: The man is holding a red striped frisbee in his left hand.
 PrimaryVerbDescription: Bounce
-SecondarySentenceDescription: He has a blue ball in his right hand.
-ThirdSentenceDescription: The man hits the ball with the frisbee.
 VerboseDescription:
 - The man is holding a red striped frisbee in his left hand.
 - He has a blue ball in his right hand.
