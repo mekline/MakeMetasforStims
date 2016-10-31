@@ -1,0 +1,23 @@
+Color: full color
+ElicitedSentenceDescription:
+- The grey triangle scoots forward.
+- It passes in front of the bridge.
+- The grey triangle stops at the other end of the bridge.
+- The bridge is brown.
+IntendedSentenceDescription: To add - a single sentence.
+IntendedVerbDescription:
+- none
+ItemCondition:
+- Y
+- none
+- control4
+ItemNo: 143
+Length: lengthinseconds
+MovieFilename: none_control4_8.mp4
+NParticipants: 2
+Participants:
+- ID: '8'
+  Role: Agent
+  isAnimate: 1
+Size: TO ADD
+YamlFilename: none_control4_8.yaml

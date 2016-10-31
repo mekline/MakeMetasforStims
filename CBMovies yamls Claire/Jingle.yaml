@@ -1,10 +1,19 @@
 Color: full color
-Filename: Jingle.yaml
+ElicitedSentenceDescription:
+- The woman is sitting next to the box.
+- The box has a clear spinning sphere on its front side.
+- The objects inside the  clear sphere roll around.
+- The box jingles.
+- The woman claps.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Jingle
 ItemCondition:
 - Base
 - NoInstrument
 ItemNo: 40
-Length: 59.0
+Length: lengthinseconds
+MovieFilename: Jingle.mp4
 NParticipants: 2
 Participants:
 - ID: Agent15
@@ -13,10 +22,5 @@ Participants:
 - ID: Orange and yellow box
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Jingle
-VerboseDescription:
-- The woman is sitting next to the box.
-- The box has a clear spinning sphere on its front side.
-- The objects inside the  clear sphere roll around.
-- The box jingles.
-- The woman claps.
+Size: TO ADD
+yamlFilename: Jingle.yaml

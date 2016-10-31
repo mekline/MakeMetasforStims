@@ -1,0 +1,23 @@
+Color: full color
+ElicitedSentenceDescription:
+- The pink circle slides in front of the bridge.
+- The bridge is brown.
+- The circle faces upwards while moving.
+- ''
+IntendedSentenceDescription: To add - a single sentence.
+IntendedVerbDescription:
+- vibrate
+ItemCondition:
+- X
+- vibrate
+- past
+ItemNo: 99
+Length: lengthinseconds
+MovieFilename: vibrate_past_7.mp4
+NParticipants: 2
+Participants:
+- ID: '7'
+  Role: Agent
+  isAnimate: 1
+Size: TO ADD
+YamlFilename: vibrate_past_7.yaml

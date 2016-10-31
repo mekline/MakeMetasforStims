@@ -1,10 +1,19 @@
 Color: full color
-Filename: Roll_WheelsDown_OneHand.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Roll
 ItemCondition:
 - CounterbalanceMR
 - NoInstrument
 ItemNo: 8
-Length: 133.0
+Length: lengthinseconds
+MovieFilename: Roll_WheelsDown_OneHand.mp4
 NParticipants: 2
 Participants:
 - ID: Agent6
@@ -13,10 +22,5 @@ Participants:
 - ID: Yellow wheeled truck
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Roll
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: Roll_WheelsDown_OneHand.yaml

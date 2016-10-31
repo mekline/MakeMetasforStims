@@ -1,10 +1,19 @@
 Color: full color
-Filename: RollTruck_MannerChange_Instrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Roll
 ItemCondition:
 - MannerChange
 - Instrument
 ItemNo: 22
-Length: 146.0
+Length: lengthinseconds
+MovieFilename: RollTruck_MannerChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent21
@@ -16,10 +25,5 @@ Participants:
 - ID: Orange plank
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Roll
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: RollTruck_MannerChange_Instrument.yaml

@@ -1,10 +1,19 @@
 Color: full color
-Filename: SwingYoyo_InstrumentChange_Instrument.yaml
+ElicitedSentenceDescription:
+- The woman is holding a broom.
+- The yoyo is hanging from a broom.
+- The yoyo is swinging.
+- The woman is moving the broom.
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Swing
 ItemCondition:
 - InstrumentChange
 - Instrument
 ItemNo: 33
-Length: 252.0
+Length: lengthinseconds
+MovieFilename: SwingYoyo_InstrumentChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent18
@@ -16,10 +25,5 @@ Participants:
 - ID: Broom
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Swing
-VerboseDescription:
-- The woman is holding a broom.
-- The yoyo is hanging from a broom.
-- The yoyo is swinging.
-- The woman is moving the broom.
-- ''
+Size: TO ADD
+yamlFilename: SwingYoyo_InstrumentChange_Instrument.yaml

@@ -1,10 +1,19 @@
 Color: full color
-Filename: PlayMusicBox_BigAgentChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Play
 ItemCondition:
 - BigAgentChange
 - NoInstrument
 ItemNo: 25
-Length: 95.0
+Length: lengthinseconds
+MovieFilename: PlayMusicBox_BigAgentChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent19
@@ -13,10 +22,5 @@ Participants:
 - ID: Orange and yellow box
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Play
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: PlayMusicBox_BigAgentChange_NoInstrument.yaml

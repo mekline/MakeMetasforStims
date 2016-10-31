@@ -1,10 +1,19 @@
 Color: full color
-Filename: BeepToy_InstrumentChange_Instrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Beep
 ItemCondition:
 - InstrumentChange
 - Instrument
 ItemNo: 29
-Length: 7.0
+Length: lengthinseconds
+MovieFilename: BeepToy_InstrumentChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent1
@@ -16,10 +25,5 @@ Participants:
 - ID: Orange pen
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Beep
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: BeepToy_InstrumentChange_Instrument.yaml

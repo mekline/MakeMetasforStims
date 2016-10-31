@@ -7,29 +7,37 @@ import yaml
 in_file  = open('EventsMP.csv', "rU")
 items = []
 
+#complete dictionary
 def convert_to_yaml(line, counter):
     itemNo = counter
-    primaryVerbDescription = line[1]
-    primarySentenceDescription = 'To add - a single sentence.'
-    verboseDescription = ['TO ADD', 'Multiple items']
-
-    movielength = 'not specified'
-    size = [0,0] #The sizes for the movies are undefined...
-    fileName = line[0].split('.')[0]
+    intendedVerbDescription = [line[1]]
+    intendedSentenceDescription = 'To add - a single sentence.'
+    elicitedSentenceDescription = [line[5], line[6], line[7], line[8]]
+    agent = line[3] 
+    #pathdescription = line[2]
+    yamlfilename = line[0].split('.')[0] + '.yaml'
+    moviefilename = line[0]
     itemSet = line[4]
+    movielength = 'lengthinseconds'
+    size = [0,0] #The sizes for the movies are undefined...
 
+    print(yamlfilename)
 
+#print out into yaml
     item = {}
     item = {
-        'Filename': fileName + '.yml',
         'ItemNo': itemNo,
         'ItemCondition': [itemSet, line[1], line[2]],
         'Length':movielength,
         'Size': 'TO ADD',
         'Color':'full color',
-        'PrimaryVerbDescription':primaryVerbDescription,
-        'PrimarySentenceDescription':primarySentenceDescription,
-        'VerboseDescription': verboseDescription,
+        'YamlFilename': yamlfilename,
+        'MovieFilename': moviefilename,
+        'ElicitedSentenceDescription':elicitedSentenceDescription,
+        'IntendedSentenceDescription':intendedSentenceDescription,
+        'IntendedVerbDescription':intendedVerbDescription,
+
+        #sorting statements
         'NParticipants': 2,
         'Participants': [{'ID':line[3],'Role':'Agent','isAnimate':1}]
 
@@ -47,7 +55,7 @@ try:
 
     #Read out movie files
     for mi in items:
-        out_file = open('EventsMP yamls/' + mi['Filename'], "w")
+        out_file = open('EventsMP yamls/' + mi['YamlFilename'], "w")
         out_file.write( yaml.dump(mi, default_flow_style=False, allow_unicode=True) )
         out_file.close()
 

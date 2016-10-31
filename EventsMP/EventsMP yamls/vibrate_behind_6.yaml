@@ -1,0 +1,23 @@
+Color: full color
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: To add - a single sentence.
+IntendedVerbDescription:
+- vibrate
+ItemCondition:
+- X
+- vibrate
+- behind
+ItemNo: 106
+Length: lengthinseconds
+MovieFilename: vibrate_behind_6.mp4
+NParticipants: 2
+Participants:
+- ID: '6'
+  Role: Agent
+  isAnimate: 1
+Size: TO ADD
+YamlFilename: vibrate_behind_6.yaml

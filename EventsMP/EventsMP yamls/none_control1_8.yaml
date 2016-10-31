@@ -1,0 +1,23 @@
+Color: full color
+ElicitedSentenceDescription:
+- The grey triangle bonces quickly forward.
+- It stops under the brown bridge.
+- The tirangle passes behind the first leg of the bridge.
+- ''
+IntendedSentenceDescription: To add - a single sentence.
+IntendedVerbDescription:
+- none
+ItemCondition:
+- Y
+- none
+- control1
+ItemNo: 131
+Length: lengthinseconds
+MovieFilename: none_control1_8.mp4
+NParticipants: 2
+Participants:
+- ID: '8'
+  Role: Agent
+  isAnimate: 1
+Size: TO ADD
+YamlFilename: none_control1_8.yaml

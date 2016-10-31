@@ -1,10 +1,19 @@
 Color: full color
-Filename: Ring_LeftHand_Ring1.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Ring
 ItemCondition:
 - ResultChange
 - NoInstrument
 ItemNo: 7
-Length: 129.0
+Length: lengthinseconds
+MovieFilename: Ring_LeftHand_Ring1.mp4
 NParticipants: 2
 Participants:
 - ID: Agent2
@@ -13,10 +22,5 @@ Participants:
 - ID: Gold bell
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Ring
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: Ring_LeftHand_Ring1.yaml

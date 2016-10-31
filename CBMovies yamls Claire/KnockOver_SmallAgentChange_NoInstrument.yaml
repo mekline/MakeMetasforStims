@@ -1,10 +1,19 @@
 Color: full color
-Filename: KnockOver_SmallAgentChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- Repeat.
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Knock
 ItemCondition:
 - SmallAgentChange
 - NoInstrument
 ItemNo: 19
-Length: 74.0
+Length: lengthinseconds
+MovieFilename: KnockOver_SmallAgentChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent16
@@ -13,10 +22,5 @@ Participants:
 - ID: Pink block
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Knock
-VerboseDescription:
-- Repeat.
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: KnockOver_SmallAgentChange_NoInstrument.yaml

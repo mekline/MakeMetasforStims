@@ -1,10 +1,19 @@
 Color: full color
-Filename: OpenBox_BackgroundChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- The box is black.
+- The woman is sitting.
+- She holds the top of the box with both hands.
+- She lifts the top of the box.
+- The lid opens on a hinge.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Open
 ItemCondition:
 - BackgroundChange
 - NoInstrument
 ItemNo: 26
-Length: 76.0
+Length: lengthinseconds
+MovieFilename: OpenBox_BackgroundChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent17
@@ -13,10 +22,5 @@ Participants:
 - ID: Black box
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Open
-VerboseDescription:
-- The box is black.
-- The woman is sitting.
-- She holds the top of the box with both hands.
-- She lifts the top of the box.
-- The lid opens on a hinge.
+Size: TO ADD
+yamlFilename: OpenBox_BackgroundChange_NoInstrument.yaml

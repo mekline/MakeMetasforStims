@@ -1,10 +1,19 @@
 Color: full color
-Filename: StandUpGiraffe_ObjectChange_Instrument.yaml
+ElicitedSentenceDescription:
+- The chair is blue.
+- The woman is holding a grabber.
+- The grabber grabs the metal armrest.
+- The woman turns the chair in a circle.
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Stand
 ItemCondition:
 - ObjectChange
 - Instrument
 ItemNo: 23
-Length: 220.0
+Length: lengthinseconds
+MovieFilename: StandUpGiraffe_ObjectChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent22
@@ -16,10 +25,5 @@ Participants:
 - ID: Silver tongs
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Stand
-VerboseDescription:
-- The chair is blue.
-- The woman is holding a grabber.
-- The grabber grabs the metal armrest.
-- The woman turns the chair in a circle.
-- ''
+Size: TO ADD
+yamlFilename: StandUpGiraffe_ObjectChange_Instrument.yaml

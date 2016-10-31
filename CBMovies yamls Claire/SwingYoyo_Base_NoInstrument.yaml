@@ -1,10 +1,19 @@
 Color: full color
-Filename: SwingYoyo_Base_NoInstrument.yaml
+ElicitedSentenceDescription:
+- The woman is wearing a white shirt.
+- She holds a yoyo by its string.
+- She moves her hand back and forth.
+- The yoyo moves side to side.
+- The yoyo hangs from the string.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Swing
 ItemCondition:
 - Base
 - NoInstrument
 ItemNo: 33
-Length: 249.0
+Length: lengthinseconds
+MovieFilename: SwingYoyo_Base_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent18
@@ -13,10 +22,5 @@ Participants:
 - ID: Green yoyo
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Swing
-VerboseDescription:
-- The woman is wearing a white shirt.
-- She holds a yoyo by its string.
-- She moves her hand back and forth.
-- The yoyo moves side to side.
-- The yoyo hangs from the string.
+Size: TO ADD
+yamlFilename: SwingYoyo_Base_NoInstrument.yaml

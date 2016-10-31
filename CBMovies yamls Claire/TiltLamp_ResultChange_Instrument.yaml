@@ -1,10 +1,19 @@
 Color: full color
-Filename: TiltLamp_ResultChange_Instrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Tilt
 ItemCondition:
 - ResultChange
 - Instrument
 ItemNo: 28
-Length: 279.0
+Length: lengthinseconds
+MovieFilename: TiltLamp_ResultChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent5
@@ -16,10 +25,5 @@ Participants:
 - ID: White and black striped pole
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Tilt
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: TiltLamp_ResultChange_Instrument.yaml

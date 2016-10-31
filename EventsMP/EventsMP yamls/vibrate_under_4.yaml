@@ -1,0 +1,23 @@
+Color: full color
+ElicitedSentenceDescription:
+- The purple square rocks back and forth.
+- The square moves forward.
+- The square passes in front of the bridge.
+- It stops under the middle of the bridge.
+IntendedSentenceDescription: To add - a single sentence.
+IntendedVerbDescription:
+- vibrate
+ItemCondition:
+- X
+- vibrate
+- under
+ItemNo: 100
+Length: lengthinseconds
+MovieFilename: vibrate_under_4.mp4
+NParticipants: 2
+Participants:
+- ID: '4'
+  Role: Agent
+  isAnimate: 1
+Size: TO ADD
+YamlFilename: vibrate_under_4.yaml

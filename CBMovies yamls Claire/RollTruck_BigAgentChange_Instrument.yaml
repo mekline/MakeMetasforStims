@@ -1,10 +1,19 @@
 Color: full color
-Filename: RollTruck_BigAgentChange_Instrument.yaml
+ElicitedSentenceDescription:
+- Repeat
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Roll
 ItemCondition:
 - BigAgentChange
 - Instrument
 ItemNo: 22
-Length: 143.0
+Length: lengthinseconds
+MovieFilename: RollTruck_BigAgentChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent5
@@ -16,10 +25,5 @@ Participants:
 - ID: Orange plank
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Roll
-VerboseDescription:
-- Repeat
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: RollTruck_BigAgentChange_Instrument.yaml

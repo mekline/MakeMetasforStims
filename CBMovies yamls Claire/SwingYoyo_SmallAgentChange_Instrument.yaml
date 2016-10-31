@@ -1,10 +1,19 @@
 Color: full color
-Filename: SwingYoyo_SmallAgentChange_Instrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Swing
 ItemCondition:
 - SmallAgentChange
 - Instrument
 ItemNo: 33
-Length: 259.0
+Length: lengthinseconds
+MovieFilename: SwingYoyo_SmallAgentChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent18
@@ -16,10 +25,5 @@ Participants:
 - ID: Wood pole
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Swing
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: SwingYoyo_SmallAgentChange_Instrument.yaml

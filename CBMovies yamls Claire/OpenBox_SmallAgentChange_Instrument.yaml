@@ -1,10 +1,19 @@
 Color: full color
-Filename: OpenBox_SmallAgentChange_Instrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Open
 ItemCondition:
 - SmallAgentChange
 - Instrument
 ItemNo: 26
-Length: 88.0
+Length: lengthinseconds
+MovieFilename: OpenBox_SmallAgentChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent17
@@ -16,10 +25,5 @@ Participants:
 - ID: Green rake
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Open
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: OpenBox_SmallAgentChange_Instrument.yaml

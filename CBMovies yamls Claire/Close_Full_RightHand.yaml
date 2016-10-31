@@ -1,10 +1,19 @@
 Color: full color
-Filename: Close_Full_RightHand.yaml
+ElicitedSentenceDescription:
+- The blinds are perpendicular to the window.
+- The man pulls down on a string with his right hand.
+- The blinds close across the length of the window.
+- The blinds are white.
+- The man is facing the window.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Close
 ItemCondition:
 - ResultChange
 - NoInstrument
 ItemNo: 3
-Length: 50.0
+Length: lengthinseconds
+MovieFilename: Close_Full_RightHand.mp4
 NParticipants: 2
 Participants:
 - ID: Agent5
@@ -13,10 +22,5 @@ Participants:
 - ID: Blinds
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Close
-VerboseDescription:
-- The blinds are perpendicular to the window.
-- The man pulls down on a string with his right hand.
-- The blinds close across the length of the window.
-- The blinds are white.
-- The man is facing the window.
+Size: TO ADD
+yamlFilename: Close_Full_RightHand.yaml

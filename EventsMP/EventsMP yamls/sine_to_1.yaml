@@ -1,0 +1,23 @@
+Color: full color
+ElicitedSentenceDescription:
+- The pink circle scoots forward to the middle of the bridge.
+- It moves in front of the bridge.
+- The circle changes directions at the middle of the bridge.
+- The circle scoots backwards behind the bridge.
+IntendedSentenceDescription: To add - a single sentence.
+IntendedVerbDescription:
+- sine
+ItemCondition:
+- W
+- sine
+- to
+ItemNo: 32
+Length: lengthinseconds
+MovieFilename: sine_to_1.mp4
+NParticipants: 2
+Participants:
+- ID: '1'
+  Role: Agent
+  isAnimate: 1
+Size: TO ADD
+YamlFilename: sine_to_1.yaml

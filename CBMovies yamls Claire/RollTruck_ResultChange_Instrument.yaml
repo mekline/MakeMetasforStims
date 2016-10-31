@@ -1,10 +1,19 @@
 Color: full color
-Filename: RollTruck_ResultChange_Instrument.yaml
+ElicitedSentenceDescription:
+- The man lifts an orange mat.
+- The car rests on the mat.
+- The car is green.
+- The car rolls off the mat.
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Roll
 ItemCondition:
 - ResultChange
 - Instrument
 ItemNo: 22
-Length: 150.0
+Length: lengthinseconds
+MovieFilename: RollTruck_ResultChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent21
@@ -16,10 +25,5 @@ Participants:
 - ID: Orange plank
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Roll
-VerboseDescription:
-- The man lifts an orange mat.
-- The car rests on the mat.
-- The car is green.
-- The car rolls off the mat.
-- ''
+Size: TO ADD
+yamlFilename: RollTruck_ResultChange_Instrument.yaml

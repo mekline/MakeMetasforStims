@@ -1,10 +1,19 @@
 Color: full color
-Filename: TurnOffLight_Base_Instrument.yaml
+ElicitedSentenceDescription:
+- The lamp shade is red.
+- The woman uses the books to turn the light off.
+- The woman is holding a stack of books.
+- The woman lifts the books.
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- TurnOff
 ItemCondition:
 - Base
 - Instrument
 ItemNo: 35
-Length: 286.0
+Length: lengthinseconds
+MovieFilename: TurnOffLight_Base_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent23
@@ -16,10 +25,5 @@ Participants:
 - ID: Stack of books
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: TurnOff
-VerboseDescription:
-- The lamp shade is red.
-- The woman uses the books to turn the light off.
-- The woman is holding a stack of books.
-- The woman lifts the books.
-- ''
+Size: TO ADD
+yamlFilename: TurnOffLight_Base_Instrument.yaml

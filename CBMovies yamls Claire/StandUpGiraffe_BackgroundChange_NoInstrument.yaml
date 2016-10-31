@@ -1,10 +1,19 @@
 Color: full color
-Filename: StandUpGiraffe_BackgroundChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Stand
 ItemCondition:
 - BackgroundChange
 - NoInstrument
 ItemNo: 23
-Length: 212.0
+Length: lengthinseconds
+MovieFilename: StandUpGiraffe_BackgroundChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent22
@@ -13,10 +22,5 @@ Participants:
 - ID: Stuffed giraffe with brown blanket
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Stand
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: StandUpGiraffe_BackgroundChange_NoInstrument.yaml

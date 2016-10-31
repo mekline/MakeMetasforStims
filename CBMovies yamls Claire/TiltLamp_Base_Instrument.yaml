@@ -1,10 +1,19 @@
 Color: full color
-Filename: TiltLamp_Base_Instrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Tilt
 ItemCondition:
 - Base
 - Instrument
 ItemNo: 28
-Length: 270.0
+Length: lengthinseconds
+MovieFilename: TiltLamp_Base_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent5
@@ -16,10 +25,5 @@ Participants:
 - ID: White and black striped pole
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Tilt
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: TiltLamp_Base_Instrument.yaml

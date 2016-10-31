@@ -1,10 +1,19 @@
 Color: full color
-Filename: SpinChair_SmallAgentChange_Instrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Spin
 ItemCondition:
 - SmallAgentChange
 - Instrument
 ItemNo: 24
-Length: 209.0
+Length: lengthinseconds
+MovieFilename: SpinChair_SmallAgentChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent19
@@ -16,10 +25,5 @@ Participants:
 - ID: Grabber
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Spin
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: SpinChair_SmallAgentChange_Instrument.yaml

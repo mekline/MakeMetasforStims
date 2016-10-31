@@ -1,10 +1,19 @@
 Color: full color
-Filename: StandUpGiraffe_MannerChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- The woman holds the giraffe's leg with one hand.
+- The woman steadies the giraffe with her hands.
+- The woman uses one hand to hold the giraffe's neck.
+- The giraffe is placed upright.
+- The giraffe is wearing a blanket.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Stand
 ItemCondition:
 - MannerChange
 - NoInstrument
 ItemNo: 23
-Length: 219.0
+Length: lengthinseconds
+MovieFilename: StandUpGiraffe_MannerChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent22
@@ -13,10 +22,5 @@ Participants:
 - ID: Stuffed giraffe with brown blanket
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Stand
-VerboseDescription:
-- The woman holds the giraffe's leg with one hand.
-- The woman steadies the giraffe with her hands.
-- The woman uses one hand to hold the giraffe's neck.
-- The giraffe is placed upright.
-- The giraffe is wearing a blanket.
+Size: TO ADD
+yamlFilename: StandUpGiraffe_MannerChange_NoInstrument.yaml

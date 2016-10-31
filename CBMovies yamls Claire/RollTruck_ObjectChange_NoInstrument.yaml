@@ -1,10 +1,19 @@
 Color: full color
-Filename: RollTruck_ObjectChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Roll
 ItemCondition:
 - ObjectChange
 - NoInstrument
 ItemNo: 22
-Length: 149.0
+Length: lengthinseconds
+MovieFilename: RollTruck_ObjectChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent21
@@ -13,10 +22,5 @@ Participants:
 - ID: Blue car
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Roll
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: RollTruck_ObjectChange_NoInstrument.yaml

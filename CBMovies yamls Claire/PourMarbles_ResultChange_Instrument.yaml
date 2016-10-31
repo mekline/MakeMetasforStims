@@ -1,10 +1,19 @@
 Color: full color
-Filename: PourMarbles_ResultChange_Instrument.yaml
+ElicitedSentenceDescription:
+- The woman is holding a cup of yellow marbles.
+- She scoops out the marbles with a green pen.
+- There is a jar with yellow and green marbles on the table.
+- The yellow marbles fall into the filled jar.
+- There is an emtpy jar on the table next to the jar of marbles.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Pour
 ItemCondition:
 - ResultChange
 - Instrument
 ItemNo: 30
-Length: 117.0
+Length: lengthinseconds
+MovieFilename: PourMarbles_ResultChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent2
@@ -16,10 +25,5 @@ Participants:
 - ID: Green and white pen
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Pour
-VerboseDescription:
-- The woman is holding a cup of yellow marbles.
-- She scoops out the marbles with a green pen.
-- There is a jar with yellow and green marbles on the table.
-- The yellow marbles fall into the filled jar.
-- There is an emtpy jar on the table next to the jar of marbles.
+Size: TO ADD
+yamlFilename: PourMarbles_ResultChange_Instrument.yaml

@@ -1,10 +1,19 @@
 Color: full color
-Filename: RollTruck_SmallAgentChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- The man gives the car a push.
+- The car is green.
+- The car rolls across the table.
+- The man is wearing a blue shirt.
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Roll
 ItemCondition:
 - SmallAgentChange
 - NoInstrument
 ItemNo: 22
-Length: 153.0
+Length: lengthinseconds
+MovieFilename: RollTruck_SmallAgentChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent21
@@ -13,10 +22,5 @@ Participants:
 - ID: Green car
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Roll
-VerboseDescription:
-- The man gives the car a push.
-- The car is green.
-- The car rolls across the table.
-- The man is wearing a blue shirt.
-- ''
+Size: TO ADD
+yamlFilename: RollTruck_SmallAgentChange_NoInstrument.yaml

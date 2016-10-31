@@ -1,0 +1,23 @@
+Color: full color
+ElicitedSentenceDescription:
+- The green polygon jumps to the bottom of the frame.
+- The ground is red.
+- It quickly bounces away from the brown bridge.
+- It stops behind a yellow strip.
+IntendedSentenceDescription: To add - a single sentence.
+IntendedVerbDescription:
+- halfrotate
+ItemCondition:
+- X
+- halfrotate
+- behind
+ItemNo: 73
+Length: lengthinseconds
+MovieFilename: halfrotate_behind_5.mp4
+NParticipants: 2
+Participants:
+- ID: '5'
+  Role: Agent
+  isAnimate: 1
+Size: TO ADD
+YamlFilename: halfrotate_behind_5.yaml

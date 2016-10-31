@@ -1,10 +1,19 @@
 Color: full color
-Filename: StretchCloth_Base_NoInstrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Stretch
 ItemCondition:
 - Base
 - NoInstrument
 ItemNo: 37
-Length: 234.0
+Length: lengthinseconds
+MovieFilename: StretchCloth_Base_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent23
@@ -13,10 +22,5 @@ Participants:
 - ID: White cloth
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Stretch
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: StretchCloth_Base_NoInstrument.yaml

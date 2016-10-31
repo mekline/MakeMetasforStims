@@ -1,10 +1,19 @@
 Color: full color
-Filename: TwistMobile_Base_Instrument.yaml
+ElicitedSentenceDescription:
+- The woman is wearing glasses.
+- The mobile has three stars.
+- The woman pushes the mobile's arm with a yellow object.
+- The mobile rotates.
+- The stars have yellow accents.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Twist
 ItemCondition:
 - Base
 - Instrument
 ItemNo: 31
-Length: 308.0
+Length: lengthinseconds
+MovieFilename: TwistMobile_Base_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent9
@@ -16,10 +25,5 @@ Participants:
 - ID: Flat yellow square
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Twist
-VerboseDescription:
-- The woman is wearing glasses.
-- The mobile has three stars.
-- The woman pushes the mobile's arm with a yellow object.
-- The mobile rotates.
-- The stars have yellow accents.
+Size: TO ADD
+yamlFilename: TwistMobile_Base_Instrument.yaml

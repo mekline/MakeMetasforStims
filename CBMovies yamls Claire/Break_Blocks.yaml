@@ -1,10 +1,19 @@
 Color: full color
-Filename: Break_Blocks.yaml
+ElicitedSentenceDescription:
+- The woman approaches the table.
+- There is a block tower on the table.
+- The woman is holding a blue block.
+- The woman throws the blue block at the tower.
+- The blue block knocks over the block tower.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Break
 ItemCondition:
 - Base
 - Instrument
 ItemNo: 14
-Length: 40.0
+Length: lengthinseconds
+MovieFilename: Break_Blocks.mp4
 NParticipants: 3
 Participants:
 - ID: Agent7
@@ -16,10 +25,5 @@ Participants:
 - ID: Blue block
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Break
-VerboseDescription:
-- The woman approaches the table.
-- There is a block tower on the table.
-- The woman is holding a blue block.
-- The woman throws the blue block at the tower.
-- The blue block knocks over the block tower.
+Size: TO ADD
+yamlFilename: Break_Blocks.yaml

@@ -1,10 +1,19 @@
 Color: full color
-Filename: OpenBox_BigAgentChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Open
 ItemCondition:
 - BigAgentChange
 - NoInstrument
 ItemNo: 26
-Length: 80.0
+Length: lengthinseconds
+MovieFilename: OpenBox_BigAgentChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent18
@@ -13,10 +22,5 @@ Participants:
 - ID: Black box
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Open
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: OpenBox_BigAgentChange_NoInstrument.yaml

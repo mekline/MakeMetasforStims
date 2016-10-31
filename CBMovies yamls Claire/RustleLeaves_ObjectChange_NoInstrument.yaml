@@ -1,10 +1,19 @@
 Color: full color
-Filename: RustleLeaves_ObjectChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Rustle
 ItemCondition:
 - ObjectChange
 - NoInstrument
 ItemNo: 34
-Length: 168.0
+Length: lengthinseconds
+MovieFilename: RustleLeaves_ObjectChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent17
@@ -13,10 +22,5 @@ Participants:
 - ID: Line of brown leaves
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Rustle
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: RustleLeaves_ObjectChange_NoInstrument.yaml

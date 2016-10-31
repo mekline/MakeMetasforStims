@@ -1,10 +1,19 @@
 Color: full color
-Filename: Push_Left_LeftHand.yaml
+ElicitedSentenceDescription:
+- There is a glass bottle on the table.
+- The woman is sitting at the table.
+- The woman pushes the bottle.
+- The bottle tips over.
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Push
 ItemCondition:
 - Base
 - NoInstrument
 ItemNo: 5
-Length: 121.0
+Length: lengthinseconds
+MovieFilename: Push_Left_LeftHand.mp4
 NParticipants: 2
 Participants:
 - ID: Agent2
@@ -13,10 +22,5 @@ Participants:
 - ID: Glass bottle
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Push
-VerboseDescription:
-- There is a glass bottle on the table.
-- The woman is sitting at the table.
-- The woman pushes the bottle.
-- The bottle tips over.
-- ''
+Size: TO ADD
+yamlFilename: Push_Left_LeftHand.yaml

@@ -1,10 +1,19 @@
 Color: full color
-Filename: Drop_Armrest_BothHands.yaml
+ElicitedSentenceDescription:
+- The woman has a red bag.
+- She holds the bag up with both hands.
+- She releases the bag onto the couch.
+- The couch seat has a computer and purse on it.
+- The bag falls onto the armrest.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Drop
 ItemCondition:
 - MannerChange
 - NoInstrument
 ItemNo: 4
-Length: 54.0
+Length: lengthinseconds
+MovieFilename: Drop_Armrest_BothHands.mp4
 NParticipants: 2
 Participants:
 - ID: Agent13
@@ -13,10 +22,5 @@ Participants:
 - ID: Red bag
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Drop
-VerboseDescription:
-- The woman has a red bag.
-- She holds the bag up with both hands.
-- She releases the bag onto the couch.
-- The couch seat has a computer and purse on it.
-- The bag falls onto the armrest.
+Size: TO ADD
+yamlFilename: Drop_Armrest_BothHands.yaml

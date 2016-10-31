@@ -1,10 +1,19 @@
 Color: full color
-Filename: TurnOffLight_MannerChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- The woman is holding a stack of books.
+- The lamp shade is red.
+- The lamp is ontop of a high tabletop.
+- The woman lifts her arm.
+- She turns the light off with her wrist.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- TurnOff
 ItemCondition:
 - MannerChange
 - NoInstrument
 ItemNo: 35
-Length: 292.0
+Length: lengthinseconds
+MovieFilename: TurnOffLight_MannerChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent23
@@ -13,10 +22,5 @@ Participants:
 - ID: Red lamp
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: TurnOff
-VerboseDescription:
-- The woman is holding a stack of books.
-- The lamp shade is red.
-- The lamp is ontop of a high tabletop.
-- The woman lifts her arm.
-- She turns the light off with her wrist.
+Size: TO ADD
+yamlFilename: TurnOffLight_MannerChange_NoInstrument.yaml

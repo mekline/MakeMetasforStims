@@ -1,10 +1,19 @@
 Color: full color
-Filename: BeepToy_MannerChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- The woman lowers her hand onto the toy.
+- The toy is multi-colored.
+- The woman touches the toy with all her fingers.
+- The toy is on the woman's lap.
+- The woman is sitting.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Beep
 ItemCondition:
 - MannerChange
 - NoInstrument
 ItemNo: 29
-Length: 9.0
+Length: lengthinseconds
+MovieFilename: BeepToy_MannerChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent1
@@ -13,10 +22,5 @@ Participants:
 - ID: Yellow star toy
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Beep
-VerboseDescription:
-- The woman lowers her hand onto the toy.
-- The toy is multi-colored.
-- The woman touches the toy with all her fingers.
-- The toy is on the woman's lap.
-- The woman is sitting.
+Size: TO ADD
+yamlFilename: BeepToy_MannerChange_NoInstrument.yaml

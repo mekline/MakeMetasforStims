@@ -1,10 +1,19 @@
 Color: full color
-Filename: SpinChair_BigAgentChange_Instrument.yaml
+ElicitedSentenceDescription:
+- The woman is holding a grabber.
+- The grabber attaches to the chair's armrest.
+- The woman rotates the grabber.
+- The grabber turns the chair in a circle.
+- The woman is standing behind the chair.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Spin
 ItemCondition:
 - BigAgentChange
 - Instrument
 ItemNo: 24
-Length: 200.0
+Length: lengthinseconds
+MovieFilename: SpinChair_BigAgentChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent2
@@ -16,10 +25,5 @@ Participants:
 - ID: Grabber
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Spin
-VerboseDescription:
-- The woman is holding a grabber.
-- The grabber attaches to the chair's armrest.
-- The woman rotates the grabber.
-- The grabber turns the chair in a circle.
-- The woman is standing behind the chair.
+Size: TO ADD
+yamlFilename: SpinChair_BigAgentChange_Instrument.yaml

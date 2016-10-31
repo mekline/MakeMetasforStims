@@ -1,0 +1,23 @@
+Color: full color
+ElicitedSentenceDescription:
+- The grey rectangle rests in front of the bridge.
+- It doesn't move from its position.
+- There is a brown bridge in front of the rectangle.
+- ''
+IntendedSentenceDescription: To add - a single sentence.
+IntendedVerbDescription:
+- vibrate
+ItemCondition:
+- X
+- vibrate
+- behind
+ItemNo: 104
+Length: lengthinseconds
+MovieFilename: vibrate_behind_4.mp4
+NParticipants: 2
+Participants:
+- ID: '4'
+  Role: Agent
+  isAnimate: 1
+Size: TO ADD
+YamlFilename: vibrate_behind_4.yaml

@@ -1,10 +1,19 @@
 Color: full color
-Filename: Bounce_Diagonal_RightHand.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Bounce
 ItemCondition:
 - ResultChange
 - NoInstrument
 ItemNo: 2
-Length: 21.0
+Length: lengthinseconds
+MovieFilename: Bounce_Diagonal_RightHand.mp4
 NParticipants: 2
 Participants:
 - ID: Agent6
@@ -13,10 +22,5 @@ Participants:
 - ID: Clear ball
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Bounce
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: Bounce_Diagonal_RightHand.yaml

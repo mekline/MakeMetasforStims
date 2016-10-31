@@ -1,10 +1,19 @@
 Color: full color
-Filename: TurnOffLight_ObjectChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- The lamp shade is purple.
+- The woman is holding a pile of white books.
+- The woman is standing to the left of the lamp.
+- The woman uses her elbow to turn the light off.
+- The lamp is on a shoulder-height table.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- TurnOff
 ItemCondition:
 - ObjectChange
 - NoInstrument
 ItemNo: 35
-Length: 294.0
+Length: lengthinseconds
+MovieFilename: TurnOffLight_ObjectChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent23
@@ -13,10 +22,5 @@ Participants:
 - ID: Purple lamp
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: TurnOff
-VerboseDescription:
-- The lamp shade is purple.
-- The woman is holding a pile of white books.
-- The woman is standing to the left of the lamp.
-- The woman uses her elbow to turn the light off.
-- The lamp is on a shoulder-height table.
+Size: TO ADD
+yamlFilename: TurnOffLight_ObjectChange_NoInstrument.yaml

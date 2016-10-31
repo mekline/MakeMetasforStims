@@ -1,10 +1,19 @@
 Color: full color
-Filename: ChangeChannel_MannerChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- The woman is sitting in front of the computer.
+- The woman is wearing a red shirt.
+- The computer is playing a video.
+- The woman touches the bottom left corner of the computer.
+- The video changes.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Change
 ItemCondition:
 - MannerChange
 - NoInstrument
 ItemNo: 32
-Length: 45.0
+Length: lengthinseconds
+MovieFilename: ChangeChannel_MannerChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent8
@@ -13,10 +22,5 @@ Participants:
 - ID: Black computer
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Change
-VerboseDescription:
-- The woman is sitting in front of the computer.
-- The woman is wearing a red shirt.
-- The computer is playing a video.
-- The woman touches the bottom left corner of the computer.
-- The video changes.
+Size: TO ADD
+yamlFilename: ChangeChannel_MannerChange_NoInstrument.yaml

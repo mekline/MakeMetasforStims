@@ -1,10 +1,19 @@
 Color: full color
-Filename: StandUpGiraffe_SmallAgentChange_Instrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Stand
 ItemCondition:
 - SmallAgentChange
 - Instrument
 ItemNo: 23
-Length: 224.0
+Length: lengthinseconds
+MovieFilename: StandUpGiraffe_SmallAgentChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent22
@@ -16,10 +25,5 @@ Participants:
 - ID: Silver tongs
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Stand
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: StandUpGiraffe_SmallAgentChange_Instrument.yaml

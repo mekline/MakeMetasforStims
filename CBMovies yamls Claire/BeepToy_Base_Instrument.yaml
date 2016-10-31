@@ -1,10 +1,19 @@
 Color: full color
-Filename: BeepToy_Base_Instrument.yaml
+ElicitedSentenceDescription:
+- Repeat
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Beep
 ItemCondition:
 - Base
 - Instrument
 ItemNo: 29
-Length: 3.0
+Length: lengthinseconds
+MovieFilename: BeepToy_Base_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent1
@@ -16,10 +25,5 @@ Participants:
 - ID: Green pen
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Beep
-VerboseDescription:
-- Repeat
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: BeepToy_Base_Instrument.yaml

@@ -1,10 +1,19 @@
 Color: full color
-Filename: OpenBox_Base_Instrument.yaml
+ElicitedSentenceDescription:
+- Repeat.
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Open
 ItemCondition:
 - Base
 - Instrument
 ItemNo: 26
-Length: 77.0
+Length: lengthinseconds
+MovieFilename: OpenBox_Base_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent17
@@ -16,10 +25,5 @@ Participants:
 - ID: Yellow rake
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Open
-VerboseDescription:
-- Repeat.
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: OpenBox_Base_Instrument.yaml

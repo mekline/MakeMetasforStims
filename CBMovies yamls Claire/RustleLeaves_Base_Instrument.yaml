@@ -1,10 +1,19 @@
 Color: full color
-Filename: RustleLeaves_Base_Instrument.yaml
+ElicitedSentenceDescription:
+- The woman is sitting at a table.
+- There is a pile of leaves on the table.
+- The woman rustles the leaves with a green rake.
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Rustle
 ItemCondition:
 - Base
 - Instrument
 ItemNo: 34
-Length: 160.0
+Length: lengthinseconds
+MovieFilename: RustleLeaves_Base_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent17
@@ -16,10 +25,5 @@ Participants:
 - ID: Green rake
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Rustle
-VerboseDescription:
-- The woman is sitting at a table.
-- There is a pile of leaves on the table.
-- The woman rustles the leaves with a green rake.
-- ''
-- ''
+Size: TO ADD
+yamlFilename: RustleLeaves_Base_Instrument.yaml

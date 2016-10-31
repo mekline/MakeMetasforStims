@@ -1,0 +1,23 @@
+Color: full color
+ElicitedSentenceDescription:
+- The yellow triangle bounces through the air.
+- It climbs an imaginary staircase.
+- The triangle lands at the top the the bridge.
+- ''
+IntendedSentenceDescription: To add - a single sentence.
+IntendedVerbDescription:
+- rock
+ItemCondition:
+- W
+- rock
+- onto
+ItemNo: 28
+Length: lengthinseconds
+MovieFilename: rock_onto_1.mp4
+NParticipants: 2
+Participants:
+- ID: '1'
+  Role: Agent
+  isAnimate: 1
+Size: TO ADD
+YamlFilename: rock_onto_1.yaml

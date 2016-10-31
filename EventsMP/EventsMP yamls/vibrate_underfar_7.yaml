@@ -1,0 +1,23 @@
+Color: full color
+ElicitedSentenceDescription:
+- The purple square rocks back and forth.
+- It passes in behind the bridge.
+- It stops behind the first pillar of the bridge.
+- The bridge is brown.
+IntendedSentenceDescription: To add - a single sentence.
+IntendedVerbDescription:
+- vibrate
+ItemCondition:
+- X
+- vibrate
+- underfar
+ItemNo: 111
+Length: lengthinseconds
+MovieFilename: vibrate_underfar_7.mp4
+NParticipants: 2
+Participants:
+- ID: '7'
+  Role: Agent
+  isAnimate: 1
+Size: TO ADD
+YamlFilename: vibrate_underfar_7.yaml

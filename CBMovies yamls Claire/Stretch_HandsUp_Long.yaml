@@ -1,10 +1,19 @@
 Color: full color
-Filename: Stretch_HandsUp_Long.yaml
+ElicitedSentenceDescription:
+- The man is holding a blue bendy tube on both ends.
+- The man separates his hands outward.
+- The tube fully elongates.
+- The man is sitting at a table.
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Stretch
 ItemCondition:
 - CounterbalanceMR
 - NoInstrument
 ItemNo: 12
-Length: 229.0
+Length: lengthinseconds
+MovieFilename: Stretch_HandsUp_Long.mp4
 NParticipants: 2
 Participants:
 - ID: Agent11
@@ -13,10 +22,5 @@ Participants:
 - ID: Blue bendy tube
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Stretch
-VerboseDescription:
-- The man is holding a blue bendy tube on both ends.
-- The man separates his hands outward.
-- The tube fully elongates.
-- The man is sitting at a table.
-- ''
+Size: TO ADD
+yamlFilename: Stretch_HandsUp_Long.yaml

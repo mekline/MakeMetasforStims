@@ -1,10 +1,19 @@
 Color: full color
-Filename: TightenScrew_Base_NoInstrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Tighten
 ItemCondition:
 - Base
 - NoInstrument
 ItemNo: 21
-Length: 262.0
+Length: lengthinseconds
+MovieFilename: TightenScrew_Base_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent5
@@ -13,10 +22,5 @@ Participants:
 - ID: Blue screw
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Tighten
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: TightenScrew_Base_NoInstrument.yaml

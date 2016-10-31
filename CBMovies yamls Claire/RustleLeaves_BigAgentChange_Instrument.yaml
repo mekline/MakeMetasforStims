@@ -1,10 +1,19 @@
 Color: full color
-Filename: RustleLeaves_BigAgentChange_Instrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Rustle
 ItemCondition:
 - BigAgentChange
 - Instrument
 ItemNo: 34
-Length: 162.0
+Length: lengthinseconds
+MovieFilename: RustleLeaves_BigAgentChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent2
@@ -16,10 +25,5 @@ Participants:
 - ID: Green rake
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Rustle
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: RustleLeaves_BigAgentChange_Instrument.yaml

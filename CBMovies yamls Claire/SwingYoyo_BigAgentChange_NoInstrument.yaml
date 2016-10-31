@@ -1,10 +1,19 @@
 Color: full color
-Filename: SwingYoyo_BigAgentChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Swing
 ItemCondition:
 - BigAgentChange
 - NoInstrument
 ItemNo: 33
-Length: 251.0
+Length: lengthinseconds
+MovieFilename: SwingYoyo_BigAgentChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent17
@@ -13,10 +22,5 @@ Participants:
 - ID: Green yoyo
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Swing
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: SwingYoyo_BigAgentChange_NoInstrument.yaml

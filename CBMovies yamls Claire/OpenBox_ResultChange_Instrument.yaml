@@ -1,10 +1,19 @@
 Color: full color
-Filename: OpenBox_ResultChange_Instrument.yaml
+ElicitedSentenceDescription:
+- Repeat
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Open
 ItemCondition:
 - ResultChange
 - Instrument
 ItemNo: 26
-Length: 86.0
+Length: lengthinseconds
+MovieFilename: OpenBox_ResultChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent17
@@ -16,10 +25,5 @@ Participants:
 - ID: Green rake
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Open
-VerboseDescription:
-- Repeat
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: OpenBox_ResultChange_Instrument.yaml

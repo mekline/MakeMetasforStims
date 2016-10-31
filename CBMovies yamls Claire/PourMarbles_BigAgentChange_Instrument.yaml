@@ -1,10 +1,19 @@
 Color: full color
-Filename: PourMarbles_BigAgentChange_Instrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Pour
 ItemCondition:
 - BigAgentChange
 - Instrument
 ItemNo: 30
-Length: 110.0
+Length: lengthinseconds
+MovieFilename: PourMarbles_BigAgentChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent1
@@ -16,10 +25,5 @@ Participants:
 - ID: Green and white pen
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Pour
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: PourMarbles_BigAgentChange_Instrument.yaml

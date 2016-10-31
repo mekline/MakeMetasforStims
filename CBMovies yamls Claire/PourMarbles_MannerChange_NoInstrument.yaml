@@ -1,10 +1,19 @@
 Color: full color
-Filename: PourMarbles_MannerChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- The woman pours yellow marbles into a bucket.
+- There is a clear bucket with green and yellow marbles on the table.
+- The woman tips the cup with yellow marbles.
+- The empty bucket is filled with marbles.
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Pour
 ItemCondition:
 - MannerChange
 - NoInstrument
 ItemNo: 30
-Length: 114.0
+Length: lengthinseconds
+MovieFilename: PourMarbles_MannerChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent2
@@ -13,10 +22,5 @@ Participants:
 - ID: Yellow marbles
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Pour
-VerboseDescription:
-- The woman pours yellow marbles into a bucket.
-- There is a clear bucket with green and yellow marbles on the table.
-- The woman tips the cup with yellow marbles.
-- The empty bucket is filled with marbles.
-- ''
+Size: TO ADD
+yamlFilename: PourMarbles_MannerChange_NoInstrument.yaml

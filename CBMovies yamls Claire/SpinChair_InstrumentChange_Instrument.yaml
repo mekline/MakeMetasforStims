@@ -1,10 +1,19 @@
 Color: full color
-Filename: SpinChair_InstrumentChange_Instrument.yaml
+ElicitedSentenceDescription:
+- Repeat
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Spin
 ItemCondition:
 - InstrumentChange
 - Instrument
 ItemNo: 24
-Length: 202.0
+Length: lengthinseconds
+MovieFilename: SpinChair_InstrumentChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent19
@@ -16,10 +25,5 @@ Participants:
 - ID: SIlver tongs
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Spin
-VerboseDescription:
-- Repeat
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: SpinChair_InstrumentChange_Instrument.yaml

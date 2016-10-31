@@ -1,10 +1,19 @@
 Color: full color
-Filename: TurnOffLight_InstrumentChange_Instrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- TurnOff
 ItemCondition:
 - InstrumentChange
 - Instrument
 ItemNo: 35
-Length: 290.0
+Length: lengthinseconds
+MovieFilename: TurnOffLight_InstrumentChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent23
@@ -16,10 +25,5 @@ Participants:
 - ID: Stack of books with binding facing outward
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: TurnOff
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: TurnOffLight_InstrumentChange_Instrument.yaml

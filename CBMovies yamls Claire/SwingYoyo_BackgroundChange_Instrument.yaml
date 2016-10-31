@@ -1,10 +1,19 @@
 Color: full color
-Filename: SwingYoyo_BackgroundChange_Instrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Swing
 ItemCondition:
 - BackgroundChange
 - Instrument
 ItemNo: 33
-Length: 246.0
+Length: lengthinseconds
+MovieFilename: SwingYoyo_BackgroundChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent18
@@ -16,10 +25,5 @@ Participants:
 - ID: Wood pole
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Swing
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: SwingYoyo_BackgroundChange_Instrument.yaml

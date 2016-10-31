@@ -1,10 +1,19 @@
 Color: full color
-Filename: SpinChair_SmallAgentChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- The woman twirs the chair in a circle.
+- The woman holds the chair with one hand.
+- The woman rotates her arm.
+- The chair is black.
+- The woman stands behing the chair.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Spin
 ItemCondition:
 - SmallAgentChange
 - NoInstrument
 ItemNo: 24
-Length: 210.0
+Length: lengthinseconds
+MovieFilename: SpinChair_SmallAgentChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent19
@@ -13,10 +22,5 @@ Participants:
 - ID: Five wheel black chair
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Spin
-VerboseDescription:
-- The woman twirs the chair in a circle.
-- The woman holds the chair with one hand.
-- The woman rotates her arm.
-- The chair is black.
-- The woman stands behing the chair.
+Size: TO ADD
+yamlFilename: SpinChair_SmallAgentChange_NoInstrument.yaml

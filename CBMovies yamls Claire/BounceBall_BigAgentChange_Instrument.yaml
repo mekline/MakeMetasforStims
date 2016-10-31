@@ -1,10 +1,19 @@
 Color: full color
-Filename: BounceBall_BigAgentChange_Instrument.yaml
+ElicitedSentenceDescription:
+- The man is holding a red striped frisbee in his left hand.
+- There is a red book on the table.
+- The man holds a clear ball in his right hand.
+- He hits the ball with the frisbee.
+- The ball bounces on the book.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Bounce
 ItemCondition:
 - BigAgentChange
 - Instrument
 ItemNo: 27
-Length: 28.0
+Length: lengthinseconds
+MovieFilename: BounceBall_BigAgentChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent5
@@ -16,10 +25,5 @@ Participants:
 - ID: Striped frisbee
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Bounce
-VerboseDescription:
-- The man is holding a red striped frisbee in his left hand.
-- There is a red book on the table.
-- The man holds a clear ball in his right hand.
-- He hits the ball with the frisbee.
-- The ball bounces on the book.
+Size: TO ADD
+yamlFilename: BounceBall_BigAgentChange_Instrument.yaml

@@ -1,10 +1,19 @@
 Color: full color
-Filename: Drop_Sofa_OneHand.yaml
+ElicitedSentenceDescription:
+- The bag lands next to the items on the couch.
+- The woman drops a red bag.
+- The woman holds the bag with one hand.
+- The sofa has a computer and purse on its seat.
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Drop
 ItemCondition:
 - ResultChange
 - NoInstrument
 ItemNo: 4
-Length: 56.0
+Length: lengthinseconds
+MovieFilename: Drop_Sofa_OneHand.mp4
 NParticipants: 2
 Participants:
 - ID: Agent13
@@ -13,10 +22,5 @@ Participants:
 - ID: Red bag
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Drop
-VerboseDescription:
-- The bag lands next to the items on the couch.
-- The woman drops a red bag.
-- The woman holds the bag with one hand.
-- The sofa has a computer and purse on its seat.
-- ''
+Size: TO ADD
+yamlFilename: Drop_Sofa_OneHand.yaml

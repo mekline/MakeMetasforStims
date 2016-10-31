@@ -1,10 +1,19 @@
 Color: full color
-Filename: GiveBalloon.yaml
+ElicitedSentenceDescription:
+- The two girls are standing in the grass outside.
+- The girl on the left is holding two balloons by their strings.
+- She passes the balloons to the other girl.
+- The girl on the right receives the balloons from her.
+- A gong sounds.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Give
 ItemCondition:
 - Base
 - NoInstrument
 ItemNo: 38
-Length: 58.0
+Length: lengthinseconds
+MovieFilename: GiveBalloon.mp4
 NParticipants: 2
 Participants:
 - ID: Agent14
@@ -13,10 +22,5 @@ Participants:
 - ID: NA
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Give
-VerboseDescription:
-- The two girls are standing in the grass outside.
-- The girl on the left is holding two balloons by their strings.
-- She passes the balloons to the other girl.
-- The girl on the right receives the balloons from her.
-- A gong sounds.
+Size: TO ADD
+yamlFilename: GiveBalloon.yaml

@@ -1,10 +1,19 @@
 Color: full color
-Filename: TiltLamp_SmallAgentChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- The man is holding the lamp with one hand.
+- He pushes the lamp away from himself.
+- The lamp is facing upward.
+- The man is standing in a kitchen.
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Tilt
 ItemCondition:
 - SmallAgentChange
 - NoInstrument
 ItemNo: 28
-Length: 282.0
+Length: lengthinseconds
+MovieFilename: TiltLamp_SmallAgentChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent5
@@ -13,10 +22,5 @@ Participants:
 - ID: Lamp with upward facing lightbulb
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Tilt
-VerboseDescription:
-- The man is holding the lamp with one hand.
-- He pushes the lamp away from himself.
-- The lamp is facing upward.
-- The man is standing in a kitchen.
-- ''
+Size: TO ADD
+yamlFilename: TiltLamp_SmallAgentChange_NoInstrument.yaml

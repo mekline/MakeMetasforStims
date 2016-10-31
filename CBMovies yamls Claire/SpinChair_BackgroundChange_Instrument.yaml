@@ -1,10 +1,19 @@
 Color: full color
-Filename: SpinChair_BackgroundChange_Instrument.yaml
+ElicitedSentenceDescription:
+- The chair rotates.
+- The woman is holding a grabber.
+- The grabber is grabbing the armrest of the chair.
+- The woman rotates her arm.
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Spin
 ItemCondition:
 - BackgroundChange
 - Instrument
 ItemNo: 24
-Length: 196.0
+Length: lengthinseconds
+MovieFilename: SpinChair_BackgroundChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent19
@@ -16,10 +25,5 @@ Participants:
 - ID: Grabber
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Spin
-VerboseDescription:
-- The chair rotates.
-- The woman is holding a grabber.
-- The grabber is grabbing the armrest of the chair.
-- The woman rotates her arm.
-- ''
+Size: TO ADD
+yamlFilename: SpinChair_BackgroundChange_Instrument.yaml
