@@ -1,10 +1,19 @@
 Color: full color
-Filename: KnockOver_MannerChange_Instrument.yaml
+ElicitedSentenceDescription:
+- The man is holding a green block.
+- There are two stacked pink blocks on the table.
+- 'The man knocks the tower over with the '
+- The two pink blocks are connected.
+- The block tower falls to the side.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Knock
 ItemCondition:
 - MannerChange
 - Instrument
 ItemNo: 19
-Length: 67.0
+Length: lengthinseconds
+MovieFilename: KnockOver_MannerChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent16
@@ -16,10 +25,5 @@ Participants:
 - ID: Green block
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Knock
-VerboseDescription:
-- The man is holding a green block.
-- There are two stacked pink blocks on the table.
-- 'The man knocks the tower over with the '
-- The two pink blocks are connected.
-- The block tower falls to the side.
+Size: TO ADD
+yamlFilename: KnockOver_MannerChange_Instrument.yaml

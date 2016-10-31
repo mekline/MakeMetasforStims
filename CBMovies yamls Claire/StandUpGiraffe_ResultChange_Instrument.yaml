@@ -1,10 +1,19 @@
 Color: full color
-Filename: StandUpGiraffe_ResultChange_Instrument.yaml
+ElicitedSentenceDescription:
+- The woman grabs the giraffe's head with silver tongs.
+- She grabs the back leg of the giraffe with her hand.
+- She picks up the giraffe.
+- She tips the giraffe to the other side.
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Stand
 ItemCondition:
 - ResultChange
 - Instrument
 ItemNo: 23
-Length: 222.0
+Length: lengthinseconds
+MovieFilename: StandUpGiraffe_ResultChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent22
@@ -16,10 +25,5 @@ Participants:
 - ID: Silver tongs
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Stand
-VerboseDescription:
-- The woman grabs the giraffe's head with silver tongs.
-- She grabs the back leg of the giraffe with her hand.
-- She picks up the giraffe.
-- She tips the giraffe to the other side.
-- ''
+Size: TO ADD
+yamlFilename: StandUpGiraffe_ResultChange_Instrument.yaml

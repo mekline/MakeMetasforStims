@@ -1,0 +1,23 @@
+Color: full color
+ElicitedSentenceDescription:
+- The blue triangle tips back and forth.
+- It moves forward and away from the bridge.
+- The triangle stops in the bottom right corner.
+- The ground is red.
+IntendedSentenceDescription: To add - a single sentence.
+IntendedVerbDescription:
+- vibrate
+ItemCondition:
+- X
+- vibrate
+- past
+ItemNo: 96
+Length: lengthinseconds
+MovieFilename: vibrate_past_4.mp4
+NParticipants: 2
+Participants:
+- ID: '4'
+  Role: Agent
+  isAnimate: 1
+Size: TO ADD
+YamlFilename: vibrate_past_4.yaml

@@ -1,10 +1,19 @@
 Color: full color
-Filename: StretchCloth_SmallAgentChange_Instrument.yaml
+ElicitedSentenceDescription:
+- The woma is holding a black hanger.
+- The cloth is hanging from the hanger.
+- The woman holds the end of the cloth.
+- She lifts the hanger from her left hip to her right shoulder.
+- The cloth stretches diagonally.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Stretch
 ItemCondition:
 - SmallAgentChange
 - Instrument
 ItemNo: 37
-Length: 244.0
+Length: lengthinseconds
+MovieFilename: StretchCloth_SmallAgentChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent23
@@ -16,10 +25,5 @@ Participants:
 - ID: Black hanger
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Stretch
-VerboseDescription:
-- The woma is holding a black hanger.
-- The cloth is hanging from the hanger.
-- The woman holds the end of the cloth.
-- She lifts the hanger from her left hip to her right shoulder.
-- The cloth stretches diagonally.
+Size: TO ADD
+yamlFilename: StretchCloth_SmallAgentChange_Instrument.yaml

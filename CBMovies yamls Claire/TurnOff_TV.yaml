@@ -1,10 +1,19 @@
 Color: full color
-Filename: TurnOff_TV.yaml
+ElicitedSentenceDescription:
+- The man walks into the room and sits in a chair.
+- The TV is playing a video.
+- The man picks up a remote.
+- The man turns the TV off with the remote.
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- TurnOff
 ItemCondition:
 - Base
 - NoInstrument
 ItemNo: 18
-Length: 283.0
+Length: lengthinseconds
+MovieFilename: TurnOff_TV.mp4
 NParticipants: 2
 Participants:
 - ID: Agent28
@@ -13,10 +22,5 @@ Participants:
 - ID: Black box TV
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: TurnOff
-VerboseDescription:
-- The man walks into the room and sits in a chair.
-- The TV is playing a video.
-- The man picks up a remote.
-- The man turns the TV off with the remote.
-- ''
+Size: TO ADD
+yamlFilename: TurnOff_TV.yaml

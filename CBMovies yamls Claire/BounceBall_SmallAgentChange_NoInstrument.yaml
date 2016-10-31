@@ -1,10 +1,19 @@
 Color: full color
-Filename: BounceBall_SmallAgentChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- Repeat.
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Bounce
 ItemCondition:
 - SmallAgentChange
 - NoInstrument
 ItemNo: 27
-Length: 38.0
+Length: lengthinseconds
+MovieFilename: BounceBall_SmallAgentChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent4
@@ -13,10 +22,5 @@ Participants:
 - ID: Clear ball
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Bounce
-VerboseDescription:
-- Repeat.
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: BounceBall_SmallAgentChange_NoInstrument.yaml

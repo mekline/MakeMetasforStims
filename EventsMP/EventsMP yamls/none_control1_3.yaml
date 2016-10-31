@@ -1,0 +1,23 @@
+Color: full color
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: To add - a single sentence.
+IntendedVerbDescription:
+- none
+ItemCondition:
+- Y
+- none
+- control1
+ItemNo: 130
+Length: lengthinseconds
+MovieFilename: none_control1_3.mp4
+NParticipants: 2
+Participants:
+- ID: '3'
+  Role: Agent
+  isAnimate: 1
+Size: TO ADD
+YamlFilename: none_control1_3.yaml

@@ -1,10 +1,19 @@
 Color: full color
-Filename: Spill_Right_TwoHands.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Spill
 ItemCondition:
 - CounterbalanceMR
 - NoInstrument
 ItemNo: 10
-Length: 191.0
+Length: lengthinseconds
+MovieFilename: Spill_Right_TwoHands.mp4
 NParticipants: 2
 Participants:
 - ID: Agent2
@@ -13,10 +22,5 @@ Participants:
 - ID: White marbles
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Spill
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: Spill_Right_TwoHands.yaml

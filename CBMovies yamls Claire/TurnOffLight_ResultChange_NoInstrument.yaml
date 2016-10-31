@@ -1,10 +1,19 @@
 Color: full color
-Filename: TurnOffLight_ResultChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- Repeat.
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- TurnOff
 ItemCondition:
 - ResultChange
 - NoInstrument
 ItemNo: 35
-Length: 296.0
+Length: lengthinseconds
+MovieFilename: TurnOffLight_ResultChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent23
@@ -13,10 +22,5 @@ Participants:
 - ID: Red lamp
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: TurnOff
-VerboseDescription:
-- Repeat.
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: TurnOffLight_ResultChange_NoInstrument.yaml

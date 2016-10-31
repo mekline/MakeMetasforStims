@@ -1,10 +1,19 @@
 Color: full color
-Filename: Bounce_Diagonal_LeftHand.yaml
+ElicitedSentenceDescription:
+- The woman drops the ball.
+- The ball bounces forward on the table.
+- The ball is clear.
+- The woman is standing in front of the table.
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Bounce
 ItemCondition:
 - CounterbalanceMR
 - NoInstrument
 ItemNo: 2
-Length: 20.0
+Length: lengthinseconds
+MovieFilename: Bounce_Diagonal_LeftHand.mp4
 NParticipants: 2
 Participants:
 - ID: Agent6
@@ -13,10 +22,5 @@ Participants:
 - ID: Clear ball
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Bounce
-VerboseDescription:
-- The woman drops the ball.
-- The ball bounces forward on the table.
-- The ball is clear.
-- The woman is standing in front of the table.
-- ''
+Size: TO ADD
+yamlFilename: Bounce_Diagonal_LeftHand.yaml

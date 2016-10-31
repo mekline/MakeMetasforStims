@@ -1,10 +1,19 @@
 Color: full color
-Filename: TwistMobile_ResultChange_Instrument.yaml
+ElicitedSentenceDescription:
+- The mobile has three stars hanging on it.
+- The woman pushes the mobile arm with a yellow object.
+- The mobile spins.
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Twist
 ItemCondition:
 - ResultChange
 - Instrument
 ItemNo: 31
-Length: 317.0
+Length: lengthinseconds
+MovieFilename: TwistMobile_ResultChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent9
@@ -16,10 +25,5 @@ Participants:
 - ID: Flat yellow square
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Twist
-VerboseDescription:
-- The mobile has three stars hanging on it.
-- The woman pushes the mobile arm with a yellow object.
-- The mobile spins.
-- ''
-- ''
+Size: TO ADD
+yamlFilename: TwistMobile_ResultChange_Instrument.yaml

@@ -1,0 +1,23 @@
+Color: full color
+ElicitedSentenceDescription:
+- The grey rectangle sits on the ground.
+- The ground is red.
+- There is a brown bridge in the background.
+- The middle of the bridge is upscreen from the rectangle's position.
+IntendedSentenceDescription: To add - a single sentence.
+IntendedVerbDescription:
+- stopstart
+ItemCondition:
+- X
+- stopstart
+- past
+ItemNo: 112
+Length: lengthinseconds
+MovieFilename: stopstart_past_4.mp4
+NParticipants: 2
+Participants:
+- ID: '4'
+  Role: Agent
+  isAnimate: 1
+Size: TO ADD
+YamlFilename: stopstart_past_4.yaml

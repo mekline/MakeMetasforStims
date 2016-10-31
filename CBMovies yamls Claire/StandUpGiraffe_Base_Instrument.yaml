@@ -1,10 +1,19 @@
 Color: full color
-Filename: StandUpGiraffe_Base_Instrument.yaml
+ElicitedSentenceDescription:
+- The woman is kneeling on the floor.
+- She lifts a plush giraffe from the ground.
+- The giraffe is placed upright.
+- The giraffe is covered with a blanket.
+- The woman uses both hands to upright the giraffe.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Stand
 ItemCondition:
 - Base
 - Instrument
 ItemNo: 23
-Length: 213.0
+Length: lengthinseconds
+MovieFilename: StandUpGiraffe_Base_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent22
@@ -16,10 +25,5 @@ Participants:
 - ID: Silver tongs
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Stand
-VerboseDescription:
-- The woman is kneeling on the floor.
-- She lifts a plush giraffe from the ground.
-- The giraffe is placed upright.
-- The giraffe is covered with a blanket.
-- The woman uses both hands to upright the giraffe.
+Size: TO ADD
+yamlFilename: StandUpGiraffe_Base_Instrument.yaml

@@ -1,0 +1,23 @@
+Color: full color
+ElicitedSentenceDescription:
+- The yellow triangle sits at the end of the bridge.
+- It rests in front of the bridge.
+- The movie bounces around the screen.
+- ''
+IntendedSentenceDescription: To add - a single sentence.
+IntendedVerbDescription:
+- stopstart
+ItemCondition:
+- X
+- stopstart
+- under
+ItemNo: 118
+Length: lengthinseconds
+MovieFilename: stopstart_under_6.mp4
+NParticipants: 2
+Participants:
+- ID: '6'
+  Role: Agent
+  isAnimate: 1
+Size: TO ADD
+YamlFilename: stopstart_under_6.yaml

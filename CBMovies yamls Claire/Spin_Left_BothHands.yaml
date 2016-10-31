@@ -1,10 +1,19 @@
 Color: full color
-Filename: Spin_Left_BothHands.yaml
+ElicitedSentenceDescription:
+- The man approaches the chair.
+- He turns the chair with both hands.
+- He holds the back of the chair.
+- The chair begins facing the window.
+- The chair spins to face the man.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Spin
 ItemCondition:
 - ResultChange
 - NoInstrument
 ItemNo: 11
-Length: 192.0
+Length: lengthinseconds
+MovieFilename: Spin_Left_BothHands.mp4
 NParticipants: 2
 Participants:
 - ID: Agent3
@@ -13,10 +22,5 @@ Participants:
 - ID: Five wheel black chair
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Spin
-VerboseDescription:
-- The man approaches the chair.
-- He turns the chair with both hands.
-- He holds the back of the chair.
-- The chair begins facing the window.
-- The chair spins to face the man.
+Size: TO ADD
+yamlFilename: Spin_Left_BothHands.yaml

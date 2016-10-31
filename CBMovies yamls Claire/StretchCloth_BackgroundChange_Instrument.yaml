@@ -1,10 +1,19 @@
 Color: full color
-Filename: StretchCloth_BackgroundChange_Instrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Stretch
 ItemCondition:
 - BackgroundChange
 - Instrument
 ItemNo: 37
-Length: 231.0
+Length: lengthinseconds
+MovieFilename: StretchCloth_BackgroundChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent23
@@ -16,10 +25,5 @@ Participants:
 - ID: Black hanger
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Stretch
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: StretchCloth_BackgroundChange_Instrument.yaml

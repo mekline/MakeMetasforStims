@@ -1,10 +1,19 @@
 Color: full color
-Filename: StretchCloth_ObjectChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Stretch
 ItemCondition:
 - ObjectChange
 - NoInstrument
 ItemNo: 37
-Length: 241.0
+Length: lengthinseconds
+MovieFilename: StretchCloth_ObjectChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent23
@@ -13,10 +22,5 @@ Participants:
 - ID: White cloth with black speckles
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Stretch
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: StretchCloth_ObjectChange_NoInstrument.yaml

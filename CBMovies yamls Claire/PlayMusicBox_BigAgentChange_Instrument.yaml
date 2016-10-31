@@ -1,10 +1,19 @@
 Color: full color
-Filename: PlayMusicBox_BigAgentChange_Instrument.yaml
+ElicitedSentenceDescription:
+- Repeat.
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Play
 ItemCondition:
 - BigAgentChange
 - Instrument
 ItemNo: 25
-Length: 94.0
+Length: lengthinseconds
+MovieFilename: PlayMusicBox_BigAgentChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent19
@@ -16,10 +25,5 @@ Participants:
 - ID: Silver crank
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Play
-VerboseDescription:
-- Repeat.
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: PlayMusicBox_BigAgentChange_Instrument.yaml

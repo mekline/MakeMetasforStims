@@ -1,10 +1,19 @@
 Color: full color
-Filename: BeepToy_SmallAgentChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- The woman drops one finger onto the toy.
+- She presses the toy.
+- The toy is a star shape.
+- The toy buzzes.
+- The woman is sttting.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Beep
 ItemCondition:
 - SmallAgentChange
 - NoInstrument
 ItemNo: 29
-Length: 15.0
+Length: lengthinseconds
+MovieFilename: BeepToy_SmallAgentChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent1
@@ -13,10 +22,5 @@ Participants:
 - ID: Yellow star toy
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Beep
-VerboseDescription:
-- The woman drops one finger onto the toy.
-- She presses the toy.
-- The toy is a star shape.
-- The toy buzzes.
-- The woman is sttting.
+Size: TO ADD
+yamlFilename: BeepToy_SmallAgentChange_NoInstrument.yaml

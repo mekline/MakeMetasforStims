@@ -1,10 +1,19 @@
 Color: full color
-Filename: KnockOver_Base_NoInstrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Knock
 ItemCondition:
 - Base
 - NoInstrument
 ItemNo: 19
-Length: 63.0
+Length: lengthinseconds
+MovieFilename: KnockOver_Base_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent16
@@ -13,10 +22,5 @@ Participants:
 - ID: Pink block
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Knock
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: KnockOver_Base_NoInstrument.yaml

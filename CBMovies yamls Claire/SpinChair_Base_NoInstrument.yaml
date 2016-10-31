@@ -1,10 +1,19 @@
 Color: full color
-Filename: SpinChair_Base_NoInstrument.yaml
+ElicitedSentenceDescription:
+- The chair rotates.
+- The woman uses one arm to turn the chair.
+- The woman is standing.
+- The chair has armrests.
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Spin
 ItemCondition:
 - Base
 - NoInstrument
 ItemNo: 24
-Length: 199.0
+Length: lengthinseconds
+MovieFilename: SpinChair_Base_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent19
@@ -13,10 +22,5 @@ Participants:
 - ID: Five wheel black chair
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Spin
-VerboseDescription:
-- The chair rotates.
-- The woman uses one arm to turn the chair.
-- The woman is standing.
-- The chair has armrests.
-- ''
+Size: TO ADD
+yamlFilename: SpinChair_Base_NoInstrument.yaml

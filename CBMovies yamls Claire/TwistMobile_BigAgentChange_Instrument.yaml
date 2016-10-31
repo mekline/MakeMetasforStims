@@ -1,10 +1,19 @@
 Color: full color
-Filename: TwistMobile_BigAgentChange_Instrument.yaml
+ElicitedSentenceDescription:
+- The mobile has three stars hanging on it.
+- The stars are yellow and grey.
+- The woman is holding a yellow object.
+- She pushes the arm of the mobile with the object.
+- The mobile with the stars spins.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Twist
 ItemCondition:
 - BigAgentChange
 - Instrument
 ItemNo: 31
-Length: 310.0
+Length: lengthinseconds
+MovieFilename: TwistMobile_BigAgentChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent19
@@ -16,10 +25,5 @@ Participants:
 - ID: Flat yellow square
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Twist
-VerboseDescription:
-- The mobile has three stars hanging on it.
-- The stars are yellow and grey.
-- The woman is holding a yellow object.
-- She pushes the arm of the mobile with the object.
-- The mobile with the stars spins.
+Size: TO ADD
+yamlFilename: TwistMobile_BigAgentChange_Instrument.yaml

@@ -1,10 +1,19 @@
 Color: full color
-Filename: BeepToy_ObjectChange_Instrument.yaml
+ElicitedSentenceDescription:
+- The woman is stiitng.
+- She has a yellow toy in her lap.
+- The toy looks like a bear.
+- She presses the top of the toy with a green pen.
+- The toy makes a noise when pressed.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Beep
 ItemCondition:
 - ObjectChange
 - Instrument
 ItemNo: 29
-Length: 10.0
+Length: lengthinseconds
+MovieFilename: BeepToy_ObjectChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent1
@@ -16,10 +25,5 @@ Participants:
 - ID: Green pen
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Beep
-VerboseDescription:
-- The woman is stiitng.
-- She has a yellow toy in her lap.
-- The toy looks like a bear.
-- She presses the top of the toy with a green pen.
-- The toy makes a noise when pressed.
+Size: TO ADD
+yamlFilename: BeepToy_ObjectChange_Instrument.yaml

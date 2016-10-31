@@ -1,10 +1,19 @@
 Color: full color
-Filename: BounceBall_Base_Instrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Bounce
 ItemCondition:
 - Base
 - Instrument
 ItemNo: 27
-Length: 26.0
+Length: lengthinseconds
+MovieFilename: BounceBall_Base_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent4
@@ -16,10 +25,5 @@ Participants:
 - ID: Striped frisbee
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Bounce
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: BounceBall_Base_Instrument.yaml

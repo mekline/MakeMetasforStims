@@ -1,10 +1,19 @@
 Color: full color
-Filename: TightenScrew_BackgroundChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- The man is sitting in front of a light blue wall.
+- The man twists a screw.
+- The blue screw tightens into the toolbox.
+- There is a blue toolbox on the table.
+- The toolbox has an orange object in it.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Tighten
 ItemCondition:
 - BackgroundChange
 - NoInstrument
 ItemNo: 21
-Length: 261.0
+Length: lengthinseconds
+MovieFilename: TightenScrew_BackgroundChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent5
@@ -13,10 +22,5 @@ Participants:
 - ID: Blue screw
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Tighten
-VerboseDescription:
-- The man is sitting in front of a light blue wall.
-- The man twists a screw.
-- The blue screw tightens into the toolbox.
-- There is a blue toolbox on the table.
-- The toolbox has an orange object in it.
+Size: TO ADD
+yamlFilename: TightenScrew_BackgroundChange_NoInstrument.yaml

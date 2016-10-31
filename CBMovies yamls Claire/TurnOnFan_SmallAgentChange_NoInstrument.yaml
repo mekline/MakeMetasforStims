@@ -1,10 +1,19 @@
 Color: full color
-Filename: TurnOnFan_SmallAgentChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- Repeat
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- TurnOn
 ItemCondition:
 - SmallAgentChange
 - NoInstrument
 ItemNo: 36
-Length: 305.0
+Length: lengthinseconds
+MovieFilename: TurnOnFan_SmallAgentChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent25
@@ -13,10 +22,5 @@ Participants:
 - ID: Orange fan with paper strips
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: TurnOn
-VerboseDescription:
-- Repeat
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: TurnOnFan_SmallAgentChange_NoInstrument.yaml

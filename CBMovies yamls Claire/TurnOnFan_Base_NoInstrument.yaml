@@ -1,10 +1,19 @@
 Color: full color
-Filename: TurnOnFan_Base_NoInstrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- TurnOn
 ItemCondition:
 - Base
 - NoInstrument
 ItemNo: 36
-Length: 300.0
+Length: lengthinseconds
+MovieFilename: TurnOnFan_Base_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent25
@@ -13,10 +22,5 @@ Participants:
 - ID: Orange fan with paper strips
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: TurnOn
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: TurnOnFan_Base_NoInstrument.yaml

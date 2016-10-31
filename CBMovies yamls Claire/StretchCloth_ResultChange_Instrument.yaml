@@ -1,10 +1,19 @@
 Color: full color
-Filename: StretchCloth_ResultChange_Instrument.yaml
+ElicitedSentenceDescription:
+- The woman is holding a black hanger.
+- The cloth is lenghtening.
+- The cloth fans out.
+- Repeat.
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Stretch
 ItemCondition:
 - ResultChange
 - Instrument
 ItemNo: 37
-Length: 242.0
+Length: lengthinseconds
+MovieFilename: StretchCloth_ResultChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent23
@@ -16,10 +25,5 @@ Participants:
 - ID: Black hanger
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Stretch
-VerboseDescription:
-- The woman is holding a black hanger.
-- The cloth is lenghtening.
-- The cloth fans out.
-- Repeat.
-- ''
+Size: TO ADD
+yamlFilename: StretchCloth_ResultChange_Instrument.yaml

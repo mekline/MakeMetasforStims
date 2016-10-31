@@ -1,10 +1,19 @@
 Color: full color
-Filename: TwistMobile_ResultChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Twist
 ItemCondition:
 - ResultChange
 - NoInstrument
 ItemNo: 31
-Length: 318.0
+Length: lengthinseconds
+MovieFilename: TwistMobile_ResultChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent9
@@ -13,10 +22,5 @@ Participants:
 - ID: Brown mobile with yellow crossed grey stars
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Twist
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: TwistMobile_ResultChange_NoInstrument.yaml

@@ -1,0 +1,23 @@
+Color: full color
+ElicitedSentenceDescription:
+- The blue right triangle scoots forward.
+- It stops under the middle of the bridge.
+- The triangle passes in front of the bridge.
+- ''
+IntendedSentenceDescription: To add - a single sentence.
+IntendedVerbDescription:
+- none
+ItemCondition:
+- Y
+- none
+- control3
+ItemNo: 136
+Length: lengthinseconds
+MovieFilename: none_control3_1.mp4
+NParticipants: 2
+Participants:
+- ID: '1'
+  Role: Agent
+  isAnimate: 1
+Size: TO ADD
+YamlFilename: none_control3_1.yaml

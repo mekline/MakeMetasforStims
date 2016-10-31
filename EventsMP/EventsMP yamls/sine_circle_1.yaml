@@ -1,0 +1,23 @@
+Color: full color
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: To add - a single sentence.
+IntendedVerbDescription:
+- sine
+ItemCondition:
+- W
+- sine
+- circle
+ItemNo: 40
+Length: lengthinseconds
+MovieFilename: sine_circle_1.mp4
+NParticipants: 2
+Participants:
+- ID: '1'
+  Role: Agent
+  isAnimate: 1
+Size: TO ADD
+YamlFilename: sine_circle_1.yaml

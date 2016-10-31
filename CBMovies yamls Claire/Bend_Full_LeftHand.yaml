@@ -1,10 +1,19 @@
 Color: full color
-Filename: Bend_Full_LeftHand.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Bend
 ItemCondition:
 - MannerChange
 - NoInstrument
 ItemNo: 1
-Length: 16.0
+Length: lengthinseconds
+MovieFilename: Bend_Full_LeftHand.mp4
 NParticipants: 2
 Participants:
 - ID: Agent3
@@ -13,10 +22,5 @@ Participants:
 - ID: Yellow bendy tube
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Bend
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: Bend_Full_LeftHand.yaml

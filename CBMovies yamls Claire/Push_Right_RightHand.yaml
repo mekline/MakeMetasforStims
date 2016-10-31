@@ -1,10 +1,19 @@
 Color: full color
-Filename: Push_Right_RightHand.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Push
 ItemCondition:
 - CounterbalanceMR
 - NoInstrument
 ItemNo: 5
-Length: 124.0
+Length: lengthinseconds
+MovieFilename: Push_Right_RightHand.mp4
 NParticipants: 2
 Participants:
 - ID: Agent2
@@ -13,10 +22,5 @@ Participants:
 - ID: Glass bottle
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Push
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: Push_Right_RightHand.yaml

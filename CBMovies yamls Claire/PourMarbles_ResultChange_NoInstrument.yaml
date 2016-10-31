@@ -1,10 +1,19 @@
 Color: full color
-Filename: PourMarbles_ResultChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- The woman is holding a cup with yellow marbles.
+- There is an empty jar on the table and a jar with yellow and green marbles.
+- The woman tips the cup with yellow marbles.
+- The marbles fall into the jar with marbles.
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Pour
 ItemCondition:
 - ResultChange
 - NoInstrument
 ItemNo: 30
-Length: 118.0
+Length: lengthinseconds
+MovieFilename: PourMarbles_ResultChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent2
@@ -13,10 +22,5 @@ Participants:
 - ID: Yellow marbles
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Pour
-VerboseDescription:
-- The woman is holding a cup with yellow marbles.
-- There is an empty jar on the table and a jar with yellow and green marbles.
-- The woman tips the cup with yellow marbles.
-- The marbles fall into the jar with marbles.
-- ''
+Size: TO ADD
+yamlFilename: PourMarbles_ResultChange_NoInstrument.yaml

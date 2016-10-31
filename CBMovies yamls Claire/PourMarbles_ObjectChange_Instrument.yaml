@@ -1,10 +1,19 @@
 Color: full color
-Filename: PourMarbles_ObjectChange_Instrument.yaml
+ElicitedSentenceDescription:
+- The woman is wearing a red shirt.
+- There are two clear jars on the table.
+- The woman is holding a cup with green marbles.
+- The woman uses a pen to pour the green marbles.
+- The green marbles fall into the empty jar.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Pour
 ItemCondition:
 - ObjectChange
 - Instrument
 ItemNo: 30
-Length: 115.0
+Length: lengthinseconds
+MovieFilename: PourMarbles_ObjectChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent2
@@ -16,10 +25,5 @@ Participants:
 - ID: Green and white pen
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Pour
-VerboseDescription:
-- The woman is wearing a red shirt.
-- There are two clear jars on the table.
-- The woman is holding a cup with green marbles.
-- The woman uses a pen to pour the green marbles.
-- The green marbles fall into the empty jar.
+Size: TO ADD
+yamlFilename: PourMarbles_ObjectChange_Instrument.yaml

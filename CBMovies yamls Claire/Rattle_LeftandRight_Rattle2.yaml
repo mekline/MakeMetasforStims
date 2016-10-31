@@ -1,10 +1,19 @@
 Color: full color
-Filename: Rattle_LeftandRight_Rattle2.yaml
+ElicitedSentenceDescription:
+- The woman is holding a blue ring-shaped rattle.
+- She shakes the rattle from side to side.
+- She holds the rattle vertically..
+- The woman is standing.
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Rattle
 ItemCondition:
 - MannerChange
 - NoInstrument
 ItemNo: 6
-Length: 126.0
+Length: lengthinseconds
+MovieFilename: Rattle_LeftandRight_Rattle2.mp4
 NParticipants: 2
 Participants:
 - ID: Agent6
@@ -13,10 +22,5 @@ Participants:
 - ID: Blue rattle
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Rattle
-VerboseDescription:
-- The woman is holding a blue ring-shaped rattle.
-- She shakes the rattle from side to side.
-- She holds the rattle vertically..
-- The woman is standing.
-- ''
+Size: TO ADD
+yamlFilename: Rattle_LeftandRight_Rattle2.yaml

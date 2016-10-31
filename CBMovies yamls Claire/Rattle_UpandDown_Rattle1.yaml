@@ -1,10 +1,19 @@
 Color: full color
-Filename: Rattle_UpandDown_Rattle1.yaml
+ElicitedSentenceDescription:
+- The woman is holding a blue ring-shaped rattle.
+- She moves her wrist up and down.
+- The rattle shakes up and down.
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Rattle
 ItemCondition:
 - ResultChange
 - NoInstrument
 ItemNo: 6
-Length: 127.0
+Length: lengthinseconds
+MovieFilename: Rattle_UpandDown_Rattle1.mp4
 NParticipants: 2
 Participants:
 - ID: Agent6
@@ -13,10 +22,5 @@ Participants:
 - ID: Blue rattle
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Rattle
-VerboseDescription:
-- The woman is holding a blue ring-shaped rattle.
-- She moves her wrist up and down.
-- The rattle shakes up and down.
-- ''
-- ''
+Size: TO ADD
+yamlFilename: Rattle_UpandDown_Rattle1.yaml

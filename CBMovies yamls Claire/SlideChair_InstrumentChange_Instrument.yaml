@@ -1,10 +1,19 @@
 Color: full color
-Filename: SlideChair_InstrumentChange_Instrument.yaml
+ElicitedSentenceDescription:
+- The chair rolls forward.
+- The man is holding a broom.
+- He pushes the chair with a broom.
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Slide
 ItemCondition:
 - InstrumentChange
 - Instrument
 ItemNo: 20
-Length: 179.0
+Length: lengthinseconds
+MovieFilename: SlideChair_InstrumentChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent24
@@ -16,10 +25,5 @@ Participants:
 - ID: Blue broom
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Slide
-VerboseDescription:
-- The chair rolls forward.
-- The man is holding a broom.
-- He pushes the chair with a broom.
-- ''
-- ''
+Size: TO ADD
+yamlFilename: SlideChair_InstrumentChange_Instrument.yaml

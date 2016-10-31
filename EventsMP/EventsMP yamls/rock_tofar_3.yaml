@@ -1,0 +1,23 @@
+Color: full color
+ElicitedSentenceDescription:
+- The pink circle scoots forward.
+- 'It rocks back and forth. '
+- It moves the the end of the bridge.
+- The circle passes in front of the brige.
+IntendedSentenceDescription: To add - a single sentence.
+IntendedVerbDescription:
+- rock
+ItemCondition:
+- W
+- rock
+- tofar
+ItemNo: 22
+Length: lengthinseconds
+MovieFilename: rock_tofar_3.mp4
+NParticipants: 2
+Participants:
+- ID: '3'
+  Role: Agent
+  isAnimate: 1
+Size: TO ADD
+YamlFilename: rock_tofar_3.yaml

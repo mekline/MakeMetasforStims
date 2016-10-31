@@ -1,10 +1,19 @@
 Color: full color
-Filename: TiltLamp_BigAgentChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- The man's shirt is blue.
+- He is holding onto a lamp.
+- He tilts the lamp away from himself.
+- The man is inside a kitchen area.
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Tilt
 ItemCondition:
 - BigAgentChange
 - NoInstrument
 ItemNo: 28
-Length: 273.0
+Length: lengthinseconds
+MovieFilename: TiltLamp_BigAgentChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent4
@@ -13,10 +22,5 @@ Participants:
 - ID: Lamp with upward facing lightbulb
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Tilt
-VerboseDescription:
-- The man's shirt is blue.
-- He is holding onto a lamp.
-- He tilts the lamp away from himself.
-- The man is inside a kitchen area.
-- ''
+Size: TO ADD
+yamlFilename: TiltLamp_BigAgentChange_NoInstrument.yaml

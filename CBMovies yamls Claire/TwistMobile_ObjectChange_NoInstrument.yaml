@@ -1,10 +1,19 @@
 Color: full color
-Filename: TwistMobile_ObjectChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- The woman pushes the mobile with her finger.
+- The mobile rotates.
+- The stars are grey.
+- There are three stars hanging from the mobile.
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Twist
 ItemCondition:
 - ObjectChange
 - NoInstrument
 ItemNo: 31
-Length: 316.0
+Length: lengthinseconds
+MovieFilename: TwistMobile_ObjectChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent9
@@ -13,10 +22,5 @@ Participants:
 - ID: Brown mobile with grey stars
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Twist
-VerboseDescription:
-- The woman pushes the mobile with her finger.
-- The mobile rotates.
-- The stars are grey.
-- There are three stars hanging from the mobile.
-- ''
+Size: TO ADD
+yamlFilename: TwistMobile_ObjectChange_NoInstrument.yaml

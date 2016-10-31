@@ -1,10 +1,19 @@
 Color: full color
-Filename: TiltLamp_BigAgentChange_Instrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Tilt
 ItemCondition:
 - BigAgentChange
 - Instrument
 ItemNo: 28
-Length: 272.0
+Length: lengthinseconds
+MovieFilename: TiltLamp_BigAgentChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent4
@@ -16,10 +25,5 @@ Participants:
 - ID: White and black striped pole
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Tilt
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: TiltLamp_BigAgentChange_Instrument.yaml

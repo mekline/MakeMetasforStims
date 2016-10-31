@@ -1,0 +1,23 @@
+Color: full color
+ElicitedSentenceDescription:
+- The yellow triangle hops forward.
+- The triangle passes in front of the bridge.
+- The triangle stops at the end of the bridge.
+- ''
+IntendedSentenceDescription: To add - a single sentence.
+IntendedVerbDescription:
+- none
+ItemCondition:
+- Z
+- none
+- control6
+ItemNo: 151
+Length: lengthinseconds
+MovieFilename: none_control6_7.mp4
+NParticipants: 2
+Participants:
+- ID: '7'
+  Role: Agent
+  isAnimate: 1
+Size: TO ADD
+YamlFilename: none_control6_7.yaml

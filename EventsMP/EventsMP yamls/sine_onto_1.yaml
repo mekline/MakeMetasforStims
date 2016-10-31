@@ -1,0 +1,23 @@
+Color: full color
+ElicitedSentenceDescription:
+- The yellow triangle moves through the air.
+- 'It rocks back and forth. '
+- It floats up to the top of the bridge.
+- ''
+IntendedSentenceDescription: To add - a single sentence.
+IntendedVerbDescription:
+- sine
+ItemCondition:
+- W
+- sine
+- onto
+ItemNo: 44
+Length: lengthinseconds
+MovieFilename: sine_onto_1.mp4
+NParticipants: 2
+Participants:
+- ID: '1'
+  Role: Agent
+  isAnimate: 1
+Size: TO ADD
+YamlFilename: sine_onto_1.yaml

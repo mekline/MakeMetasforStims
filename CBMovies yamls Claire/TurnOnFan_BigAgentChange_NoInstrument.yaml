@@ -1,10 +1,19 @@
 Color: full color
-Filename: TurnOnFan_BigAgentChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- The fan is black and orange.
+- The strips of paper are tied to the fan.
+- The woman turns the fan on.
+- The paper blows in the fan's wind.
+- The woman touches the fan.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- TurnOn
 ItemCondition:
 - BigAgentChange
 - NoInstrument
 ItemNo: 36
-Length: 301.0
+Length: lengthinseconds
+MovieFilename: TurnOnFan_BigAgentChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent23
@@ -13,10 +22,5 @@ Participants:
 - ID: Orange fan with paper strips
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: TurnOn
-VerboseDescription:
-- The fan is black and orange.
-- The strips of paper are tied to the fan.
-- The woman turns the fan on.
-- The paper blows in the fan's wind.
-- The woman touches the fan.
+Size: TO ADD
+yamlFilename: TurnOnFan_BigAgentChange_NoInstrument.yaml

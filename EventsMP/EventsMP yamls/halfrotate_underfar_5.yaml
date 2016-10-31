@@ -1,0 +1,23 @@
+Color: full color
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: To add - a single sentence.
+IntendedVerbDescription:
+- halfrotate
+ItemCondition:
+- X
+- halfrotate
+- underfar
+ItemNo: 77
+Length: lengthinseconds
+MovieFilename: halfrotate_underfar_5.mp4
+NParticipants: 2
+Participants:
+- ID: '5'
+  Role: Agent
+  isAnimate: 1
+Size: TO ADD
+YamlFilename: halfrotate_underfar_5.yaml

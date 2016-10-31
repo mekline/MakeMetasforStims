@@ -1,0 +1,23 @@
+Color: full color
+ElicitedSentenceDescription:
+- The pink circle flies through the air.
+- The cirlcle lands on top of the bridge.
+- The bridge is brown.
+- ''
+IntendedSentenceDescription: To add - a single sentence.
+IntendedVerbDescription:
+- vibrate
+ItemCondition:
+- X
+- vibrate
+- underfar
+ItemNo: 109
+Length: lengthinseconds
+MovieFilename: vibrate_underfar_5.mp4
+NParticipants: 2
+Participants:
+- ID: '5'
+  Role: Agent
+  isAnimate: 1
+Size: TO ADD
+YamlFilename: vibrate_underfar_5.yaml

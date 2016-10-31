@@ -1,10 +1,19 @@
 Color: full color
-Filename: Pop_Balloon.yaml
+ElicitedSentenceDescription:
+- The woman is writing with a pen.
+- There is a pink balloon on the bench.
+- The woman is stting on a bench.
+- The woman stops writing.
+- The woman pops the balloon with the pen.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Pop
 ItemCondition:
 - Base
 - Instrument
 ItemNo: 16
-Length: 105.0
+Length: lengthinseconds
+MovieFilename: Pop_Balloon.mp4
 NParticipants: 3
 Participants:
 - ID: Agent10
@@ -16,10 +25,5 @@ Participants:
 - ID: White pen
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Pop
-VerboseDescription:
-- The woman is writing with a pen.
-- There is a pink balloon on the bench.
-- The woman is stting on a bench.
-- The woman stops writing.
-- The woman pops the balloon with the pen.
+Size: TO ADD
+yamlFilename: Pop_Balloon.yaml

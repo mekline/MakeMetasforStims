@@ -1,10 +1,19 @@
 Color: full color
-Filename: Rotate_Below_toBlue.yaml
+ElicitedSentenceDescription:
+- The bottle is white and blue.
+- The man is rotating the bottle.
+- The bottle color changes.
+- The man is wearing a baby blue shirt.
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Rotate
 ItemCondition:
 - CounterbalanceMR
 - NoInstrument
 ItemNo: 9
-Length: 154.0
+Length: lengthinseconds
+MovieFilename: Rotate_Below_toBlue.mp4
 NParticipants: 2
 Participants:
 - ID: Agent3
@@ -13,10 +22,5 @@ Participants:
 - ID: Half white half blue bottle
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Rotate
-VerboseDescription:
-- The bottle is white and blue.
-- The man is rotating the bottle.
-- The bottle color changes.
-- The man is wearing a baby blue shirt.
-- ''
+Size: TO ADD
+yamlFilename: Rotate_Below_toBlue.yaml

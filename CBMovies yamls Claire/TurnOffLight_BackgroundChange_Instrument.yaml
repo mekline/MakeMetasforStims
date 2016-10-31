@@ -1,10 +1,19 @@
 Color: full color
-Filename: TurnOffLight_BackgroundChange_Instrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- TurnOff
 ItemCondition:
 - BackgroundChange
 - Instrument
 ItemNo: 35
-Length: 284.0
+Length: lengthinseconds
+MovieFilename: TurnOffLight_BackgroundChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent23
@@ -16,10 +25,5 @@ Participants:
 - ID: Stack of books
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: TurnOff
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: TurnOffLight_BackgroundChange_Instrument.yaml

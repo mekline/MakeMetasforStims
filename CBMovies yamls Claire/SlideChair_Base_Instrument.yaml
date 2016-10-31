@@ -1,10 +1,19 @@
 Color: full color
-Filename: SlideChair_Base_Instrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Slide
 ItemCondition:
 - Base
 - Instrument
 ItemNo: 20
-Length: 175.0
+Length: lengthinseconds
+MovieFilename: SlideChair_Base_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent24
@@ -16,10 +25,5 @@ Participants:
 - ID: Purple broom
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Slide
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: SlideChair_Base_Instrument.yaml

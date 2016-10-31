@@ -1,10 +1,19 @@
 Color: full color
-Filename: StandUpGiraffe_ResultChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- Repeat.
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Stand
 ItemCondition:
 - ResultChange
 - NoInstrument
 ItemNo: 23
-Length: 223.0
+Length: lengthinseconds
+MovieFilename: StandUpGiraffe_ResultChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent22
@@ -13,10 +22,5 @@ Participants:
 - ID: Stuffed giraffe with brown blanket
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Stand
-VerboseDescription:
-- Repeat.
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: StandUpGiraffe_ResultChange_NoInstrument.yaml

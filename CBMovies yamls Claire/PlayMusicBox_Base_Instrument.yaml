@@ -1,10 +1,19 @@
 Color: full color
-Filename: PlayMusicBox_Base_Instrument.yaml
+ElicitedSentenceDescription:
+- The box is yellow and orange.
+- The box rings.
+- There is a silver crank on the top of the box.
+- The woman turns the crank.
+- The woman is sitting.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Play
 ItemCondition:
 - Base
 - Instrument
 ItemNo: 25
-Length: 92.0
+Length: lengthinseconds
+MovieFilename: PlayMusicBox_Base_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent2
@@ -16,10 +25,5 @@ Participants:
 - ID: Silver crank
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Play
-VerboseDescription:
-- The box is yellow and orange.
-- The box rings.
-- There is a silver crank on the top of the box.
-- The woman turns the crank.
-- The woman is sitting.
+Size: TO ADD
+yamlFilename: PlayMusicBox_Base_Instrument.yaml

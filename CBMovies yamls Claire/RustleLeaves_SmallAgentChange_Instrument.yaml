@@ -1,10 +1,19 @@
 Color: full color
-Filename: RustleLeaves_SmallAgentChange_Instrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Rustle
 ItemCondition:
 - SmallAgentChange
 - Instrument
 ItemNo: 34
-Length: 171.0
+Length: lengthinseconds
+MovieFilename: RustleLeaves_SmallAgentChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent17
@@ -16,10 +25,5 @@ Participants:
 - ID: Green rake
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Rustle
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: RustleLeaves_SmallAgentChange_Instrument.yaml

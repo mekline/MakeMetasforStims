@@ -1,10 +1,19 @@
 Color: full color
-Filename: TurnOffLight_BigAgentChange_Instrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- TurnOff
 ItemCondition:
 - BigAgentChange
 - Instrument
 ItemNo: 35
-Length: 288.0
+Length: lengthinseconds
+MovieFilename: TurnOffLight_BigAgentChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent25
@@ -16,10 +25,5 @@ Participants:
 - ID: Stack of books
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: TurnOff
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: TurnOffLight_BigAgentChange_Instrument.yaml

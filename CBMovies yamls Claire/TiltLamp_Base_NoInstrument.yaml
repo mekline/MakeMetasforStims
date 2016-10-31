@@ -1,10 +1,19 @@
 Color: full color
-Filename: TiltLamp_Base_NoInstrument.yaml
+ElicitedSentenceDescription:
+- Repeat
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Tilt
 ItemCondition:
 - Base
 - NoInstrument
 ItemNo: 28
-Length: 271.0
+Length: lengthinseconds
+MovieFilename: TiltLamp_Base_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent5
@@ -13,10 +22,5 @@ Participants:
 - ID: Lamp with upward facing lightbulb
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Tilt
-VerboseDescription:
-- Repeat
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: TiltLamp_Base_NoInstrument.yaml

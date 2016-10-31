@@ -1,0 +1,23 @@
+Color: full color
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: To add - a single sentence.
+IntendedVerbDescription:
+- stopstart
+ItemCondition:
+- X
+- stopstart
+- underfar
+ItemNo: 126
+Length: lengthinseconds
+MovieFilename: stopstart_underfar_6.mp4
+NParticipants: 2
+Participants:
+- ID: '6'
+  Role: Agent
+  isAnimate: 1
+Size: TO ADD
+YamlFilename: stopstart_underfar_6.yaml

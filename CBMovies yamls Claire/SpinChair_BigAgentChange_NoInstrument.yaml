@@ -1,10 +1,19 @@
 Color: full color
-Filename: SpinChair_BigAgentChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- Repeat
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Spin
 ItemCondition:
 - BigAgentChange
 - NoInstrument
 ItemNo: 24
-Length: 201.0
+Length: lengthinseconds
+MovieFilename: SpinChair_BigAgentChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent2
@@ -13,10 +22,5 @@ Participants:
 - ID: Five wheel black chair
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Spin
-VerboseDescription:
-- Repeat
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: SpinChair_BigAgentChange_NoInstrument.yaml

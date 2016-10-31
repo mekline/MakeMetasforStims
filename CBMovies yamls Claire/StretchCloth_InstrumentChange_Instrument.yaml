@@ -1,10 +1,19 @@
 Color: full color
-Filename: StretchCloth_InstrumentChange_Instrument.yaml
+ElicitedSentenceDescription:
+- The cloth is on a hanger.
+- The hanger is clear.
+- The woman stretches the cloth.
+- The woman is holding the hanger.
+- She stretches the cloth diagonally
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Stretch
 ItemCondition:
 - InstrumentChange
 - Instrument
 ItemNo: 37
-Length: 237.0
+Length: lengthinseconds
+MovieFilename: StretchCloth_InstrumentChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent23
@@ -16,10 +25,5 @@ Participants:
 - ID: White hanger
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Stretch
-VerboseDescription:
-- The cloth is on a hanger.
-- The hanger is clear.
-- The woman stretches the cloth.
-- The woman is holding the hanger.
-- She stretches the cloth diagonally
+Size: TO ADD
+yamlFilename: StretchCloth_InstrumentChange_Instrument.yaml

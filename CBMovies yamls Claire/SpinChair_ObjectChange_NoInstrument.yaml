@@ -1,10 +1,19 @@
 Color: full color
-Filename: SpinChair_ObjectChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Spin
 ItemCondition:
 - ObjectChange
 - NoInstrument
 ItemNo: 24
-Length: 206.0
+Length: lengthinseconds
+MovieFilename: SpinChair_ObjectChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent19
@@ -13,10 +22,5 @@ Participants:
 - ID: Blue chair
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Spin
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: SpinChair_ObjectChange_NoInstrument.yaml

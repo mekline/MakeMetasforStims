@@ -1,10 +1,19 @@
 Color: full color
-Filename: BeepToy_BackgroundChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- The woman presses the toy with her pointer finger.
+- The toy buzzes.
+- The toy is multicolored.
+- The woman is sitting.
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Beep
 ItemCondition:
 - BackgroundChange
 - NoInstrument
 ItemNo: 29
-Length: 2.0
+Length: lengthinseconds
+MovieFilename: BeepToy_BackgroundChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent1
@@ -13,10 +22,5 @@ Participants:
 - ID: Yellow star toy
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Beep
-VerboseDescription:
-- The woman presses the toy with her pointer finger.
-- The toy buzzes.
-- The toy is multicolored.
-- The woman is sitting.
-- ''
+Size: TO ADD
+yamlFilename: BeepToy_BackgroundChange_NoInstrument.yaml

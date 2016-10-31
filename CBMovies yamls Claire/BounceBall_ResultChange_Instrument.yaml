@@ -1,10 +1,19 @@
 Color: full color
-Filename: BounceBall_ResultChange_Instrument.yaml
+ElicitedSentenceDescription:
+- The man is holding a red striped frisbee.
+- The man is holding a clear ball.
+- There is a book on the table.
+- He hits the ball with the frisbee.
+- The ball bounces off the book.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Bounce
 ItemCondition:
 - ResultChange
 - Instrument
 ItemNo: 27
-Length: 35.0
+Length: lengthinseconds
+MovieFilename: BounceBall_ResultChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent4
@@ -16,10 +25,5 @@ Participants:
 - ID: Striped frisbee
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Bounce
-VerboseDescription:
-- The man is holding a red striped frisbee.
-- The man is holding a clear ball.
-- There is a book on the table.
-- He hits the ball with the frisbee.
-- The ball bounces off the book.
+Size: TO ADD
+yamlFilename: BounceBall_ResultChange_Instrument.yaml

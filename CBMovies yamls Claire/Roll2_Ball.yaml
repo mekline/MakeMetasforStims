@@ -1,10 +1,19 @@
 Color: full color
-Filename: Roll2_Ball.yaml
+ElicitedSentenceDescription:
+- 'The beach ball is resting on a towel. '
+- The man is kneeling in front of the towel.
+- He lifts the edges of the towel with his hands.
+- The towel is pulled out from under the beach ball.
+- The ball rolls forward.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Roll2
 ItemCondition:
 - Base
 - NoInstrument
 ItemNo: 13
-Length: 138.0
+Length: lengthinseconds
+MovieFilename: Roll2_Ball.mp4
 NParticipants: 2
 Participants:
 - ID: Agent5
@@ -13,10 +22,5 @@ Participants:
 - ID: Mini beach ball
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Roll2
-VerboseDescription:
-- 'The beach ball is resting on a towel. '
-- The man is kneeling in front of the towel.
-- He lifts the edges of the towel with his hands.
-- The towel is pulled out from under the beach ball.
-- The ball rolls forward.
+Size: TO ADD
+yamlFilename: Roll2_Ball.yaml

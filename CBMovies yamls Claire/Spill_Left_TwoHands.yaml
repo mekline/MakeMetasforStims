@@ -1,10 +1,19 @@
 Color: full color
-Filename: Spill_Left_TwoHands.yaml
+ElicitedSentenceDescription:
+- The cup has white marbles.
+- The marbles roll onto the table.
+- The woman is holding a clear cup in her hands.
+- The woman tips the cup.
+- The woman is sitting at a table.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Spill
 ItemCondition:
 - MannerChange
 - NoInstrument
 ItemNo: 10
-Length: 189.0
+Length: lengthinseconds
+MovieFilename: Spill_Left_TwoHands.mp4
 NParticipants: 2
 Participants:
 - ID: Agent2
@@ -13,10 +22,5 @@ Participants:
 - ID: White marbles
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Spill
-VerboseDescription:
-- The cup has white marbles.
-- The marbles roll onto the table.
-- The woman is holding a clear cup in her hands.
-- The woman tips the cup.
-- The woman is sitting at a table.
+Size: TO ADD
+yamlFilename: Spill_Left_TwoHands.yaml

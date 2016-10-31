@@ -1,10 +1,19 @@
 Color: full color
-Filename: Rattle_LeftandRight_Rattle1.yaml
+ElicitedSentenceDescription:
+- The woman is holding a blue ring.
+- She moves the ring from side to side.
+- The ring ratttles.
+- The woman is standing.
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Rattle
 ItemCondition:
 - CounterbalanceMR
 - NoInstrument
 ItemNo: 6
-Length: 125.0
+Length: lengthinseconds
+MovieFilename: Rattle_LeftandRight_Rattle1.mp4
 NParticipants: 2
 Participants:
 - ID: Agent6
@@ -13,10 +22,5 @@ Participants:
 - ID: Blue rattle
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Rattle
-VerboseDescription:
-- The woman is holding a blue ring.
-- She moves the ring from side to side.
-- The ring ratttles.
-- The woman is standing.
-- ''
+Size: TO ADD
+yamlFilename: Rattle_LeftandRight_Rattle1.yaml

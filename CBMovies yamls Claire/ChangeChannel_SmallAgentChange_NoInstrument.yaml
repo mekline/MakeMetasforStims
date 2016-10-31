@@ -1,10 +1,19 @@
 Color: full color
-Filename: ChangeChannel_SmallAgentChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- Repeat.
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Change
 ItemCondition:
 - SmallAgentChange
 - NoInstrument
 ItemNo: 32
-Length: 48.0
+Length: lengthinseconds
+MovieFilename: ChangeChannel_SmallAgentChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent8
@@ -13,10 +22,5 @@ Participants:
 - ID: Black computer
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Change
-VerboseDescription:
-- Repeat.
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: ChangeChannel_SmallAgentChange_NoInstrument.yaml

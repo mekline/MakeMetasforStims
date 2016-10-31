@@ -1,10 +1,19 @@
 Color: full color
-Filename: Drop_Sofa_TwoHands.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Drop
 ItemCondition:
 - CounterbalanceMR
 - NoInstrument
 ItemNo: 4
-Length: 57.0
+Length: lengthinseconds
+MovieFilename: Drop_Sofa_TwoHands.mp4
 NParticipants: 2
 Participants:
 - ID: Agent13
@@ -13,10 +22,5 @@ Participants:
 - ID: Red bag
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Drop
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: Drop_Sofa_TwoHands.yaml

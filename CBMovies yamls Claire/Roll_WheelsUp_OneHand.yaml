@@ -1,10 +1,19 @@
 Color: full color
-Filename: Roll_WheelsUp_OneHand.yaml
+ElicitedSentenceDescription:
+- The truck rolls on its back wheels.
+- The woman pushes the truck forward.
+- The woman is sitting at a table.
+- She pushes the truck away from herself.
+- She extends her arm.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Roll
 ItemCondition:
 - MannerChange
 - NoInstrument
 ItemNo: 8
-Length: 135.0
+Length: lengthinseconds
+MovieFilename: Roll_WheelsUp_OneHand.mp4
 NParticipants: 2
 Participants:
 - ID: Agent6
@@ -13,10 +22,5 @@ Participants:
 - ID: Yellow wheeled truck
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Roll
-VerboseDescription:
-- The truck rolls on its back wheels.
-- The woman pushes the truck forward.
-- The woman is sitting at a table.
-- She pushes the truck away from herself.
-- She extends her arm.
+Size: TO ADD
+yamlFilename: Roll_WheelsUp_OneHand.yaml

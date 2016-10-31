@@ -1,10 +1,19 @@
 Color: full color
-Filename: RollTruck_ObjectChange_Instrument.yaml
+ElicitedSentenceDescription:
+- The man pushes the chair forward.
+- The chair rolls away from the man.
+- He is standing.
+- The man uses one arm to push the chair.
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Roll
 ItemCondition:
 - ObjectChange
 - Instrument
 ItemNo: 22
-Length: 148.0
+Length: lengthinseconds
+MovieFilename: RollTruck_ObjectChange_Instrument.mp4
 NParticipants: 3
 Participants:
 - ID: Agent21
@@ -16,10 +25,5 @@ Participants:
 - ID: Orange plank
   Role: Instrument
   isAnimate: 0
-PrimaryVerbDescription: Roll
-VerboseDescription:
-- The man pushes the chair forward.
-- The chair rolls away from the man.
-- He is standing.
-- The man uses one arm to push the chair.
-- ''
+Size: TO ADD
+yamlFilename: RollTruck_ObjectChange_Instrument.yaml

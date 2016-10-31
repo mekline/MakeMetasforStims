@@ -1,10 +1,19 @@
 Color: full color
-Filename: TurnOnFan_BackgroundChange_NoInstrument.yaml
+ElicitedSentenceDescription:
+- The fan is black and orange.
+- The strips of paper are tied to the fan.
+- The woman touches the fan to turn it on.
+- The fan turns on.
+- The strips of paper blow in the fan's wind.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- TurnOn
 ItemCondition:
 - BackgroundChange
 - NoInstrument
 ItemNo: 36
-Length: 299.0
+Length: lengthinseconds
+MovieFilename: TurnOnFan_BackgroundChange_NoInstrument.mp4
 NParticipants: 2
 Participants:
 - ID: Agent25
@@ -13,10 +22,5 @@ Participants:
 - ID: Orange fan with paper strips
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: TurnOn
-VerboseDescription:
-- The fan is black and orange.
-- The strips of paper are tied to the fan.
-- The woman touches the fan to turn it on.
-- The fan turns on.
-- The strips of paper blow in the fan's wind.
+Size: TO ADD
+yamlFilename: TurnOnFan_BackgroundChange_NoInstrument.yaml

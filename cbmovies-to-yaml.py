@@ -9,52 +9,44 @@ in_file  = open('CBMovies_longform.csv', "rU")
 movie_items = []
 audio_items = []
 
+#Complete dictionary
 def convert_to_yaml(line, counter):
     itemNo = int(line[1])
-    primaryVerbDescription = line[4]
-    #primarySentenceDescription = line[13]
-    #secondarySentenceDescription = line[14]
-    #thirdSentenceDescription = line[15]
-    #fourthSentenceDescription = line[16]
-    #fifthSentenceDescription = line[17]
-    verboseDescription = [line[13], line[14], line[15], line[16], line[17]]
-    
+    intendedVerbDescription = [line[4]]
+    intendedSentenceDescription = 'not given'
+    elicitedSentenceDescription = [line[13], line[14], line[15], line[16], line[17]]
     agent = line[6]
     patient = line[8]
     instrument = line[7]
     yamlfilename = line[5].split('.')[0] + '.yaml'
-    #make consistant
-    filename = line[5]
-    #add regular filename
+    moviefilename = line[5]
     changecondition = line[2]
     instrumentcondition = line[3]
     
 
-    print(filename)
+    print(yamlfilename)
 
     try:
-        movielength = float(line[12])
+        movielength = 'lengthinseconds'
     except ValueError:
         movielength = 'not specified'
     size = [0,0] #The sizes for the movies are undefined right now...
    
-
+#print out into yaml
     movie_item = {}
     movie_item = {
         'ItemNo':itemNo,
         'ItemCondition': [changecondition, instrumentcondition],
         'Length':movielength,
-        #'Size': 'TO ADD',
+        'Size': 'TO ADD',
         'Color':'full color',
-        'PrimaryVerbDescription':primaryVerbDescription,
-        #'PrimarySentenceDescription':primarySentenceDescription,
-        #'SecondarySentenceDescription':secondarySentenceDescription,
-        #'ThirdSentenceDescription':thirdSentenceDescription,
-        #'FourthSentenceDescription':fourthSentenceDescription,
-        #'FifthSentenceDescription':fifthSentenceDescription,
-        'VerboseDescription': verboseDescription
-    }
+        'MovieFilename':moviefilename,
+        'ElicitedSentenceDescription': elicitedSentenceDescription,
+        'IntendedSentenceDescription':intendedSentenceDescription,
+        'IntendedVerbDescription': intendedVerbDescription
 
+    }
+#conditional sorting statements
     if instrumentcondition == 'Instrument':
         movie_item['NParticipants'] = 3
         movie_item['Participants'] = [{'ID':agent,'Role':'Agent','isAnimate':1},
@@ -67,8 +59,7 @@ def convert_to_yaml(line, counter):
         {'ID':patient,'Role':'Patient','isAnimate':0}]
 
 
-    movie_item.update({'Filename': yamlfilename})
-    #changed to yamlfilename
+    movie_item.update({'yamlFilename': yamlfilename})
     movie_items.append(movie_item)
 
 #end of function definition
@@ -84,8 +75,8 @@ try:
 
     #Read out movie files
     for mi in movie_items:
-        if(mi['Filename']):
-            out_file = open('CBMovies yamls Claire/' + mi['Filename'], "w")
+        if(mi['yamlFilename']):
+            out_file = open('CBMovies yamls Claire/' + mi['yamlFilename'], "w")
             out_file.write( yaml.dump(mi, default_flow_style=False, allow_unicode=True) )
             out_file.close()
 

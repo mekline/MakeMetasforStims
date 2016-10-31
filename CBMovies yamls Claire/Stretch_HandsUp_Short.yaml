@@ -1,10 +1,19 @@
 Color: full color
-Filename: Stretch_HandsUp_Short.yaml
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Stretch
 ItemCondition:
 - MannerChange
 - NoInstrument
 ItemNo: 12
-Length: 230.0
+Length: lengthinseconds
+MovieFilename: Stretch_HandsUp_Short.mp4
 NParticipants: 2
 Participants:
 - ID: Agent11
@@ -13,10 +22,5 @@ Participants:
 - ID: Blue bendy tube
   Role: Patient
   isAnimate: 0
-PrimaryVerbDescription: Stretch
-VerboseDescription:
-- ''
-- ''
-- ''
-- ''
-- ''
+Size: TO ADD
+yamlFilename: Stretch_HandsUp_Short.yaml
