@@ -14,7 +14,7 @@ ItemCondition:
 ItemNo: 118
 Length: lengthinseconds
 MovieFilename: stopstart_under_6.mp4
-NParticipants: 2
+NParticipants: 1
 Participants:
 - ID: '6'
   Role: Agent

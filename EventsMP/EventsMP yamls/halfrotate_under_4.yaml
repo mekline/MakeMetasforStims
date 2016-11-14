@@ -14,7 +14,7 @@ ItemCondition:
 ItemNo: 68
 Length: lengthinseconds
 MovieFilename: halfrotate_under_4.mp4
-NParticipants: 2
+NParticipants: 1
 Participants:
 - ID: '4'
   Role: Agent

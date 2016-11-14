@@ -14,7 +14,7 @@ ItemCondition:
 ItemNo: 8
 Length: lengthinseconds
 MovieFilename: rotate_circle_1.mp4
-NParticipants: 2
+NParticipants: 1
 Participants:
 - ID: '1'
   Role: Agent

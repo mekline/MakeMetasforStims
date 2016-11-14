@@ -14,7 +14,7 @@ ItemCondition:
 ItemNo: 91
 Length: lengthinseconds
 MovieFilename: bounce_behind_7.mp4
-NParticipants: 2
+NParticipants: 1
 Participants:
 - ID: '7'
   Role: Agent

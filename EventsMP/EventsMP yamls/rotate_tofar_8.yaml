@@ -14,7 +14,7 @@ ItemCondition:
 ItemNo: 7
 Length: lengthinseconds
 MovieFilename: rotate_tofar_8.mp4
-NParticipants: 2
+NParticipants: 1
 Participants:
 - ID: '8'
   Role: Agent

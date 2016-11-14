@@ -14,7 +14,7 @@ ItemCondition:
 ItemNo: 147
 Length: lengthinseconds
 MovieFilename: none_control5_7.mp4
-NParticipants: 2
+NParticipants: 1
 Participants:
 - ID: '7'
   Role: Agent

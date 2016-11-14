@@ -14,7 +14,7 @@ ItemCondition:
 ItemNo: 2
 Length: lengthinseconds
 MovieFilename: rotate_to_3.mp4
-NParticipants: 2
+NParticipants: 1
 Participants:
 - ID: '3'
   Role: Agent

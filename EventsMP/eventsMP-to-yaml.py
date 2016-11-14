@@ -38,7 +38,7 @@ def convert_to_yaml(line, counter):
         'IntendedVerbDescription':intendedVerbDescription,
 
         #sorting statements
-        'NParticipants': 2,
+        'NParticipants': 1,
         'Participants': [{'ID':line[3],'Role':'Agent','isAnimate':1}]
 
     }

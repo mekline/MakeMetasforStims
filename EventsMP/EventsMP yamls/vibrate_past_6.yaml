@@ -14,7 +14,7 @@ ItemCondition:
 ItemNo: 98
 Length: lengthinseconds
 MovieFilename: vibrate_past_6.mp4
-NParticipants: 2
+NParticipants: 1
 Participants:
 - ID: '6'
   Role: Agent

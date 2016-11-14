@@ -14,7 +14,7 @@ ItemCondition:
 ItemNo: 19
 Length: lengthinseconds
 MovieFilename: rock_to_8.mp4
-NParticipants: 2
+NParticipants: 1
 Participants:
 - ID: '8'
   Role: Agent

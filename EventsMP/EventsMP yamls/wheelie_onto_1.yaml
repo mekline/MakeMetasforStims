@@ -14,7 +14,7 @@ ItemCondition:
 ItemNo: 60
 Length: lengthinseconds
 MovieFilename: wheelie_onto_1.mp4
-NParticipants: 2
+NParticipants: 1
 Participants:
 - ID: '1'
   Role: Agent

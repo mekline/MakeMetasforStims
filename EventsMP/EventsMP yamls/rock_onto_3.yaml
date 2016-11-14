@@ -14,7 +14,7 @@ ItemCondition:
 ItemNo: 30
 Length: lengthinseconds
 MovieFilename: rock_onto_3.mp4
-NParticipants: 2
+NParticipants: 1
 Participants:
 - ID: '3'
   Role: Agent

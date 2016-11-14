@@ -14,7 +14,7 @@ ItemCondition:
 ItemNo: 126
 Length: lengthinseconds
 MovieFilename: stopstart_underfar_6.mp4
-NParticipants: 2
+NParticipants: 1
 Participants:
 - ID: '6'
   Role: Agent

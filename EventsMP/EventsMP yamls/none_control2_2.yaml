@@ -14,7 +14,7 @@ ItemCondition:
 ItemNo: 133
 Length: lengthinseconds
 MovieFilename: none_control2_2.mp4
-NParticipants: 2
+NParticipants: 1
 Participants:
 - ID: '2'
   Role: Agent

@@ -14,7 +14,7 @@ ItemCondition:
 ItemNo: 32
 Length: lengthinseconds
 MovieFilename: sine_to_1.mp4
-NParticipants: 2
+NParticipants: 1
 Participants:
 - ID: '1'
   Role: Agent

@@ -14,7 +14,7 @@ ItemCondition:
 ItemNo: 45
 Length: lengthinseconds
 MovieFilename: sine_onto_2.mp4
-NParticipants: 2
+NParticipants: 1
 Participants:
 - ID: '2'
   Role: Agent
