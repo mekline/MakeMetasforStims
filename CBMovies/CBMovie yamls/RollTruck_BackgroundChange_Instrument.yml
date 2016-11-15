@@ -1,0 +1,24 @@
+Color: full color
+Filename: RollTruck_BackgroundChange_Instrument.yml
+ItemCondition:
+- BackgroundChange
+- Instrument
+ItemNo: 22
+Length: not specified
+NParticipants: 3
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+- ID: addUniqueID
+  Role: Instrument
+  isAnimate: 0
+PrimarySentenceDescription: The boy made the truck roll
+PrimaryVerbDescription: Roll
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

@@ -1,0 +1,29 @@
+Color: full color
+ElicitedSentenceDescription:
+- The man is holding a black and white stiped pole.
+- The man extends the pole outwards.
+- The pole tips the lamp.
+- The lamp leans forward.
+- The man pushes the lamp away from himself.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Tilt
+ItemCondition:
+- SmallAgentChange
+- Instrument
+ItemNo: 28
+Length: lengthinseconds
+MovieFilename: TiltLamp_SmallAgentChange_Instrument.mp4
+NParticipants: 3
+Participants:
+- ID: Agent5
+  Role: Agent
+  isAnimate: 1
+- ID: Lamp with upward facing lightbulb
+  Role: Patient
+  isAnimate: 0
+- ID: White and black striped pole
+  Role: Instrument
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: TiltLamp_SmallAgentChange_Instrument.yaml

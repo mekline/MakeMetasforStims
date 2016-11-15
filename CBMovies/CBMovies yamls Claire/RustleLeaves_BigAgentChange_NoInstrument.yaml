@@ -1,0 +1,26 @@
+Color: full color
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Rustle
+ItemCondition:
+- BigAgentChange
+- NoInstrument
+ItemNo: 34
+Length: lengthinseconds
+MovieFilename: RustleLeaves_BigAgentChange_NoInstrument.mp4
+NParticipants: 2
+Participants:
+- ID: Agent2
+  Role: Agent
+  isAnimate: 1
+- ID: Pile of brown leaves
+  Role: Patient
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: RustleLeaves_BigAgentChange_NoInstrument.yaml

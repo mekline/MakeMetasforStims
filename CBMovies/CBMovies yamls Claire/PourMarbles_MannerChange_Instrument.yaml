@@ -1,0 +1,29 @@
+Color: full color
+ElicitedSentenceDescription:
+- Repeat.
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Pour
+ItemCondition:
+- MannerChange
+- Instrument
+ItemNo: 30
+Length: lengthinseconds
+MovieFilename: PourMarbles_MannerChange_Instrument.mp4
+NParticipants: 3
+Participants:
+- ID: Agent2
+  Role: Agent
+  isAnimate: 1
+- ID: Yellow marbles
+  Role: Patient
+  isAnimate: 0
+- ID: Green and white pen
+  Role: Instrument
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: PourMarbles_MannerChange_Instrument.yaml

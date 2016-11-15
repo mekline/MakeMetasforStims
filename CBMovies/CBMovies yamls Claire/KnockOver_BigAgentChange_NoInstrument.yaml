@@ -1,0 +1,26 @@
+Color: full color
+ElicitedSentenceDescription:
+- The man is standing in front of a table.
+- The pink cylander block on top of the pink triangle block.
+- The man pushes the bricks over with his finger.
+- The bricks fall together.
+- The cylander and traingle blocks are connected.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Knock
+ItemCondition:
+- BigAgentChange
+- NoInstrument
+ItemNo: 19
+Length: lengthinseconds
+MovieFilename: KnockOver_BigAgentChange_NoInstrument.mp4
+NParticipants: 2
+Participants:
+- ID: Agent5
+  Role: Agent
+  isAnimate: 1
+- ID: Pink block
+  Role: Patient
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: KnockOver_BigAgentChange_NoInstrument.yaml

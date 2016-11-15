@@ -1,0 +1,29 @@
+Color: full color
+ElicitedSentenceDescription:
+- The man is holding a striped pole.
+- His palm is facing away from his body.
+- His elbow is bent.
+- He extends th pole outwards
+- The pole tilts the lamp.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Tilt
+ItemCondition:
+- MannerChange
+- Instrument
+ItemNo: 28
+Length: lengthinseconds
+MovieFilename: TiltLamp_MannerChange_Instrument.mp4
+NParticipants: 3
+Participants:
+- ID: Agent5
+  Role: Agent
+  isAnimate: 1
+- ID: Lamp with upward facing lightbulb
+  Role: Patient
+  isAnimate: 0
+- ID: White and black striped pole
+  Role: Instrument
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: TiltLamp_MannerChange_Instrument.yaml

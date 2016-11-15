@@ -1,0 +1,29 @@
+Agent: Pop_Balloon.mp4
+Color: full color
+FifthSentenceDescription: The woman stops writing.
+Filename: Pop.yaml
+FourthSentenceDescription: The woman is stting on a bench.
+ItemCondition:
+- Base
+- White pen
+ItemNo: 16
+Length: 105.0
+NParticipants: 2
+Participants:
+- Agent: Pop_Balloon.mp4
+  ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Patient: White pen
+  Role: Patient
+  isAnimate: 0
+Patient: White pen
+PrimarySentenceDescription: '105'
+PrimaryVerbDescription: Pop
+SecondarySentenceDescription: The woman is writing with a pen.
+Size: TO ADD
+ThirdSentenceDescription: There is a pink balloon on the bench.
+VerboseDescription:
+- TO ADD
+- Multiple items

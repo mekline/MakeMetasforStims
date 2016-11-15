@@ -1,0 +1,29 @@
+Color: full color
+ElicitedSentenceDescription:
+- Repeat
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Spin
+ItemCondition:
+- InstrumentChange
+- Instrument
+ItemNo: 24
+Length: lengthinseconds
+MovieFilename: SpinChair_InstrumentChange_Instrument.mp4
+NParticipants: 3
+Participants:
+- ID: Agent19
+  Role: Agent
+  isAnimate: 1
+- ID: Five wheel black chair
+  Role: Patient
+  isAnimate: 0
+- ID: SIlver tongs
+  Role: Instrument
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: SpinChair_InstrumentChange_Instrument.yaml

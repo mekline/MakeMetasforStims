@@ -1,0 +1,26 @@
+Color: full color
+ElicitedSentenceDescription:
+- The woman is watching videos.
+- The computer screen is playing videos.
+- The woman presses a button on the screen.
+- The video changes.
+- The computer screen's edges are white.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Change
+ItemCondition:
+- ObjectChange
+- NoInstrument
+ItemNo: 32
+Length: lengthinseconds
+MovieFilename: ChangeChannel_ObjectChange_NoInstrument.mp4
+NParticipants: 2
+Participants:
+- ID: Agent8
+  Role: Agent
+  isAnimate: 1
+- ID: White computer
+  Role: Patient
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: ChangeChannel_ObjectChange_NoInstrument.yaml

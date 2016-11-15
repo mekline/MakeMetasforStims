@@ -1,0 +1,26 @@
+Color: full color
+ElicitedSentenceDescription:
+- The woman sits down.
+- The box is covered with yellow cloth.
+- The train moves in a circle.
+- The woman presses down on a pedal.
+- The box lights up.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Start
+ItemCondition:
+- Base
+- NoInstrument
+ItemNo: 17
+Length: lengthinseconds
+MovieFilename: Start_StateChangeBox.mp4
+NParticipants: 2
+Participants:
+- ID: Agent7
+  Role: Agent
+  isAnimate: 1
+- ID: Yellow box with train and lights
+  Role: Patient
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: Start_StateChangeBox.yaml

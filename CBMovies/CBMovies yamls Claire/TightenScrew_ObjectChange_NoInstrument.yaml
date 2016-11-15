@@ -1,0 +1,26 @@
+Color: full color
+ElicitedSentenceDescription:
+- The man is sitting in front of a blue starry wall.
+- There is a blue plastic box on the table.
+- The box has two orange things sticking up.
+- The man twists the orange screw.
+- The screw tightens.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Tighten
+ItemCondition:
+- ObjectChange
+- NoInstrument
+ItemNo: 21
+Length: lengthinseconds
+MovieFilename: TightenScrew_ObjectChange_NoInstrument.mp4
+NParticipants: 2
+Participants:
+- ID: Agent5
+  Role: Agent
+  isAnimate: 1
+- ID: Orange screw
+  Role: Patient
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: TightenScrew_ObjectChange_NoInstrument.yaml

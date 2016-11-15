@@ -1,0 +1,29 @@
+Color: full color
+ElicitedSentenceDescription:
+- The box has silver crank on the top.
+- The front of the box is is white.
+- The woman turns the crank with her hand.
+- The box rings.
+- The woman is wearing a blue shirt.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Play
+ItemCondition:
+- ObjectChange
+- Instrument
+ItemNo: 25
+Length: lengthinseconds
+MovieFilename: PlayMusicBox_ObjectChange_Instrument.mp4
+NParticipants: 3
+Participants:
+- ID: Agent2
+  Role: Agent
+  isAnimate: 1
+- ID: Orange and white box
+  Role: Patient
+  isAnimate: 0
+- ID: Silver crank
+  Role: Instrument
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: PlayMusicBox_ObjectChange_Instrument.yaml

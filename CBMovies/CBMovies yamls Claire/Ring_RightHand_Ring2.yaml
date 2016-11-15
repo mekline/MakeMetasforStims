@@ -1,0 +1,26 @@
+Color: full color
+ElicitedSentenceDescription:
+- Repeat
+- The woman moves the string with her right hand.
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Ring
+ItemCondition:
+- MannerChange
+- NoInstrument
+ItemNo: 7
+Length: lengthinseconds
+MovieFilename: Ring_RightHand_Ring2.mp4
+NParticipants: 2
+Participants:
+- ID: Agent2
+  Role: Agent
+  isAnimate: 1
+- ID: Gold bell
+  Role: Patient
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: Ring_RightHand_Ring2.yaml

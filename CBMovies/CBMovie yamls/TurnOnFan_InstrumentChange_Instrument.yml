@@ -1,0 +1,24 @@
+Color: full color
+Filename: TurnOnFan_InstrumentChange_Instrument.yml
+ItemCondition:
+- InstrumentChange
+- Instrument
+ItemNo: 36
+Length: not specified
+NParticipants: 3
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+- ID: addUniqueID
+  Role: Instrument
+  isAnimate: 0
+PrimarySentenceDescription: The girl made the fan turn on
+PrimaryVerbDescription: TurnOn
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

@@ -1,0 +1,29 @@
+Color: full color
+ElicitedSentenceDescription:
+- The woman is standing.
+- She is holding a black hanger.
+- She holds the end of a white cloth.
+- The woman lifts the hanger up and across her body.
+- The cloth stretches diagonally.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Stretch
+ItemCondition:
+- Base
+- Instrument
+ItemNo: 37
+Length: lengthinseconds
+MovieFilename: StretchCloth_Base_Instrument.mp4
+NParticipants: 3
+Participants:
+- ID: Agent23
+  Role: Agent
+  isAnimate: 1
+- ID: White cloth
+  Role: Patient
+  isAnimate: 0
+- ID: Black hanger
+  Role: Instrument
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: StretchCloth_Base_Instrument.yaml

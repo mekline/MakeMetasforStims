@@ -1,0 +1,14 @@
+Filename: Periphrastic_Change.yml
+ItemCondition: Periphrastic
+ItemNo: 15
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+Sentence: The girl made the lights change
+Verb: Change

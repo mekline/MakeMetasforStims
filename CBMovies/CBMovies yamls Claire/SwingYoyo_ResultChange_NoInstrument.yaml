@@ -1,0 +1,26 @@
+Color: full color
+ElicitedSentenceDescription:
+- The yoyo is attched to a string.
+- The woman is holding the string.
+- The woman raises and lowers her hand.
+- The yoyo bounces up and down.
+- The yoyo is green.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Swing
+ItemCondition:
+- ResultChange
+- NoInstrument
+ItemNo: 33
+Length: lengthinseconds
+MovieFilename: SwingYoyo_ResultChange_NoInstrument.mp4
+NParticipants: 2
+Participants:
+- ID: Agent18
+  Role: Agent
+  isAnimate: 1
+- ID: Green yoyo
+  Role: Patient
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: SwingYoyo_ResultChange_NoInstrument.yaml

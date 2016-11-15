@@ -1,0 +1,29 @@
+Color: full color
+ElicitedSentenceDescription:
+- Repeat
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Stretch
+ItemCondition:
+- MannerChange
+- Instrument
+ItemNo: 37
+Length: lengthinseconds
+MovieFilename: StretchCloth_MannerChange_Instrument.mp4
+NParticipants: 3
+Participants:
+- ID: Agent23
+  Role: Agent
+  isAnimate: 1
+- ID: White cloth
+  Role: Patient
+  isAnimate: 0
+- ID: Black hanger
+  Role: Instrument
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: StretchCloth_MannerChange_Instrument.yaml

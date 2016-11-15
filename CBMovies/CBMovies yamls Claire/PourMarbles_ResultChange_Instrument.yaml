@@ -1,0 +1,29 @@
+Color: full color
+ElicitedSentenceDescription:
+- The woman is holding a cup of yellow marbles.
+- She scoops out the marbles with a green pen.
+- There is a jar with yellow and green marbles on the table.
+- The yellow marbles fall into the filled jar.
+- There is an emtpy jar on the table next to the jar of marbles.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Pour
+ItemCondition:
+- ResultChange
+- Instrument
+ItemNo: 30
+Length: lengthinseconds
+MovieFilename: PourMarbles_ResultChange_Instrument.mp4
+NParticipants: 3
+Participants:
+- ID: Agent2
+  Role: Agent
+  isAnimate: 1
+- ID: Yellow marbles
+  Role: Patient
+  isAnimate: 0
+- ID: Green and white pen
+  Role: Instrument
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: PourMarbles_ResultChange_Instrument.yaml

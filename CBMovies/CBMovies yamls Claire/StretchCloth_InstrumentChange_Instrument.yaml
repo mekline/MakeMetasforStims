@@ -1,0 +1,29 @@
+Color: full color
+ElicitedSentenceDescription:
+- The cloth is on a hanger.
+- The hanger is clear.
+- The woman stretches the cloth.
+- The woman is holding the hanger.
+- She stretches the cloth diagonally
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Stretch
+ItemCondition:
+- InstrumentChange
+- Instrument
+ItemNo: 37
+Length: lengthinseconds
+MovieFilename: StretchCloth_InstrumentChange_Instrument.mp4
+NParticipants: 3
+Participants:
+- ID: Agent23
+  Role: Agent
+  isAnimate: 1
+- ID: White cloth
+  Role: Patient
+  isAnimate: 0
+- ID: White hanger
+  Role: Instrument
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: StretchCloth_InstrumentChange_Instrument.yaml

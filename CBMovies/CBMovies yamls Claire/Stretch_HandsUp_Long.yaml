@@ -1,0 +1,26 @@
+Color: full color
+ElicitedSentenceDescription:
+- The man is holding a blue bendy tube on both ends.
+- The man separates his hands outward.
+- The tube fully elongates.
+- The man is sitting at a table.
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Stretch
+ItemCondition:
+- CounterbalanceMR
+- NoInstrument
+ItemNo: 12
+Length: lengthinseconds
+MovieFilename: Stretch_HandsUp_Long.mp4
+NParticipants: 2
+Participants:
+- ID: Agent11
+  Role: Agent
+  isAnimate: 1
+- ID: Blue bendy tube
+  Role: Patient
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: Stretch_HandsUp_Long.yaml

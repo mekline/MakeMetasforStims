@@ -1,0 +1,29 @@
+Agent: TightenScrew_ObjectChange_NoInstrument.mp4
+Color: full color
+FifthSentenceDescription: The man twists the orange screw.
+Filename: Tighten.yaml
+FourthSentenceDescription: The box has two orange things sticking up.
+ItemCondition:
+- ObjectChange
+- NA
+ItemNo: 21
+Length: 265.0
+NParticipants: 2
+Participants:
+- Agent: TightenScrew_ObjectChange_NoInstrument.mp4
+  ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Patient: NA
+  Role: Patient
+  isAnimate: 0
+Patient: NA
+PrimarySentenceDescription: '265'
+PrimaryVerbDescription: Tighten
+SecondarySentenceDescription: The man is sitting in front of a blue starry wall.
+Size: TO ADD
+ThirdSentenceDescription: There is a blue plastic box on the table.
+VerboseDescription:
+- TO ADD
+- Multiple items

@@ -1,0 +1,26 @@
+Color: full color
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Rotate
+ItemCondition:
+- Base
+- NoInstrument
+ItemNo: 9
+Length: lengthinseconds
+MovieFilename: Rotate_Top_toBlue.mp4
+NParticipants: 2
+Participants:
+- ID: Agent3
+  Role: Agent
+  isAnimate: 1
+- ID: Half white half blue bottle
+  Role: Patient
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: Rotate_Top_toBlue.yaml

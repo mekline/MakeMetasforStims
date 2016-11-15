@@ -1,0 +1,26 @@
+Color: full color
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Spin
+ItemCondition:
+- MannerChange
+- NoInstrument
+ItemNo: 11
+Length: lengthinseconds
+MovieFilename: Spin_Right_OneHand.mp4
+NParticipants: 2
+Participants:
+- ID: Agent3
+  Role: Agent
+  isAnimate: 1
+- ID: Five wheel black chair
+  Role: Patient
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: Spin_Right_OneHand.yaml

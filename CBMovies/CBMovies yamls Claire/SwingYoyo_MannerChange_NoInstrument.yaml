@@ -1,0 +1,26 @@
+Color: full color
+ElicitedSentenceDescription:
+- Repeat.
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Swing
+ItemCondition:
+- MannerChange
+- NoInstrument
+ItemNo: 33
+Length: lengthinseconds
+MovieFilename: SwingYoyo_MannerChange_NoInstrument.mp4
+NParticipants: 2
+Participants:
+- ID: Agent18
+  Role: Agent
+  isAnimate: 1
+- ID: Green yoyo
+  Role: Patient
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: SwingYoyo_MannerChange_NoInstrument.yaml

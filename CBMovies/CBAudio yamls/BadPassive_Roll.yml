@@ -1,0 +1,14 @@
+Filename: BadPassive_Roll.yml
+ItemCondition: BadPassive
+ItemNo: 8
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+Sentence: The truck that is there was rolled by the girl
+Verb: Roll

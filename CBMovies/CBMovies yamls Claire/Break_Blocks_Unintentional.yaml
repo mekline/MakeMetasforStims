@@ -1,0 +1,29 @@
+Color: full color
+ElicitedSentenceDescription:
+- The woman walks past the table.
+- There is a block tower on the table.
+- The woman is holding a blue block.
+- The woman drops the blue bock.
+- The blue block knocks over the block tower.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Break
+ItemCondition:
+- Unintentional
+- Instrument
+ItemNo: 14
+Length: lengthinseconds
+MovieFilename: Break_Blocks_Unintentional.mp4
+NParticipants: 3
+Participants:
+- ID: Agent7
+  Role: Agent
+  isAnimate: 1
+- ID: Block tower
+  Role: Patient
+  isAnimate: 0
+- ID: Blue block
+  Role: Instrument
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: Break_Blocks_Unintentional.yaml

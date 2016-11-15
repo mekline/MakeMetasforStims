@@ -1,0 +1,26 @@
+Color: full color
+ElicitedSentenceDescription:
+- The fan is black.
+- There are strips of paper tied to the fan.
+- The woman presses the fan.
+- The fan turns on.
+- There is a green clipboard next to the fan.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- TurnOn
+ItemCondition:
+- ObjectChange
+- NoInstrument
+ItemNo: 36
+Length: lengthinseconds
+MovieFilename: TurnOnFan_ObjectChange_NoInstrument.mp4
+NParticipants: 2
+Participants:
+- ID: Agent25
+  Role: Agent
+  isAnimate: 1
+- ID: Black fan with paper strips
+  Role: Patient
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: TurnOnFan_ObjectChange_NoInstrument.yaml

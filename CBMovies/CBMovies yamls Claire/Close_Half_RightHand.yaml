@@ -1,0 +1,26 @@
+Color: full color
+ElicitedSentenceDescription:
+- The man is facing the window.
+- The man pulls down on a string.
+- The blinds close halfway.
+- The blinds stay perpendicular to the window.
+- The blinds are white slats.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Close
+ItemCondition:
+- Base
+- NoInstrument
+ItemNo: 3
+Length: lengthinseconds
+MovieFilename: Close_Half_RightHand.mp4
+NParticipants: 2
+Participants:
+- ID: Agent5
+  Role: Agent
+  isAnimate: 1
+- ID: Blinds
+  Role: Patient
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: Close_Half_RightHand.yaml

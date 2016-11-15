@@ -1,0 +1,24 @@
+Color: full color
+Filename: BounceBall_SmallAgentChange_Instrument.yml
+ItemCondition:
+- SmallAgentChange
+- Instrument
+ItemNo: 27
+Length: not specified
+NParticipants: 3
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+- ID: addUniqueID
+  Role: Instrument
+  isAnimate: 0
+PrimarySentenceDescription: The boy made the ball bounce
+PrimaryVerbDescription: Bounce
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

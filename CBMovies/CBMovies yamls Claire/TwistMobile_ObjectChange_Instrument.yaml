@@ -1,0 +1,29 @@
+Color: full color
+ElicitedSentenceDescription:
+- ''
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Twist
+ItemCondition:
+- ObjectChange
+- Instrument
+ItemNo: 31
+Length: lengthinseconds
+MovieFilename: TwistMobile_ObjectChange_Instrument.mp4
+NParticipants: 3
+Participants:
+- ID: Agent9
+  Role: Agent
+  isAnimate: 1
+- ID: Brown mobile with grey stars
+  Role: Patient
+  isAnimate: 0
+- ID: Flat yellow square
+  Role: Instrument
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: TwistMobile_ObjectChange_Instrument.yaml

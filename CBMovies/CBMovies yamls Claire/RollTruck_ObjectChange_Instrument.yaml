@@ -1,0 +1,29 @@
+Color: full color
+ElicitedSentenceDescription:
+- The man pushes the chair forward.
+- The chair rolls away from the man.
+- He is standing.
+- The man uses one arm to push the chair.
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Roll
+ItemCondition:
+- ObjectChange
+- Instrument
+ItemNo: 22
+Length: lengthinseconds
+MovieFilename: RollTruck_ObjectChange_Instrument.mp4
+NParticipants: 3
+Participants:
+- ID: Agent21
+  Role: Agent
+  isAnimate: 1
+- ID: Blue car
+  Role: Patient
+  isAnimate: 0
+- ID: Orange plank
+  Role: Instrument
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: RollTruck_ObjectChange_Instrument.yaml

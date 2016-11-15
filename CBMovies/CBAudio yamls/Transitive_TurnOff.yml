@@ -1,0 +1,14 @@
+Filename: Transitive_TurnOff.yml
+ItemCondition: Transitive
+ItemNo: 18
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+Sentence: The boy turned off the television
+Verb: TurnOff

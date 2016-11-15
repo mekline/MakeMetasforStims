@@ -1,0 +1,21 @@
+Color: full color
+Filename: Stretch_HandsDown_Short.yml
+ItemCondition:
+- Base
+- NoInstrument
+ItemNo: 12
+Length: 4.0
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The boy made the toy stretch
+PrimaryVerbDescription: Stretch
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

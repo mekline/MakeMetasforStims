@@ -1,0 +1,21 @@
+Color: full color
+Filename: ..yaml
+ItemCondition:
+- placeholder
+- placeholder
+ItemNo: 40
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+PrimarySentenceDescription: The woman is sitting next to the box.
+PrimaryVerbDescription: Base
+Size: TO ADD
+VerboseDescription:
+- TO ADD
+- Multiple items

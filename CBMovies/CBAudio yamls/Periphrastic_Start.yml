@@ -1,0 +1,14 @@
+Filename: Periphrastic_Start.yml
+ItemCondition: Periphrastic
+ItemNo: 17
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+Sentence: The girl made the train start
+Verb: Start

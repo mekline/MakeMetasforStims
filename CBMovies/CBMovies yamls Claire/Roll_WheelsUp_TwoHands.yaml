@@ -1,0 +1,26 @@
+Color: full color
+ElicitedSentenceDescription:
+- The truck is blue.
+- The truck rolls on its two back wheels.
+- The woman holds the truck with two hands.
+- She extends her arms.
+- The truck rolls forward.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Roll
+ItemCondition:
+- Base
+- NoInstrument
+ItemNo: 8
+Length: lengthinseconds
+MovieFilename: Roll_WheelsUp_TwoHands.mp4
+NParticipants: 2
+Participants:
+- ID: Agent6
+  Role: Agent
+  isAnimate: 1
+- ID: Yellow wheeled truck
+  Role: Patient
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: Roll_WheelsUp_TwoHands.yaml

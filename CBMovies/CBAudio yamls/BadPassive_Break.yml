@@ -1,0 +1,14 @@
+Filename: BadPassive_Break.yml
+ItemCondition: BadPassive
+ItemNo: 14
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+Sentence: The block tower that is there was broken by the girl
+Verb: Break

@@ -1,0 +1,26 @@
+Color: full color
+ElicitedSentenceDescription:
+- Repeat
+- ''
+- ''
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Slide
+ItemCondition:
+- Base
+- NoInstrument
+ItemNo: 20
+Length: lengthinseconds
+MovieFilename: SlideChair_Base_NoInstrument.mp4
+NParticipants: 2
+Participants:
+- ID: CORRUPTED - FILE DOES NOT EXIST
+  Role: Agent
+  isAnimate: 1
+- ID: NA
+  Role: Patient
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: SlideChair_Base_NoInstrument.yaml

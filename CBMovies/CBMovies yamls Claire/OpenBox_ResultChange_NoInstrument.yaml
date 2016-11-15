@@ -1,0 +1,26 @@
+Color: full color
+ElicitedSentenceDescription:
+- The box is black.
+- The woman is sitting.
+- She uses both hands to lift the top of the box.
+- There are bright flowers in the room.
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Open
+ItemCondition:
+- ResultChange
+- NoInstrument
+ItemNo: 26
+Length: lengthinseconds
+MovieFilename: OpenBox_ResultChange_NoInstrument.mp4
+NParticipants: 2
+Participants:
+- ID: Agent17
+  Role: Agent
+  isAnimate: 1
+- ID: Black box
+  Role: Patient
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: OpenBox_ResultChange_NoInstrument.yaml

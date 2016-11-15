@@ -1,0 +1,14 @@
+Filename: BadPassive_ChangeChannel.yml
+ItemCondition: BadPassive
+ItemNo: 32
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+Sentence: The channel that is there was changed by the girl
+Verb: Change

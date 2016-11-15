@@ -1,0 +1,14 @@
+Filename: Periphrastic_TurnOff.yml
+ItemCondition: Periphrastic
+ItemNo: 18
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+Sentence: The boy made the television turn off
+Verb: TurnOff

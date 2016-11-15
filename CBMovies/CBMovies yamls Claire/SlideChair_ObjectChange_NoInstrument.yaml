@@ -1,0 +1,26 @@
+Color: full color
+ElicitedSentenceDescription:
+- The man is standing.
+- The chair has four legs.
+- The man pushes the chair with one hand.
+- The chair rolls away from him.
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Slide
+ItemCondition:
+- ObjectChange
+- NoInstrument
+ItemNo: 20
+Length: lengthinseconds
+MovieFilename: SlideChair_ObjectChange_NoInstrument.mp4
+NParticipants: 2
+Participants:
+- ID: Agent24
+  Role: Agent
+  isAnimate: 1
+- ID: Four wheel black chair
+  Role: Patient
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: SlideChair_ObjectChange_NoInstrument.yaml

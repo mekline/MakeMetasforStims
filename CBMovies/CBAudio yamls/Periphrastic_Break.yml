@@ -1,0 +1,14 @@
+Filename: Periphrastic_Break.yml
+ItemCondition: Periphrastic
+ItemNo: 14
+Length: not specified
+NParticipants: 2
+Participants:
+- ID: addUniqueID
+  Role: Agent
+  isAnimate: 1
+- ID: addUniqueID
+  Role: Patient
+  isAnimate: 0
+Sentence: The girl made the block tower break
+Verb: Break

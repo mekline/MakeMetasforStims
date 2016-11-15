@@ -1,0 +1,29 @@
+Color: full color
+ElicitedSentenceDescription:
+- The woman is sitting at a table.
+- There is a pile of leaves on the table.
+- The woman rustles the leaves with a green rake.
+- ''
+- ''
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Rustle
+ItemCondition:
+- Base
+- Instrument
+ItemNo: 34
+Length: lengthinseconds
+MovieFilename: RustleLeaves_Base_Instrument.mp4
+NParticipants: 3
+Participants:
+- ID: Agent17
+  Role: Agent
+  isAnimate: 1
+- ID: Pile of brown leaves
+  Role: Patient
+  isAnimate: 0
+- ID: Green rake
+  Role: Instrument
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: RustleLeaves_Base_Instrument.yaml

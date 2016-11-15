@@ -1,0 +1,26 @@
+Color: full color
+ElicitedSentenceDescription:
+- The woman is holding a blue ring-shaped rattle.
+- She flexes her writst upward and downward.
+- The rattle shakes up and down.
+- The woman is standing.
+- The rattle jingles.
+IntendedSentenceDescription: not given
+IntendedVerbDescription:
+- Rattle
+ItemCondition:
+- Base
+- NoInstrument
+ItemNo: 6
+Length: lengthinseconds
+MovieFilename: Rattle_UpandDown_Rattle2.mp4
+NParticipants: 2
+Participants:
+- ID: Agent6
+  Role: Agent
+  isAnimate: 1
+- ID: Blue rattle
+  Role: Patient
+  isAnimate: 0
+Size: TO ADD
+yamlFilename: Rattle_UpandDown_Rattle2.yaml
