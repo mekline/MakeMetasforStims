@@ -1,0 +1,9 @@
+fileNo,ItemNo,ChangeCondition,InstrumentCondition,Verb,filename,Agent,Instrument,Patient,Theme,Recipient,Sentence 1,Sentence 2,Sentence 3,Sentence 4,Sentence 5
+1,1,Test_Intentional,Intrument,Pop,1_2_1.mov,Agent1,Pin,Pink Balloon,,,The man pops the balloon.,The man is wearing a green shirt.,The balloon is pink.,The man is holding a pin.,There is a glass bowl on the table.
+2,1,Test_Unintentional,Instrument,Pop,1_2_2.mov,Agent1,Pin,Pink Balloon,,,The balloon pops.,The man is wearing a green shirt.,The man jumps up in surprise.,The balloon is pink.,The man is sitting at a table.
+3,15,Test_Intentional,NoInstrument,Break,15_2_1.mov,Agent1,,Pencil,,,The man breaks the pencil.,The man is wearing a green shirt.,The man is sitting at a table.,,
+4,15,Test_Unintentional,NoInstrument,Break,15_2_2.mov,Agent1,,Pencil,,,The pencil breaks.,The man is writing on a notepad.,The man raises his arms.,The man is wearing a green shirt.,The notepad is on the table.
+5,1,Train_Intentional,Instrument,Pop,1_1_1.mov,Agent2,Pin,Pink Balloon,,,The man pops the balloon.,The man is holding a pin.,The balloon is pink.,The balloon is on a table.,The man is wearing a blue shirt.
+6,1,Train_Unintentional,Instrument,Pop,1_1_2.mov,Agent2,Pin,Pink Balloon,,,The balloon pops.,The man jumps in surprise.,The man is holding a pin.,The man is stting at a table.,The man is wearing a blue shirt.
+7,15,Train_Intentional,NoInstrument,Break,15_3_1.mov,Agent3,,Pencil,,,The man breaks the pencil.,The man is sitting at a table.,The man is holding a pencil.,The man is wearing a beige shirt.,
+8,15,Train_Unintentional,NoInstrument,Break,15_3_2.mov,Agent1,,Pencil,,,The pencil breaks.,The man is writing on a notepad.,The man raises his arms.,The man is sitting at the table.,The man is wearing a green shirt.
