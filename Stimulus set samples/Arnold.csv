@@ -1,0 +1,9 @@
+fileNo,ItemNo,ChangeCondition,InstrumentCondition,Verb,filename,Agent,Instrument,Patient,Theme,Recipient,Sentence 1,Sentence 2,Sentence 3,Sentence 4,Sentence 5
+1,1,Interaction,NoInstrument,Made,1_1_Stim1.jpg,Maid and Butler,,Bed,,,The maid and the butler made their bed,,,,
+2,1,Solitary,NoInstrument,Opened,1_2_Stim.jpg,Maid,,Curtains,,,The maid opened the curtains,,,,
+3,2,Interaction,NoInstrument,Received,2_1_Stim.jpg,Sir Barnes,,Painting,,Lady Mannerly,Sir Barnes received a painting of the two of them from Lady Mannerly,,,,
+4,2,Solitary,NoInstrument,Threw,2_2_Stim.jpg,Sir Barnes,,Painting,,,Sir Barnes threw the painting in a closet.,,,,
+5,3,Interaction,NoInstrument,Brought,3_1_Stim.jpg,Chef and Chauffeur,,Groceries,,,The chef and chauffer brought in some groceries.,,,,
+6,3,Solitary,NoInstrument,Unpacked,3_2_Stim.jpg,Chef,,Groceries,,,The chef unpacked the groceries.,,,,
+7,4,Interaction,Instrument,Accepted,4_1_Stim.jpg,Maid,Cup,Coffee,,Butler,The maid accepted some coffee from the butler.,,,,
+8,4,Solitary,Instrument,Lit,4_2_Stim.jpg,Butler,Match,Fire?,,,The butler lit a fire.,,,,
