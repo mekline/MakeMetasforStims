@@ -1,0 +1,228 @@
+{
+  "creators" : {
+    "-KbGqhQrZ3EJfCbmsNUY" : {
+      "creatorSource" : "manual",
+      "emailaddress" : "mekline@mit.edu",
+      "name" : "Melissa Kline",
+      "stimsets" : {
+        "-KbGqiDGkYNKMtlI0r7Y" : true,
+        "-KbGqiDss9bHdqWQuKFM" : true
+      },
+      "website" : "http://www.melissakline.net"
+    },
+    "-KbGqhR7xwK0rFH9C-pk" : {
+      "creatorSource" : "manual",
+      "emailaddress" : "claire@claire.com",
+      "name" : "Claire Pinson",
+      "stimsets" : {
+        "-KbGqiDss9bHdqWQuKFM" : true
+      },
+      "website" : ""
+    }
+  },
+  "stimsets" : {
+    "-KbGqiDGkYNKMtlI0r7Y" : {
+      "citation" : "CogSci paper (2013)",
+      "creator" : "-KbGqhQrZ3EJfCbmsNUY",
+      "doi" : "enter doi",
+      "setSource" : "manual",
+      "stimsetname" : "CBMovies",
+      "stimuli" : {
+        "-KbGqiDP1JE392FL5-pm" : true,
+        "-KbGqiDSKHUJb4WqBQRW" : true,
+        "-KbGqiDUqmQc0UNmOXdz" : true,
+        "-KbGqiDVZARs0OBkj3hC" : true
+      }
+    },
+    "-KbGqiDX0VENxpIWhK4Q" : {
+      "citation" : "Sophie Nader et al.(1117) A paper about haptic haptic Stimuli (fake stimuli)",
+      "creator" : "-KbGqhR9AoTH-JNojUTR",
+      "doi" : "http://DOI.151.237.185.59",
+      "setSource" : "faker generated",
+      "stimsetname" : "haptic haptic Stimuli",
+      "stimuli" : {
+        "-KbGqiDaQXXNu1N0Pj5e" : true,
+        "-KbGqiDdVEFxpPlUlhLk" : true,
+        "-KbGqiDghRrv1UsZXuH0" : true,
+        "-KbGqiDiQbfAFVqLkTwX" : true,
+        "-KbGqiDjjBPMhFd2q3Vx" : true,
+        "-KbGqiDmxx-kHPB16qb2" : true
+      }
+    },
+    "-KbGqiDss9bHdqWQuKFM" : {
+      "citation" : "the GH repository (2017)",
+      "creator" : "-KbGqhQrZ3EJfCbmsNUY",
+      "doi" : "enter DOI",
+      "setSource" : "manual",
+      "stimsetname" : "EventsMP",
+      "stimuli" : {
+        "-KbGqiDvDqx2RsQ9wthU" : true,
+        "-KbGqiDw2p3KSGxy9xjm" : true
+      }
+    }
+  },
+  "stimuli" : {
+    "-KbGqiDP1JE392FL5-pm" : {
+      "mediaFilename" : "BeepToy_BackgroundChange_Instrument.mp4",
+      "stimSource" : "manual",
+      "stimname" : "BeepToy_BackgroundChange_Instrument",
+      "stimset" : "-KbGqiDGkYNKMtlI0r7Y"
+    },
+    "-KbGqiDSKHUJb4WqBQRW" : {
+      "mediaFilename" : "Bounce_Straight_LeftHand.mp4",
+      "stimSource" : "manual",
+      "stimname" : "Bounce_Straight_LeftHand",
+      "stimset" : "-KbGqiDGkYNKMtlI0r7Y"
+    },
+    "-KbGqiDUqmQc0UNmOXdz" : {
+      "mediaFilename" : "PourMarbles_BackgroundChange_Instrument.mp4",
+      "stimSource" : "manual",
+      "stimname" : "PourMarbles_BackgroundChange_Instrument",
+      "stimset" : "-KbGqiDGkYNKMtlI0r7Y"
+    },
+    "-KbGqiDVZARs0OBkj3hC" : {
+      "mediaFilename" : "TwistMobile_BackgroundChange_NoInstrument.mp4",
+      "stimSource" : "manual",
+      "stimname" : "TwistMobile_BackgroundChange_NoInstrument",
+      "stimset" : "-KbGqiDGkYNKMtlI0r7Y"
+    },
+    "-KbGqiDaQXXNu1N0Pj5e" : {
+      "mediaFilename" : "redundantdriver.gif",
+      "stimSource" : "faker generated",
+      "stimname" : "redundantdriver",
+      "stimset" : "-KbGqiDX0VENxpIWhK4Q"
+    },
+    "-KbGqiDdVEFxpPlUlhLk" : {
+      "mediaFilename" : "back-endtransmitter.html",
+      "stimSource" : "faker generated",
+      "stimname" : "back-endtransmitter",
+      "stimset" : "-KbGqiDX0VENxpIWhK4Q"
+    },
+    "-KbGqiDghRrv1UsZXuH0" : {
+      "mediaFilename" : "redundantmonitor.mpg4",
+      "stimSource" : "faker generated",
+      "stimname" : "redundantmonitor",
+      "stimset" : "-KbGqiDX0VENxpIWhK4Q"
+    },
+    "-KbGqiDiQbfAFVqLkTwX" : {
+      "mediaFilename" : "cross-platformpixel.pdf",
+      "stimSource" : "faker generated",
+      "stimname" : "cross-platformpixel",
+      "stimset" : "-KbGqiDX0VENxpIWhK4Q"
+    },
+    "-KbGqiDjjBPMhFd2q3Vx" : {
+      "mediaFilename" : "open-sourcefirewall.jpeg",
+      "stimSource" : "faker generated",
+      "stimname" : "open-sourcefirewall",
+      "stimset" : "-KbGqiDX0VENxpIWhK4Q"
+    },
+    "-KbGqiDmxx-kHPB16qb2" : {
+      "mediaFilename" : "virtualinterface.gif",
+      "stimSource" : "faker generated",
+      "stimname" : "virtualinterface",
+      "stimset" : "-KbGqiDX0VENxpIWhK4Q"
+    },
+    "-KbGqiDvDqx2RsQ9wthU" : {
+      "mediaFilename" : "halfrotate_behind_4.mp4",
+      "stimSource" : "manual",
+      "stimname" : "halfrotate_behind_4",
+      "stimset" : "-KbGqiDss9bHdqWQuKFM"
+    },
+    "-KbGqiDw2p3KSGxy9xjm" : {
+      "mediaFilename" : "rotate_circle_3.mp4",
+      "stimSource" : "manual",
+      "stimname" : "rotate_circle_3",
+      "stimset" : "-KbGqiDss9bHdqWQuKFM"
+    },
+    "-KbGqiDzquYZVt6N5mz-" : {
+      "mediaFilename" : "cross-platformsystem.mp4",
+      "stimSource" : "faker generated",
+      "stimname" : "cross-platformsystem",
+      "stimset" : "-KbGqiDxdk1jcx1bWpsT"
+    },
+    "-KbGqiE3KOcWcxP9Mt2R" : {
+      "mediaFilename" : "wirelessprogram.png",
+      "stimSource" : "faker generated",
+      "stimname" : "wirelessprogram",
+      "stimset" : "-KbGqiDxdk1jcx1bWpsT"
+    },
+    "-KbGqiE5-Lz1i5sJYbY6" : {
+      "mediaFilename" : "hapticapplication.mpeg",
+      "stimSource" : "faker generated",
+      "stimname" : "hapticapplication",
+      "stimset" : "-KbGqiDxdk1jcx1bWpsT"
+    },
+    "-KbGqiE6OjrEsivJxn0C" : {
+      "mediaFilename" : "bluetoothsystem.m1v",
+      "stimSource" : "faker generated",
+      "stimname" : "bluetoothsystem",
+      "stimset" : "-KbGqiDxdk1jcx1bWpsT"
+    },
+    "-KbGqiE8KuV8Sc_rx8L7" : {
+      "mediaFilename" : "neuralsensor.png",
+      "stimSource" : "faker generated",
+      "stimname" : "neuralsensor",
+      "stimset" : "-KbGqiDxdk1jcx1bWpsT"
+    },
+    "-KbGqiEA2u5AVKDaw-XC" : {
+      "mediaFilename" : "1080ptransmitter.mpe",
+      "stimSource" : "faker generated",
+      "stimname" : "1080ptransmitter",
+      "stimset" : "-KbGqiDxdk1jcx1bWpsT"
+    },
+    "-KbGqiECnAaHgNn15VlM" : {
+      "mediaFilename" : "wirelessmonitor.mp4",
+      "stimSource" : "faker generated",
+      "stimname" : "wirelessmonitor",
+      "stimset" : "-KbGqiDxdk1jcx1bWpsT"
+    },
+    "-KbGqiEDhlT4xz_ub_uq" : {
+      "mediaFilename" : "onlinepanel.m3a",
+      "stimSource" : "faker generated",
+      "stimname" : "onlinepanel",
+      "stimset" : "-KbGqiDxdk1jcx1bWpsT"
+    },
+    "-KbGqiEI6Yp9bfO_mKH6" : {
+      "mediaFilename" : "bluetoothprogram.pdf",
+      "stimSource" : "faker generated",
+      "stimname" : "bluetoothprogram",
+      "stimset" : "-KbGqiEG5QLpml50WHEV"
+    },
+    "-KbGqiEKjWDNmJkxiv5D" : {
+      "mediaFilename" : "bluetoothbus.mp4",
+      "stimSource" : "faker generated",
+      "stimname" : "bluetoothbus",
+      "stimset" : "-KbGqiEG5QLpml50WHEV"
+    },
+    "-KbGqiELfOCY85c0mrHd" : {
+      "mediaFilename" : "virtualsensor.jpe",
+      "stimSource" : "faker generated",
+      "stimname" : "virtualsensor",
+      "stimset" : "-KbGqiEG5QLpml50WHEV"
+    },
+    "-KbGqiEMjlvaITcBVYfJ" : {
+      "mediaFilename" : "hapticmicrochip.mp4v",
+      "stimSource" : "faker generated",
+      "stimname" : "hapticmicrochip",
+      "stimset" : "-KbGqiEG5QLpml50WHEV"
+    },
+    "-KbGqiEMjlvaITcBVYfK" : {
+      "mediaFilename" : "mobileport.pdf",
+      "stimSource" : "faker generated",
+      "stimname" : "mobileport",
+      "stimset" : "-KbGqiEG5QLpml50WHEV"
+    },
+    "-KbGqiENUS4oqi_d7FtC" : {
+      "mediaFilename" : "digitalcircuit.mp4",
+      "stimSource" : "faker generated",
+      "stimname" : "digitalcircuit",
+      "stimset" : "-KbGqiEG5QLpml50WHEV"
+    },
+    "-KbGqiEOwu7X1SoHtr_y" : {
+      "mediaFilename" : "solid statedriver.wav",
+      "stimSource" : "faker generated",
+      "stimname" : "solid statedriver",
+      "stimset" : "-KbGqiEG5QLpml50WHEV"
+    }
+  }
+}
