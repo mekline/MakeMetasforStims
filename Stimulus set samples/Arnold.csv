@@ -1,9 +1,9 @@
-fileNo,ItemNo,ItemFillerCondition,GenderCondition,Verb,filename,Agent,Joint Agent,Joint Agent,Instrument,Patient,Theme,Source,Goal,Sentence 1,Sentence 2,Sentence 3,Sentence 4,Sentence 5
-1,1,,,Make,1_1_Stim1.jpg,,The maid,The butler,,Bed,,,,The maid and the butler made their bed,,,,
-2,1,,,Open,1_2_Stim.jpg,The maid,,,,Curtains,,,,The maid opened the curtains,,,,
-3,2,,,Receive,2_1_Stim.jpg,,,,,,Painting,Lady Mannerly,Sir Barnes,Lady Mannerly gave a painting of the two of them to Sir Barnes.,Sir Barnes received a painting of the two of them from Lady Mannerly,,,
-4,2,,,Throw,2_2_Stim.jpg,,,,,,Painting,,,Sir Barnes threw the painting in a closet.,,,,
-5,3,,,Bring,3_1_Stim.jpg,,The chef,The chauffer,,Groceries,,,,The chef and chauffer brought in some groceries.,,,,
-6,3,,,Unpack,3_2_Stim.jpg,The chef,,,,Groceries,,,,The chef unpacked the groceries.,,,,
-7,4,,,Accept,4_1_Stim.jpg,,,,,,Coffee,The butler,The maid,,The maid accepted some coffee from the butler.,,,
-8,4,,,Light,4_2_Stim.jpg,The butler,,,Match,Fire,,,,The butler lit a fire.,,,,
+fileNo,ItemNo,ItemFillerCondition,GenderCondition,CharGenderCondition,Verb,filename,Agent,Joint Agent,Joint Agent,Instrument,Patient,Theme,Source,Goal,Sentence 1,Sentence 2,Sentence 3,Sentence 4,Sentence 5
+1,1,,,,Make,1_1_Stim1.jpg,,The maid,The butler,,Bed,,,,The maid and the butler made their bed,,,,
+2,1,,,,Open,1_2_Stim.jpg,The maid,,,,Curtains,,,,The maid opened the curtains,,,,
+3,2,,,,Receive,2_1_Stim.jpg,,,,,,Painting,Lady Mannerly,Sir Barnes,Lady Mannerly gave a painting of the two of them to Sir Barnes.,Sir Barnes received a painting of the two of them from Lady Mannerly,,,
+4,2,,,,Throw,2_2_Stim.jpg,,,,,,Painting,,,Sir Barnes threw the painting in a closet.,,,,
+5,3,,,,Bring,3_1_Stim.jpg,,The chef,The chauffer,,Groceries,,,,The chef and chauffer brought in some groceries.,,,,
+6,3,,,,Unpack,3_2_Stim.jpg,The chef,,,,Groceries,,,,The chef unpacked the groceries.,,,,
+7,4,,,,Accept,4_1_Stim.jpg,,,,,,Coffee,The butler,The maid,,The maid accepted some coffee from the butler.,,,
+8,4,,,,Light,4_2_Stim.jpg,The butler,,,Match,Fire,,,,The butler lit a fire.,,,,
