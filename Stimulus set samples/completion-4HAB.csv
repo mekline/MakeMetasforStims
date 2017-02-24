@@ -1,4 +1,4 @@
-fileNo,ItemNo,Verb,filename,Instrument,Theme,Goal,Sentence 1,Sentence 2,Sentence 3,Sentence 4,Sentence 5
-1,1,Cover,4HAB-cover-complete.mp4,,Paper,Spoon,The paper covers the spoon.,The paper falls onto the spoon.,The paper is green.,The spoon is black.,The spoon is on a cardboard box.
-2,2,Occlude,4HAB-occlude-ladle.mp4,,Paper,Spoon,The paper covers the top half of the spoon.,The paper falls onto the spoon.,The paper is green.,The spoon is black.,The spoon is on a cardboard box.
-3,3,Occlude,4HAB-occlude-handle.mp4,,Paper,Spoon,The paper covers the lower half of the spoon.,The paper falls onto the spoon.,The paper is green.,The spoon is black.,The spoon is on a cardboard box.
+fileNo,ItemNo,Verb,filename,Theme,Goal,Sentence 1,Sentence 2,Sentence 3,Sentence 4,Sentence 5
+1,1,Cover,4HAB-cover-complete.mp4,Paper,Spoon,The paper covers the spoon.,The paper falls onto the spoon.,The paper is green.,The spoon is black.,The spoon is on a cardboard box.
+2,2,Occlude,4HAB-occlude-ladle.mp4,Paper,Spoon,The paper covers the top half of the spoon.,The paper falls onto the spoon.,The paper is green.,The spoon is black.,The spoon is on a cardboard box.
+3,3,Occlude,4HAB-occlude-handle.mp4,Paper,Spoon,The paper covers the lower half of the spoon.,The paper falls onto the spoon.,The paper is green.,The spoon is black.,The spoon is on a cardboard box.
