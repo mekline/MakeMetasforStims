@@ -1,0 +1,1 @@
+This is a tiny version of the database for the website prototype. This contains excel spreadsheets of all the info necessary for ~ 4 creators, ~7 stimulus sets and ~20 stimuli 

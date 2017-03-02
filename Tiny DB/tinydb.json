@@ -1,0 +1,224 @@
+{
+  "creators" : {
+    "-KbGqhQrZ3EJfCbmsNUY" : {
+      "creatorSource" : "tinyDB",
+      "emailaddress" : "mekline@mit.edu",
+      "name" : "Melissa Kline",
+      "stimsets" : {
+        "-KbGqhFhd3kFID4sdCUY" : true,
+        "-KbGqh45jaovF7wnDU0v" : true,
+        "-KbGqhQPjl9Cvsg3JVH" : true
+      },
+      "website" : "http://www.melissakline.net"
+    },
+
+    "-KbGqhQrV4WJfCtreBRU" : {
+      "creatorSource" : "tinyDB",
+      "emailaddress" : "NA",
+      "name" : "Amy Geojo",
+      "stimsets" : {
+        "-KbGqh45jaovF7wnDU0v" : true
+      },
+      "website" : "https://www.linkedin.com/in/ageojo"
+    },
+
+    "-KbGqhTpdm5oVb3RCOD" : {
+      "creatorSource" : "tinyDB",
+      "emailaddress" : "NA",
+      "name" : "Jeff Zacks",
+      "stimsets" : {
+        "-KbGqh3bsof7DBalWER" : true
+      },
+      "website" : "http://pages.wustl.edu/dcl/jeff-zacks"
+    },
+
+    "-KbGqhfRWov4Fox4CUH" : {
+      "creatorSource" : "tinyDB",
+      "emailaddress" : "NA",
+      "name" : "Jayden Ziegler",
+      "stimsets" : {
+        "-KbGqhdov8WmcDGpCVB" : true
+      },
+      "website" : "http://www.jaydenziegler.com/"
+    },
+
+    "-KbGqh00D7D9B0159DB4" : {
+      "creatorSource" : "tinyDB",
+      "emailaddress" : "NA",
+      "name" : "Sudha Arunachalam",
+      "stimsets" : {
+      },
+      "website" : "http://blogs.bu.edu/sarunach/"
+    },
+
+    "-KbGqh012DA9701720BD" : {
+      "creatorSource" : "tinyDB",
+      "emailaddress" : "NA",
+      "name" : "Caitlyn Fausey",
+      "stimsets" : {
+      },
+      "website" : "https://sites.google.com/site/caitlinmfausey/"
+    },
+
+    "-KbGqh017F1EB0031097" : {
+      "creatorSource" : "tinyDB",
+      "emailaddress" : "NA",
+      "name" : "Evelina Fedorenko",
+      "stimsets" : {
+      },
+      "website" : "https://evlab.mit.edu/"
+    },
+
+    "-KbGqh013D1070062C74" : {
+      "creatorSource" : "tinyDB",
+      "emailaddress" : "NA",
+      "name" : "Gerry Altmann",
+      "stimsets" : {
+      },
+      "website" : "http://psych.uconn.edu/faculty/gerry-altmann/"
+    },
+
+    "-KbGqh011EF7E00287B5" : {
+      "creatorSource" : "tinyDB",
+      "emailaddress" : "NA",
+      "name" : "Joshua Hartshorne",
+      "stimsets" : {
+      },
+      "website" : "http://joshuakhartshorne.org"
+    },
+
+    "-KbGqh013AE7D002B6EE" : {
+      "creatorSource" : "tinyDB",
+      "emailaddress" : "NA",
+      "name" : "Edward Gibson",
+      "stimsets" : {
+      },
+      "website" : "http://tedlab.mit.edu/"
+    },
+
+    "-KbGqh0CDBEA739297E1" : {
+      "creatorSource" : "tinyDB",
+      "emailaddress" : "NA",
+      "name" : "Tobias Gerstenberg",
+      "stimsets" : {
+      },
+      "website" : "http://web.mit.edu/tger/www/"
+    }
+
+
+  },
+  "stimsets" : {
+    "-KbGqhFhd3kFID4sdCUY" : {
+      "citation" : "Kline, M., Muentener, P. & Schulz, L.E. (2013). Transitive and periphrastic sentences affect memory for simple causal scenes. Proceedings of the Thirty-Fifth Annual Conference of the Cognitive Science Society.",
+      "creator" : "-KbGqhQrZ3EJfCbmsNUY",
+      "description" : "Actors performing simple actions (e.g. 'rolling a ball') with variations. Originally designed for a change-detection task. Videos are 2-8 seconds in length.",
+      "doi" : "10.17605/OSF.IO/6UBTS",
+      "setSource" : "tinyDB",
+      "stimsetname" : "CBMovies",
+      "stimuli" : {
+        "-KbGqhF5985AC400170A" : true, 
+        "-KbGqh333E9DD9004AFB" : true, 
+        "-KbGqh243232F9001EFD" : true, 
+        "-KbGqh5C704355003C33" : true
+      }
+    },
+    "-KbGqh45jaovF7wnDU0v" : {
+      "citation" : "Geojo, A. & Snedeker, J. (2014). Verb learning biases extend across semantic fields. 39th Annual Boston University Conference on Language Development, Boston, MA. ",
+      "creator" : "-KbGqhQrZ3EJfCbmsNUY",
+      "description" : "Actors performing simple actions (e.g. 'rolling a ball') with variations. Originally designed for a change-detection task. Videos are 2-8 seconds in length.",
+      "doi" : "10.17605/OSF.IO/9NBGV",
+      "setSource" : "tinyDB",
+      "stimsetname" : "MannerPathPriming",
+      "stimuli" : {
+      }
+    },
+
+    "-KbGqhQPjl9Cvsg3JVH" : {
+      "citation" : "(OSF repository)",
+      "creator" : "-KbGqhQrZ3EJfCbmsNUY",
+      "description" : "Very simple animated schematic events featuring geometric 'characters' performing manner/path actions on a standard background. Designed for an fMRI study which is ongoing. ",
+      "doi" : "10.17605/OSF.IO/6UBTS",
+      "setSource" : "tinyDB",
+      "stimsetname" : "EventsMP",
+      "stimuli" : {
+      }
+    },
+        "-KbGqh3bsof7DBalWER" : {
+      "citation" : "Sargent, J. Q., Zacks, J. M., Hambrick, D. Z., Zacks, R. T., Head, D., Kurby, C. A., et al. (2013). Event segmentation ability uniquely predicts memory across the lifespan. Cognition, 129(2), 241-255.",
+      "creator" : "-KbGqhTpdm5oVb3RCOD",
+      "description" : "Long, naturalistic movies showing people performing everyday activities (e.g. cleaning up a kitchen.)",
+      "doi" : "10.1016/j.cognition.2013.07.002",
+      "setSource" : "tinyDB",
+      "stimsetname" : "EventSegmentation",
+      "stimuli" : {
+        "-KbGqh3FED85A2002DDE" : true
+      }
+    },
+        "-KbGqhdov8WmcDGpCVB" : {
+      "citation" : "Ziegler, J., & Snedeker, J. (2016, November). Structural priming across development: The lexical boost, abstract priming, and task demands. Poster presented at the 41st Boston University Conference on Language Development, Boston, MA.",
+      "creator" : "-KbGqhfRWov4Fox4CUH",
+      "description" : "Simple animated events designed to elicit dative/locative sentences like 'The boy gave the key to the camel'",
+      "doi" : "(No DOI)",
+      "setSource" : "tinyDB",
+      "stimsetname" : "DativeLocative",
+      "stimuli" : {
+        "-KbGqh8A7FE6D800B8EA" : true,
+        "-KbGqh4EC2A22800F772" : true
+      }
+    }
+
+  },
+  
+  "stimuli" : {
+    "-KbGqhF5985AC400170A" : {
+      "mediaFilename" : "http://tedlab.mit.edu/~mekline/TinyDB/BeepToy_BigAgentChange_Instrument.mp4",
+      "ytLink" : "hxMdB-8xRtE",
+      "stimSource" : "tinyDB",
+      "stimname" : "BeepToy_BigAgentChange_Instrument",
+      "stimset" : "-KbGqhFhd3kFID4sdCUY"
+    },   
+    "-KbGqh333E9DD9004AFB" : {
+      "mediaFilename" : "http://tedlab.mit.edu/~mekline/TinyDB/BounceBall_Base_Instrument.mp4",
+      "ytLink" : "WPntb2SMHCU",
+      "stimSource" : "tinyDB",
+      "stimname" : "BounceBall_Base_Instrument",
+      "stimset" : "-KbGqhFhd3kFID4sdCUY"
+    },  
+    "-KbGqh243232F9001EFD" : {
+      "mediaFilename" : "http://tedlab.mit.edu/~mekline/TinyDB/BounceBall_SmallAgentChange_NoInstrument.mp4",
+      "ytLink" : "6FvjbEJtLp8",
+      "stimSource" : "tinyDB",
+      "stimname" : "BounceBall_SmallAgentChange_NoInstrument",
+      "stimset" : "-KbGqhFhd3kFID4sdCUY"
+    },  
+    "-KbGqh5C704355003C33" : {
+      "mediaFilename" : "http://tedlab.mit.edu/~mekline/TinyDB/PlayMusicBox_Base_NoInstrument.mp4",
+      "ytLink" : "DISR2f24yb4",
+      "stimSource" : "tinyDB",
+      "stimname" : "PlayMusicBox_Base_NoInstrument",
+      "stimset" : "-KbGqhFhd3kFID4sdCUY"
+    },
+
+    "-KbGqh3FED85A2002DDE" : {
+      "mediaFilename" : "http://tedlab.mit.edu/~mekline/TinyDB/Zacks_long_Breakfast_Nonsocial.mov",
+      "ytLink" : "8TW5cZZK4ds",
+      "stimSource" : "tinyDB",
+      "stimname" : "Zacks_long_Breakfast_Nonsocial",
+      "stimset" : "-KbGqh3bsof7DBalWER"
+    },
+        "-KbGqh8A7FE6D800B8EA" : {
+      "mediaFilename" : "http://tedlab.mit.edu/~mekline/TinyDB/The%20boy%20bringing%20the%20camel%20the%20keys.mp4",
+      "ytLink" : "5sc6srwFRI8",
+      "stimSource" : "tinyDB",
+      "stimname" : "The boy bringing the camel the keys",
+      "stimset" : "-KbGqhdov8WmcDGpCVB"
+    },  
+        "-KbGqh4EC2A22800F772" : {
+      "mediaFilename" : "http://tedlab.mit.edu/~mekline/TinyDB/The%20boy%20smearing%20the%20wall%20with%20the%20mud.mp4",
+      "ytLink" : "V3_DU11inCg",
+      "stimSource" : "tinyDB",
+      "stimname" : "The boy smearing the wall with the mud",
+      "stimset" : "-KbGqhdov8WmcDGpCVB"
+    }      
+  }
+}
