@@ -25,27 +25,65 @@ def convert_to_yaml(line,counter):
 	picture_item = {}
 	picture_item = {
 		'ItemNo': itemNo,
-		'PictureFilename': picturefilename
+		'PictureFilename': picturefilename,
 		'verbDescription': verbDescription
 	}
+#if there is something in a cell, make a participant list
+#if there is nothing, don't do anything
+	participantlist = {}
+	possibleroles = [agent, jointagent1, jointagent2, instrument, patient, theme, source, goal]
+	rolenames = ['Agent', 'Joint Agent', 'Joint Agent', 'Instrument', 'Patient', 'Theme', 'Source']
 
-	if agent == 'The maid'
-		picture_item['Participants'] = [{'ID':agent,'Role':'Agent'},
-		{'ID':patient,'Role':'Patient'}]
-	if agent == 'The chef'
-		picture_item['Participants'] = [{'ID':agent,'Role':'Agent'},
-		{'ID':patient,'Role':'Patient'}]
-	if agent == 'The butler'
-		picture_item['Participants'] = [{'ID':agent,'Role':'Agent'},
-		{'ID':patient,'Role':'Patient'}]
-		picture_item['Instrument'] = ['Instrument':instrument]
-	if jointagent1 == 'The maid'
-		picture_item['Participants'] = [{'ID':jointagent1,'Role':'JointAgent'},
-		{'ID':jointagent2,'Role':'JointAgent'},{'ID':patient,'Role':'Patient'}]
-	if jointagent1 == 'The chef'
-		picture_item['Participants'] = [{'ID':jointagent1,'Role':'JointAgent'},
-		{'ID':jointagent2,'Role':'JointAgent'},{'ID':patient,'Role':'Patient'}]
-	if
+#if the role is not blank, carry on and make a list
+	for i in xrange(possibleroles): 
+		if possibleroles[i] != ''
+			participantlist.append({'ID':possibleroles[i],'Role': rolenames[i]})
 
+#add the participants list to the yaml file ie picture_item list
+	picture_item.append(participantlist)
+
+try: 
+	reader = csv.reader(in_file)
+	next(reader)
+	for counter, line in enumerate(reader):
+		convert_to_yaml(line, counter)
+
+for pi in picture_items	
+	if(pi['yamlFilename']):
+		out_file = open('Arnold_stimuli/' + pi['yamlFilename'], "w")
+		out_file.write(yaml.dump(pi, default_flow_style=False, allow_unicode=True) )
+		out_file.close()
+
+finally:
+	in_file.close()
+
+
+
+
+
+
+
+
+
+
+	# if agent == 'The maid'
+	# 	picture_item['Participants'] = [{'ID':agent,'Role':'Agent'},
+	# 	{'ID':patient,'Role':'Patient'}]
+	# if agent == 'The chef'
+	# 	picture_item['Participants'] = [{'ID':agent,'Role':'Agent'},
+	# 	{'ID':patient,'Role':'Patient'}]
+	# if agent == 'The butler'
+	# 	picture_item['Participants'] = [{'ID':agent,'Role':'Agent'},
+	# 	{'ID':patient,'Role':'Patient'}]
+	# 	picture_item['Instrument'] = ['Instrument':instrument]
+	# if jointagent1 == 'The maid'
+	# 	picture_item['Participants'] = [{'ID':jointagent1,'Role':'JointAgent'},
+	# 	{'ID':jointagent2,'Role':'JointAgent'},{'ID':patient,'Role':'Patient'}]
+	# if jointagent1 == 'The chef'
+	# 	picture_item['Participants'] = [{'ID':jointagent1,'Role':'JointAgent'},
+	# 	{'ID':jointagent2,'Role':'JointAgent'},{'ID':patient,'Role':'Patient'}]
+	# if
+
+	# picture_item['Participants'] = participantlist
 
 
