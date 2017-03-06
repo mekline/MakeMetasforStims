@@ -36,23 +36,25 @@ def convert_to_yaml(line,counter):
 
 #if the role is not blank, carry on and make a list
 	for i in xrange(possibleroles): 
-		if possibleroles[i] != ''
+		if possibleroles[i] != '':
 			participantlist.append({'ID':possibleroles[i],'Role': rolenames[i]})
 
 #add the participants list to the yaml file ie picture_item list
 	picture_item.append(participantlist)
+	picture_items.append(picture_item)
+	picture_item.update({'yamlFilename': yamlfilename})
 
 try: 
 	reader = csv.reader(in_file)
 	next(reader)
 	for counter, line in enumerate(reader):
-		convert_to_yaml(line, counter)
+		convert_to_yaml(line,counter)
 
-for pi in picture_items	
-	if(pi['yamlFilename']):
-		out_file = open('Arnold_stimuli/' + pi['yamlFilename'], "w")
-		out_file.write(yaml.dump(pi, default_flow_style=False, allow_unicode=True) )
-		out_file.close()
+	for pi in picture_items:
+		if(pi['yamlFilename']):
+			out_file = open('Arnold_stimuli/' + pi['yamlFilename'], "w")
+			out_file.write(yaml.dump(pi, default_flow_style=False, allow_unicode=True) )
+			out_file.close()
 
 finally:
 	in_file.close()
