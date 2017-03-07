@@ -33,9 +33,9 @@ def convert_to_yaml(line,counter):
 	participantlist = {}
 	possibleroles = [agent, jointagent1, jointagent2, instrument, patient, theme, source, goal]
 	rolenames = ['Agent', 'Joint Agent', 'Joint Agent', 'Instrument', 'Patient', 'Theme', 'Source']
-
+	print(possibleroles)
 #if the role is not blank, carry on and make a list
-	for i in xrange(possibleroles): 
+	for i in xrange(0, len(possibleroles)): 
 		if possibleroles[i] != '':
 			participantlist.append({'ID':possibleroles[i],'Role': rolenames[i]})
 
@@ -48,7 +48,7 @@ try:
 	reader = csv.reader(in_file)
 	next(reader)
 	for counter, line in enumerate(reader):
-		convert_to_yaml(line,counter)
+		convert_to_yaml(line, counter)
 
 	for pi in picture_items:
 		if(pi['yamlFilename']):
