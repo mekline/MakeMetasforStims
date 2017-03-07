@@ -1,0 +1,16 @@
+ItemNo: 4
+PictureFilename:
+- 4_2_Stim.jpg
+participantlist:
+- ID:
+  - The butler
+  Role: Agent
+- ID:
+  - Match
+  Role: Instrument
+- ID:
+  - Fire
+  Role: Patient
+verbDescription:
+- Light
+yamlFilename: 4_2_Stim.yaml

@@ -3,8 +3,9 @@ import yaml
 in_file = open('Arnold.csv', "rU")
 picture_items = []
 
-#dictionary
+
 def convert_to_yaml(line,counter):
+	#definitions
 	itemNo = int(line[1])
 	verbDescription = [line[5]]
 	sentenceDescription = [line[15], line[16], line[17],line[18], line[19]]
@@ -24,25 +25,35 @@ def convert_to_yaml(line,counter):
 #yamlfilename
 	picture_item = {}
 	picture_item = {
+		#dictionary
 		'ItemNo': itemNo,
 		'PictureFilename': picturefilename,
 		'verbDescription': verbDescription
 	}
 #if there is something in a cell, make a participant list
 #if there is nothing, don't do anything
-	participantlist = {}
-	possibleroles = [agent, jointagent1, jointagent2, instrument, patient, theme, source, goal]
-	rolenames = ['Agent', 'Joint Agent', 'Joint Agent', 'Instrument', 'Patient', 'Theme', 'Source']
-	print(possibleroles)
+	participantlist = []
+	#more definitions of possibleroles and rolenames
+	possibleroles = [agent, jointagent1, jointagent2, instrument, patient, theme, 
+	source, goal]
+	rolenames = ['Agent', 'Joint Agent', 'Joint Agent', 'Instrument',
+	'Patient', 'Theme', 'Source', 'Goal']
+	#print(possibleroles)
 #if the role is not blank, carry on and make a list
 	for i in xrange(0, len(possibleroles)): 
-		if possibleroles[i] != '':
-			participantlist.append({'ID':possibleroles[i],'Role': rolenames[i]})
+		#print(possibleroles[i])
+		if possibleroles[i] != ['']:
+			#print i
+			newrole = {'ID': possibleroles[i],'Role': rolenames[i]}
+			#newrole is new dictionary
+			participantlist.append(newrole)
+	#print participantlist
 
 #add the participants list to the yaml file ie picture_item list
-	picture_item.append(participantlist)
-	picture_items.append(picture_item)
+	picture_item.update({'participantlist': participantlist})
 	picture_item.update({'yamlFilename': yamlfilename})
+	picture_items.append(picture_item)
+	
 
 try: 
 	reader = csv.reader(in_file)

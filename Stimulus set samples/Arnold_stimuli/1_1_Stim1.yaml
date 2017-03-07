@@ -1,0 +1,16 @@
+ItemNo: 1
+PictureFilename:
+- 1_1_Stim1.jpg
+participantlist:
+- ID:
+  - The maid
+  Role: Joint Agent
+- ID:
+  - The butler
+  Role: Joint Agent
+- ID:
+  - Bed
+  Role: Patient
+verbDescription:
+- Make
+yamlFilename: 1_1_Stim1.yaml

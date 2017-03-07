@@ -1,0 +1,13 @@
+ItemNo: 3
+PictureFilename:
+- 3_2_Stim.jpg
+participantlist:
+- ID:
+  - The chef
+  Role: Agent
+- ID:
+  - Groceries
+  Role: Patient
+verbDescription:
+- Unpack
+yamlFilename: 3_2_Stim.yaml

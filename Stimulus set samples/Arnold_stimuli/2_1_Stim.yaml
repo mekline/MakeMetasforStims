@@ -1,0 +1,16 @@
+ItemNo: 2
+PictureFilename:
+- 2_1_Stim.jpg
+participantlist:
+- ID:
+  - Painting
+  Role: Theme
+- ID:
+  - Lady Mannerly
+  Role: Source
+- ID:
+  - Sir Barnes
+  Role: Goal
+verbDescription:
+- Receive
+yamlFilename: 2_1_Stim.yaml

@@ -1,0 +1,13 @@
+ItemNo: 1
+PictureFilename:
+- 1_2_Stim.jpg
+participantlist:
+- ID:
+  - The maid
+  Role: Agent
+- ID:
+  - Curtains
+  Role: Patient
+verbDescription:
+- Open
+yamlFilename: 1_2_Stim.yaml

@@ -1,0 +1,16 @@
+ItemNo: 4
+PictureFilename:
+- 4_1_Stim.jpg
+participantlist:
+- ID:
+  - Coffee
+  Role: Theme
+- ID:
+  - The butler
+  Role: Source
+- ID:
+  - The maid
+  Role: Goal
+verbDescription:
+- Accept
+yamlFilename: 4_1_Stim.yaml
