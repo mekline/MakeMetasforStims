@@ -1,0 +1,22 @@
+ItemNo: 6
+SentenceDescription:
+- The chalk draws on the whiteboard.
+- The chalk is white.
+- The chalkboard is green.
+- The chalk leaves an S on the whiteboard.
+- The hand grips the chalk.
+movieFilename: CFGU_2.wmv
+participantlist:
+- ID: Hand
+  Role: Agent
+- ID: ''
+  Role: Patient
+- ID: ''
+  Role: Instrument
+- ID: Chalk
+  Role: Theme
+- ID: ''
+  Role: Source
+- ID: Whiteboard
+  Role: Goal
+yamlFilename: CFGU_2.yaml

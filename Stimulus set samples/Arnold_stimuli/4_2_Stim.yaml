@@ -11,6 +11,7 @@ participantlist:
 - ID:
   - Fire
   Role: Patient
+pictureconditions: []
 verbDescription:
 - Light
 yamlFilename: 4_2_Stim.yaml

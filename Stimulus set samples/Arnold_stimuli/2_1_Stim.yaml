@@ -11,6 +11,16 @@ participantlist:
 - ID:
   - Sir Barnes
   Role: Goal
+pictureconditions:
+- Condition:
+  - Item
+  Condition Type: Item Filler Condition
+- Condition:
+  - Different
+  Condition Type: Gender Condition
+- Condition:
+  - '-0.5'
+  Condition Type: Char Gender Condition
 verbDescription:
 - Receive
 yamlFilename: 2_1_Stim.yaml

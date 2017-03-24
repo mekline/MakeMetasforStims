@@ -1,0 +1,22 @@
+ItemNo: 10
+SentenceDescription:
+- The hand removes the garlic from the garlic press.
+- The garlic sticks to the metal pick.
+- The garlic is deposited on the plate.
+- The garlic press is all metal.
+- There is garlic on the plate.
+movieFilename: CUGU_4B.wmv
+participantlist:
+- ID: Hand
+  Role: Agent
+- ID: ''
+  Role: Patient
+- ID: Metal pick
+  Role: Instrument
+- ID: Garlic
+  Role: Theme
+- ID: Garlic press2
+  Role: Source
+- ID: Plate
+  Role: Goal
+yamlFilename: CUGU_4B.yaml

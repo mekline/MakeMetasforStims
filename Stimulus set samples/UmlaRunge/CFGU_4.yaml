@@ -1,0 +1,22 @@
+ItemNo: 8
+SentenceDescription:
+- The pot is placed on the hotplate.
+- The pot is metal.
+- The hotplate has two stoves.
+- The hotplate is white.
+- The pot is held with both hands.
+movieFilename: CFGU_4.wmv
+participantlist:
+- ID: Hand (multiple)
+  Role: Agent
+- ID: ''
+  Role: Patient
+- ID: ''
+  Role: Instrument
+- ID: Pot
+  Role: Theme
+- ID: ''
+  Role: Source
+- ID: Hotplate
+  Role: Goal
+yamlFilename: CFGU_4.yaml

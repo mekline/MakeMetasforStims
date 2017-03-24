@@ -11,6 +11,10 @@ participantlist:
 - ID:
   - Bed
   Role: Patient
+pictureconditions:
+- Condition:
+  - Filler
+  Condition Type: Item Filler Condition
 verbDescription:
 - Make
 yamlFilename: 1_1_Stim1.yaml

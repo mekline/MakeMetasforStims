@@ -8,6 +8,7 @@ participantlist:
 - ID:
   - Groceries
   Role: Patient
+pictureconditions: []
 verbDescription:
 - Unpack
 yamlFilename: 3_2_Stim.yaml

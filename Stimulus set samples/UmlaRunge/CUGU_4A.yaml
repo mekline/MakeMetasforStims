@@ -1,0 +1,22 @@
+ItemNo: 10
+SentenceDescription:
+- The hand removes the garlic from the garlic press.
+- The garlic sticks to the toohpick.
+- The garlic is deposited on the plate.
+- The garlic press has black handles
+- There is garlic on the plate.
+movieFilename: CUGU_4A.wmv
+participantlist:
+- ID: Hand
+  Role: Agent
+- ID: ''
+  Role: Patient
+- ID: Toothpick
+  Role: Instrument
+- ID: Garlic
+  Role: Theme
+- ID: Garlic press1
+  Role: Source
+- ID: Plate
+  Role: Goal
+yamlFilename: CUGU_4A.yaml
