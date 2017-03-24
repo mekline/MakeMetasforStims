@@ -1,9 +1,9 @@
-FileNo,ItemNo,ItemFillerCondition,GenderCondition,CharGenderCondition,Verb,filename,Agent,Joint Agent,Joint Agent,Instrument,Patient,Theme,Source,Goal,Sentence 1,Sentence 2,Sentence 3,Sentence 4,Sentence 5
-1,1,Filler,,,Make,1_1_Stim1.jpg,,The maid,The butler,,Bed,,,,The maid and the   butler made their bed.Ê,,,,
-2,1,,,,Open,1_2_Stim.jpg,The maid,,,,Curtains,,,,The maid opened the curtains,,,,
+FileNo,ItemNo,StimType,Gender,CharGenderCondition,Verb,filename,Agent,Joint Agent,Joint Agent,Instrument,Patient,Theme,Source,Goal,Sentence 1,Sentence 2,Sentence 3,Sentence 4,Sentence 5
+1,1,Filler,NaN,NaN,Make,1_1_Stim1.jpg,,The maid,The butler,,Bed,,,,The maid and the   butler made their bed.æ,,,,
+2,1,NaN,NaN,NaN,Open,1_2_Stim.jpg,The maid,,,,Curtains,,,,The maid opened the curtains,,,,
 3,2,Item,Different,-0.5,Receive,2_1_Stim.jpg,,,,,,Painting,Lady Mannerly,Sir Barnes,Lady Mannerly gave a painting of the two of them to Sir Barnes.,Sir Barnes received a painting of the two of them from Lady Mannerly,,,
-4,2,,,,Throw,2_2_Stim.jpg,,,,,,Painting,,,Sir Barnes threw the painting in a closet.,,,,
-5,3,Filler,,,Bring,3_1_Stim.jpg,,The chef,The chauffer,,Groceries,,,,The chef and the chauffer brought in some groceries.,,,,
-6,3,,,,Unpack,3_2_Stim.jpg,The chef,,,,Groceries,,,,The chef unpacked the groceries.,,,,
+4,2,NaN,NaN,NaN,Throw,2_2_Stim.jpg,,,,,,Painting,,,Sir Barnes threw the painting in a closet.,,,,
+5,3,Filler,NaN,NaN,Bring,3_1_Stim.jpg,,The chef,The chauffer,,Groceries,,,,The chef and the chauffer brought in some groceries.,,,,
+6,3,NaN,NaN,NaN,Unpack,3_2_Stim.jpg,The chef,,,,Groceries,,,,The chef unpacked the groceries.,,,,
 7,4,Item,Different,-0.5,Accept,4_1_Stim.jpg,,,,,,Coffee,The butler,The maid,,The maid accepted some coffee from the butler.,,,
-8,4,,,,Light,4_2_Stim.jpg,The butler,,,Match,Fire,,,,The butler lit a fire.,,,,
+8,4,NaN,NaN,NaN,Light,4_2_Stim.jpg,The butler,,,Match,Fire,,,,The butler lit a fire.,,,,

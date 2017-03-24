@@ -1,20 +1,23 @@
 ItemNo: 1
-PictureFilename:
-- 1_1_Stim1.jpg
+PictureFilename: 1_1_Stim1.jpg
+SentenceDescription:
+- !!binary |
+  VGhlIG1haWQgYW5kIHRoZSAgIGJ1dGxlciBtYWRlIHRoZWlyIGJlZC7m
+- ''
+- ''
+- ''
+- ''
 participantlist:
-- ID:
-  - The maid
+- ID: The maid
   Role: Joint Agent
-- ID:
-  - The butler
+- ID: The butler
   Role: Joint Agent
-- ID:
-  - Bed
+- ID: Bed
   Role: Patient
 pictureconditions:
-- Condition:
-  - Filler
-  Condition Type: Item Filler Condition
+- StimType: Filler
+- Gender Condition: NaN
+- Char Gender Condition: NaN
 verbDescription:
 - Make
 yamlFilename: 1_1_Stim1.yaml

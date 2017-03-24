@@ -1,26 +1,22 @@
 ItemNo: 2
-PictureFilename:
-- 2_1_Stim.jpg
+PictureFilename: 2_1_Stim.jpg
+SentenceDescription:
+- Lady Mannerly gave a painting of the two of them to Sir Barnes.
+- Sir Barnes received a painting of the two of them from Lady Mannerly
+- ''
+- ''
+- ''
 participantlist:
-- ID:
-  - Painting
+- ID: Painting
   Role: Theme
-- ID:
-  - Lady Mannerly
+- ID: Lady Mannerly
   Role: Source
-- ID:
-  - Sir Barnes
+- ID: Sir Barnes
   Role: Goal
 pictureconditions:
-- Condition:
-  - Item
-  Condition Type: Item Filler Condition
-- Condition:
-  - Different
-  Condition Type: Gender Condition
-- Condition:
-  - '-0.5'
-  Condition Type: Char Gender Condition
+- StimType: Item
+- Gender Condition: Different
+- Char Gender Condition: '-0.5'
 verbDescription:
 - Receive
 yamlFilename: 2_1_Stim.yaml

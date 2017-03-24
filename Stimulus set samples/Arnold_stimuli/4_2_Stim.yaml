@@ -1,17 +1,22 @@
 ItemNo: 4
-PictureFilename:
-- 4_2_Stim.jpg
+PictureFilename: 4_2_Stim.jpg
+SentenceDescription:
+- The butler lit a fire.
+- ''
+- ''
+- ''
+- ''
 participantlist:
-- ID:
-  - The butler
+- ID: The butler
   Role: Agent
-- ID:
-  - Match
+- ID: Match
   Role: Instrument
-- ID:
-  - Fire
+- ID: Fire
   Role: Patient
-pictureconditions: []
+pictureconditions:
+- StimType: NaN
+- Gender Condition: NaN
+- Char Gender Condition: NaN
 verbDescription:
 - Light
 yamlFilename: 4_2_Stim.yaml
