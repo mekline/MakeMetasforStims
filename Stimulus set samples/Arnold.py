@@ -19,6 +19,9 @@ def convert_to_yaml(line,counter):
 	theme = [line[12]]
 	source = [line[13]]
 	goal = [line[14]]
+	ItemFillerCond = [line[2]]
+	GenderCond = [line[3]]
+	CharGenderCond = [line[4]]
 
 	print(yamlfilename)
 
@@ -28,8 +31,25 @@ def convert_to_yaml(line,counter):
 		#dictionary
 		'ItemNo': itemNo,
 		'PictureFilename': picturefilename,
-		'verbDescription': verbDescription
+		'verbDescription': verbDescription,
+		'yamlFilename': yamlfilename
 	}
+#condition loop
+	pictureconditions = []
+	possibleconditions = [ItemFillerCond, GenderCond, CharGenderCond]
+	conditiontype = ['Item Filler Condition', 'Gender Condition', 
+	'Char Gender Condition']
+
+	for i in xrange(0, len(possibleconditions)):
+		if possibleconditions[i] != ['']:
+			conditionset = {'Condition Type': conditiontype[i], 
+			'Condition': possibleconditions[i]}
+		#else possibleconditions[i] == ['']:
+			#conditionset = 'No Conditions'
+
+			pictureconditions.append(conditionset)
+
+	picture_item.update({'pictureconditions': pictureconditions})
 #if there is something in a cell, make a participant list
 #if there is nothing, don't do anything
 	participantlist = []
@@ -51,7 +71,9 @@ def convert_to_yaml(line,counter):
 
 #add the participants list to the yaml file ie picture_item list
 	picture_item.update({'participantlist': participantlist})
-	picture_item.update({'yamlFilename': yamlfilename})
+
+	print picture_item
+	
 	picture_items.append(picture_item)
 	
 

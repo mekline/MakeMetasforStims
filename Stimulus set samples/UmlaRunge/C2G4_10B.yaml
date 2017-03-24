@@ -1,0 +1,22 @@
+ItemNo: 1
+SentenceDescription:
+- The coffee grinds are dropped out of the scoop.
+- The hand inverts the scoop.
+- The coffee maker fills with coffee grinds.
+- The hand is holding a scoop.
+- The scoop empties of coffee grinds.
+movieFilename: C2G4_10B.wmv
+participantlist:
+- ID: Hand
+  Role: Agent
+- ID: ''
+  Role: Patient
+- ID: Scoop
+  Role: Instrument
+- ID: Coffee grinds
+  Role: Theme
+- ID: ''
+  Role: Source
+- ID: Coffee maker
+  Role: Goal
+yamlFilename: C2G4_10B.yaml

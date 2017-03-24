@@ -1,0 +1,22 @@
+ItemNo: 3
+SentenceDescription:
+- The hand opens the door.
+- ''
+- The door is blue.
+- The door window has a sticker on it.
+- The hand presses a button.
+movieFilename: C2G4_12B.wmv
+participantlist:
+- ID: Hand
+  Role: Agent
+- ID: Door2
+  Role: Patient
+- ID: ''
+  Role: Instrument
+- ID: ''
+  Role: Theme
+- ID: ''
+  Role: Source
+- ID: ''
+  Role: Goal
+yamlFilename: C2G4_12B.yaml
