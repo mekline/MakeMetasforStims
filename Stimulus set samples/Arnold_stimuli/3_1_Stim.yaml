@@ -11,6 +11,10 @@ participantlist:
 - ID:
   - Groceries
   Role: Patient
+pictureconditions:
+- Condition:
+  - Filler
+  Condition Type: Item Filler Condition
 verbDescription:
 - Bring
 yamlFilename: 3_1_Stim.yaml
