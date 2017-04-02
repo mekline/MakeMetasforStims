@@ -1,4 +1,4 @@
-ItemNo: 2
+FileNo: 3
 PictureFilename: 2_1_Stim.jpg
 SentenceDescription:
 - Lady Mannerly gave a painting of the two of them to Sir Barnes.
@@ -17,6 +17,7 @@ pictureconditions:
 - StimType: Item
 - Gender Condition: Different
 - Char Gender Condition: '-0.5'
+- Item Number: '2'
 verbDescription:
 - Receive
 yamlFilename: 2_1_Stim.yaml

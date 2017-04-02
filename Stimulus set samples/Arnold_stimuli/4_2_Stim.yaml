@@ -1,4 +1,4 @@
-ItemNo: 4
+FileNo: 8
 PictureFilename: 4_2_Stim.jpg
 SentenceDescription:
 - The butler lit a fire.
@@ -17,6 +17,7 @@ pictureconditions:
 - StimType: NaN
 - Gender Condition: NaN
 - Char Gender Condition: NaN
+- Item Number: '4'
 verbDescription:
 - Light
 yamlFilename: 4_2_Stim.yaml

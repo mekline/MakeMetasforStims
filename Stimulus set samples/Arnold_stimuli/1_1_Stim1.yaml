@@ -1,8 +1,7 @@
-ItemNo: 1
+FileNo: 1
 PictureFilename: 1_1_Stim1.jpg
 SentenceDescription:
-- !!binary |
-  VGhlIG1haWQgYW5kIHRoZSAgIGJ1dGxlciBtYWRlIHRoZWlyIGJlZC7m
+- The maid and the  butler made their bed
 - ''
 - ''
 - ''
@@ -18,6 +17,7 @@ pictureconditions:
 - StimType: Filler
 - Gender Condition: NaN
 - Char Gender Condition: NaN
+- Item Number: '1'
 verbDescription:
 - Make
 yamlFilename: 1_1_Stim1.yaml

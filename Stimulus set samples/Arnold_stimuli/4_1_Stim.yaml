@@ -1,4 +1,4 @@
-ItemNo: 4
+FileNo: 7
 PictureFilename: 4_1_Stim.jpg
 SentenceDescription:
 - ''
@@ -17,6 +17,7 @@ pictureconditions:
 - StimType: Item
 - Gender Condition: Different
 - Char Gender Condition: '-0.5'
+- Item Number: '4'
 verbDescription:
 - Accept
 yamlFilename: 4_1_Stim.yaml

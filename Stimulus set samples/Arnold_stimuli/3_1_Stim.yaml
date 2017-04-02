@@ -1,4 +1,4 @@
-ItemNo: 3
+FileNo: 5
 PictureFilename: 3_1_Stim.jpg
 SentenceDescription:
 - The chef and the chauffer brought in some groceries.
@@ -17,6 +17,7 @@ pictureconditions:
 - StimType: Filler
 - Gender Condition: NaN
 - Char Gender Condition: NaN
+- Item Number: '3'
 verbDescription:
 - Bring
 yamlFilename: 3_1_Stim.yaml

@@ -6,7 +6,7 @@ picture_items = []
 
 def convert_to_yaml(line,counter):
 	#definitions
-	itemNo = int(line[1])
+	fileNo = int(line[0])
 	verbDescription = [line[5]]
 	sentenceDescription = [line[15], line[16], line[17],line[18], line[19]]
 	yamlfilename = line[6].split('.')[0] + '.yaml'
@@ -22,13 +22,14 @@ def convert_to_yaml(line,counter):
 	StimType = line[2]
 	GenderCond = line[3]
 	CharGenderCond = line[4]
+	ItemCond = line[1]
 
 	#print(yamlfilename)
 
 	picture_item = {}
 	picture_item = {
 		#dictionary
-		'ItemNo': itemNo,
+		'FileNo': fileNo,
 		'PictureFilename': picturefilename,
 		'verbDescription': verbDescription,
 		'yamlFilename': yamlfilename,
@@ -37,9 +38,9 @@ def convert_to_yaml(line,counter):
 
 #condition loop
 	pictureconditions = []
-	possibleconditions = [StimType, GenderCond, CharGenderCond]
+	possibleconditions = [StimType, GenderCond, CharGenderCond, ItemCond]
 	conditiontype = ['StimType', 'Gender Condition', 
-	'Char Gender Condition']
+	'Char Gender Condition', 'Item Number']
 
 	for i in xrange(0, len(possibleconditions)):
 		conditionset = {conditiontype[i]: possibleconditions[i]}

@@ -1,3 +1,4 @@
+GroupNo: 11
 ItemNo: 2
 SentenceDescription:
 - The cleaning product is squirted into the toilet bowl.
@@ -5,18 +6,16 @@ SentenceDescription:
 - The cleaning product is blue.
 - The cleaning product drips down the toilet bowl.
 - The hand rotates around the toilet bowl.
+VersionLabel: C2G4
+VersionLetter: A
 movieFilename: C2G4_11A.wmv
 participantlist:
 - ID: Hand
   Role: Agent
-- ID: ''
-  Role: Patient
 - ID: White bottle
   Role: Instrument
 - ID: Cleaning product
   Role: Theme
-- ID: ''
-  Role: Source
 - ID: Toilet Bowl
   Role: Goal
 yamlFilename: C2G4_11A.yaml

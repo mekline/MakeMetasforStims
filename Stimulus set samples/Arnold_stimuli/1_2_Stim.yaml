@@ -1,4 +1,4 @@
-ItemNo: 1
+FileNo: 2
 PictureFilename: 1_2_Stim.jpg
 SentenceDescription:
 - The maid opened the curtains
@@ -15,6 +15,7 @@ pictureconditions:
 - StimType: NaN
 - Gender Condition: NaN
 - Char Gender Condition: NaN
+- Item Number: '1'
 verbDescription:
 - Open
 yamlFilename: 1_2_Stim.yaml
