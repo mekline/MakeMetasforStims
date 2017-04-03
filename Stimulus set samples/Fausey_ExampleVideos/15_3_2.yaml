@@ -1,0 +1,19 @@
+FileNo: 8
+SentenceDescription:
+- The pencil breaks.
+- The man is writing on a notepad.
+- The man raises his arms.
+- The man is sitting at the table.
+- The man is wearing a green shirt.
+VerbDescription: Break
+movieconditions:
+- Item Condition: '15'
+- Change Condition: Train_Unintentional
+participantlist:
+- ID: Agent1
+  Role: Agent
+- ID: ''
+  Role: Instrument
+- ID: Pencil
+  Role: Patient
+yamlFilename: 15_3_2.yaml
