@@ -54,17 +54,16 @@ Swiss Center for Affective Sciences,,http://www.affective-sciences.org/en/home/r
 ,,http://www.cla.auburn.edu/psychology/assets/File/Goodman-Katz-Dretsch-JPTEP-2016.pdf,,,,,
 EU-Emotion Stimulus Set,,,,,,,
 MultiPic,,http://www.bcbl.eu/databases/multipic/,Picture,,"Du_abeitia, J.A., Crepaldi, D., Meyer, A.S., New, B.,_Pliatsikas, C., Smolka, E., &_Brysbaert, M. (in press)._MultiPic: A standardized set of 750 drawings_with norms for six European languages._Quarterly Journal of Experimental Psychology.",,
-,,http://www.face-rec.org/databases/,,,,,
-,,https://www.cs.utexas.edu/~chaoyeh/web_action_data/dataset_list.html,ListOfLists,,,,
-,,http://imaging.mrc-cbu.cam.ac.uk/methods/stimdatabases,ListOfLists,,,,
-,,http://www.psychwiki.com/wiki/Archives_of_data_and_stimuli,ListOfLists,,,,
-,,https://github.com/smathot/stimulus-sets/blob/master/stimulus-sets.md,ListOfLists,,,,
-,,https://sites.temple.edu/cnltu/useful-links/stimuli/,ListOfLists,,,,
+Face Recognition Homepage,,http://www.face-rec.org/databases/,ListOfLists,No,"R. Gross, Face Databases, Handbook of Face Recognition, Stan Z. Li and Anil K. Jain, ed., Springer-Verlag, February 2005",,"When benchmarking an algorithm it is recommendable to use a standard test data set for researchers to be able to directly compare the results. While there are many databases in use currently, the choice of an appropriate database to be used should be made based on the task given (aging, expressions, lighting etc). Another way is to choose the data set specific to the property to be tested (e.g. how algorithm behaves when given images with lighting changes or images with different facial expressions). If, on the other hand, an algorithm needs to be trained with more images per class (like LDA), Yale face database is probably more appropriate than FERET."
+,,https://www.cs.utexas.edu/~chaoyeh/web_action_data/dataset_list.html,ListOfLists,No,,,
+,,http://imaging.mrc-cbu.cam.ac.uk/methods/stimdatabases,ListOfLists,No,,,
+,,http://www.psychwiki.com/wiki/Archives_of_data_and_stimuli,ListOfLists,No,,,
+,,https://github.com/smathot/stimulus-sets/blob/master/stimulus-sets.md,ListOfLists,No,,,
+,,https://sites.temple.edu/cnltu/useful-links/stimuli/,ListOfLists,No,,,
 Clifton & Frazier 1996,,,Sentence,,,,Has a lot of syntactic ambiguity stimuli!
 Wordnet,,,,,,,
 Verbnet,,,,,,,
 PropBank,,,,,,,
-NOUN database,,http://www.sussex.ac.uk/wordlab/noun,,,,yes!,
-SimVerb,,http://people.ds.cam.ac.uk/dsg40/simverb.html,,,,,"Similarity norms, wow! Link it to my whole deal"
-Imagact,,_https://www.cs.colorado.edu/~mozer/Teaching/syllabi/TopicsInCognitiveScienceFall2014/IMAGACT-LREC14.pdf,,,,,invented action stimuli??
-ARC Nonword database,,http://www.maccs.mq.edu.au/~nwdb/,,,,,Australian novel words
+SimVerb,dsg40@cam.ac.uk,http://people.ds.cam.ac.uk/dsg40/simverb.html,Verb similarities,,"SimVerb-3500: A Large-Scale Evaluation Set of Verb Similarity.ÊDaniela Gerz, Ivan Vuli_, Felix Hill, Roi Reichart and Anna Korhonen. EMNLP 2016.",,Evaluation resource for semantic similarity of verbs. 3500 verb pairs with ratings on a scale 0-10.Ê
+Imagact,moneglia@unifi.it,https://www.cs.colorado.edu/~mozer/Teaching/syllabi/TopicsInCognitiveScienceFall2014/IMAGACT-LREC14.pdf,Action concepts,,"The IMAGACT Visual Ontology. An Extendable Multilingual Infrastructure for the Representation of Lexical Encoding of Action Moneglia, M. , Brown, S. , Frontini, F. , Gagliardi, G. , Khan, F. , Monachini, M. ,Panunzi, A.",,"IMAGACT is a corpus-based ontology of action concepts, derived from English and Italian spontaneous speech corpora, which makes use of the universal language of images to identify the different action types extended by verbs referring to action in English, Italian, Chinese and Spanish."
+ARC Nonword database,,http://www.maccs.mq.edu.au/~nwdb/,Nonwords,,"Rastle, K., Harrington, J., & Coltheart, M. (2002). 358,534 nonwords: The ARC Nonword Database. Quarterly Journal of Experimental Psychology, 55A, 1339-1362.",,Australian novel words
