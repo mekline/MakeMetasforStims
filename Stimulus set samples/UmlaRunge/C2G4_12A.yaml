@@ -1,22 +1,17 @@
-ItemNo: 3
+GroupNo: 12
+ItemNo: 4
 SentenceDescription:
 - The hand opens the door.
 - The door swings upward.
 - The door is blue.
 - The door has a sticker on it.
 - The hand presses a button.
+VersionLabel: C2G4
+VersionLetter: A
 movieFilename: C2G4_12A.wmv
 participantlist:
 - ID: Hand
   Role: Agent
 - ID: Door1
   Role: Patient
-- ID: ''
-  Role: Instrument
-- ID: ''
-  Role: Theme
-- ID: ''
-  Role: Source
-- ID: ''
-  Role: Goal
 yamlFilename: C2G4_12A.yaml

@@ -1,20 +1,23 @@
-ItemNo: 3
-PictureFilename:
-- 3_1_Stim.jpg
+FileNo: 5
+PictureFilename: 3_1_Stim.jpg
+SentenceDescription:
+- The chef and the chauffer brought in some groceries.
+- ''
+- ''
+- ''
+- ''
 participantlist:
-- ID:
-  - The chef
+- ID: The chef
   Role: Joint Agent
-- ID:
-  - The chauffer
+- ID: The chauffer
   Role: Joint Agent
-- ID:
-  - Groceries
+- ID: Groceries
   Role: Patient
 pictureconditions:
-- Condition:
-  - Filler
-  Condition Type: Item Filler Condition
+- StimType: Filler
+- Gender Condition: NaN
+- Char Gender Condition: NaN
+- Item Number: '3'
 verbDescription:
 - Bring
 yamlFilename: 3_1_Stim.yaml

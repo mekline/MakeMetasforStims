@@ -1,22 +1,16 @@
-ItemNo: 5
+GroupNo: 1
+ItemNo: 7
 SentenceDescription:
 - The hand turns a crank.
 - The crank is connected to a box.
 - The box is grey.
 - The box is sitting on a table.
 - There is a red rod on the side of the box.
+VersionLabel: CFGU
 movieFilename: CFGU_1.wmv
 participantlist:
 - ID: Hand
   Role: Agent
 - ID: Crank
   Role: Patient
-- ID: ''
-  Role: Instrument
-- ID: ''
-  Role: Theme
-- ID: ''
-  Role: Source
-- ID: ''
-  Role: Goal
 yamlFilename: CFGU_1.yaml

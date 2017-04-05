@@ -1,14 +1,21 @@
-ItemNo: 1
-PictureFilename:
-- 1_2_Stim.jpg
+FileNo: 2
+PictureFilename: 1_2_Stim.jpg
+SentenceDescription:
+- The maid opened the curtains
+- ''
+- ''
+- ''
+- ''
 participantlist:
-- ID:
-  - The maid
+- ID: The maid
   Role: Agent
-- ID:
-  - Curtains
+- ID: Curtains
   Role: Patient
-pictureconditions: []
+pictureconditions:
+- StimType: NaN
+- Gender Condition: NaN
+- Char Gender Condition: NaN
+- Item Number: '1'
 verbDescription:
 - Open
 yamlFilename: 1_2_Stim.yaml

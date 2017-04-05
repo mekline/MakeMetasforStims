@@ -1,11 +1,19 @@
-ItemNo: 2
-PictureFilename:
-- 2_2_Stim.jpg
+FileNo: 4
+PictureFilename: 2_2_Stim.jpg
+SentenceDescription:
+- Sir Barnes threw the painting in a closet.
+- ''
+- ''
+- ''
+- ''
 participantlist:
-- ID:
-  - Painting
+- ID: Painting
   Role: Theme
-pictureconditions: []
+pictureconditions:
+- StimType: NaN
+- Gender Condition: NaN
+- Char Gender Condition: NaN
+- Item Number: '2'
 verbDescription:
 - Throw
 yamlFilename: 2_2_Stim.yaml

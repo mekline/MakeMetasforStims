@@ -1,0 +1,19 @@
+FileNo: 5
+SentenceDescription:
+- The man pops the balloon.
+- The man is holding a pin.
+- The balloon is pink.
+- The balloon is on a table.
+- The man is wearing a blue shirt.
+VerbDescription: Pop
+movieconditions:
+- Item Condition: '1'
+- Change Condition: Train_Intentional
+participantlist:
+- ID: Agent2
+  Role: Agent
+- ID: Pin
+  Role: Instrument
+- ID: Pink Balloon
+  Role: Patient
+yamlFilename: 1_1_1.yaml

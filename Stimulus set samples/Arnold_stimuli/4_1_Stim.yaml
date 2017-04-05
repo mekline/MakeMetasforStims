@@ -1,26 +1,23 @@
-ItemNo: 4
-PictureFilename:
-- 4_1_Stim.jpg
+FileNo: 7
+PictureFilename: 4_1_Stim.jpg
+SentenceDescription:
+- ''
+- The maid accepted some coffee from the butler.
+- ''
+- ''
+- ''
 participantlist:
-- ID:
-  - Coffee
+- ID: Coffee
   Role: Theme
-- ID:
-  - The butler
+- ID: The butler
   Role: Source
-- ID:
-  - The maid
+- ID: The maid
   Role: Goal
 pictureconditions:
-- Condition:
-  - Item
-  Condition Type: Item Filler Condition
-- Condition:
-  - Different
-  Condition Type: Gender Condition
-- Condition:
-  - '-0.5'
-  Condition Type: Char Gender Condition
+- StimType: Item
+- Gender Condition: Different
+- Char Gender Condition: '-0.5'
+- Item Number: '4'
 verbDescription:
 - Accept
 yamlFilename: 4_1_Stim.yaml

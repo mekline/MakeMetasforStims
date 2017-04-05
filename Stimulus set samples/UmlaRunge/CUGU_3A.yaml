@@ -1,22 +1,19 @@
-ItemNo: 9
+GroupNo: 3
+ItemNo: 11
 SentenceDescription:
 - The hand presses the cheese with the spatula.
 - The spatula levels the cheese.
 - The cheese is on a plate.
 - 'The cheese is on a table. '
 - The plate is white.
+VersionLabel: CUGU
+VersionLetter: A
 movieFilename: CUGU_3A.wmv
 participantlist:
 - ID: Hand
   Role: Agent
-- ID: Cheese1?
+- ID: Cheese1
   Role: Patient
 - ID: Spatula1
   Role: Instrument
-- ID: ''
-  Role: Theme
-- ID: ''
-  Role: Source
-- ID: ''
-  Role: Goal
 yamlFilename: CUGU_3A.yaml
