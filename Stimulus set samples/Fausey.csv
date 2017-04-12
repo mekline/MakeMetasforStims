@@ -1,4 +1,4 @@
-fileNo,ItemNo,ChangeCondition,Verb,filename,Agent,Instrument,Patient,Sentence 1,Sentence 2,Sentence 3,Sentence 4,Sentence 5
+fileNo,Condition.ItemNo,ChangeCondition,Verb,filename,Agent,Instrument,Patient,Sentence 1,Sentence 2,Sentence 3,Sentence 4,Sentence 5
 1,1,Test_Intentional,Pop,1_2_1.mov,Agent1,Pin,Pink Balloon,The man pops the balloon.,The man is wearing a green shirt.,The balloon is pink.,The man is holding a pin.,There is a glass bowl on the table.
 2,1,Test_Unintentional,Pop,1_2_2.mov,Agent1,Pin,Pink Balloon,The balloon pops.,The man is wearing a green shirt.,The man jumps up in surprise.,The balloon is pink.,The man is sitting at a table.
 3,15,Test_Intentional,Break,15_2_1.mov,Agent1,,Pencil,The man breaks the pencil.,The man is wearing a green shirt.,The man is sitting at a table.,,

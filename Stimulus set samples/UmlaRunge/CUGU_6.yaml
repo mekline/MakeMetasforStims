@@ -1,16 +1,16 @@
-ItemNo: 12
+GroupNo: 6
+ItemNo: 17
 SentenceDescription:
 - The knife spreads the mayonnaise.
 - The mayonnaise is squeezed onto the bread.
 - The mayonnaise exits the tube.
 - The hand squeezes the tube.
 - The mayonnaise covers the bread.
+VersionLabel: CUGU
 movieFilename: CUGU_6.wmv
 participantlist:
 - ID: Hand
   Role: Agent
-- ID: ''
-  Role: Patient
 - ID: Knife
   Role: Instrument
 - ID: Mayonnaise

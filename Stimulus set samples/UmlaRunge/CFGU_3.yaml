@@ -1,22 +1,18 @@
-ItemNo: 7
+GroupNo: 3
+ItemNo: 9
 SentenceDescription:
 - The dart is stabbed into the dartboard.
 - The hand grips the dart.
 - The dartboard is yellow and black.
 - ''
 - ''
+VersionLabel: CFGU
 movieFilename: CFGU_3.wmv
 participantlist:
 - ID: Hand (blue shirt)
   Role: Agent
-- ID: ''
-  Role: Patient
-- ID: ''
-  Role: Instrument
 - ID: Dart
   Role: Theme
-- ID: ''
-  Role: Source
 - ID: Dartboard
   Role: Goal
 yamlFilename: CFGU_3.yaml

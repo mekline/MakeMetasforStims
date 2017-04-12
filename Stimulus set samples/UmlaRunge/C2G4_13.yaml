@@ -1,22 +1,16 @@
-ItemNo: 4
+GroupNo: 13
+ItemNo: 6
 SentenceDescription:
 - The hand lifts the coffee filter.
 - The coffee filter is full of grinds.
 - The coffee filter exits the coffee maker.
 - The coffee maker is emptied.
 - The coffee maker is open.
+VersionLabel: C2G4
 movieFilename: C2G4_13.wmv
 participantlist:
 - ID: Hand
   Role: Agent
 - ID: Coffe Filter
   Role: Patient
-- ID: ''
-  Role: Instrument
-- ID: ''
-  Role: Theme
-- ID: ''
-  Role: Source
-- ID: ''
-  Role: Goal
 yamlFilename: C2G4_13.yaml

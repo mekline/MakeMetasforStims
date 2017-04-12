@@ -1,10 +1,13 @@
-ItemNo: 11
+GroupNo: 5
+ItemNo: 15
 SentenceDescription:
 - The cigarette burns the newspaper.
 - The cigarette is burning.
 - The newspaper ignights.
 - The hand is holding the cigarette.
 - The newspaper has a tower on it.
+VersionLabel: CUGU
+VersionLetter: A
 movieFilename: CUGU_5A.wmv
 participantlist:
 - ID: Hand
@@ -13,10 +16,4 @@ participantlist:
   Role: Patient
 - ID: Cigarette
   Role: Instrument
-- ID: ''
-  Role: Theme
-- ID: ''
-  Role: Source
-- ID: ''
-  Role: Goal
 yamlFilename: CUGU_5A.yaml

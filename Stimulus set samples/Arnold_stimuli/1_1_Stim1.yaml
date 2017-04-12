@@ -1,20 +1,23 @@
-ItemNo: 1
-PictureFilename:
-- 1_1_Stim1.jpg
+FileNo: 1
+PictureFilename: 1_1_Stim1.jpg
+SentenceDescription:
+- The maid and the  butler made their bed
+- ''
+- ''
+- ''
+- ''
 participantlist:
-- ID:
-  - The maid
+- ID: The maid
   Role: Joint Agent
-- ID:
-  - The butler
+- ID: The butler
   Role: Joint Agent
-- ID:
-  - Bed
+- ID: Bed
   Role: Patient
 pictureconditions:
-- Condition:
-  - Filler
-  Condition Type: Item Filler Condition
+- StimType: Filler
+- Gender Condition: NaN
+- Char Gender Condition: NaN
+- Item Number: '1'
 verbDescription:
 - Make
 yamlFilename: 1_1_Stim1.yaml

@@ -1,14 +1,21 @@
-ItemNo: 3
-PictureFilename:
-- 3_2_Stim.jpg
+FileNo: 6
+PictureFilename: 3_2_Stim.jpg
+SentenceDescription:
+- The chef unpacked the groceries.
+- ''
+- ''
+- ''
+- ''
 participantlist:
-- ID:
-  - The chef
+- ID: The chef
   Role: Agent
-- ID:
-  - Groceries
+- ID: Groceries
   Role: Patient
-pictureconditions: []
+pictureconditions:
+- StimType: NaN
+- Gender Condition: NaN
+- Char Gender Condition: NaN
+- Item Number: '3'
 verbDescription:
 - Unpack
 yamlFilename: 3_2_Stim.yaml

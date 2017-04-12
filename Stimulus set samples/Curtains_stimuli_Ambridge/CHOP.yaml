@@ -1,0 +1,15 @@
+FileNo: 2
+MovieFilename: CHOP.mp4
+SentenceDescription:
+- The knife chops the carrot.
+- The curtain covers the carrot.
+- The curtains close.
+- The curtains are red.
+- The carrot is on the stage.
+participantlist:
+- ID: Carrot
+  Role: Patient
+- ID: Knife
+  Role: Instrument
+verbDescription: Chop
+yamlFilename: CHOP.yaml
