@@ -1,4 +1,3 @@
-GroupNo: 13
 ItemNo: 6
 SentenceDescription:
 - The hand lifts the coffee filter.
@@ -6,7 +5,9 @@ SentenceDescription:
 - The coffee filter exits the coffee maker.
 - The coffee maker is emptied.
 - The coffee maker is open.
-VersionLabel: C2G4
+conditionlist:
+- Movie Set: C2G4
+- Group Number: 13
 movieFilename: C2G4_13.wmv
 participantlist:
 - ID: Hand

@@ -1,4 +1,3 @@
-GroupNo: 5
 ItemNo: 16
 SentenceDescription:
 - The newspaper is smoking.
@@ -6,8 +5,10 @@ SentenceDescription:
 - The cigarette is smoking.
 - The hand holds the cigarette.
 - ''
-VersionLabel: CUGU
-VersionLetter: B
+conditionlist:
+- Version: B
+- Movie Set: CUGU
+- Group Number: 5
 movieFilename: CUGU_5B.wmv
 participantlist:
 - ID: Hand

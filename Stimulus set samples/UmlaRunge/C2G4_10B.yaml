@@ -1,4 +1,3 @@
-GroupNo: 10
 ItemNo: 1
 SentenceDescription:
 - The coffee grinds are dropped out of the scoop.
@@ -6,8 +5,10 @@ SentenceDescription:
 - The coffee maker fills with coffee grinds.
 - The hand is holding a scoop.
 - The scoop empties of coffee grinds.
-VersionLabel: C2G4
-VersionLetter: B
+conditionlist:
+- Version: B
+- Movie Set: C2G4
+- Group Number: 10
 movieFilename: C2G4_10B.wmv
 participantlist:
 - ID: Hand

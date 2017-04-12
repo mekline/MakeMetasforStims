@@ -1,4 +1,3 @@
-GroupNo: 3
 ItemNo: 9
 SentenceDescription:
 - The dart is stabbed into the dartboard.
@@ -6,7 +5,9 @@ SentenceDescription:
 - The dartboard is yellow and black.
 - ''
 - ''
-VersionLabel: CFGU
+conditionlist:
+- Movie Set: CFGU
+- Group Number: 3
 movieFilename: CFGU_3.wmv
 participantlist:
 - ID: Hand (blue shirt)

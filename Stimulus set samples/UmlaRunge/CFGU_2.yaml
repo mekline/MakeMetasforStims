@@ -1,4 +1,3 @@
-GroupNo: 2
 ItemNo: 8
 SentenceDescription:
 - The chalk draws on the whiteboard.
@@ -6,7 +5,9 @@ SentenceDescription:
 - The chalkboard is green.
 - The chalk leaves an S on the whiteboard.
 - The hand grips the chalk.
-VersionLabel: CFGU
+conditionlist:
+- Movie Set: CFGU
+- Group Number: 2
 movieFilename: CFGU_2.wmv
 participantlist:
 - ID: Hand

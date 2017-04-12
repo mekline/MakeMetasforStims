@@ -1,4 +1,3 @@
-GroupNo: 1
 ItemNo: 7
 SentenceDescription:
 - The hand turns a crank.
@@ -6,7 +5,9 @@ SentenceDescription:
 - The box is grey.
 - The box is sitting on a table.
 - There is a red rod on the side of the box.
-VersionLabel: CFGU
+conditionlist:
+- Movie Set: CFGU
+- Group Number: 1
 movieFilename: CFGU_1.wmv
 participantlist:
 - ID: Hand

@@ -1,4 +1,3 @@
-GroupNo: 5
 ItemNo: 15
 SentenceDescription:
 - The cigarette burns the newspaper.
@@ -6,8 +5,10 @@ SentenceDescription:
 - The newspaper ignights.
 - The hand is holding the cigarette.
 - The newspaper has a tower on it.
-VersionLabel: CUGU
-VersionLetter: A
+conditionlist:
+- Version: A
+- Movie Set: CUGU
+- Group Number: 5
 movieFilename: CUGU_5A.wmv
 participantlist:
 - ID: Hand
