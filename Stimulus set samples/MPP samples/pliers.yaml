@@ -1,0 +1,18 @@
+FileNo: 31
+SentenceDescription:
+- The monster is going to goss the tablecloth.
+- The monster gossed the tablecloth.
+- ''
+- ''
+- ''
+conditionlist:
+- Means: ''
+- Outcome: rip
+- Novelverb: gossing
+moviefilename: pliers.rip.tablecloth.5s.mov
+participantlist:
+- Agent: Agent1
+- Patient: tablecloth
+- Instrument: purple_pliers
+yamlFilename: pliers.yaml
+yaml

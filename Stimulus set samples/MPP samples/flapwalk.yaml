@@ -1,0 +1,15 @@
+FileNo: 25
+SentenceDescription:
+- The monster is going to glip down to the scarecrow.
+- The monster glipped down to the frog.
+- ''
+- ''
+- ''
+conditionlist:
+- Means: ''
+- Domain: Motion
+moviefilename: flapwalk.down.frog.5s.mov
+participantlist:
+- Agent: Agent2
+- GroundObject: frog
+yamlFilename: flapwalk.yaml

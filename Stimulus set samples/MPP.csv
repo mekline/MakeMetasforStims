@@ -1,0 +1,39 @@
+FileNo,Filename,Condition.Means,Condition.Outcome,Condition.Novelverb,Condition.domain,Agent,Patient,Instrument,Ground_object,Sentence 1,Sentence 2,Sentence 3,Sentence 4,Sentence 5
+1,bat.break.record.5s.mov,bat,break,blicking,CoS,Agent1,Record,puprle_bat,,The monster blicked the record.,The monster is going to blick the record.,,,
+2,bat.crush.nuts.5s.mov,bat,crush,blicking,CoS,Agent1,Nuts,lbrown_bat,,The monster is going to blick the nuts.,The monster blicked the nuts.,,,
+3,bat.cut.bagel.5s.mov,bat,bat,blicking,CoS,Agent1,bagel,blue_bat,,The monster is going to blick the bagel. ,The monster blicked the bagel. ,,,
+4,bat.flatten.cupcake.5s.mov,bat,bat,blicking,CoS,Agent1,cupcake,lbrown_bat,,The monster is going to blick the cupcake.,The monster blicked the cupcake. ,The cupcake has a cherry on top.,The monster hits the cupcake with the bat.,The monster is holding a brown bat.
+5,bat.open.babybottle.5s.mov,bat,bat,blicking,CoS,Agent1,babybottle,dbrown_bat,,The monster is going to blick the babybottle.,The monster blicked the babybottle.,The monster is holding a brown bat.,The monster taps the babybottle,The top falls off the babybottle.
+6,bat.rip.kite.5s.mov,bat,rip,gossing,CoS,Agent1,kite,orange_bat,,The monster is going to goss the kite.,The monster gossed the kite.,,,
+7,comb.bend.coathanger.5s.mov,comb,comb,gossing,CoS,Agent1,coathanger,pink_comb,,The monster is going to goss the coat hanger.,The monster gossed the coat hanger.,The wire hanger is bent.,The monster uses a pink comb.,The monster waves the comb.
+8,comb.break.cookies.5s.mov,comb,break,blicking,CoS,Agent1,cookies,purple_comb,,The monster is going to blick the cookies.,The monster blicked the cookies.,There are cookies on the table.,The cookies break.,The monster is holding a purple comb.
+9,comb.empty.bowl.5s.mov,comb,comb,gossing,CoS,Agent1,bowl,pink_comb,,The monster is going to goss the bowl. ,The monster gossed the bowl. ,There is a bowl on the table.,The monster tips the bowl.,The bowl empties onto the table.
+10,comb.flatten.burger.5s.mov,comb,comb,gossing,CoS,Agent1,burger,black_comb,,The monster is going to goss the burger.,The monster gossed the burger.,,,
+11,comb.open.book.5s.mov,comb,comb,gossing,CoS,Agent1,book,blue_comb,,The monster is going to goss the book.,The monster gossed the book.,The monster is standing in a library.,There is a book on the table.,The monster opens a book with a comb.
+12,comb.rip.armchair.5s.mov,comb,rip,gossing,CoS,Agent1,armchair,pink_comb,,The monster is going to goss the armchair.,The monster gossed the armchair.,,,
+13,crabwalk.down.birdhouse.5s.mov,crabwalk,crabwalk,krading,Motion,Agent2,,,birdhouse,The monster is going to krade down to the birdhouse,The monster kraded down to the birdhouse.,,,
+14,crabwalk.front.bell.5s.mov,crabwalk,front,krading,Motion,Agent2,,,bell,The monster is going to krade in front of the bell.,The monster kraded in front of the bell.,The monster is crabwalking on the ground. ,There is a brown bell.,The monster is facing upwards.
+15,crabwalk.into.garage.5s.mov,crabwalk,into,krading,Motion,Agent2,,,garage,The monster is going to krade into the garage.,The monster is going to krade into the garage.,,,
+16,crabwalk.through.tunnel.5s.mov,crabwalk,through,krading,Motion,Agent2,,,tunnel,The monster is going to krade through the tunnel.,The monster kraded through the tunnel.,,,
+17,crabwalk.up.cat.5s.mov,crabwalk,up,krading,Motion,Agent2,,,,NoSentence,The monster crabwalks up a hill.,There is a grey cat in the tree.,The tree is on top of the hill.,The cat is sitting in the tree.
+18,crabwalk.up.policebox.5s.mov,crabwalk,up,krading,Motion,Agent2,,,policebox,The monster is going to krade up the policebox.,The monster kraded up the policebox.,,,
+19,crawl.between.mailboxes.5s.mov,crawl,between,glipping,Motion,Agent2,,,mailbox,The monster is going to glip between the mailboxes.,The monster glipped between the mailboxes.,The monster is crawling on the ground.,The monster crawls along the path.,There are two brown mailboxes on each side of the path.
+20,crawl.down.clown.5s.mov,crawl,down,glipping,Motion,Agent2,,,clown,The monster is going to glip down to the clown.,The monster glipped down to the clown.,The monster moves down the hill.,There is a clown at the bottom of the hill.,The monster is crawling on all-fours.
+21,crawl.into.cave.5s.mov,crawl,into,glipping,Motion,Agent2,,,cave,The monster is going to glip into the cave.,The monster glipped into the cave.,,,
+22,crawl.over.mountain.5s.mov,crawl,over,glipping,Motion,Agent2,,,mountain,The monster is going to glip over the mountain.,The monster glipped over the mountain.,,,
+23,crawl.up.bus.mov,crawl,up,glipping,Motion,Agent2,,,,NoSentence,The monster moves up the hill.,The monster is on all-fours.,There is a yellow bus on top of the hill.,The bus is sitting still.
+24,crawl.up.scarecrow.5s.mov,crawl,up,glipping,Motion,Agent2,,,scarecrow,The monster is going to glip up the scarecrow.,The monster glipped up the scarecrow.,The monster is walking on all fours.,The scarecrow is on top of the hill.,The monster crawls up the hill.
+25,flapwalk.down.frog.5s.mov,,down,glipping,Motion,Agent2,,,frog,The monster is going to glip down to the scarecrow.,The monster glipped down to the frog.,The monster is walking with its arms raised.,The frog is sitting on a lillypad.,The frog is at the bottom of the hill.
+26,hammer.break.bone.5s.mov,,break,blicking,CoS,Agent1,bone,lblue_hammer,,The monster is going to blick the bone.,The monster is blicking the bone.,,,
+27,hammer.rip.shirt.5s.mov,,rip,gossing,CoS,Agent1,shirt,dblue_hammer,,The monster is going to goss the shirt.,The monster gossed the shirt.,The shirt is sitting on a table.,The shirt is light blue.,The monster lowers and raises the hammer.
+28,hop.into.cabin.5s.mov,,into,krading,Motion,Agent2,,,cabin,The monster is going to krade into the cabin.,The monster kraded into the cabin.,The monster enters the cabin.,There is a brown log cabin.,The inside of the cabin is black.
+29,knife.break.frame.5s.mov,,break,blicking,CoS,Agent1,frame,knife,,The monster is going to blick the frame.,The monster blicked the frame.,The picture frame is sitting on a table.,The glass breaks.,The monster waves a knife.
+30,pliers.break.eyeglasses.5s.mov,,break,blicking,CoS,Agent1,eyeglasses,blue_pliers,,The monster is going to blick the eyeglasses.,The monster blicked the eyeglasses.,The monster hits the glasses with the pliers.,The glasses break in the middle.,The pliers are blue.
+31,pliers.rip.tablecloth.5s.mov,,rip,gossing,CoS,Agent1,tablecloth,purple_pliers,,The monster is going to goss the tablecloth.,The monster gossed the tablecloth.,,,
+32,poker.rip.pants.5s.mov,,rip,gossing,CoS,Agent1,pants,poker,,The monster is going to goss the pants.,The monster gossed the pants.,There are blue pants on the ground. ,The monster is holding a black poker.,The monster rubs the poker against the pants.
+33,roll.down.eagle.5s.mov,,down,glipping,Motion,Agent2,,,eagle,The monster is going to glip down to the eage.,The monster glipped down to the eagle.,,,
+34,roll.into.tower.5s.mov,,into,krading,Motion,Agent2,,,tower,The monster is going to krade into the tower.,The monster kraded into the tower.,,,
+35,stoopwalk.down.lamp.5s.mov,,down,glipping,Motion,Agent2,,,lamp,The monster is going to glip down to the lamp.,The monster glipped down to the lamp.,,,
+36,stoopwalk.into.barn.5s.mov,,into,krading,Motion,Agent2,,,barn,The monster is going to krade into the barn.,The monster kraded into the barn.,The monster enters a red barn.,The monster is hunched over.,The monster walks over to the red barn.
+37,tiptoe.down.dog.5s.mov,,down,glipping,Motion,Agent2,,,dog,The monster is going to glip down to the dog.,The monster glipped down to the dog.,,,
+38,walk.into.castle.5s.mov,,into,krading,Motion,Agent2,,,castle,The monster is going to krade into the castle.,The monster kraded into the castle.,,,

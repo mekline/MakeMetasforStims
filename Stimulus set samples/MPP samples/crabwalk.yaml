@@ -1,0 +1,15 @@
+FileNo: 18
+SentenceDescription:
+- The monster is going to krade up the policebox.
+- The monster kraded up the policebox.
+- ''
+- ''
+- ''
+conditionlist:
+- Means: crabwalk
+- Domain: Motion
+moviefilename: crabwalk.up.policebox.5s.mov
+participantlist:
+- Agent: Agent2
+- GroundObject: policebox
+yamlFilename: crabwalk.yaml

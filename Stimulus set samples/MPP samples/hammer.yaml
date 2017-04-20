@@ -1,0 +1,18 @@
+FileNo: 27
+SentenceDescription:
+- The monster is going to goss the shirt.
+- The monster gossed the shirt.
+- ''
+- ''
+- ''
+conditionlist:
+- Means: ''
+- Outcome: rip
+- Novelverb: gossing
+moviefilename: hammer.rip.shirt.5s.mov
+participantlist:
+- Agent: Agent1
+- Patient: shirt
+- Instrument: dblue_hammer
+yamlFilename: hammer.yaml
+r.yaml

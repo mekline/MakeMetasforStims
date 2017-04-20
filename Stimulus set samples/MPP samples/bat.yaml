@@ -1,0 +1,19 @@
+FileNo: 6
+SentenceDescription:
+- The monster is going to goss the kite.
+- The monster gossed the kite.
+- ''
+- ''
+- ''
+conditionlist:
+- Means: bat
+- Outcome: rip
+- Novelverb: gossing
+moviefilename: bat.rip.kite.5s.mov
+participantlist:
+- Agent: Agent1
+- Patient: kite
+- Instrument: orange_bat
+yamlFilename: bat.yaml
+_bat
+yamlFilename: bat.yaml

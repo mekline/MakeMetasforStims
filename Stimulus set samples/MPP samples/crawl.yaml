@@ -1,0 +1,15 @@
+FileNo: 24
+SentenceDescription:
+- The monster is going to glip up the scarecrow.
+- The monster glipped up the scarecrow.
+- ''
+- ''
+- ''
+conditionlist:
+- Means: crawl
+- Domain: Motion
+moviefilename: crawl.up.scarecrow.5s.mov
+participantlist:
+- Agent: Agent2
+- GroundObject: scarecrow
+yamlFilename: crawl.yaml

@@ -1,0 +1,17 @@
+FileNo: 12
+SentenceDescription:
+- The monster is going to goss the armchair.
+- The monster gossed the armchair.
+- ''
+- ''
+- ''
+conditionlist:
+- Means: comb
+- Outcome: rip
+- Novelverb: gossing
+moviefilename: comb.rip.armchair.5s.mov
+participantlist:
+- Agent: Agent1
+- Patient: armchair
+- Instrument: pink_comb
+yamlFilename: comb.yaml

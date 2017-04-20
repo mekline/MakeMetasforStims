@@ -1,0 +1,15 @@
+FileNo: 28
+SentenceDescription:
+- The monster is going to krade into the cabin.
+- The monster kraded into the cabin.
+- ''
+- ''
+- ''
+conditionlist:
+- Means: ''
+- Domain: Motion
+moviefilename: hop.into.cabin.5s.mov
+participantlist:
+- Agent: Agent2
+- GroundObject: cabin
+yamlFilename: hop.yaml

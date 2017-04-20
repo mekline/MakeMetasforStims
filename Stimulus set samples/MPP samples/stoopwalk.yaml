@@ -1,0 +1,16 @@
+FileNo: 36
+SentenceDescription:
+- The monster is going to krade into the barn.
+- The monster kraded into the barn.
+- ''
+- ''
+- ''
+conditionlist:
+- Means: ''
+- Domain: Motion
+moviefilename: stoopwalk.into.barn.5s.mov
+participantlist:
+- Agent: Agent2
+- GroundObject: barn
+yamlFilename: stoopwalk.yaml
+.yaml
