@@ -6,7 +6,9 @@ SentenceDescription:
 - The dog is at the bottom of the stairs.
 - The monster stops in front of the dog.
 conditionlist:
-- Means: ''
+- Means: tiptoe
+- Outcome: down
+- Novelverb: glipping
 - Domain: Motion
 moviefilename: tiptoe.down.dog.5s.mov
 participantlist:

@@ -6,7 +6,9 @@ SentenceDescription:
 - There is a brown log cabin.
 - The inside of the cabin is black.
 conditionlist:
-- Means: ''
+- Means: hop
+- Outcome: into
+- Novelverb: krading
 - Domain: Motion
 moviefilename: hop.into.cabin.5s.mov
 participantlist:

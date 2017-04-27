@@ -6,9 +6,10 @@ SentenceDescription:
 - The shirt is light blue.
 - The monster lowers and raises the hammer.
 conditionlist:
-- Means: ''
+- Means: hammer
 - Outcome: rip
 - Novelverb: gossing
+- Domain: CoS
 moviefilename: hammer.rip.shirt.5s.mov
 participantlist:
 - Agent: Agent1

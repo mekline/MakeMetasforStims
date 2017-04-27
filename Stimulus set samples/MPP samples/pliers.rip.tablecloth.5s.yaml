@@ -6,9 +6,10 @@ SentenceDescription:
 - The monster uses pliers.
 - The tablecloth is covering a table.
 conditionlist:
-- Means: ''
+- Means: pliers
 - Outcome: rip
 - Novelverb: gossing
+- Domain: CoS
 moviefilename: pliers.rip.tablecloth.5s.mov
 participantlist:
 - Agent: Agent1

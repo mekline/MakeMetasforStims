@@ -6,7 +6,9 @@ SentenceDescription:
 - The monster is hunched over.
 - The monster walks over to the red barn.
 conditionlist:
-- Means: ''
+- Means: stoopwalk
+- Outcome: into
+- Novelverb: krading
 - Domain: Motion
 moviefilename: stoopwalk.into.barn.5s.mov
 participantlist:

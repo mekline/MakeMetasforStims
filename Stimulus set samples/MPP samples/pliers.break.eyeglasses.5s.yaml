@@ -6,9 +6,10 @@ SentenceDescription:
 - The glasses break in the middle.
 - The pliers are blue.
 conditionlist:
-- Means: ''
+- Means: pliers
 - Outcome: break
 - Novelverb: blicking
+- Domain: CoS
 moviefilename: pliers.break.eyeglasses.5s.mov
 participantlist:
 - Agent: Agent1

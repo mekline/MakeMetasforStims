@@ -6,7 +6,9 @@ SentenceDescription:
 - The frog is sitting on a lillypad.
 - The frog is at the bottom of the hill.
 conditionlist:
-- Means: ''
+- Means: flapwalk
+- Outcome: down
+- Novelverb: glipping
 - Domain: Motion
 moviefilename: flapwalk.down.frog.5s.mov
 participantlist:

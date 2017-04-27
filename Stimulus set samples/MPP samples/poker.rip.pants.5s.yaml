@@ -6,9 +6,10 @@ SentenceDescription:
 - The monster is holding a black poker.
 - The monster rubs the poker against the pants.
 conditionlist:
-- Means: ''
+- Means: poker
 - Outcome: rip
 - Novelverb: gossing
+- Domain: CoS
 moviefilename: poker.rip.pants.5s.mov
 participantlist:
 - Agent: Agent1

@@ -9,6 +9,7 @@ conditionlist:
 - Means: comb
 - Outcome: break
 - Novelverb: blicking
+- Domain: CoS
 moviefilename: comb.break.cookies.5s.mov
 participantlist:
 - Agent: Agent1

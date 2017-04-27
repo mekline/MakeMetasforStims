@@ -41,9 +41,8 @@ def convert_to_yaml(line,counter):
 	possibleconditions = [Means, Outcome, Novelverb, Domain]
 	conditionlabel = ['Means', 'Outcome', 'Novelverb', 'Domain']
 	for i in xrange(0,len(possibleconditions)):
-		if possibleroles[i] != '':
-			newcondition = {conditionlabel[i]: possibleconditions[i]}
-			conditionlist.append(newcondition)
+		newcondition = {conditionlabel[i]: possibleconditions[i]}
+		conditionlist.append(newcondition)
 	movie_item.update({'conditionlist': conditionlist})
 
 	movie_items.append(movie_item)

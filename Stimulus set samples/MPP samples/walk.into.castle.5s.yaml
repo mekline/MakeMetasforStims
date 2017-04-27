@@ -6,7 +6,9 @@ SentenceDescription:
 - The monster enters the castle.
 - The castle is white and gold.
 conditionlist:
-- Means: ''
+- Means: walk
+- Outcome: into
+- Novelverb: krading
 - Domain: Motion
 moviefilename: walk.into.castle.5s.mov
 participantlist:

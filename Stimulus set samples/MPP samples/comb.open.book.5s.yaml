@@ -9,6 +9,7 @@ conditionlist:
 - Means: comb
 - Outcome: comb
 - Novelverb: gossing
+- Domain: CoS
 moviefilename: comb.open.book.5s.mov
 participantlist:
 - Agent: Agent1

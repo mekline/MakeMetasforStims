@@ -6,7 +6,9 @@ SentenceDescription:
 - The monster stops at the bottom of the hill.
 - The eagle is at the bottom of the hill.
 conditionlist:
-- Means: ''
+- Means: roll
+- Outcome: down
+- Novelverb: glipping
 - Domain: Motion
 moviefilename: roll.down.eagle.5s.mov
 participantlist:

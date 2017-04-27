@@ -6,9 +6,10 @@ SentenceDescription:
 - The glass breaks.
 - The monster waves a knife.
 conditionlist:
-- Means: ''
+- Means: knife
 - Outcome: break
 - Novelverb: blicking
+- Domain: CoS
 moviefilename: knife.break.frame.5s.mov
 participantlist:
 - Agent: Agent1

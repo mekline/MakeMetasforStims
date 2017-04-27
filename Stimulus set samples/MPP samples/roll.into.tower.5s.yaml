@@ -6,7 +6,9 @@ SentenceDescription:
 - The monster rolls along the path.
 - The monster enters the tower.
 conditionlist:
-- Means: ''
+- Means: roll
+- Outcome: into
+- Novelverb: krading
 - Domain: Motion
 moviefilename: roll.into.tower.5s.mov
 participantlist:

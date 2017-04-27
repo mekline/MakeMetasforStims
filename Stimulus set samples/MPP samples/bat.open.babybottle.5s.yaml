@@ -9,6 +9,7 @@ conditionlist:
 - Means: bat
 - Outcome: bat
 - Novelverb: blicking
+- Domain: CoS
 moviefilename: bat.open.babybottle.5s.mov
 participantlist:
 - Agent: Agent1

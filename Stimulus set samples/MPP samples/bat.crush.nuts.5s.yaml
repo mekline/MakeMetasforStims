@@ -9,6 +9,7 @@ conditionlist:
 - Means: bat
 - Outcome: crush
 - Novelverb: blicking
+- Domain: CoS
 moviefilename: bat.crush.nuts.5s.mov
 participantlist:
 - Agent: Agent1

@@ -7,6 +7,8 @@ SentenceDescription:
 - The monster crawls up the hill.
 conditionlist:
 - Means: crawl
+- Outcome: up
+- Novelverb: glipping
 - Domain: Motion
 moviefilename: crawl.up.scarecrow.5s.mov
 participantlist:

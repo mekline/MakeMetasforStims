@@ -7,6 +7,8 @@ SentenceDescription:
 - The monster is crawling on all-fours.
 conditionlist:
 - Means: crawl
+- Outcome: down
+- Novelverb: glipping
 - Domain: Motion
 moviefilename: crawl.down.clown.5s.mov
 participantlist:

@@ -9,6 +9,7 @@ conditionlist:
 - Means: bat
 - Outcome: break
 - Novelverb: blicking
+- Domain: CoS
 moviefilename: bat.break.record.5s.mov
 participantlist:
 - Agent: Agent1

@@ -9,6 +9,7 @@ conditionlist:
 - Means: comb
 - Outcome: rip
 - Novelverb: gossing
+- Domain: CoS
 moviefilename: comb.rip.armchair.5s.mov
 participantlist:
 - Agent: Agent1

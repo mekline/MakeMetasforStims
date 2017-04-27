@@ -6,7 +6,9 @@ SentenceDescription:
 - The monster walks down the hill.
 - The lamp is at the bottom of the hill.
 conditionlist:
-- Means: ''
+- Means: stoopwalk
+- Outcome: down
+- Novelverb: glipping
 - Domain: Motion
 moviefilename: stoopwalk.down.lamp.5s.mov
 participantlist:

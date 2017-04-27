@@ -7,6 +7,8 @@ SentenceDescription:
 - The mountain is snow-capped.
 conditionlist:
 - Means: crawl
+- Outcome: over
+- Novelverb: glipping
 - Domain: Motion
 moviefilename: crawl.over.mountain.5s.mov
 participantlist:

@@ -7,6 +7,8 @@ SentenceDescription:
 - The monster crabwalks on the path.
 conditionlist:
 - Means: crabwalk
+- Outcome: through
+- Novelverb: krading
 - Domain: Motion
 moviefilename: crabwalk.through.tunnel.5s.mov
 participantlist:

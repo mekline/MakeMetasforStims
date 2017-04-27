@@ -6,9 +6,10 @@ SentenceDescription:
 - The bone breaks.
 - The monster uses a blue hammer.
 conditionlist:
-- Means: ''
+- Means: hammer
 - Outcome: break
 - Novelverb: blicking
+- Domain: CoS
 moviefilename: hammer.break.bone.5s.mov
 participantlist:
 - Agent: Agent1

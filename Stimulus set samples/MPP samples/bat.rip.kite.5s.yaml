@@ -9,6 +9,7 @@ conditionlist:
 - Means: bat
 - Outcome: rip
 - Novelverb: gossing
+- Domain: CoS
 moviefilename: bat.rip.kite.5s.mov
 participantlist:
 - Agent: Agent1

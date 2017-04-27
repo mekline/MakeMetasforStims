@@ -7,6 +7,8 @@ SentenceDescription:
 - There are two brown mailboxes on each side of the path.
 conditionlist:
 - Means: crawl
+- Outcome: between
+- Novelverb: glipping
 - Domain: Motion
 moviefilename: crawl.between.mailboxes.5s.mov
 participantlist:

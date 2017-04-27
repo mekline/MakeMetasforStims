@@ -7,6 +7,8 @@ SentenceDescription:
 - The monster enters the cave.
 conditionlist:
 - Means: crawl
+- Outcome: into
+- Novelverb: glipping
 - Domain: Motion
 moviefilename: crawl.into.cave.5s.mov
 participantlist:

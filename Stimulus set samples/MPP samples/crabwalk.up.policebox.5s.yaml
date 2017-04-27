@@ -7,6 +7,8 @@ SentenceDescription:
 - The monster crabwalks up the hill.
 conditionlist:
 - Means: crabwalk
+- Outcome: up
+- Novelverb: krading
 - Domain: Motion
 moviefilename: crabwalk.up.policebox.5s.mov
 participantlist:
