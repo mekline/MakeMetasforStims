@@ -2,9 +2,9 @@ FileNo: 36
 SentenceDescription:
 - The monster is going to krade into the barn.
 - The monster kraded into the barn.
-- ''
-- ''
-- ''
+- The monster enters a red barn.
+- The monster is hunched over.
+- The monster walks over to the red barn.
 conditionlist:
 - Means: ''
 - Domain: Motion
@@ -13,4 +13,4 @@ participantlist:
 - Agent: Agent2
 - GroundObject: barn
 yamlFilename: stoopwalk.yaml
-.yaml
+walk.yaml

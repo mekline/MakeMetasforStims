@@ -2,9 +2,9 @@ FileNo: 27
 SentenceDescription:
 - The monster is going to goss the shirt.
 - The monster gossed the shirt.
-- ''
-- ''
-- ''
+- The shirt is sitting on a table.
+- The shirt is light blue.
+- The monster lowers and raises the hammer.
 conditionlist:
 - Means: ''
 - Outcome: rip
@@ -15,4 +15,3 @@ participantlist:
 - Patient: shirt
 - Instrument: dblue_hammer
 yamlFilename: hammer.yaml
-r.yaml

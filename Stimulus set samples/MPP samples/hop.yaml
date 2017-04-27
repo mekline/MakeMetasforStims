@@ -2,9 +2,9 @@ FileNo: 28
 SentenceDescription:
 - The monster is going to krade into the cabin.
 - The monster kraded into the cabin.
-- ''
-- ''
-- ''
+- The monster enters the cabin.
+- There is a brown log cabin.
+- The inside of the cabin is black.
 conditionlist:
 - Means: ''
 - Domain: Motion

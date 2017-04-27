@@ -2,9 +2,9 @@ FileNo: 38
 SentenceDescription:
 - The monster is going to krade into the castle.
 - The monster kraded into the castle.
-- ''
-- ''
-- ''
+- The monster walks along the ground.
+- The monster enters the castle.
+- The castle is white and gold.
 conditionlist:
 - Means: ''
 - Domain: Motion

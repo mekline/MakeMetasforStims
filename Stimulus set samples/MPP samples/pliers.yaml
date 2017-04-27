@@ -2,9 +2,9 @@ FileNo: 31
 SentenceDescription:
 - The monster is going to goss the tablecloth.
 - The monster gossed the tablecloth.
-- ''
-- ''
-- ''
+- The red tablecloth rips.
+- The monster uses pliers.
+- The tablecloth is covering a table.
 conditionlist:
 - Means: ''
 - Outcome: rip
@@ -15,4 +15,4 @@ participantlist:
 - Patient: tablecloth
 - Instrument: purple_pliers
 yamlFilename: pliers.yaml
-yaml
+ename: pliers.yaml

@@ -2,9 +2,9 @@ FileNo: 37
 SentenceDescription:
 - The monster is going to glip down to the dog.
 - The monster glipped down to the dog.
-- ''
-- ''
-- ''
+- The monster tiptoes down the stairs.
+- The dog is at the bottom of the stairs.
+- The monster stops in front of the dog.
 conditionlist:
 - Means: ''
 - Domain: Motion

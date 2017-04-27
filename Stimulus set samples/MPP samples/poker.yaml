@@ -2,9 +2,9 @@ FileNo: 32
 SentenceDescription:
 - The monster is going to goss the pants.
 - The monster gossed the pants.
-- ''
-- ''
-- ''
+- 'There are blue pants on the ground. '
+- The monster is holding a black poker.
+- The monster rubs the poker against the pants.
 conditionlist:
 - Means: ''
 - Outcome: rip

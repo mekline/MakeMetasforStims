@@ -2,9 +2,9 @@ FileNo: 18
 SentenceDescription:
 - The monster is going to krade up the policebox.
 - The monster kraded up the policebox.
-- ''
-- ''
-- ''
+- The policebox is at the top of a hill.
+- The monster crabwalks on the black path.
+- The monster crabwalks up the hill.
 conditionlist:
 - Means: crabwalk
 - Domain: Motion
