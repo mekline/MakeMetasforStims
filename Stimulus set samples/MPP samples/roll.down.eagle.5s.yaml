@@ -1,0 +1,15 @@
+FileNo: 33
+SentenceDescription:
+- The monster is going to glip down to the eage.
+- The monster glipped down to the eagle.
+- The monster rolls down the hill.
+- The monster stops at the bottom of the hill.
+- The eagle is at the bottom of the hill.
+conditionlist:
+- Means: ''
+- Domain: Motion
+moviefilename: roll.down.eagle.5s.mov
+participantlist:
+- Agent: Agent2
+- GroundObject: eagle
+yamlFilename: roll.down.eagle.5s.yaml

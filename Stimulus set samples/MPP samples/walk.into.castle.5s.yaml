@@ -1,0 +1,15 @@
+FileNo: 38
+SentenceDescription:
+- The monster is going to krade into the castle.
+- The monster kraded into the castle.
+- The monster walks along the ground.
+- The monster enters the castle.
+- The castle is white and gold.
+conditionlist:
+- Means: ''
+- Domain: Motion
+moviefilename: walk.into.castle.5s.mov
+participantlist:
+- Agent: Agent2
+- GroundObject: castle
+yamlFilename: walk.into.castle.5s.yaml

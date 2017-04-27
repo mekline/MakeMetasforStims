@@ -1,0 +1,17 @@
+FileNo: 30
+SentenceDescription:
+- The monster is going to blick the eyeglasses.
+- The monster blicked the eyeglasses.
+- The monster hits the glasses with the pliers.
+- The glasses break in the middle.
+- The pliers are blue.
+conditionlist:
+- Means: ''
+- Outcome: break
+- Novelverb: blicking
+moviefilename: pliers.break.eyeglasses.5s.mov
+participantlist:
+- Agent: Agent1
+- Patient: eyeglasses
+- Instrument: blue_pliers
+yamlFilename: pliers.break.eyeglasses.5s.yaml

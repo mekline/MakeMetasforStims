@@ -1,0 +1,15 @@
+FileNo: 13
+SentenceDescription:
+- The monster is going to krade down to the birdhouse
+- The monster kraded down to the birdhouse.
+- The monster crabwalks down the path.
+- The birdhouse is at the bottom of the hill.
+- The path is grey.
+conditionlist:
+- Means: crabwalk
+- Domain: Motion
+moviefilename: crabwalk.down.birdhouse.5s.mov
+participantlist:
+- Agent: Agent2
+- GroundObject: birdhouse
+yamlFilename: crabwalk.down.birdhouse.5s.yaml

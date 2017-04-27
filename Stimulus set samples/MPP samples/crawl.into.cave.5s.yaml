@@ -1,0 +1,15 @@
+FileNo: 21
+SentenceDescription:
+- The monster is going to glip into the cave.
+- The monster glipped into the cave.
+- The monster walks on all-fours.
+- The monster crawls on the grass.
+- The monster enters the cave.
+conditionlist:
+- Means: crawl
+- Domain: Motion
+moviefilename: crawl.into.cave.5s.mov
+participantlist:
+- Agent: Agent2
+- GroundObject: cave
+yamlFilename: crawl.into.cave.5s.yaml

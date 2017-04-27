@@ -1,0 +1,15 @@
+FileNo: 34
+SentenceDescription:
+- The monster is going to krade into the tower.
+- The monster kraded into the tower.
+- The path leads to the tower.
+- The monster rolls along the path.
+- The monster enters the tower.
+conditionlist:
+- Means: ''
+- Domain: Motion
+moviefilename: roll.into.tower.5s.mov
+participantlist:
+- Agent: Agent2
+- GroundObject: tower
+yamlFilename: roll.into.tower.5s.yaml

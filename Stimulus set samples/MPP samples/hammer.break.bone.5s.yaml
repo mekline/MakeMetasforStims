@@ -1,0 +1,17 @@
+FileNo: 26
+SentenceDescription:
+- The monster is going to blick the bone.
+- The monster is blicking the bone.
+- The monster hits the bone with the hammer.
+- The bone breaks.
+- The monster uses a blue hammer.
+conditionlist:
+- Means: ''
+- Outcome: break
+- Novelverb: blicking
+moviefilename: hammer.break.bone.5s.mov
+participantlist:
+- Agent: Agent1
+- Patient: bone
+- Instrument: lblue_hammer
+yamlFilename: hammer.break.bone.5s.yaml

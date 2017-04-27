@@ -1,0 +1,17 @@
+FileNo: 2
+SentenceDescription:
+- The monster is going to blick the nuts.
+- The monster blicked the nuts.
+- The monster smashes the nuts.
+- The monster hits the nuts with the bat.
+- The monster is holding a brown bat.
+conditionlist:
+- Means: bat
+- Outcome: crush
+- Novelverb: blicking
+moviefilename: bat.crush.nuts.5s.mov
+participantlist:
+- Agent: Agent1
+- Patient: Nuts
+- Instrument: lbrown_bat
+yamlFilename: bat.crush.nuts.5s.yaml

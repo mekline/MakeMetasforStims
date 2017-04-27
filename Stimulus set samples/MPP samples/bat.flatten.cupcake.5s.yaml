@@ -1,0 +1,17 @@
+FileNo: 4
+SentenceDescription:
+- The monster is going to blick the cupcake.
+- 'The monster blicked the cupcake. '
+- The cupcake has a cherry on top.
+- The monster hits the cupcake with the bat.
+- The monster is holding a brown bat.
+conditionlist:
+- Means: bat
+- Outcome: bat
+- Novelverb: blicking
+moviefilename: bat.flatten.cupcake.5s.mov
+participantlist:
+- Agent: Agent1
+- Patient: cupcake
+- Instrument: lbrown_bat
+yamlFilename: bat.flatten.cupcake.5s.yaml

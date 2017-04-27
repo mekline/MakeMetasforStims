@@ -1,0 +1,17 @@
+FileNo: 3
+SentenceDescription:
+- 'The monster is going to blick the bagel. '
+- 'The monster blicked the bagel. '
+- The bagel splits in two.
+- The monster is holding a blue bat.
+- The monster uses the bat.
+conditionlist:
+- Means: bat
+- Outcome: bat
+- Novelverb: blicking
+moviefilename: bat.cut.bagel.5s.mov
+participantlist:
+- Agent: Agent1
+- Patient: bagel
+- Instrument: blue_bat
+yamlFilename: bat.cut.bagel.5s.yaml

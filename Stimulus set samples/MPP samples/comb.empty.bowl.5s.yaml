@@ -1,0 +1,17 @@
+FileNo: 9
+SentenceDescription:
+- 'The monster is going to goss the bowl. '
+- 'The monster gossed the bowl. '
+- There is a bowl on the table.
+- The monster tips the bowl.
+- The bowl empties onto the table.
+conditionlist:
+- Means: comb
+- Outcome: comb
+- Novelverb: gossing
+moviefilename: comb.empty.bowl.5s.mov
+participantlist:
+- Agent: Agent1
+- Patient: bowl
+- Instrument: pink_comb
+yamlFilename: comb.empty.bowl.5s.yaml

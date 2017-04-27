@@ -1,0 +1,17 @@
+FileNo: 12
+SentenceDescription:
+- The monster is going to goss the armchair.
+- The monster gossed the armchair.
+- The monster rips the red armchiar.
+- The comes out of the armchair.
+- The monster uses a pink comb.
+conditionlist:
+- Means: comb
+- Outcome: rip
+- Novelverb: gossing
+moviefilename: comb.rip.armchair.5s.mov
+participantlist:
+- Agent: Agent1
+- Patient: armchair
+- Instrument: pink_comb
+yamlFilename: comb.rip.armchair.5s.yaml

@@ -1,0 +1,15 @@
+FileNo: 15
+SentenceDescription:
+- The monster is going to krade into the garage.
+- The monster is going to krade into the garage.
+- The monster crabwalks on the driveway.
+- The garage is attached to a house.
+- The monster enters the garage.
+conditionlist:
+- Means: crabwalk
+- Domain: Motion
+moviefilename: crabwalk.into.garage.5s.mov
+participantlist:
+- Agent: Agent2
+- GroundObject: garage
+yamlFilename: crabwalk.into.garage.5s.yaml

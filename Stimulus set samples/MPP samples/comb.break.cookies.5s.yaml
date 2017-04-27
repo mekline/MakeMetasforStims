@@ -1,0 +1,17 @@
+FileNo: 8
+SentenceDescription:
+- The monster is going to blick the cookies.
+- The monster blicked the cookies.
+- There are cookies on the table.
+- The cookies break.
+- The monster is holding a purple comb.
+conditionlist:
+- Means: comb
+- Outcome: break
+- Novelverb: blicking
+moviefilename: comb.break.cookies.5s.mov
+participantlist:
+- Agent: Agent1
+- Patient: cookies
+- Instrument: purple_comb
+yamlFilename: comb.break.cookies.5s.yaml

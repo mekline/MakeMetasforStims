@@ -1,0 +1,15 @@
+FileNo: 17
+SentenceDescription:
+- NoSentence
+- The monster crabwalks up a hill.
+- There is a grey cat in the tree.
+- The tree is on top of the hill.
+- The cat is sitting in the tree.
+conditionlist:
+- Means: crabwalk
+- Domain: Motion
+moviefilename: crabwalk.up.cat.5s.mov
+participantlist:
+- Agent: Agent2
+- GroundObject: cat
+yamlFilename: crabwalk.up.cat.5s.yaml

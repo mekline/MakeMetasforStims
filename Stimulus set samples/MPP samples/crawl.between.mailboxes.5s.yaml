@@ -1,0 +1,15 @@
+FileNo: 19
+SentenceDescription:
+- The monster is going to glip between the mailboxes.
+- The monster glipped between the mailboxes.
+- The monster is crawling on the ground.
+- The monster crawls along the path.
+- There are two brown mailboxes on each side of the path.
+conditionlist:
+- Means: crawl
+- Domain: Motion
+moviefilename: crawl.between.mailboxes.5s.mov
+participantlist:
+- Agent: Agent2
+- GroundObject: mailbox
+yamlFilename: crawl.between.mailboxes.5s.yaml

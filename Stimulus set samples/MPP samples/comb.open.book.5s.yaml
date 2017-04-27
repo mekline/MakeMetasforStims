@@ -1,0 +1,17 @@
+FileNo: 11
+SentenceDescription:
+- The monster is going to goss the book.
+- The monster gossed the book.
+- The monster is standing in a library.
+- There is a book on the table.
+- The monster opens a book with a comb.
+conditionlist:
+- Means: comb
+- Outcome: comb
+- Novelverb: gossing
+moviefilename: comb.open.book.5s.mov
+participantlist:
+- Agent: Agent1
+- Patient: book
+- Instrument: blue_comb
+yamlFilename: comb.open.book.5s.yaml

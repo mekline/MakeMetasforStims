@@ -1,0 +1,15 @@
+FileNo: 35
+SentenceDescription:
+- The monster is going to glip down to the lamp.
+- The monster glipped down to the lamp.
+- The monster walks hunched over.
+- The monster walks down the hill.
+- The lamp is at the bottom of the hill.
+conditionlist:
+- Means: ''
+- Domain: Motion
+moviefilename: stoopwalk.down.lamp.5s.mov
+participantlist:
+- Agent: Agent2
+- GroundObject: lamp
+yamlFilename: stoopwalk.down.lamp.5s.yaml

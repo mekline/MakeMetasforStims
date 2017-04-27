@@ -1,0 +1,17 @@
+FileNo: 29
+SentenceDescription:
+- The monster is going to blick the frame.
+- The monster blicked the frame.
+- The picture frame is sitting on a table.
+- The glass breaks.
+- The monster waves a knife.
+conditionlist:
+- Means: ''
+- Outcome: break
+- Novelverb: blicking
+moviefilename: knife.break.frame.5s.mov
+participantlist:
+- Agent: Agent1
+- Patient: frame
+- Instrument: knife
+yamlFilename: knife.break.frame.5s.yaml

@@ -1,0 +1,17 @@
+FileNo: 7
+SentenceDescription:
+- The monster is going to goss the coat hanger.
+- The monster gossed the coat hanger.
+- The wire hanger is bent.
+- The monster uses a pink comb.
+- The monster waves the comb.
+conditionlist:
+- Means: comb
+- Outcome: comb
+- Novelverb: gossing
+moviefilename: comb.bend.coathanger.5s.mov
+participantlist:
+- Agent: Agent1
+- Patient: coathanger
+- Instrument: pink_comb
+yamlFilename: comb.bend.coathanger.5s.yaml

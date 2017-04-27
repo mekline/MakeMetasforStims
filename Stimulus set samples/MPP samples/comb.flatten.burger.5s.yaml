@@ -1,0 +1,17 @@
+FileNo: 10
+SentenceDescription:
+- The monster is going to goss the burger.
+- The monster gossed the burger.
+- There is a burger on the table.
+- The comb flattens the burger.
+- The monster is using a black comb.
+conditionlist:
+- Means: comb
+- Outcome: comb
+- Novelverb: gossing
+moviefilename: comb.flatten.burger.5s.mov
+participantlist:
+- Agent: Agent1
+- Patient: burger
+- Instrument: black_comb
+yamlFilename: comb.flatten.burger.5s.yaml

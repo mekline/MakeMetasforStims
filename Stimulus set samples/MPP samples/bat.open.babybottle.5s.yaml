@@ -1,0 +1,17 @@
+FileNo: 5
+SentenceDescription:
+- The monster is going to blick the babybottle.
+- The monster blicked the babybottle.
+- The monster is holding a brown bat.
+- The monster taps the babybottle
+- The top falls off the babybottle.
+conditionlist:
+- Means: bat
+- Outcome: bat
+- Novelverb: blicking
+moviefilename: bat.open.babybottle.5s.mov
+participantlist:
+- Agent: Agent1
+- Patient: babybottle
+- Instrument: dbrown_bat
+yamlFilename: bat.open.babybottle.5s.yaml

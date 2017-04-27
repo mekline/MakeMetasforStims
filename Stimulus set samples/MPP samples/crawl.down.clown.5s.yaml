@@ -1,0 +1,15 @@
+FileNo: 20
+SentenceDescription:
+- The monster is going to glip down to the clown.
+- The monster glipped down to the clown.
+- The monster moves down the hill.
+- There is a clown at the bottom of the hill.
+- The monster is crawling on all-fours.
+conditionlist:
+- Means: crawl
+- Domain: Motion
+moviefilename: crawl.down.clown.5s.mov
+participantlist:
+- Agent: Agent2
+- GroundObject: clown
+yamlFilename: crawl.down.clown.5s.yaml

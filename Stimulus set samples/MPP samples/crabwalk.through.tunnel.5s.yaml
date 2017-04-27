@@ -1,0 +1,15 @@
+FileNo: 16
+SentenceDescription:
+- The monster is going to krade through the tunnel.
+- The monster kraded through the tunnel.
+- The tunnel is on the path.
+- The path is grey.
+- The monster crabwalks on the path.
+conditionlist:
+- Means: crabwalk
+- Domain: Motion
+moviefilename: crabwalk.through.tunnel.5s.mov
+participantlist:
+- Agent: Agent2
+- GroundObject: tunnel
+yamlFilename: crabwalk.through.tunnel.5s.yaml

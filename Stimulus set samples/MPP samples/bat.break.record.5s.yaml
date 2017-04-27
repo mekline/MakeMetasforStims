@@ -1,0 +1,17 @@
+FileNo: 1
+SentenceDescription:
+- The monster blicked the record.
+- The monster is going to blick the record.
+- The record is on the ground.
+- The monster breaks the record.
+- The record shatters.
+conditionlist:
+- Means: bat
+- Outcome: break
+- Novelverb: blicking
+moviefilename: bat.break.record.5s.mov
+participantlist:
+- Agent: Agent1
+- Patient: Record
+- Instrument: puprle_bat
+yamlFilename: bat.break.record.5s.yaml

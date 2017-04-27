@@ -1,0 +1,15 @@
+FileNo: 14
+SentenceDescription:
+- The monster is going to krade in front of the bell.
+- The monster kraded in front of the bell.
+- 'The monster is crabwalking on the ground. '
+- There is a brown bell.
+- The monster is facing upwards.
+conditionlist:
+- Means: crabwalk
+- Domain: Motion
+moviefilename: crabwalk.front.bell.5s.mov
+participantlist:
+- Agent: Agent2
+- GroundObject: bell
+yamlFilename: crabwalk.front.bell.5s.yaml
