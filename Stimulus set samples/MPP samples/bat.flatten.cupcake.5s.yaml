@@ -7,7 +7,7 @@ SentenceDescription:
 - The monster is holding a brown bat.
 conditionlist:
 - Means: bat
-- Outcome: bat
+- Outcome: flatten
 - Novelverb: blicking
 - Domain: CoS
 moviefilename: bat.flatten.cupcake.5s.mov

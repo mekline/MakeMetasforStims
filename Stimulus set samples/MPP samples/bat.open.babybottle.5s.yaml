@@ -7,7 +7,7 @@ SentenceDescription:
 - The top falls off the babybottle.
 conditionlist:
 - Means: bat
-- Outcome: bat
+- Outcome: open
 - Novelverb: blicking
 - Domain: CoS
 moviefilename: bat.open.babybottle.5s.mov

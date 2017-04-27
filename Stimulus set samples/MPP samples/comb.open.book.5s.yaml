@@ -7,7 +7,7 @@ SentenceDescription:
 - The monster opens a book with a comb.
 conditionlist:
 - Means: comb
-- Outcome: comb
+- Outcome: open
 - Novelverb: gossing
 - Domain: CoS
 moviefilename: comb.open.book.5s.mov

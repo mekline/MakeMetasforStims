@@ -7,7 +7,7 @@ SentenceDescription:
 - The path is grey.
 conditionlist:
 - Means: crabwalk
-- Outcome: crabwalk
+- Outcome: down
 - Novelverb: krading
 - Domain: Motion
 moviefilename: crabwalk.down.birdhouse.5s.mov

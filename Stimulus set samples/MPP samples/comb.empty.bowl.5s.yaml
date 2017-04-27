@@ -7,7 +7,7 @@ SentenceDescription:
 - The bowl empties onto the table.
 conditionlist:
 - Means: comb
-- Outcome: comb
+- Outcome: empty
 - Novelverb: gossing
 - Domain: CoS
 moviefilename: comb.empty.bowl.5s.mov

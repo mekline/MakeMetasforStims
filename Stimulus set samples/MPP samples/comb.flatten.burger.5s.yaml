@@ -7,7 +7,7 @@ SentenceDescription:
 - The monster is using a black comb.
 conditionlist:
 - Means: comb
-- Outcome: comb
+- Outcome: flatten
 - Novelverb: gossing
 - Domain: CoS
 moviefilename: comb.flatten.burger.5s.mov

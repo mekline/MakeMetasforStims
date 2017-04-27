@@ -7,7 +7,7 @@ SentenceDescription:
 - The monster uses the bat.
 conditionlist:
 - Means: bat
-- Outcome: bat
+- Outcome: cut
 - Novelverb: blicking
 - Domain: CoS
 moviefilename: bat.cut.bagel.5s.mov

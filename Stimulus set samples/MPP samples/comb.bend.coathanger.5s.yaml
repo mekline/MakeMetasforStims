@@ -7,7 +7,7 @@ SentenceDescription:
 - The monster waves the comb.
 conditionlist:
 - Means: comb
-- Outcome: comb
+- Outcome: bend
 - Novelverb: gossing
 - Domain: CoS
 moviefilename: comb.bend.coathanger.5s.mov
