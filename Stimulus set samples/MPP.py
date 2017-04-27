@@ -6,7 +6,8 @@ movie_items = []
 def convert_to_yaml(line,counter):
 	fileNo = int(line[0])
 	fileName = line[1]
-	yamlfilename = line[1].split('.')[0] + '.yaml'
+	yamlfilelist = fileName.split('.')[:-1]
+	yamlfilename = '.'.join(yamlfilelist) + '.yaml'
 	Means = line[2]
 	Outcome = line[3]
 	Novelverb = line[4]
